@@ -8,4 +8,4 @@ cta:
   ctaText: Know more
   ctaLink: /about
 ---
-woj. Kujawsko-Pomorskie | diec. Włocławska | dekanat brzeski
+diec. Włocławska | dekanat brzeski | woj. Kujawsko-Pomorskie
