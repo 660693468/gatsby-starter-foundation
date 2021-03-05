@@ -1,6 +1,6 @@
 ---
 template: contact-page
-slug: /kontakt
+slug: /contact
 title: Kontakt
 ---
 ks. proboszcz mgr Ireneusz Sawicki | tel. 660 693 468 | xirek1@wp.pl
