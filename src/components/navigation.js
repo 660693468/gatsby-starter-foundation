@@ -12,15 +12,15 @@ const MenuItems = [
   },
   {
     path: "/about",
-    title: "About"
+    title: "Historia"
   },
   {
     path: "/blog",
-    title: "Blog"
+    title: "Wpisy"
   },
   {
     path: "/contact",
-    title: "Contact"
+    title: "Kontakt"
   },
 ]
 
