@@ -26,7 +26,7 @@ export default {
         inputBorder: "#777",
         inputBackground: "#333",
         socialIcons:"rgba(255,255,255,0.7)",
-        socialIconsHover:"#fff",
+        socialIconsHover:"#002578",
       },
     }
   },
