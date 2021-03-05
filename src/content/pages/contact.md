@@ -3,6 +3,8 @@ template: contact-page
 slug: /kontakt
 title: Kontakt
 ---
-Got a burning question regarding **JAMstack**, Need a new **Website**, or just anything in general. We are happy to talk.
+ks. proboszcz mgr Ireneusz Sawicki | tel. 660 693 468 | xirek1@wp.pl
 
-Just send us a message using the form below or you can send us a DM on [Twitter](https://twitter.com/stackrole)
+Konto Parafialne: 28 1240 3389 1111 0010 2534 3981
+
+Zapraszamy również do odwiedzenia naszej strony na [Facebook](https://www.facebook.com/parafia.dabie.kujawskie)
