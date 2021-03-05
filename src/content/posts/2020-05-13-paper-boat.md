@@ -2,11 +2,10 @@
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
-date: 2020-05-23 23:40
 description: How to draw a character
 featuredImage: /assets/andrew-seaman-4fi_4q6_efm-unsplash.jpg
 ---
-OGŁOSZENIA DUSZPASTERSKIE
+DRUGA NIEDZIELA WIELKIEGO POSTU - 28 lutego 2021
 
 1. W centrum liturgii drugiej niedzieli Wielkiego Postu Kościół stawia Jezusa, który na górze Tabor ujawnia trzem wybranym uczniom prawdę, że jest umiłowanym Synem Boga Ojca. Oni poznali prawdę o Jezusie, który ich wezwał i za którym podążyli.
 
