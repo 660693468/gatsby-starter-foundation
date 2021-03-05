@@ -40,16 +40,16 @@ const Contact = ({data}) => {
         <form className="contact-form" action="/thanks" name="contact" method="POST" data-netlify="true" data-netlify-honeypot="bot-field">
           <input type="hidden" name="form-name" value="contact" />
           <p>
-            <label>Name<input type="text" name="Imię" required /></label>   
+            <label>Imię<input type="text" name="Imię" required /></label>   
           </p>
           <p>
             <label>Email<input type="email" name="email" required /></label>
           </p>
           <p>
-            <label>Subject<input type="text" name="Tytuł" required /></label>   
+            <label>Temat<input type="text" name="Temat" required /></label>   
           </p>
           <p>
-            <label>Message<textarea name="Treść" required ></textarea></label>
+            <label>Treść<textarea name="Treść" required ></textarea></label>
           </p>
           <p className="text-align-right">
             <button className="button"            
