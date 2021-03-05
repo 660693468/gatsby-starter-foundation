@@ -26,7 +26,7 @@ const AboutPage = ({ data }) => {
 				title={frontmatter.title}
 				description={excerpt}
 			/>
-			<div className="justification">
+			<div className="box">
 				<h1>{frontmatter.title}</h1>
 				<article dangerouslySetInnerHTML={{ __html: html }} />
 			</div>
