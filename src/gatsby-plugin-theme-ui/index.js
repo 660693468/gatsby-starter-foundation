@@ -3,7 +3,7 @@ export default {
     text: '#000',
     background: '#fff',
     primary: '#ab2f00',
-    accent: '#fff',
+    accent: '#000',
     muted: 'rgba(0, 0, 0, 0.7)',
     cardBg: '#fff',
     borderColor:"#540229",
