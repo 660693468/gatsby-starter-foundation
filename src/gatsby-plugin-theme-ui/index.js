@@ -11,7 +11,7 @@ export default {
     inputBorder: "#aaa",
     inputBackground: "#fff",
     socialIcons:"#0070ff",
-    socialIconsHover:"#5c2941",
+    socialIconsHover:"#4d9bff",
     modes: {
       dark: {
         text: '#f5f5f5',
