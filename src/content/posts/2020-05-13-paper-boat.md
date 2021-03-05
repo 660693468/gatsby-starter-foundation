@@ -2,6 +2,7 @@
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
+date: 2021-03-05 12:55
 description: How to draw a character
 featuredImage: /assets/andrew-seaman-4fi_4q6_efm-unsplash.jpg
 ---
