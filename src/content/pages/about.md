@@ -1,6 +1,6 @@
 ---
 template: about-page
-slug: /statystyki
+slug: /about
 title: Parafia w liczbach
 ---
 Ilość parafian - 994
