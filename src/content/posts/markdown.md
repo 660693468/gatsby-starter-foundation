@@ -1,8 +1,8 @@
 ---
 template: blog-post
 slug: /markdown
-date: 2020-05-09T05:53:16.102Z
-title: "Historia Parafii"
+date: 2020-05-09 
+title: Historia Parafii
 featuredImage: /assets/stary4.jpg
 ---
 
