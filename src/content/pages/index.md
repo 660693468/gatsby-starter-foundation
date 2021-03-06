@@ -8,4 +8,4 @@ cta:
   ctaText: Parafia w liczbach
   ctaLink: /about
 ---
-Porządek nabożeństw - niedziele i święta - 09.00, 11.00
+Porządek nabożeństw (niedziele i święta) - godz. 09.00, 11.00
