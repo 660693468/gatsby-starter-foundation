@@ -2,7 +2,7 @@
 template: blog-post
 title: Św. Roch, patron starego kościoła
 slug: /minimalists-desk
-date: 2020-05-13 12:46
+date: 2021-03-05
 description: sdasd
 featuredImage: /assets/roch.jpg
 ---

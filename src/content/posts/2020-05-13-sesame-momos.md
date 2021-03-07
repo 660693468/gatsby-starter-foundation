@@ -1,8 +1,8 @@
 ---
 template: blog-post
-title: Patron nowego kościoła
+title: Św. J.M. Vianney, patron nowego kościoła
 slug: /sesame-momos
-date: 2020-05-13 12:47
+date: 2021-03-06
 description: Sesame Momos
 featuredImage: /assets/jmvianney1.jpg
 ---

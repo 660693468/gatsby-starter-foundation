@@ -1,8 +1,8 @@
 ---
 template: blog-post
 slug: /markdown
-date: 2020-05-09 
-title: Historia Parafii
+date: 2021-03-04 
+title: Historia Parafii w Dąbiu Kujawskim
 featuredImage: /assets/stary.jpg
 ---
 
