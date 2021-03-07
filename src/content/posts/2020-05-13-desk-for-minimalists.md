@@ -25,7 +25,7 @@ Papież Pius IX ogłosił św. Rocha patronem Montpellier. W 1585 papież Grzego
 
 ![Odpust ku czci św. Rocha w Dąbiu Kujawskim](/assets/f.jpg)
 
-Święty Roch jest patronem Montpellier, Parmy, Wenecji, Sokołowa Podlaskiego, Zatora, Kazimierzy Wielkiej, aptekarzy, lekarzy, ogrodników, rolników i szpitali oraz brukarzy i więźniów. Na ziemiach polskich czczony był przede wszystkim jako patron chroniący od zarazy, stąd w epoce staropolskiej były mu poświęcone liczne ołtarze, figury i kapliczki; opiekun zwierząt domowych.
+Święty Roch jest patronem Montpellier, Parmy, Wenecji, aptekarzy, lekarzy, ogrodników, rolników i szpitali oraz brukarzy i więźniów. Na ziemiach polskich czczony był przede wszystkim jako patron chroniący od zarazy, stąd w epoce staropolskiej były mu poświęcone liczne ołtarze, figury i kapliczki; opiekun zwierząt domowych.
 
 ![Odpust ku czci św. Rocha w Dąbiu Kujawskim](/assets/g.jpg)
 
