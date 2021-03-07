@@ -6,7 +6,7 @@ date: 2021-03-07
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
-TRZECIA NIEDZIELA WIELKIEGO POSTU  - 7 marca 2021
+##TRZECIA NIEDZIELA WIELKIEGO POSTU  - 7 marca 2021
 
 1. Czas Wielkiego Postu to czas naszej metanoi, która oznacza przemianę życia, podjęcie nowych wyzwań, pracę nad swoją duchowością, a przede wszystkim zmianę myślenia pod wpływem słowa, które kieruje do nas Bóg. Aby je usłyszeć, trzeba się zatrzymać, wyciszyć, skierować uwagę serca na Boga. Jest wiele spraw ważnych, lecz nie zaniedbajmy tego, co naprawdę istotne.
 
@@ -22,13 +22,13 @@ TRZECIA NIEDZIELA WIELKIEGO POSTU  - 7 marca 2021
 
 
 
-##Intencje mszalne 08 – 14 marca  2021
+#Intencje mszalne 08 – 14 marca  2021
 
 PONIEDZIALEK, 8 marzec (godz. 12.00) + Beata Pietrzak int. męża i syna
 
 WTOREK, 9 marzec (godz. 17.00) + Wojciech Strzelecki
 
-ŚRODA, 10 marzec, Nowenna do Matki Bożej Nieustającej Pomocy (godz. 16.00) + Stanisław Benedykciński- r. Budzińskich z Falborka | + Krystyna Siemińska – Danuty Leszka Osińskich | + Marianna Szydłowska -  Zakładu Pogrzebowego Arka | + Czesław Łodygowski – sąsiadów Pawłowskich | + Genowefa Wojtkowska – Zakładu Pogrzebowego Arka | + Władysław Wojtkowski – Żurawiczów i Malinowskich | + Kazimiera Rybska – r. Bocianów | + Daromiła Dybowska – Zakładu Pogrzebowego Arka | + Aniela Zielińska – Janiny Zielińskiej | + Jan Pietrzak – Rybackiej i Rzepków | + Krystyna Czerwińska – sąsiadów dużego bloku Dąbie
+ŚRODA, 10 marzec(godz. 16.00, Nowenna do Matki Bożej Nieustającej Pomocy) + Stanisław Benedykciński - r. Budzińskich z Falborka | + Krystyna Siemińska – Danuty Leszka Osińskich | + Marianna Szydłowska -  Zakładu Pogrzebowego Arka | + Czesław Łodygowski – sąsiadów Pawłowskich | + Genowefa Wojtkowska – Zakładu Pogrzebowego Arka | + Władysław Wojtkowski – Żurawiczów i Malinowskich | + Kazimiera Rybska – r. Bocianów | + Daromiła Dybowska – Zakładu Pogrzebowego Arka | + Aniela Zielińska – Janiny Zielińskiej | + Jan Pietrzak – Rybackiej i Rzepków | + Krystyna Czerwińska – sąsiadów dużego bloku Dąbie
 
 CZWARTEK, 11 marzec (godz. 12.00) + Wanda Radaczewska int.  r. Blaszczyków ze Stoku
 
@@ -36,6 +36,5 @@ PIĄTEK, 12 marzec (godz. 16.30, godz. 17.00 - Droga Krzyżowa) + Krystyna Siemi
 
 SOBOTA, 13 marzec (godz. 09.00) + Izabella Bączek int. syna Romana z żoną | + Marianna Szydłowska int.  Janiny Bartkowiak z r.
 
-NIEDZIELA, 14 marzec: godz. 08.00 - Parafian | godz. 09.00 + Tadeusz Wielisława Dudczak | godz. 10.00 + Genowefa Wojtkowska int.  Bogumiła Jabłońskiego z r. 
-+ Zofia Stanisław Marczewscy Cecylia Mieczysław Waszak r. Waszak | godz. 11.00 + Genowefa Sylwester Małeccy Józef Poturalski 2 rś int żony i dzieci
+NIEDZIELA, 14 marzec: godz. 08.00 - Parafian | godz. 09.00 + Tadeusz Wielisława Dudczak | godz. 10.00 + Genowefa Wojtkowska int.  Bogumiła Jabłońskiego z r. | + Zofia Stanisław Marczewscy Cecylia Mieczysław Waszak r. Waszak | godz. 11.00 + Genowefa Sylwester Małeccy Józef Poturalski 2 rś int żony i dzieci
  
