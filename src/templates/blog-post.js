@@ -63,7 +63,7 @@ const Post = ({ data, pageContext }) => {
   const { markdownRemark } = data // data.markdownRemark holds your post data
   const { frontmatter, html, excerpt } = markdownRemark
   const Image = frontmatter.featuredImage ? frontmatter.featuredImage.childImageSharp.fluid : ""
-  const { poprzedni, następny } = pageContext
+  const { previous, next } = pageContext
 
   let props = {
     previous,
