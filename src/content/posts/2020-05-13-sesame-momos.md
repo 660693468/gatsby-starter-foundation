@@ -13,14 +13,14 @@ Test
 
 Test
 
-![Odpust na cześć J.M. Vianneya w Dąbiu Kujawskim](/assets/odpust1.jpg)
+![Odpust na cześć J.M. Vianneya w Dąbiu Kujawskim](/assets/a.jpg)
 
 Test
 
-![Odpust na cześć J.M. Vianneya w Dąbiu Kujawskim](/assets/odpust.jpg)
+![Odpust na cześć J.M. Vianneya w Dąbiu Kujawskim](/assets/b.jpg)
 
 Test
 
-![Odpust na cześć J.M. Vianneya w Dąbiu Kujawskim](/assets/odpust3.jpg)
+![Odpust na cześć J.M. Vianneya w Dąbiu Kujawskim](/assets/c.jpg)
 
 
