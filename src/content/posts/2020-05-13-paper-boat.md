@@ -21,42 +21,21 @@ TRZECIA NIEDZIELA WIELKIEGO POSTU  - 7 marca 2021
 6. Wszystkim jutrzejszym kobietom, solenizantom i jubilatom tego tygodnia życzymy obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
 
 
-Intencje mszalne 08  – 14 marca  2021
 
-PONIEDZIALEK, 8 marzec (godz. 12.00):
-+ Beata Pietrzak  int męża i syna
+##Intencje mszalne 08 – 14 marca  2021
 
-WTOREK, 9 marzec (godz. 17.00):
-+ Wojciech Strzelecki
+PONIEDZIALEK, 8 marzec (godz. 12.00) + Beata Pietrzak int. męża i syna
 
-ŚRODA, 10 marzec, Nowenna do Matki Bożej Nieustającej Pomocy (godz. 16.00):
-+ Stanisław Benedykciński- r. Budzińskich z Falborka
-+ Krystyna Siemińska – Danuty Leszka Osińskich
-+ Marianna Szydłowska -  Zakładu Pogrzebowego Arka
-+ Czesław Łodygowski – sąsiadów Pawłowskich 
-+ Genowefa Wojtkowska – Zakładu Pogrzebowego Arka
-+ Władysław Wojtkowski – Żurawiczów i Malinowskich 
-+ Kazimiera Rybska – r. Bocianów
-+ Daromiła Dybowska – Zakładu Pogrzebowego Arka
-+ Aniela Zielińska – Janiny Zielińskiej
-+ Jan Pietrzak – Rybackiej i Rzepków 
-+ Krystyna Czerwińska – sąsiadów dużego bloku Dąbie
+WTOREK, 9 marzec (godz. 17.00) + Wojciech Strzelecki
 
-CZWARTEK, 11 marzec (godz. 12.00):
-+ Wanda Radaczewska int.  r. Blaszczyków ze Stoku
+ŚRODA, 10 marzec, Nowenna do Matki Bożej Nieustającej Pomocy (godz. 16.00) + Stanisław Benedykciński- r. Budzińskich z Falborka | + Krystyna Siemińska – Danuty Leszka Osińskich | + Marianna Szydłowska -  Zakładu Pogrzebowego Arka | + Czesław Łodygowski – sąsiadów Pawłowskich | + Genowefa Wojtkowska – Zakładu Pogrzebowego Arka | + Władysław Wojtkowski – Żurawiczów i Malinowskich | + Kazimiera Rybska – r. Bocianów | + Daromiła Dybowska – Zakładu Pogrzebowego Arka | + Aniela Zielińska – Janiny Zielińskiej | + Jan Pietrzak – Rybackiej i Rzepków | + Krystyna Czerwińska – sąsiadów dużego bloku Dąbie
 
-PIĄTEK, 12 marzec (godz. 16.30, godz. 17.00 - Droga Krzyżowa):
-+ Krystyna Siemińska int. Barbary Błaszczyk Jolanty Wawrzonkowskiej Bożeny Czołpińskiej Bronisława Ciesielskiego                   
-+ Andrzej Sikorski int. Katarzyny i Mariusza Modrzewskich  z dziećmi z Paniewka  
+CZWARTEK, 11 marzec (godz. 12.00) + Wanda Radaczewska int.  r. Blaszczyków ze Stoku
 
-SOBOTA, 13 marzec (godz. 09.00):
-+ Izabella Bączek int. syna Romana z żoną
-+ Marianna Szydłowska int.  Janiny Bartkowiak z r.
+PIĄTEK, 12 marzec (godz. 16.30, godz. 17.00 - Droga Krzyżowa) + Krystyna Siemińska int. Barbary Błaszczyk Jolanty Wawrzonkowskiej Bożeny Czołpińskiej Bronisława Ciesielskiego | + Andrzej Sikorski int. Katarzyny i Mariusza Modrzewskich  z dziećmi z Paniewka  
 
-NIEDZIELA, 14 marzec:
-godz. 08.00 - Parafian
-godz. 09.00 + Tadeusz Wielisława Dudczak 
-godz. 10.00 + Genowefa Wojtkowska int.  Bogumiła Jabłońskiego z r. 
-+ Zofia Stanisław Marczewscy Cecylia Mieczysław Waszak r. Waszak
-godz. 11.00 + Genowefa Sylwester Małeccy Józef Poturalski 2 rś int żony i dzieci
+SOBOTA, 13 marzec (godz. 09.00) + Izabella Bączek int. syna Romana z żoną | + Marianna Szydłowska int.  Janiny Bartkowiak z r.
+
+NIEDZIELA, 14 marzec: godz. 08.00 - Parafian | godz. 09.00 + Tadeusz Wielisława Dudczak | godz. 10.00 + Genowefa Wojtkowska int.  Bogumiła Jabłońskiego z r. 
++ Zofia Stanisław Marczewscy Cecylia Mieczysław Waszak r. Waszak | godz. 11.00 + Genowefa Sylwester Małeccy Józef Poturalski 2 rś int żony i dzieci
  
