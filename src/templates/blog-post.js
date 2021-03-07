@@ -100,7 +100,7 @@ const Post = ({ data, pageContext }) => {
           dangerouslySetInnerHTML={{ __html: html }}
         />
       </article>
-      {(poprzedni || następny) && (
+      {(previous || next) && (
         <Pagination {...props} />
       )}
     </Layout>
