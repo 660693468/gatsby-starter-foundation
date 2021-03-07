@@ -12,4 +12,6 @@ featuredImage: /assets/jmvianney1.jpg
 
 ![Odpust na cześć J.M. Vianneya w Dąbiu Kujawskim](/assets/odpust.jpg)
 
+![Odpust na cześć J.M. Vianneya w Dąbiu Kujawskim](/assets/odpust3.jpg)
+
 
