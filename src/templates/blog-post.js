@@ -66,8 +66,8 @@ const Post = ({ data, pageContext }) => {
   const { previous, next } = pageContext
 
   let props = {
-    previous,
-    next
+    poprzedni,
+    następny
   }
 
   return (
