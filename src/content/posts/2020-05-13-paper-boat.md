@@ -36,10 +36,14 @@ PIĄTEK, 12 marzec (godz. 16.30, godz. 17.00 - Droga Krzyżowa) + Krystyna Siemi
 
 SOBOTA, 13 marzec (godz. 09.00) + Izabella Bączek int. syna Romana z żoną | + Marianna Szydłowska int.  Janiny Bartkowiak z r.
 
-NIEDZIELA, 14 marzec: 
-08.00 - Parafian:
-09.00 + Tadeusz Wielisława w 1 rś Dudczak:
+#NIEDZIELA, 14 marzec: 
+
+08.00 - Parafian
+
+09.00 + Tadeusz Wielisława w 1 rś Dudczak
       + Genowefa Wojtkowska int.  Bogumiła Jabłońskiego z r. 
-10.00 + Zofia Stanisław Marczewscy Cecylia Mieczysław Waszak r. Waszak:
+
+10.00 + Zofia Stanisław Marczewscy Cecylia Mieczysław Waszak r. Waszak
+
 11.00 + Genowefa Sylwester Małeccy + Józef Poturalski 2 rś int żony i dzieci
  
