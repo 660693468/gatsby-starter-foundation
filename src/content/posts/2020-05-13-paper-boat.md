@@ -83,7 +83,7 @@ godz. 17.00 DROGA KRZYŻOWA
 
 godz. 09.00
 
-+ Izabella Bączek int. syna Romana z żoną 
++ Izabella Bączek int. Beaty i Jacka z rodz.
 
 + Marianna Szydłowska int.  Janiny Bartkowiak z r.
 
