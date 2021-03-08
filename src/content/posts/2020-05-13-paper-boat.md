@@ -24,26 +24,72 @@ featuredImage: /assets/papiez.jpg
 
 #Intencje mszalne 08 – 14 marca  2021
 
-PONIEDZIALEK, 8 marzec (godz. 12.00) + Beata Pietrzak int. męża i syna
+#PONIEDZIALEK, 8 marzec
 
-WTOREK, 9 marzec (godz. 17.00) + Wojciech Strzelecki
+godz. 12.00 + Beata Pietrzak int. męża i syna
 
-ŚRODA, 10 marzec (godz. 16.00, Nowenna do Matki Bożej Nieustającej Pomocy) + Stanisław Benedykciński - r. Budzińskich z Falborka | + Krystyna Siemińska – Danuty Leszka Osińskich | + Marianna Szydłowska -  Zakładu Pogrzebowego Arka | + Czesław Łodygowski – sąsiadów Pawłowskich | + Genowefa Wojtkowska – Zakładu Pogrzebowego Arka | + Władysław Wojtkowski – Żurawiczów i Malinowskich | + Kazimiera Rybska – r. Bocianów | + Daromiła Dybowska – Zakładu Pogrzebowego Arka | + Aniela Zielińska – Janiny Zielińskiej | + Jan Pietrzak – Rybackiej i Rzepków | + Krystyna Czerwińska – sąsiadów dużego bloku Dąbie
+#WTOREK, 9 marzec 
 
-CZWARTEK, 11 marzec (godz. 12.00) + Wanda Radaczewska int.  r. Blaszczyków ze Stoku
+godz. 17.00 + Wojciech Strzelecki
 
-PIĄTEK, 12 marzec (godz. 16.30, godz. 17.00 - Droga Krzyżowa) + Krystyna Siemińska int. Barbary Błaszczyk Jolanty Wawrzonkowskiej Bożeny Czołpińskiej Bronisława Ciesielskiego | + Andrzej Sikorski int. Katarzyny i Mariusza Modrzewskich  z dziećmi z Paniewka  
+#ŚRODA, 10 marzec 
 
-SOBOTA, 13 marzec (godz. 09.00) + Izabella Bączek int. syna Romana z żoną | + Marianna Szydłowska int.  Janiny Bartkowiak z r.
+godz. 16.00, Nowenna do Matki Bożej Nieustającej Pomocy
+
++ Stanisław Benedykciński - r. Budzińskich z Falborka 
+
++ Krystyna Siemińska – Danuty Leszka Osińskich 
+
++ Marianna Szydłowska -  Zakładu Pogrzebowego Arka 
+
++ Czesław Łodygowski – sąsiadów Pawłowskich 
+
++ Genowefa Wojtkowska – Zakładu Pogrzebowego Arka 
+
++ Władysław Wojtkowski – Żurawiczów i Malinowskich 
+
++ Kazimiera Rybska – r. Bocianów 
+
++ Daromiła Dybowska – Zakładu Pogrzebowego Arka 
+
++ Aniela Zielińska – Janiny Zielińskiej 
+
++ Jan Pietrzak – Rybackiej i Rzepków 
+
++ Krystyna Czerwińska – sąsiadów dużego bloku Dąbie
+
+
+#CZWARTEK, 11 marzec 
+
+godz. 12.00 + Wanda Radaczewska int.  r. Błaszczyków ze Stoku
+
+#PIĄTEK, 12 marzec 
+
+godz. 16.30. + Krystyna Siemińska int. Barbary Błaszczyk Jolanty Wawrzonkowskiej Bożeny Czołpińskiej Bronisława Ciesielskiego 
+
++ Andrzej Sikorski int. Katarzyny i Mariusza Modrzewskich  z dziećmi z Paniewka  
+
+godz. 17.00 DROGA KRZYŻOWA 
+
+#SOBOTA, 13 marzec 
+
+godz. 09.00
+
++ Izabella Bączek int. syna Romana z żoną 
+
++ Marianna Szydłowska int.  Janiny Bartkowiak z r.
 
 #NIEDZIELA, 14 marzec: 
 
 08.00 - Parafian
 
 09.00 + Tadeusz Wielisława w 1 rś Dudczak
-      + Genowefa Wojtkowska int.  Bogumiła Jabłońskiego z r. 
+      
++ Genowefa Wojtkowska int.  Bogumiła Jabłońskiego z r. 
 
 10.00 + Zofia Stanisław Marczewscy Cecylia Mieczysław Waszak r. Waszak
 
-11.00 + Genowefa Sylwester Małeccy + Józef Poturalski 2 rś int żony i dzieci
+11.00 + Genowefa Sylwester Małeccy 
+
++ Józef Poturalski 2 rś int żony i dzieci
  
