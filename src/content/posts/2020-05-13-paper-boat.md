@@ -89,21 +89,21 @@ godz. 09.00
 
 #NIEDZIELA, 14 marzec: 
 
-08.00 
+godz. 08.00 
 
 Parafian
 
-09.00 
+godz. 09.00 
 
 + Tadeusz Wielisława w 1 rś Dudczak
       
 + Genowefa Wojtkowska int.  Bogumiła Jabłońskiego z r. 
 
-10.00
+godz. 10.00
 
 + Zofia Stanisław Marczewscy Cecylia Mieczysław Waszak r. Waszak
 
-11.00
+godz. 11.00
 
 + Genowefa Sylwester Małeccy 
 
