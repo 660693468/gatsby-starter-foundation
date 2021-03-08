@@ -28,7 +28,7 @@ PONIEDZIALEK, 8 marzec (godz. 12.00) + Beata Pietrzak int. męża i syna
 
 WTOREK, 9 marzec (godz. 17.00) + Wojciech Strzelecki
 
-ŚRODA, 10 marzec(godz. 16.00, Nowenna do Matki Bożej Nieustającej Pomocy) + Stanisław Benedykciński - r. Budzińskich z Falborka | + Krystyna Siemińska – Danuty Leszka Osińskich | + Marianna Szydłowska -  Zakładu Pogrzebowego Arka | + Czesław Łodygowski – sąsiadów Pawłowskich | + Genowefa Wojtkowska – Zakładu Pogrzebowego Arka | + Władysław Wojtkowski – Żurawiczów i Malinowskich | + Kazimiera Rybska – r. Bocianów | + Daromiła Dybowska – Zakładu Pogrzebowego Arka | + Aniela Zielińska – Janiny Zielińskiej | + Jan Pietrzak – Rybackiej i Rzepków | + Krystyna Czerwińska – sąsiadów dużego bloku Dąbie
+ŚRODA, 10 marzec (godz. 16.00, Nowenna do Matki Bożej Nieustającej Pomocy) + Stanisław Benedykciński - r. Budzińskich z Falborka | + Krystyna Siemińska – Danuty Leszka Osińskich | + Marianna Szydłowska -  Zakładu Pogrzebowego Arka | + Czesław Łodygowski – sąsiadów Pawłowskich | + Genowefa Wojtkowska – Zakładu Pogrzebowego Arka | + Władysław Wojtkowski – Żurawiczów i Malinowskich | + Kazimiera Rybska – r. Bocianów | + Daromiła Dybowska – Zakładu Pogrzebowego Arka | + Aniela Zielińska – Janiny Zielińskiej | + Jan Pietrzak – Rybackiej i Rzepków | + Krystyna Czerwińska – sąsiadów dużego bloku Dąbie
 
 CZWARTEK, 11 marzec (godz. 12.00) + Wanda Radaczewska int.  r. Blaszczyków ze Stoku
 
@@ -36,5 +36,5 @@ PIĄTEK, 12 marzec (godz. 16.30, godz. 17.00 - Droga Krzyżowa) + Krystyna Siemi
 
 SOBOTA, 13 marzec (godz. 09.00) + Izabella Bączek int. syna Romana z żoną | + Marianna Szydłowska int.  Janiny Bartkowiak z r.
 
-NIEDZIELA, 14 marzec: godz. 08.00 - Parafian | godz. 09.00 + Tadeusz Wielisława Dudczak | godz. 10.00 + Genowefa Wojtkowska int.  Bogumiła Jabłońskiego z r. | + Zofia Stanisław Marczewscy Cecylia Mieczysław Waszak r. Waszak | godz. 11.00 + Genowefa Sylwester Małeccy Józef Poturalski 2 rś int żony i dzieci
+NIEDZIELA, 14 marzec: godz. 08.00 - Parafian | godz. 09.00 + Tadeusz Wielisława w 1 rś Dudczak | godz. 10.00 + Genowefa Wojtkowska int.  Bogumiła Jabłońskiego z r. | + Zofia Stanisław Marczewscy Cecylia Mieczysław Waszak r. Waszak | godz. 11.00 + Genowefa Sylwester Małeccy Józef Poturalski 2 rś int żony i dzieci
  
