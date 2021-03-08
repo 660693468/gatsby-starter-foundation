@@ -26,11 +26,15 @@ featuredImage: /assets/papiez.jpg
 
 #PONIEDZIALEK, 8 marzec
 
-godz. 12.00 + Beata Pietrzak int. męża i syna
+godz. 12.00 
+
++ Beata Pietrzak int. męża i syna
 
 #WTOREK, 9 marzec 
 
-godz. 17.00 + Wojciech Strzelecki
+godz. 17.00 
+
++ Wojciech Strzelecki
 
 #ŚRODA, 10 marzec 
 
@@ -61,11 +65,15 @@ godz. 16.00, Nowenna do Matki Bożej Nieustającej Pomocy
 
 #CZWARTEK, 11 marzec 
 
-godz. 12.00 + Wanda Radaczewska int.  r. Błaszczyków ze Stoku
+godz. 12.00 
+
++ Wanda Radaczewska int.  r. Błaszczyków ze Stoku
 
 #PIĄTEK, 12 marzec 
 
-godz. 16.30. + Krystyna Siemińska int. Barbary Błaszczyk Jolanty Wawrzonkowskiej Bożeny Czołpińskiej Bronisława Ciesielskiego 
+godz. 16.30
+
++ Krystyna Siemińska int. Barbary Błaszczyk Jolanty Wawrzonkowskiej Bożeny Czołpińskiej Bronisława Ciesielskiego 
 
 + Andrzej Sikorski int. Katarzyny i Mariusza Modrzewskich  z dziećmi z Paniewka  
 
@@ -81,15 +89,23 @@ godz. 09.00
 
 #NIEDZIELA, 14 marzec: 
 
-08.00 - Parafian
+08.00 
 
-09.00 + Tadeusz Wielisława w 1 rś Dudczak
+Parafian
+
+09.00 
+
++ Tadeusz Wielisława w 1 rś Dudczak
       
 + Genowefa Wojtkowska int.  Bogumiła Jabłońskiego z r. 
 
-10.00 + Zofia Stanisław Marczewscy Cecylia Mieczysław Waszak r. Waszak
+10.00
 
-11.00 + Genowefa Sylwester Małeccy 
++ Zofia Stanisław Marczewscy Cecylia Mieczysław Waszak r. Waszak
+
+11.00
+
++ Genowefa Sylwester Małeccy 
 
 + Józef Poturalski 2 rś int żony i dzieci
  
