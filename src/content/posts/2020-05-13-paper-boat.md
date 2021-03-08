@@ -95,7 +95,7 @@ Parafian
 
 godz. 09.00 
 
-+ Tadeusz Wielisława w 1 rś Dudczak
++ Wielisława w 1 rś i Tadeusz Dudczak
       
 + Genowefa Wojtkowska int.  Bogumiła Jabłońskiego z r. 
 
