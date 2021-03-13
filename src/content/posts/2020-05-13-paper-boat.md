@@ -23,19 +23,13 @@ featuredImage: /assets/papiez.jpg
 6. Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Pozdrawiam parafian gości życzę dobrej i błogosławionej niedzieli.
 
 
-##Intencje mszalne 15 - 20 marca 2021
+####Intencje mszalne 15 - 20 marca 2021
 
-#PONIEDZIAŁEK  - 15.03  godz. 12.00	                                                                                           
+#PONIEDZIAŁEK  - 15.03  godz.12.00 + Zofia Kołodziejska int. Józefa Klejbacha z r.
 
-+  Zofia Kołodziejska int. Józefa Klejbacha z r.
+#WTOREK  - 16.03  godz. 12.00 + Jan Pietrzak int. r. Nowaków i Stasiaków
 
-#WTOREK  - 16.03  godz. 12.00 
-
-+ Jan Pietrzak int. r. Nowaków i Stasiaków
-
-#ŚRODA  - 17.03 godz. 16.00
-
-+ Stanisław  Benedykciński –r Szafrańskich
+#ŚRODA  - 17.03 godz. 16.00 + Stanisław  Benedykciński –r Szafrańskich
 + Irena Pawłowska -  sąsiada Jacka Łodygowskiego z r.
 + Czesława Łodygowska – r. Matusiaków z r. 
 + Marianna Szydłowska – Rady Sołeckiej mieszkańców Annowa 
@@ -49,16 +43,13 @@ featuredImage: /assets/papiez.jpg
 + Henry Słowiński – r. Grzębskich 
 + Wanda Radaczewska – Janusza i Władysławy
 
-#CZWARTEK - 18.03 godz. 12.00
-+ Genowefa Wojtkowska int. brata Jana z r.
+#CZWARTEK - 18.03 godz. 12.00 + Genowefa Wojtkowska int. brata Jana z r.
 
-#PIĄTEK  - 19.03 godz. 16.30 
-+ Józefa 
+#PIĄTEK  - 19.03 godz. 16.30 + Józefa 
 
 godz 17.00 Droga Krzyżowa
 
-#SOBOTA  - 20.03 godz 09.00
-+ Krystyna Siemińska int. wychowanków z SP Dąbie Kuj
+#SOBOTA  - 20.03 godz 09.00 + Krystyna Siemińska int. wychowanków z SP Dąbie Kuj
 
 #NIEDZIELA – 21.03 
 
