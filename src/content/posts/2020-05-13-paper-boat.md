@@ -63,7 +63,7 @@ godz 17.00 Droga Krzyżowa
 
 godz 09.00 + Krystyna Siemińska int. wychowanków z SP Dąbie Kuj
 
-+ Marianna Zakrocka int. córki Małgorzaty z rodz.
++ Marianna Zakrocka int. córki Małgorzaty z mężem 
 
 #NIEDZIELA – 21.03 
 
