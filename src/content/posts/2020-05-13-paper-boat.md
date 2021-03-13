@@ -6,106 +6,63 @@ date: 2021-03-07
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
-##TRZECIA NIEDZIELA WIELKIEGO POSTU  - 7 marca 2021
+##ZWARTA NIEDZIELA WIELKIEGO POSTU  - 14 marca 2021                         
 
-1. Czas Wielkiego Postu to czas naszej metanoi, która oznacza przemianę życia, podjęcie nowych wyzwań, pracę nad swoją duchowością, a przede wszystkim zmianę myślenia pod wpływem słowa, które kieruje do nas Bóg. Aby je usłyszeć, trzeba się zatrzymać, wyciszyć, skierować uwagę serca na Boga. Jest wiele spraw ważnych, lecz nie zaniedbajmy tego, co naprawdę istotne.
+##OGŁOSZENIA DUSZPASTERSKIE
 
-2. Droga Krzyżowa piątek godz. 17.00 , Gorzkie Żale niedziela godz. 11.00
+1. Wielki Post wzywa każdego z nas do zrewidowania życia, postawienia sobie pytania, czy naprawdę idziemy śladem Bożych drogowskazów. Żyć to stawać się człowiekiem, a dla wierzących – stawać się chrześcijaninem. To proces, który dokonuje się w nas nieustannie. Na tej drodze wpatrujmy się w Jezusa, który podczas rozmowy z Nikodemem mówi jasno i konkretnie: trzeba się na nowo narodzić, aby żyć.
+
+2.Droga Krzyżowa piątek – godz. 17.00 Gorzkie Żale niedziela godz. 11.00
 
 3. Przez cały marzec po każdej Mszy Świętej odmawiamy modlitwę do św. Józefa, opiekuna Świętej Rodziny, w której polecamy mu sprawy swoich rodzin.
 
-4. W sobotę przypadnie 8. rocznica wyboru papieża Franciszka na Stolicę Piotrową. Niech nasza modlitwa będzie wyrazem miłości do Głowy Kościoła powszechnego.
+4. W piątek 19 marca będziemy obchodzić uroczystość św. Józefa, oblubieńca Najświętszej Maryi Panny.
 
-5. Wczoraj przywieziono kolejne obrazy od konserwatora „Gody Baranka” „Św. Józef” „ Św. Antoni” koszt renowacji 16 tyś koszt ram 23 tyś. Został wzięty do konserwacji kolejny obraz „Św Mikołaj”  
+5. Dziękuję za ofiary składane na renowację ołtarzy i kwiaty do grobu.
 
-6. Wszystkim jutrzejszym kobietom, solenizantom i jubilatom tego tygodnia życzymy obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
-
-
-
-#Intencje mszalne 08 – 14 marca  2021
-
-#PONIEDZIALEK, 8 marzec
-
-godz. 12.00 
-
-+ Beata Pietrzak int. męża i syna
-
-#WTOREK, 9 marzec 
-
-godz. 17.00 
-
-+ Wojciech Strzelecki
-
-#ŚRODA, 10 marzec 
-
-godz. 16.00, Nowenna do Matki Bożej Nieustającej Pomocy
-
-+ Stanisław Benedykciński - r. Budzińskich z Falborka 
-
-+ Krystyna Siemińska – Danuty Leszka Osińskich 
-
-+ Marianna Szydłowska -  Zakładu Pogrzebowego Arka 
-
-+ Czesław Łodygowski – sąsiadów Pawłowskich 
-
-+ Genowefa Wojtkowska – Zakładu Pogrzebowego Arka 
-
-+ Władysław Wojtkowski – Żurawiczów i Malinowskich 
-
-+ Kazimiera Rybska – r. Bocianów 
-
-+ Daromiła Dybowska – Zakładu Pogrzebowego Arka 
-
-+ Aniela Zielińska – Janiny Zielińskiej 
-
-+ Jan Pietrzak – Rybackiej i Rzepków 
-
-+ Krystyna Czerwińska – sąsiadów dużego bloku Dąbie
+6. Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Pozdrawiam parafian gości życzę dobrej i błogosławionej niedzieli.
 
 
-#CZWARTEK, 11 marzec 
+##Intencje mszalne 15 - 20 marca 2021
 
-godz. 12.00 
+#PONIEDZIAŁEK  - 15.03  godz. 12.00	                                                                                           
 
-+ Wanda Radaczewska int.  r. Błaszczyków ze Stoku
++  Zofia Kołodziejska int. Józefa Klejbacha z r.
 
-#PIĄTEK, 12 marzec 
+#WTOREK  - 16.03  godz. 12.00 
 
-godz. 16.30
++ Jan Pietrzak int. r. Nowaków i Stasiaków
 
-+ Krystyna Siemińska int. Barbary Błaszczyk Jolanty Wawrzonkowskiej Bożeny Czołpińskiej Bronisława Ciesielskiego 
+#ŚRODA  - 17.03 godz. 16.00
 
-+ Andrzej Sikorski int. Katarzyny i Mariusza Modrzewskich  z dziećmi z Paniewka  
++ Stanisław  Benedykciński –r Szafrańskich
++ Irena Pawłowska -  sąsiada Jacka Łodygowskiego z r.
++ Czesława Łodygowska – r. Matusiaków z r. 
++ Marianna Szydłowska – Rady Sołeckiej mieszkańców Annowa 
++ Władysław Wojtkowski – r. Marszewskich z Sadłużka
++ Kazimierz Kosiński – r. Kosińskich
++ Włodzimierz Gorzycki – r. Drążkiewicz
++ Kazimiera Rybska – Ewy Dolatowskiej z dziećmi 
++ Marianna Lewandowska – Bożeny Ewy Asi
++ Daromiła Dybowska – Rady Rodziców SP Kąkowa Wola
++ Aniela Zielińska – r. Mentlewiczów 
++ Henry Słowiński – r. Grzębskich 
++ Wanda Radaczewska – Janusza i Władysławy
 
-godz. 17.00 DROGA KRZYŻOWA 
+#CZWARTEK - 18.03 godz. 12.00
++ Genowefa Wojtkowska int. brata Jana z r.
 
-#SOBOTA, 13 marzec 
+#PIĄTEK  - 19.03 godz. 16.30 
++ Józefa 
 
-godz. 09.00
+godz 17.00 Droga Krzyżowa
 
-+ Izabella Bączek int. Beaty i Jacka z rodz.
+#SOBOTA  - 20.03 godz 09.00
++ Krystyna Siemińska int. wychowanków z SP Dąbie Kuj
 
-+ Marianna Szydłowska int.  Janiny Bartkowiak z r.
+#NIEDZIELA – 21.03 
 
-#NIEDZIELA, 14 marzec: 
-
-godz. 08.00 
-
-Parafian
-
-godz. 09.00 
-
-+ Wielisława w 1 rś i Tadeusz Dudczak
-      
-+ Genowefa Wojtkowska int.  Bogumiła Jabłońskiego z r. 
-
-godz. 10.00
-
-+ Zofia Stanisław Marczewscy Cecylia Mieczysław Waszak r. Waszak
-
-godz. 11.00
-
-+ Genowefa Sylwester Małeccy 
-
-+ Józef Poturalski 2 rś int żony i dzieci
- 
+08.00 +  Elżbieta Bączek fint. r. z Bodzanowa
+09.00 + Jan Wójcik
+10.00 + Marta 7 rś i Tadeusz Matusiak
+ 11.00 - Parafian  
