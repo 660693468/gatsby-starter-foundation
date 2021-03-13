@@ -6,7 +6,7 @@ date: 2021-03-07
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
-##ZWARTA NIEDZIELA WIELKIEGO POSTU  - 14 marca 2021                         
+####CZWARTA NIEDZIELA WIELKIEGO POSTU  - 14 marca 2021                         
 
 #OGŁOSZENIA DUSZPASTERSKIE
 
