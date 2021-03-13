@@ -8,11 +8,11 @@ featuredImage: /assets/papiez.jpg
 ---
 ##ZWARTA NIEDZIELA WIELKIEGO POSTU  - 14 marca 2021                         
 
-##OGŁOSZENIA DUSZPASTERSKIE
+#OGŁOSZENIA DUSZPASTERSKIE
 
 1. Wielki Post wzywa każdego z nas do zrewidowania życia, postawienia sobie pytania, czy naprawdę idziemy śladem Bożych drogowskazów. Żyć to stawać się człowiekiem, a dla wierzących – stawać się chrześcijaninem. To proces, który dokonuje się w nas nieustannie. Na tej drodze wpatrujmy się w Jezusa, który podczas rozmowy z Nikodemem mówi jasno i konkretnie: trzeba się na nowo narodzić, aby żyć.
 
-2.Droga Krzyżowa piątek – godz. 17.00 Gorzkie Żale niedziela godz. 11.00
+2. Droga Krzyżowa piątek – godz. 17.00 Gorzkie Żale niedziela godz. 11.00
 
 3. Przez cały marzec po każdej Mszy Świętej odmawiamy modlitwę do św. Józefa, opiekuna Świętej Rodziny, w której polecamy mu sprawy swoich rodzin.
 
@@ -63,6 +63,9 @@ godz 17.00 Droga Krzyżowa
 #NIEDZIELA – 21.03 
 
 08.00 +  Elżbieta Bączek fint. r. z Bodzanowa
+
 09.00 + Jan Wójcik
+
 10.00 + Marta 7 rś i Tadeusz Matusiak
+
  11.00 - Parafian  
