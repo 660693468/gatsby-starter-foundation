@@ -25,11 +25,17 @@ featuredImage: /assets/papiez.jpg
 
 ####Intencje mszalne 15 - 20 marca 2021
 
-#PONIEDZIAŁEK  - 15.03  godz.12.00 + Zofia Kołodziejska int. Józefa Klejbacha z r.
+#PONIEDZIAŁEK  - 15.03  
 
-#WTOREK  - 16.03  godz. 12.00 + Jan Pietrzak int. r. Nowaków i Stasiaków
+godz.12.00 + Zofia Kołodziejska int. Józefa Klejbacha z r.
 
-#ŚRODA  - 17.03 godz. 16.00 + Stanisław  Benedykciński –r Szafrańskich
+#WTOREK  - 16.03  
+
+godz. 12.00 + Jan Pietrzak int. r. Nowaków i Stasiaków
+
+#ŚRODA  - 17.03 
+
+godz. 16.00 + Stanisław  Benedykciński –r Szafrańskich
 + Irena Pawłowska -  sąsiada Jacka Łodygowskiego z r.
 + Czesława Łodygowska – r. Matusiaków z r. 
 + Marianna Szydłowska – Rady Sołeckiej mieszkańców Annowa 
@@ -43,13 +49,19 @@ featuredImage: /assets/papiez.jpg
 + Henry Słowiński – r. Grzębskich 
 + Wanda Radaczewska – Janusza i Władysławy
 
-#CZWARTEK - 18.03 godz. 12.00 + Genowefa Wojtkowska int. brata Jana z r.
+#CZWARTEK - 18.03 
 
-#PIĄTEK  - 19.03 godz. 16.30 + Józefa 
+godz. 12.00 + Genowefa Wojtkowska int. brata Jana z r.
+
+#PIĄTEK  - 19.03 
+
+godz. 16.30 + Józefa 
 
 godz 17.00 Droga Krzyżowa
 
-#SOBOTA  - 20.03 godz 09.00 + Krystyna Siemińska int. wychowanków z SP Dąbie Kuj
+#SOBOTA  - 20.03 
+
+godz 09.00 + Krystyna Siemińska int. wychowanków z SP Dąbie Kuj
 
 #NIEDZIELA – 21.03 
 
