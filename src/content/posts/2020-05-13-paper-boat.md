@@ -55,13 +55,15 @@ godz. 12.00 + Genowefa Wojtkowska int. brata Jana z r.
 
 #PIĄTEK  - 19.03 
 
-godz. 16.30 + Józefa 
+godz. 16.30 + Józefa + Henryk Słowiński int. Synowej Ewy z rodz.
 
 godz 17.00 Droga Krzyżowa
 
 #SOBOTA  - 20.03 
 
 godz 09.00 + Krystyna Siemińska int. wychowanków z SP Dąbie Kuj
+
++ Marianna Zakrocka int. córki Małgorzaty z rodz.
 
 #NIEDZIELA – 21.03 
 
