@@ -2,7 +2,7 @@
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
-date: 2021-03-07
+date: 2021-03-14
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
@@ -27,50 +27,62 @@ featuredImage: /assets/papiez.jpg
 
 #PONIEDZIAŁEK  - 15.03  
 
-godz.12.00 + Zofia Kołodziejska int. Józefa Klejbacha z r.
+godz.12.00 
+
+[+]Zofia Kołodziejska int. Józefa Klejbacha z r.
 
 #WTOREK  - 16.03  
 
-godz. 12.00 + Jan Pietrzak int. r. Nowaków i Stasiaków
+godz. 12.00 
+
+[+]Jan Pietrzak int. r. Nowaków i Stasiaków
 
 #ŚRODA  - 17.03 
 
-godz. 16.00 + Stanisław  Benedykciński –r Szafrańskich
-+ Irena Pawłowska -  sąsiada Jacka Łodygowskiego z r.
-+ Czesława Łodygowska – r. Matusiaków z r. 
-+ Marianna Szydłowska – Rady Sołeckiej mieszkańców Annowa 
-+ Władysław Wojtkowski – r. Marszewskich z Sadłużka
-+ Kazimierz Kosiński – r. Kosińskich
-+ Włodzimierz Gorzycki – r. Drążkiewicz
-+ Kazimiera Rybska – Ewy Dolatowskiej z dziećmi 
-+ Marianna Lewandowska – Bożeny Ewy Asi
-+ Daromiła Dybowska – Rady Rodziców SP Kąkowa Wola
-+ Aniela Zielińska – r. Mentlewiczów 
-+ Henry Słowiński – r. Grzębskich 
-+ Wanda Radaczewska – Janusza i Władysławy
+godz. 16.00 
+
+[+]Stanisław  Benedykciński –r Szafrańskich
+[+]Irena Pawłowska -  sąsiada Jacka Łodygowskiego z r.
+[+]Czesława Łodygowska – r. Matusiaków z r. 
+[+]Marianna Szydłowska – Rady Sołeckiej mieszkańców Annowa 
+[+]Władysław Wojtkowski – r. Marszewskich z Sadłużka
+[+]Kazimierz Kosiński – r. Kosińskich
+[+]Włodzimierz Gorzycki – r. Drążkiewicz
+[+]Kazimiera Rybska – Ewy Dolatowskiej z dziećmi 
+[+]Marianna Lewandowska – Bożeny Ewy Asi
+[+]Daromiła Dybowska – Rady Rodziców SP Kąkowa Wola
+[+]Aniela Zielińska – r. Mentlewiczów 
+[+]Henryk Słowiński – r. Grzębskich 
+[+]Wanda Radaczewska – Janusza i Władysławy
 
 #CZWARTEK - 18.03 
 
-godz. 12.00 + Genowefa Wojtkowska int. brata Jana z r.
+godz. 12.00 
+
+[+]Genowefa Wojtkowska int. brata Jana z r.
 
 #PIĄTEK  - 19.03 
 
-godz. 16.30 + Józefa + Henryk Słowiński int. Synowej Ewy z rodz.
+godz. 16.30 
+
+[+]Józefa + Henryk Słowiński int. Synowej Ewy z rodz.
 
 godz 17.00 Droga Krzyżowa
 
 #SOBOTA  - 20.03 
 
-godz 09.00 + Krystyna Siemińska int. wychowanków z SP Dąbie Kuj
+godz 10.00 
 
-+ Marianna Zakrocka int. córki Małgorzaty z mężem 
+[+]Krystyna Siemińska int. wychowanków z SP Dąbie Kuj
+
+[+]Marianna Zakrocka int. córki Małgorzaty z mężem 
 
 #NIEDZIELA – 21.03 
 
-08.00 +  Elżbieta Bączek fint. r. z Bodzanowa
+08.00 [+] Elżbieta Bączek fint. r. z Bodzanowa
 
-09.00 + Jan Wójcik
+09.00 [+] Jan Wójcik
 
-10.00 + Marta 7 rś i Tadeusz Matusiak
+10.00 [+] Marta 7 rś i Tadeusz Matusiak
 
- 11.00 - Parafian  
+ 11.00 [-] Parafian  
