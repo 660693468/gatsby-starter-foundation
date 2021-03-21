@@ -20,7 +20,7 @@ featuredImage: /assets/papiez.jpg
 
 5. Przyszła niedziela,  będzie już Niedzielą Męki Pańskiej – Niedzielą Palmową. Ogłaszam konkurs na najpiękniejszą palmę. 
 
-6. Proszę o zgłaszanie chorych do spowiedzi i by odwiedzić ich w domach.
+6. Proszę o zgłaszanie chorych do spowiedzi.
 
 7. Wszystkim solenizantom i jubilatom tego tygodnia życzę obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
 Pozdrawiam parafian i gości. 
