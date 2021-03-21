@@ -6,9 +6,9 @@ date: 2021-03-21
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
-               #PIĄTA NIEDZIELA WIELKIEGO POSTU - 21 marca 2021                                                         
+               # PIĄTA NIEDZIELA WIELKIEGO POSTU - 21 marca 2021                                                         
 
-                             #OGŁOSZENIA DUSZPASTERSKIE
+                             # OGŁOSZENIA DUSZPASTERSKIE
 
 1. Wezwanie do nawrócenia jest zachętą do nieustannego odkrywania piękna i głębi Eucharystii. W Wielkim Poście ta droga prowadzi do źródła, którym jest Ewangelia Jezusa Chrystusa. Zbliżamy się do świąt, wkraczamy w czas intensywniejszego rozważania męki naszego Pana. Zasłoniliśmy krzyże w świątyni, by na nowo odsłonić je przed naszymi oczyma w Wielki Piątek. Niechaj ten czas będzie szczególnym czasem wyciszenia i towarzyszenia Jezusowi w Jego cierpieniu i męce.
 
