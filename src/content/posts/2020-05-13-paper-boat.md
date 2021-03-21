@@ -8,7 +8,7 @@ featuredImage: /assets/papiez.jpg
 ---
                # PIĄTA NIEDZIELA WIELKIEGO POSTU - 21 marca 2021                                                         
 
-                             # OGŁOSZENIA DUSZPASTERSKIE
+                             #OGŁOSZENIA DUSZPASTERSKIE
 
 1. Wezwanie do nawrócenia jest zachętą do nieustannego odkrywania piękna i głębi Eucharystii. W Wielkim Poście ta droga prowadzi do źródła, którym jest Ewangelia Jezusa Chrystusa. Zbliżamy się do świąt, wkraczamy w czas intensywniejszego rozważania męki naszego Pana. Zasłoniliśmy krzyże w świątyni, by na nowo odsłonić je przed naszymi oczyma w Wielki Piątek. Niechaj ten czas będzie szczególnym czasem wyciszenia i towarzyszenia Jezusowi w Jego cierpieniu i męce.
 
@@ -32,37 +32,37 @@ Pozdrawiam parafian i gości.
 
 Godz. 12.00
 
-+) Stanisław Mrówczyński  int. r. Sadowskich z Dąbia   
+[+]Stanisław Mrówczyński  int. r. Sadowskich z Dąbia   
 
 # WTOREK – 23.03
 
 Godz. 12.00
 
-+) Izabella Bączek  int. r. Caban
+[+] Izabella Bączek  int. r. Caban
 
 # ŚRODA  - 24.03
 
 Godz. 16.00
 
-+) Janina Jatczak w 3 rś
+[+] Janina Jatczak w 3 rś
 
-+) Barbara Golasińska – Anny Zawidzkiej z r. 
+[+] Barbara Golasińska – Anny Zawidzkiej z r. 
 
-+) Zofia Kołodziejska – Wiolety Borkowskiej z r. 
+[+] Zofia Kołodziejska – Wiolety Borkowskiej z r. 
 
-+) Stanisława Kurdupska – Jagody Leszka Maciejewskich 
+[+] Stanisława Kurdupska – Jagody Leszka Maciejewskich 
 
-+) Marianna Zakrocka – wnuczki Justyny z r
+[+] Marianna Zakrocka – wnuczki Justyny z r
 
-+) Marianna Szydłowska – sąsiadów Wojtkowskich
+[+] Marianna Szydłowska – sąsiadów Wojtkowskich
 
-+) Jan Pietrzak – r. Świesiaków 
+[+] Jan Pietrzak – r. Świesiaków 
 
-+) Czesław Łodygowski – Haliny Franciszka Kłosowskich z r
+[+] Czesław Łodygowski – Haliny Franciszka Kłosowskich z r
 
-+) Władysław Wojtkowski – Wiesławy i Bogusława Marek 
+[+] Władysław Wojtkowski – Wiesławy i Bogusława Marek 
 
-+) Włodzimierz Gorzycki – Marka Jarmuża z r.
+[+] Włodzimierz Gorzycki – Marka Jarmuża z r.
 
 # CZWARTEK – 25.03
 
@@ -70,13 +70,13 @@ Godz. 16.00
 
 Godz. 12.00
 
-+) Andrzej Sikorski  int. rodzeństwa Chojnackich z Żydowa
+[+] Andrzej Sikorski  int. rodzeństwa Chojnackich z Żydowa
 
 # PIĄTEK – 26.03
 
 Godz. 16.30
 
-+) Włodzimierz Lewandowski int. żony dzieci wnuków
+[+] Włodzimierz Lewandowski int. żony dzieci wnuków
 
 Godz. 17.00
 
@@ -90,32 +90,32 @@ DROGA KRZYŻOWA
 
 Godz. 09.00
 
-+) Daromiła Dybowska int.  Anny Czubakowskiej
+[+] Daromiła Dybowska int.  Anny Czubakowskiej
  
 Godz. 11.00 
 
--) o zdrowie dla Genowefy Kozłowskiej + Jana Kozłowskiego w 33 rś int dzieci i wnuków
+[-] o zdrowie dla Genowefy Kozłowskiej + Jana Kozłowskiego w 33 rś int dzieci i wnuków
 
-+) Marianna Stolarska pogrzebowa
+[+] Marianna Stolarska pogrzebowa
 
 Godz. 16.00
 
-+) Kazimiera Rybska int. chrześniaczki Teresy z r.
+[+] Kazimiera Rybska int. chrześniaczki Teresy z r.
 
 # NIEDZIELA  MĘKI PAŃSKIEJ – PALMOWA – 28.03       
 
 Godz. 8.00
 
--) Parafian
+[-] Parafian
 
 Godz. 9.00
 
-+) Stefan Sochacki rodzic. Sochaccy Głowaccy 
+[+] Stefan Sochacki rodzic. Sochaccy Głowaccy 
 
 Godz. 10.00
 
-+) Genowefa Bladowska -  Marty Stanisława Łodygowskich
+[+] Genowefa Bladowska -  Marty Stanisława Łodygowskich
 
 Godz. 11.00
 
-+) Elżbieta Zenon Pawłowscy w 2 rś int. synów z r.       
+[+] Elżbieta Zenon Pawłowscy w 2 rś int. synów z r.       
