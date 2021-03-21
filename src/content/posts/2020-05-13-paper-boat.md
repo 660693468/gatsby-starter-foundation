@@ -102,7 +102,7 @@ Godz. 16.00
 
 +) Kazimiera Rybska int. chrześniaczki Teresy z r.
 
-#NIEDZIELA  MEKI PAŃSKIEJ – PALMOWA – 28.03       
+#NIEDZIELA  MĘKI PAŃSKIEJ – PALMOWA – 28.03       
 
 Godz. 8.00
 
