@@ -25,22 +25,22 @@ featuredImage: /assets/papiez.jpg
 7. Wszystkim solenizantom i jubilatom tego tygodnia życzę obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
 Pozdrawiam parafian i gości. 
                   
-                             ##INTENCJE MSZALNE
+                             ## INTENCJE MSZALNE
 
 
-#PONIEDZIAŁEK  -  22.03      
+# PONIEDZIAŁEK  -  22.03      
 
 Godz. 12.00
 
 +) Stanisław Mrówczyński  int. r. Sadowskich z Dąbia   
 
-#WTOREK – 23.03
+# WTOREK – 23.03
 
 Godz. 12.00
 
 +) Izabella Bączek  int. r. Caban
 
-#ŚRODA  - 24.03
+# ŚRODA  - 24.03
 
 Godz. 16.00
 
@@ -64,15 +64,15 @@ Godz. 16.00
 
 +) Włodzimierz Gorzycki – Marka Jarmuża z r.
 
-#CZWARTEK – 25.03
+# CZWARTEK – 25.03
 
-#UROCZYSTOŚĆ ZWIASTOWANIA PAŃSKIEGO 
+# UROCZYSTOŚĆ ZWIASTOWANIA PAŃSKIEGO 
 
 Godz. 12.00
 
 +) Andrzej Sikorski  int. rodzeństwa Chojnackich z Żydowa
 
-#PIĄTEK – 26.03
+# PIĄTEK – 26.03
 
 Godz. 16.30
 
@@ -82,9 +82,9 @@ Godz. 17.00
 
 DROGA KRZYŻOWA
 
-#SOBOTA – 27.03
+# OBOTA – 27.03
 
-##SKUPIENIE WIELKOPOSTNE.     
+## SKUPIENIE WIELKOPOSTNE.     
 
  SPOWIEDŹ:  8.30  10.30   15.30
 
@@ -102,7 +102,7 @@ Godz. 16.00
 
 +) Kazimiera Rybska int. chrześniaczki Teresy z r.
 
-#NIEDZIELA  MĘKI PAŃSKIEJ – PALMOWA – 28.03       
+# NIEDZIELA  MĘKI PAŃSKIEJ – PALMOWA – 28.03       
 
 Godz. 8.00
 
