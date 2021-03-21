@@ -2,87 +2,119 @@
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
-date: 2021-03-14
+date: 2021-03-21
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
-####CZWARTA NIEDZIELA WIELKIEGO POSTU  - 14 marca 2021                         
+               #PIĄTA NIEDZIELA WIELKIEGO POSTU - 21 marca 2021                                                         
 
-#OGŁOSZENIA DUSZPASTERSKIE
+                             #OGŁOSZENIA DUSZPASTERSKIE
 
-1. Wielki Post wzywa każdego z nas do zrewidowania życia, postawienia sobie pytania, czy naprawdę idziemy śladem Bożych drogowskazów. Żyć to stawać się człowiekiem, a dla wierzących – stawać się chrześcijaninem. To proces, który dokonuje się w nas nieustannie. Na tej drodze wpatrujmy się w Jezusa, który podczas rozmowy z Nikodemem mówi jasno i konkretnie: trzeba się na nowo narodzić, aby żyć.
+1. Wezwanie do nawrócenia jest zachętą do nieustannego odkrywania piękna i głębi Eucharystii. W Wielkim Poście ta droga prowadzi do źródła, którym jest Ewangelia Jezusa Chrystusa. Zbliżamy się do świąt, wkraczamy w czas intensywniejszego rozważania męki naszego Pana. Zasłoniliśmy krzyże w świątyni, by na nowo odsłonić je przed naszymi oczyma w Wielki Piątek. Niechaj ten czas będzie szczególnym czasem wyciszenia i towarzyszenia Jezusowi w Jego cierpieniu i męce.
 
-2. Droga Krzyżowa piątek – godz. 17.00 Gorzkie Żale niedziela godz. 11.00
+2. W czwartek 25 marca uroczystość Zwiastowania Pańskiego – dokładnie dziewięć miesięcy przed Bożym Narodzeniem. Jest to Dzień Świętości Życia i Dzień Duchowej Adopcji Dziecka Poczętego. duchowa adopcja dziecka poczętego
 
-3. Przez cały marzec po każdej Mszy Świętej odmawiamy modlitwę do św. Józefa, opiekuna Świętej Rodziny, w której polecamy mu sprawy swoich rodzin.
+3. Droga Krzyżowa - piątek godz. 17.00
 
-4. W piątek 19 marca będziemy obchodzić uroczystość św. Józefa, oblubieńca Najświętszej Maryi Panny.
-
-5. Dziękuję za ofiary składane na renowację ołtarzy i kwiaty do grobu.
-
-6. Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Pozdrawiam parafian gości życzę dobrej i błogosławionej niedzieli.
+4. SOBOTA - Dzień pokutny. Spowiedź o 8.30;10;30 i 15;30 poprowadzi ks. Paweł Śmigiel
 
 
-####Intencje mszalne 15 - 20 marca 2021
+5. Przyszła niedziela,  będzie już Niedzielą Męki Pańskiej – Niedzielą Palmową. konkurs na najpiękniejszą palmę. 
 
-#PONIEDZIAŁEK  - 15.03  
+6. Proszę o zgłaszanie chorych do spowiedzi i odwiedzin w domach.
 
-godz.12.00 
+7. Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
+Pozdrawiam parafian i gości. 
+                  
+                             ##INTENCJE MSZALNE
 
-[+]Zofia Kołodziejska int. Józefa Klejbacha z r.
 
-#WTOREK  - 16.03  
+#PONIEDZIAŁEK  -  22.03      
 
-godz. 12.00 
+Godz. 12.00
 
-[+]Jan Pietrzak int. r. Nowaków i Stasiaków
+(+) Stanisław Mrówczyński  int. r. Sadowskich z Dąbia   
 
-#ŚRODA  - 17.03 
+#WTOREK – 23.03
 
-godz. 16.00 
+Godz. 12.00
 
-[+]Stanisław  Benedykciński –r Szafrańskich
-[+]Irena Pawłowska -  sąsiada Jacka Łodygowskiego z r.
-[+]Czesława Łodygowska – r. Matusiaków z r. 
-[+]Marianna Szydłowska – Rady Sołeckiej mieszkańców Annowa 
-[+]Władysław Wojtkowski – r. Marszewskich z Sadłużka
-[+]Kazimierz Kosiński – r. Kosińskich
-[+]Włodzimierz Gorzycki – r. Drążkiewicz
-[+]Kazimiera Rybska – Ewy Dolatowskiej z dziećmi 
-[+]Marianna Lewandowska – Bożeny Ewy Asi
-[+]Daromiła Dybowska – Rady Rodziców SP Kąkowa Wola
-[+]Aniela Zielińska – r. Mentlewiczów 
-[+]Henryk Słowiński – r. Grzębskich 
-[+]Wanda Radaczewska – Janusza i Władysławy
+(+) Izabella Bączek  int. r. Caban
 
-#CZWARTEK - 18.03 
+#ŚRODA  - 24.03
 
-godz. 12.00 
+Godz. 16.00
 
-[+]Genowefa Wojtkowska int. brata Jana z r.
+(+) Janina Jatczak w 3 rś
 
-#PIĄTEK  - 19.03 
+(+ Barbara Golasińska – Anny Zawidzkiej z r. 
 
-godz. 16.30 
+(+ Zofia Kołodziejska – Wiolety Borkowskiej z r. 
 
-[+]Józefa + Henryk Słowiński int. Synowej Ewy z rodz.
+(+) Stanisława Kurdupska – Jagody Leszka Maciejewskich 
 
-godz 17.00 Droga Krzyżowa
+(+) Marianna Zakrocka – wnuczki Justyny z r
 
-#SOBOTA  - 20.03 
+(+) Marianna Szydłowska – sąsiadów Wojtkowskich
 
-godz 10.00 
+(+) Jan Pietrzak – r. Świesiaków 
 
-[+]Krystyna Siemińska int. wychowanków z SP Dąbie Kuj
+(+) Czesław Łodygowski – Haliny Franciszka Kłosowskich z r
 
-[+]Marianna Zakrocka int. córki Małgorzaty z mężem 
+(+) Władysław Wojtkowski – Wiesławy i Bogusława Marek 
 
-#NIEDZIELA – 21.03 
+(+) Włodzimierz Gorzycki – Marka Jarmuża z r.
 
-08.00 [+] Elżbieta Bączek fint. r. z Bodzanowa
+#CZWARTEK – 25.03
 
-09.00 [+] Jan Wójcik
+#UROCZYSTOŚĆ ZWIASTOWANIA PAŃSKIEGO 
 
-10.00 [+] Marta 7 rś i Tadeusz Matusiak
+Godz. 12.00
 
- 11.00 [-] Parafian  
+(+) Andrzej Sikorski  int. rodzeństwa Chojnackich z Żydowa
+
+#PIĄTEK – 26.03
+
+Godz. 16.30
+
+(+) Włodzimierz Lewandowski int. żony dzieci wnuków
+
+Godz. 17.00
+
+#DROGA KRZYŻOWA
+
+#SOBOTA – 27.03
+
+##SKUPIENIE WIELKOPOSTNE.      SPOWIEDŹ:  8.30  10.30   15.30
+
+Godz. 09.00
+
+(+) Daromiła Dybowska int.  Anny Czubakowskiej
+ 
+Godz. 11.00 
+
+(-) o zdrowie dla Genowefy Kozłowskiej + Jana Kozłowskiego w 33 rś int dzieci i wnuków
+
+(+) Marianna Stolarska pogrzebowa
+
+Godz. 16.00
+
+(+) Kazimiera Rybska int. chrześniaczki Teresy z r.
+
+#NIEDZIELA  MEKI PAŃSKIEJ – PALMOWA – 28.03       
+
+Godz. 8.00
+
+(-) Parafian
+
+Godz. 9.00
+
+(+) Stefan Sochacki rodzic. Sochaccy Głowaccy 
+
+Godz. 10.00
+
+(+) Genowefa Bladowska -  Marty Stanisława Łodygowskich
+
+Godz. 11.00
+
+(+) Elżbieta Zenon Pawłowscy w 2 rś int. synów z r.       
