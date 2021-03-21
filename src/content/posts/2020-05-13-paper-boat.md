@@ -12,17 +12,17 @@ featuredImage: /assets/papiez.jpg
 
 1. Wezwanie do nawrócenia jest zachętą do nieustannego odkrywania piękna i głębi Eucharystii. W Wielkim Poście ta droga prowadzi do źródła, którym jest Ewangelia Jezusa Chrystusa. Zbliżamy się do świąt, wkraczamy w czas intensywniejszego rozważania męki naszego Pana. Zasłoniliśmy krzyże w świątyni, by na nowo odsłonić je przed naszymi oczyma w Wielki Piątek. Niechaj ten czas będzie szczególnym czasem wyciszenia i towarzyszenia Jezusowi w Jego cierpieniu i męce.
 
-2. W czwartek 25 marca uroczystość Zwiastowania Pańskiego – dokładnie dziewięć miesięcy przed Bożym Narodzeniem. Jest to Dzień Świętości Życia i Dzień Duchowej Adopcji Dziecka Poczętego. duchowa adopcja dziecka poczętego
+2. W czwartek 25 marca uroczystość Zwiastowania Pańskiego – dokładnie dziewięć miesięcy przed Bożym Narodzeniem. Jest to Dzień Świętości Życia i Dzień Duchowej Adopcji Dziecka Poczętego.
 
 3. Droga Krzyżowa - piątek godz. 17.00
 
-4. SOBOTA - Dzień pokutny. Spowiedź o 8.30;10;30 i 15;30 poprowadzi ks. Paweł Śmigiel
+4. Sobota- Dzień pokutny. Spowiedź o 8.30;10;30 i 15;30 Konferencje wygłosi ks. Paweł Śmigiel.
 
-5. Przyszła niedziela,  będzie już Niedzielą Męki Pańskiej – Niedzielą Palmową. konkurs na najpiękniejszą palmę. 
+5. Przyszła niedziela,  będzie już Niedzielą Męki Pańskiej – Niedzielą Palmową. Ogłaszam konkurs na najpiękniejszą palmę. 
 
-6. Proszę o zgłaszanie chorych do spowiedzi i odwiedzin w domach.
+6. Proszę o zgłaszanie chorych do spowiedzi i by odwiedzić ich w domach.
 
-7. Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
+7. Wszystkim solenizantom i jubilatom tego tygodnia życzę obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
 Pozdrawiam parafian i gości. 
                   
                              ##INTENCJE MSZALNE
@@ -84,7 +84,9 @@ DROGA KRZYŻOWA
 
 #SOBOTA – 27.03
 
-##SKUPIENIE WIELKOPOSTNE.      SPOWIEDŹ:  8.30  10.30   15.30
+##SKUPIENIE WIELKOPOSTNE.     
+
+ SPOWIEDŹ:  8.30  10.30   15.30
 
 Godz. 09.00
 
