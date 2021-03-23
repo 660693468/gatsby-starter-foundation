@@ -6,7 +6,7 @@ date: 2021-03-21
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
-               # PIĄTA NIEDZIELA WIELKIEGO POSTU - 21 marca 2021                                                         
+               ##PIĄTA NIEDZIELA WIELKIEGO POSTU - 21 marca 2021                                                         
 
                              #OGŁOSZENIA DUSZPASTERSKIE
 
@@ -25,7 +25,7 @@ featuredImage: /assets/papiez.jpg
 7. Wszystkim solenizantom i jubilatom tego tygodnia życzę obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
 Pozdrawiam parafian i gości. 
                   
-                             ## INTENCJE MSZALNE
+                             ##INTENCJE MSZALNE
 
 
 # PONIEDZIAŁEK  -  22.03      
