@@ -2,120 +2,81 @@
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
-date: 2021-03-21
+date: 2021-03-28
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
-               ##PIĄTA NIEDZIELA WIELKIEGO POSTU - 21 marca 2021                                                         
+##NIEDZIELA PALMOWA, CZYLI MĘKI PAŃSKIEJ  - 28 marca 2021                                             #OGŁOSZENIA DUSZPASTERSKIE
 
-                             #OGŁOSZENIA DUSZPASTERSKIE
+1. Rozpoczynamy świętowanie Wielkiego Tygodnia. To czas, w którym wspominamy w liturgii najważniejsze wydarzenia ostatnich dni Jezusa na ziemi. Ten, który stał się dla nas cierpiącym Sługą Jahwe, prowadzi nas do zwycięstwa zmartwychwstania. Szczytem roku liturgicznego i Wielkiego Tygodnia jest Święte Triduum Paschalne Męki i Zmartwychwstania Pańskiego.
 
-1. Wezwanie do nawrócenia jest zachętą do nieustannego odkrywania piękna i głębi Eucharystii. W Wielkim Poście ta droga prowadzi do źródła, którym jest Ewangelia Jezusa Chrystusa. Zbliżamy się do świąt, wkraczamy w czas intensywniejszego rozważania męki naszego Pana. Zasłoniliśmy krzyże w świątyni, by na nowo odsłonić je przed naszymi oczyma w Wielki Piątek. Niechaj ten czas będzie szczególnym czasem wyciszenia i towarzyszenia Jezusowi w Jego cierpieniu i męce.
+2. Wielki Czwartek – pamiątka ustanowienia sakramentów Eucharystii i kapłaństwa. W katedrze będzie sprawowana przed południem Msza św. krzyżma. Uroczysta liturgia w naszej świątyni  o godz. 18.00  Adoracja Najświętszego Sakramentu po liturgii do godz. 20.00
 
-2. W czwartek 25 marca uroczystość Zwiastowania Pańskiego – dokładnie dziewięć miesięcy przed Bożym Narodzeniem. Jest to Dzień Świętości Życia i Dzień Duchowej Adopcji Dziecka Poczętego.
+3. Wielki Piątek – pamiątka męki i śmierci Pana Jezusa. W tym dniu nie sprawujemy Eucharystii. Obowiązuje post ścisły. Liturgię rozpoczniemy o godz. 18.00  Adoracja Najświętszego Sakramentu do godz. 20.00.  Tego dnia przypada rocznica śmierci św. Jana Pawła II. Pamiętajmy, że papież i jego nauczanie to dar, którego nam, Polakom, nie wolno zmarnować.
+           To również pierwszy piątek miesiąca.
 
-3. Droga Krzyżowa - piątek godz. 17.00
+4. Wielka Sobota – dzień, w którym Kościół trwa przy grobie Pańskim, rozważa mękę i śmierć Chrystusa, Jego zstąpienie do otchłani, a także oczekuje na Jego Zmartwychwstanie. W tym dniu Kościół powstrzymuje się od celebrowania Eucharystii.                                                   Święcenie pokarmów o 9.00; 9.30; 10.00; 10;30; 11.00 i przed 18.00.
 
-4. Sobota- Dzień pokutny. Spowiedź o 8.30;10;30 i 15;30 Konferencje wygłosi ks. Paweł Śmigiel.
-
-5. Przyszła niedziela,  będzie już Niedzielą Męki Pańskiej – Niedzielą Palmową. Ogłaszam konkurs na najpiękniejszą palmę. 
-
-6. Proszę o zgłaszanie chorych do spowiedzi.
-
-7. Wszystkim solenizantom i jubilatom tego tygodnia życzę obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
-Pozdrawiam parafian i gości. 
-                  
-                             ##INTENCJE MSZALNE
-
-
-# PONIEDZIAŁEK  -  22.03      
-
-Godz. 12.00
-
-[+]Stanisław Mrówczyński  int. r. Sadowskich z Dąbia   
-
-# WTOREK – 23.03
-
-Godz. 12.00
-
-[+] Izabella Bączek  int. r. Caban
-
-# ŚRODA  - 24.03
-
-Godz. 16.00
-
-[+] Janina Jatczak w 3 rś
-
-[+] Barbara Golasińska – Anny Zawidzkiej z r. 
-
-[+] Zofia Kołodziejska – Wiolety Borkowskiej z r. 
-
-[+] Stanisława Kurdupska – Jagody Leszka Maciejewskich 
-
-[+] Marianna Zakrocka – wnuczki Justyny z r
-
-[+] Marianna Szydłowska – sąsiadów Wojtkowskich
-
-[+] Jan Pietrzak – r. Świesiaków 
-
-[+] Czesław Łodygowski – Haliny Franciszka Kłosowskich z r
-
-[+] Władysław Wojtkowski – Wiesławy i Bogusława Marek 
-
-[+] Włodzimierz Gorzycki – Marka Jarmuża z r.
-
-# CZWARTEK – 25.03
-
-# UROCZYSTOŚĆ ZWIASTOWANIA PAŃSKIEGO 
-
-Godz. 12.00
-
-[+] Andrzej Sikorski  int. rodzeństwa Chojnackich z Żydowa
-
-# PIĄTEK – 26.03
-
-Godz. 16.30
-
-[+] Włodzimierz Lewandowski int. żony dzieci wnuków
-
-Godz. 17.00
-
-DROGA KRZYŻOWA
-
-# SOBOTA – 27.03
-
-## SKUPIENIE WIELKOPOSTNE.     
-
- SPOWIEDŹ:  8.30  10.30   15.30
-
-Godz. 09.00
-
-[+] Daromiła Dybowska int.  Anny Czubakowskiej
+5.Wigilia Paschalna. Liturgię rozpoczniemy o godz. 18.00  Zabierzmy na nią świece.
  
-Godz. 11.00 
+6.Rezurekcja w poranek wielkanocny o godz. 6.00  bez procesji rezurekcyjnej. 
 
-[-] o zdrowie dla Genowefy Kozłowskiej + Jana Kozłowskiego w 33 rś int dzieci i wnuków
+7.Dekoracje poniedziałek godz. 18.00: układanie kwiatów środa 13.00.
 
-[+] Marianna Stolarska pogrzebowa
+8.Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
 
-Godz. 16.00
 
-[+] Kazimiera Rybska int. chrześniaczki Teresy z r.
 
-# NIEDZIELA  MĘKI PAŃSKIEJ – PALMOWA – 28.03       
+##Intencje mszalne 29 marca  - 05 kwietnia  2021
 
-Godz. 8.00
+#PONIEDZIAŁEK WIELKI – 29.03
 
-[-] Parafian
+Godz. 12.00  [+]  Aniela Zielińska int. Juliana Pawłowskiego z Lubrańca
 
-Godz. 9.00
+#WTOREK WIELKI – 30.03
 
-[+] Stefan Sochacki rodzic. Sochaccy Głowaccy 
+Godz. 12.00  [+] Władysław Wojtkowski int. brata Janka z r.
 
-Godz. 10.00
+#ŚRODA WIELKA – 31.03
 
-[+] Genowefa Bladowska -  Marty Stanisława Łodygowskich
+Godz. 12.00  [+] Wanda Radaczewska int. wnuka Łukasza z r.
 
-Godz. 11.00
+#CZWARTEK WIELKI – 01.04
 
-[+] Elżbieta Zenon Pawłowscy w 2 rś int. synów z r.       
+Godz. 18.00  MSZA WIECZERZY PAŃSKIEJ Adoracja do 20.00
+
+#PIĄTEK - Wielki - 02.04
+
+Godz. 18.00  Liturgia Wielkiego Piątku Adoracja do 20.00
+
+#SOBOTA Wielka – 03.04
+
+ŚWIĘCENIE POKARMÓW  Godz. 9.00: 9.30:10.00:10,30: 11,00: przed 18.00
+
+Godz. 18.00   LITRUGIA WIGILII PASCHALNEJ
+
+#NIEDZIELA - Wielkanoc 04.04
+
+Godz.06.00  [-] za Parafian 
+
+Godz. 08.00 [+] Kazimiera Rybska int. chrześniaka Czesława Grochowiny z r.
+
+Godz. 09.00 [+] Stanisława Kurdupska int. córki Marii
+
+Godz. 10.00 [+ ]Seweryna Kaczmarek
+
+Godz.11.00 [+] Henryk  Słowiński int. teściów Lewandowskich
+[+] Stanisław Sobczyński int. żony Barbary i dzieci z r.
+
+Godz. 12.00 [-]Chrzest Huberta
+
+#PONIEDZIAŁEK Wielkanocny – 05.04
+
+Godz. 08.00 [+] Irena Pawłowska int. syna Józefa
+
+Godz. 09.00 [+] Krystyna Czerwińska int. córki Wandy z r. 
+
+Godz. 10.00 [+] Stefan Antczak int. żony Wandy  
+[+] Genowefa Bladowska int. wnuczki Anety z r. 
+
+Godz. 11.00 [-] PARAFIAN+ ks.kan. Tadeusz Pakulski
