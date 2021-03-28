@@ -6,7 +6,10 @@ date: 2021-03-28
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
-##NIEDZIELA PALMOWA, CZYLI MĘKI PAŃSKIEJ  - 28 marca 2021                                             #OGŁOSZENIA DUSZPASTERSKIE
+##NIEDZIELA PALMOWA, CZYLI MĘKI PAŃSKIEJ  
+28 marca 2021                                             
+
+#OGŁOSZENIA DUSZPASTERSKIE
 
 1. Rozpoczynamy świętowanie Wielkiego Tygodnia. To czas, w którym wspominamy w liturgii najważniejsze wydarzenia ostatnich dni Jezusa na ziemi. Ten, który stał się dla nas cierpiącym Sługą Jahwe, prowadzi nas do zwycięstwa zmartwychwstania. Szczytem roku liturgicznego i Wielkiego Tygodnia jest Święte Triduum Paschalne Męki i Zmartwychwstania Pańskiego.
 
@@ -17,13 +20,13 @@ featuredImage: /assets/papiez.jpg
 
 4. Wielka Sobota – dzień, w którym Kościół trwa przy grobie Pańskim, rozważa mękę i śmierć Chrystusa, Jego zstąpienie do otchłani, a także oczekuje na Jego Zmartwychwstanie. W tym dniu Kościół powstrzymuje się od celebrowania Eucharystii.                                                   Święcenie pokarmów o 9.00; 9.30; 10.00; 10;30; 11.00 i przed 18.00.
 
-5.Wigilia Paschalna. Liturgię rozpoczniemy o godz. 18.00  Zabierzmy na nią świece.
+5. Wigilia Paschalna. Liturgię rozpoczniemy o godz. 18.00  Zabierzmy na nią świece.
  
-6.Rezurekcja w poranek wielkanocny o godz. 6.00  bez procesji rezurekcyjnej. 
+6. Rezurekcja w poranek wielkanocny o godz. 6.00  bez procesji rezurekcyjnej. 
 
-7.Dekoracje poniedziałek godz. 18.00: układanie kwiatów środa 13.00.
+7. Dekoracje poniedziałek godz. 18.00: układanie kwiatów środa 13.00.
 
-8.Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
+8. Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
 
 
 
