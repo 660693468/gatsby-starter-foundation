@@ -1,10 +1,10 @@
----
+-
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
 date: 2021-04-06
 description: How to draw a character
-featuredImage: /assets/papiez.jpg
+featuredImage: /assets/andrew-seaman-4fi_4q6_efm-unsplash.jpg
 
  
 ##NIEDZIELA WIELKANOCNA	 - 04 kwietnia 2021                                            
