@@ -18,7 +18,7 @@ za dekorację,  udział w nabożeństwach i adoracji.
 2. Przyszłą niedzielę – drugą niedzielę Wielkanocy – będziemy obchodzili jako Niedzielę Miłosierdzia Bożego. Niedziela ta zainauguruje również Tydzień Miłosierdzia. Codziennie 10 min przed Mszą św.  odmawiam Nowennę do Miłosierdzia Bożego, a również w następną niedzielę, Niedzielę Miłosierdzia Bożego, we wspólnej modlitwie koronką będziemy wypraszać miłosierdzie dla nas i całego świata
 
 ##Drodzy parafianie i goście!
-Chrystus Pan zmartwychwstał – i my zmartwychwstaniemy! Niechaj ta nadzieja będzie w nas źródłem radości i pokoju, niech porządkuje naszą codzienność, abyśmy każdego dnia stawali się niezwykłymi świadkami zmartwychwstania. Jezus żyje! Dzielmy się tą radością z najbliższymi i ze wszystkimi, których Pan z nami spotka. Pokoju serca, radości rozpromieniającej każdy dzień, nadziei, która nigdy nie gaśnie – z całego serca wam życzę.
+Chrystus Pan zmartwychwstał – i my zmartwychwstaniemy! Niechaj ta nadzieja będzie w nas źródłem radości i pokoju, niech porządkuje naszą codzienność, abyśmy każdego dnia stawali się niezwykłymi świadkami zmartwychwstania. Jezus żyje! Dzielmy się tą radością z najbliższymi i ze wszystkimi, których Pan z nami spotka. Pokoju serca, radości rozpromieniającej każdy dzień, nadziei, która nigdy nie gaśnie – z całego serca Wam życzę.
 
 ##Intencje mszalne 07  – 11 kwietnia  2021
 
