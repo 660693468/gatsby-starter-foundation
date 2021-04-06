@@ -26,46 +26,46 @@ Chrystus Pan zmartwychwstał – i my zmartwychwstaniemy! Niechaj ta nadzieja b�
 
 Godz. 12.00
 
-+ Daromiała Dybowska int.  Dybowskich z Woli Skarbkowej
+[+] Daromiała Dybowska int.  Dybowskich z Woli Skarbkowej
 
 CZWARTEK  - 08.04
 
 Godz. 12.00
 
-+ rodzice i dziadkowie Waszak Ryszard Paliwoda Anna Rosińska
+[+] rodzice i dziadkowie Waszak Ryszard Paliwoda Anna Rosińska
 
 PIĄTEK - 09.04
 
 Godz. 12.00
 
-+ Izabella Bączek int. r. Bączków z Dąbia
+[+] Izabella Bączek int. r. Bączków z Dąbia
 
 Godz. 17.00
 
-+ Czesław Łodygowski int. syna Ireneusza z żoną
+[+] Czesław Łodygowski int. syna Ireneusza z żoną
 
 SOBOTA – 10.04
 
 Godz. 8.00
-+ Stanisław Benedykciński int. Sławki i Tomka z dziećmi
-+ Włodzimierz Gorzycki int. r. Dybowskich
+[+] Stanisław Benedykciński int. Sławki i Tomka z dziećmi
+[+] Włodzimierz Gorzycki int. r. Dybowskich
 
 ##NIEDZIELA MIŁOSIERDZIA BOŻEGO – 11.04
 
 GODZ. 8.00
 
-+ Irena Pawłowska int.  córki Elżbiety 
+[+] Irena Pawłowska int.  córki Elżbiety 
 
 GODZ. 9.00
 
-+ Krystyna Siemińska int. wychowanków r. 1965-73 
+[+] Krystyna Siemińska int. wychowanków r. 1965-73 
 
 GODZ. 10.00
 
-+ Henryk Słowiński int wnuka Adama Sobańskiego z r. 
-+ Henryk Słowiński int. wnuka Kamila Sobańskiego z r. 
+[+] Henryk Słowiński int wnuka Adama Sobańskiego z r. 
+[+] Henryk Słowiński int. wnuka Kamila Sobańskiego z r. 
 
 GODZ. 11.00
 
-- PARAFIAN 
-+ br. Fidelisa 4 rś dziadkowie Ignaczak int. Betlinskich z Kąkowej Woli
+[-] PARAFIAN 
+[+] br. Fidelisa 4 rś dziadkowie Ignaczak int. Betlinskich z Kąkowej Woli
