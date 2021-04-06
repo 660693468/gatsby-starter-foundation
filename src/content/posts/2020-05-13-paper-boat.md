@@ -47,7 +47,9 @@ Godz. 17.00
 SOBOTA – 10.04
 
 Godz. 8.00
+
 [+] Stanisław Benedykciński int. Sławki i Tomka z dziećmi
+
 [+] Włodzimierz Gorzycki int. r. Dybowskich
 
 ##NIEDZIELA MIŁOSIERDZIA BOŻEGO – 11.04
@@ -63,9 +65,11 @@ GODZ. 9.00
 GODZ. 10.00
 
 [+] Henryk Słowiński int wnuka Adama Sobańskiego z r. 
+
 [+] Henryk Słowiński int. wnuka Kamila Sobańskiego z r. 
 
 GODZ. 11.00
 
 [-] PARAFIAN 
+
 [+] br. Fidelisa 4 rś dziadkowie Ignaczak int. Betlinskich z Kąkowej Woli
