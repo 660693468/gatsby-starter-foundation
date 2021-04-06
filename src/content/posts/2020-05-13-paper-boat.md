@@ -7,7 +7,7 @@ description: How to draw a character
 featuredImage: /assets/papiez.jpg
 
  
-##NIEDZIELA WIELKANOCNA	 - 4 kwietnia 2021                                            
+##NIEDZIELA WIELKANOCNA	 - 04 kwietnia 2021                                            
 
 #ZMARTWYCHWSTANIA PAŃSKIEGO 	                                                                             
 
