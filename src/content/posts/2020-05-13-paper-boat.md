@@ -11,7 +11,7 @@ featuredImage: /assets/papiez.jpg
 
 ##ZMARTWYCHWSTANIA PAŃSKIEGO 	                                                                             
 
-OGŁOSZENIA DUSZPASTERSKIE
+#OGŁOSZENIA DUSZPASTERSKIE
 
 1. Pragnę bardzo serdecznie podziękować wszystkim, dzięki którym tak pięknie przeżywamy Święte Triduum Paschalne -   ministrantom lektorkom i lektorom.
 za dekorację,  udział w nabożeństwach i adoracji. 
