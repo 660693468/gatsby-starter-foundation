@@ -51,7 +51,7 @@ Godz. 8.00
 + Stanisław Benedykciński int. Sławki i Tomka z dziećmi
 + Włodzimierz Gorzycki int. r. Dybowskich
 
-#NIEDZIELA MIŁOSIERDZIA BOŻEGO – 11.04
+##NIEDZIELA MIŁOSIERDZIA BOŻEGO – 11.04
 
 GODZ. 8.00
 
