@@ -8,7 +8,7 @@ featuredImage: /assets/papiez.jpg
 ---
 ##NIEDZIELA WIELKANOCNA	 - 04 kwietnia 2021                                            
 
-#ZMARTWYCHWSTANIA PAŃSKIEGO 	                                                                             
+##ZMARTWYCHWSTANIA PAŃSKIEGO 	                                                                             
 
 #OGŁOSZENIA DUSZPASTERSKIE
 
