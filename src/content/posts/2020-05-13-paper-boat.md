@@ -2,74 +2,106 @@
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
-date: 2021-04-06
+date: 2021-04-11
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
-##NIEDZIELA WIELKANOCNA	 - 04 kwietnia 2021                                            
 
-##ZMARTWYCHWSTANIA PAŃSKIEGO 	                                                                             
 
+
+##DRUGA NIEDZIELA WIELKANOCY                                                                                
+##CZYLI MIŁOSIERDZIA BOŻEGO - 11 kwietnia 2021                                            
 #OGŁOSZENIA DUSZPASTERSKIE
 
-1. Pragnę bardzo serdecznie podziękować wszystkim, dzięki którym tak pięknie przeżywamy Święte Triduum Paschalne -   ministrantom lektorkom i lektorom.
-za dekorację,  udział w nabożeństwach i adoracji. 
+1. Druga niedziela Wielkanocy jest obchodzona jako Niedziela Miłosierdzia Bożego. Pan Jezus dał grzesznikom święto Miłosierdzia jako ostatnią deskę ratunku. Z dobrze odprawioną spowiedzią i Komunią Świętą, przyjętą w tym dniu, jest związana obietnica zupełnego odpuszczenia win i kar. To także patronalne święto Caritasu, które rozpoczyna Tydzień Miłosierdzia.
 
-2. Przyszłą niedzielę – drugą niedzielę Wielkanocy – będziemy obchodzili jako Niedzielę Miłosierdzia Bożego. Niedziela ta zainauguruje również Tydzień Miłosierdzia. Codziennie 10 min przed Mszą św.  odmawiam Nowennę do Miłosierdzia Bożego, a również w następną niedzielę, Niedzielę Miłosierdzia Bożego, we wspólnej modlitwie koronką będziemy wypraszać miłosierdzie dla nas i całego świata
+2. Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
 
-##Drodzy parafianie i goście!
-Chrystus Pan zmartwychwstał – i my zmartwychwstaniemy! Niechaj ta nadzieja będzie w nas źródłem radości i pokoju, niech porządkuje naszą codzienność, abyśmy każdego dnia stawali się niezwykłymi świadkami zmartwychwstania. Jezus żyje! Dzielmy się tą radością z najbliższymi i ze wszystkimi, których Pan z nami spotka. Pokoju serca, radości rozpromieniającej każdy dzień, nadziei, która nigdy nie gaśnie – z całego serca Wam życzę.
+##Intencje mszalne 12 - 26 kwietnia   2021
 
-##Intencje mszalne 07  – 11 kwietnia  2021
+PONIEDZIAŁEK - 12.04
 
-ŚRODA  - 07.04
+Godz. 12.00 
 
-Godz. 12.00
+[+] Halina Algierowicz int. Kasi i Roberta Snopkowskich
 
-[+] Daromiała Dybowska int.  Dybowskich z Woli Skarbkowej
-
-CZWARTEK  - 08.04
+WTOREK - 13.04
 
 Godz. 12.00
 
-[+] rodzice i dziadkowie Waszak Ryszard Paliwoda Anna Rosińska
+[+] Władysław Wojtkowski int. Jasińskiej 
 
-PIĄTEK - 09.04
+ŚRODA - 14.04
 
-Godz. 12.00
+Godz. 16.00
 
-[+] Izabella Bączek int. r. Bączków z Dąbia
+[+] Barbara Golasińska -  r. Sierakowskich
 
-Godz. 17.00
+[+] Kazimiera Rybska – r. Mrozińskich z Izbicy
 
-[+] Czesław Łodygowski int. syna Ireneusza z żoną
+[+] Daromiła Dybowska – społeczności Szkoły Pocierzyn
 
-SOBOTA – 10.04
+[+] Aniela Zielińska – chrześniaczki Jolanty z dziećmi
 
-Godz. 8.00
+[+] Włodzimierz Gorzycki – chrześniaczki Anety z mężem
 
-[+] Stanisław Benedykciński int. Sławki i Tomka z dziećmi
+[+] Jan Pietrzak – r. Kręcickich
 
-[+] Włodzimierz Gorzycki int. r. Dybowskich
+[+] Henryk Słowiński – r. Matusiaków
 
-##NIEDZIELA MIŁOSIERDZIA BOŻEGO – 11.04
+[+] Wanda Radaczewska – Piórkowskich i Ostrowskich 
 
-GODZ. 8.00
+[+] Genowefa Wojtkowska – r. Woźny
 
-[+] Irena Pawłowska int.  córki Elżbiety 
+[+] Władysław Wojtkowski – r. Sadowskich z Dąbia
 
-GODZ. 9.00
+[+] Marianna Zakrocka – Renaty Jagodzińskiej Honoraty  Mariusz Szwarc
 
-[+] Krystyna Siemińska int. wychowanków r. 1965-73 
+[+] Stanisława Kurdupska – Stanisławy Wojtkowskiej 
 
-GODZ. 10.00
+[+] Stefan Antczak – r. Ciesielskich z Agnieszkowa
 
-[+] Henryk Słowiński int wnuka Adama Sobańskiego z r. 
+CZWARTEK- 15.04
 
-[+] Henryk Słowiński int. wnuka Kamila Sobańskiego z r. 
+Godz.16.00
 
-GODZ. 11.00
+[+] Marianna Zakrocka int. córki Anety z dziećmi
 
-[-] PARAFIAN 
+PIĄTEK - 6.04
 
-[+] br. Fidelisa 4 rś dziadkowie Ignaczak int. Betlinskich z Kąkowej Woli
+Godz.11.00
+
+[+] Izabella Bączek int. syna Darka z r. 
+
+SOBOTA - 17.04
+
+Godz. 09.00
+
+[+] Jan Zieliński i Zbigniew Wieczorkowski 
+
+[+] Daromiła Dybowska int. r. Jatczaków
+
+NIEDZIELA - 18.04
+
+Godz. 08.00
+
+[+] Stefan Antczak int. syna Adama z r.
+
+Godz.09.00
+
+[+] Wiesław Adrian 5 rś int. żony i dzieci
+
+Godz. 10.00
+
+[+] Stanisława Kurdupska int. córki Elżbiety z r. 
+
+[+] Izabella Bączek int. syna Romana z żoną
+
+Godz. 11.00
+
+[+] Marianna Szydłowska int. sąsiadów Sobczyńskich 
+
+[-] PARAFIAN
+
+
+
