@@ -17,50 +17,9 @@ featuredImage: /assets/papiez.jpg
 
 2. Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
 
-##Intencje mszalne 12 - 26 kwietnia   2021
+##Intencje mszalne 
 
-PONIEDZIAŁEK - 12.04
-
-Godz. 12.00 
-
-[+] Halina Algierowicz int. Kasi i Roberta Snopkowskich
-
-WTOREK - 13.04
-
-Godz. 12.00
-
-[+] Władysław Wojtkowski int. Jasińskiej 
-
-ŚRODA - 14.04
-
-Godz. 16.00
-
-[+] Barbara Golasińska -  r. Sierakowskich
-
-[+] Kazimiera Rybska – r. Mrozińskich z Izbicy
-
-[+] Daromiła Dybowska – społeczności Szkoły Pocierzyn
-
-[+] Aniela Zielińska – chrześniaczki Jolanty z dziećmi
-
-[+] Włodzimierz Gorzycki – chrześniaczki Anety z mężem
-
-[+] Jan Pietrzak – r. Kręcickich
-
-[+] Henryk Słowiński – r. Matusiaków
-
-[+] Wanda Radaczewska – Piórkowskich i Ostrowskich 
-
-[+] Genowefa Wojtkowska – r. Woźny
-
-[+] Władysław Wojtkowski – r. Sadowskich z Dąbia
-
-[+] Marianna Zakrocka – Renaty Jagodzińskiej Honoraty  Mariusz Szwarc
-
-[+] Stanisława Kurdupska – Stanisławy Wojtkowskiej 
-
-[+] Stefan Antczak – r. Ciesielskich z Agnieszkowa
-
+ 
 CZWARTEK- 15.04
 
 Godz.16.00
