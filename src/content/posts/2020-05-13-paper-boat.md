@@ -2,65 +2,79 @@
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
-date: 2021-04-11
+date: 2021-04-18
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
 
 
 
-##DRUGA NIEDZIELA WIELKANOCY                                                                                
-##CZYLI MIŁOSIERDZIA BOŻEGO - 11 kwietnia 2021                                            
-#OGŁOSZENIA DUSZPASTERSKIE
+##TRZECIA NIEDZIELA WIELKANOCY  - 18 kwietnia 2021                                          #OGŁOSZENIA DUSZPASTERSKIE
 
-1. Druga niedziela Wielkanocy jest obchodzona jako Niedziela Miłosierdzia Bożego. Pan Jezus dał grzesznikom święto Miłosierdzia jako ostatnią deskę ratunku. Z dobrze odprawioną spowiedzią i Komunią Świętą, przyjętą w tym dniu, jest związana obietnica zupełnego odpuszczenia win i kar. To także patronalne święto Caritasu, które rozpoczyna Tydzień Miłosierdzia.
+1. W rozpoczynającym się Tygodniu Biblijnym prośmy Pana Jezusa szczególnie o to, aby pozwolił nam jeszcze bardziej ukochać i zrozumieć Pismo Święte. Wygospodarujmy w tym tygodniu nieco więcej czasu, abyśmy mogli sięgać po Biblię.
 
-2. Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
+2. W piątek uroczystość św. Wojciecha, biskupa i męczennika, głównego patrona Polski. 
 
-##Intencje mszalne 
+3. Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
 
- 
-CZWARTEK- 15.04
+
+
+#Intencje mszalne 19 - 26 kwietnia   2021
+
+#PONIEDZIAŁEK - 19.04
+
+Godz. 12.00 
+[+] Krzysztof Przybysz int. teściowej Ewy Witulskiej i Eweliny z mężem
+
+#WTOREK - 20.04
+
+Godz. 11.30
+[+] Czesław Łodygowski  int.  brata Stanisława z żoną 
+
+#ŚRODA - 21.04
+
+Godz. 16.00
+[+] Daromiała Dybowska – Ryszardy Arkadiusza Kozickich
+[+] Aniela Zielińska – Kornelii z synem
+[+] Włodzimierz Gorzycki – Justyny Adama Drążkiewicz
+[+] Jan Pietrzak – r. Pietrzaków
+[+] Henryk Słowiński – Jadwigi i Jana Adamowskich 
+[+] Wanda Radaczewska – r. Wiśniewskich
+[+] Irena Pawłowska – Jąkalskich i Świątkowskich
+[+] Genowefa Wojtkowska – Darka z r. 
+[+] Władysław Wojtkowski – Wojtkowskich z Osięcin
+[+] Marianna Zakrocka – Danuty Szwarc i Jolanty Kwieciszewskiej
+[+] Stanisława Kurdupska – Ani Szałańskiej  
+[+] Stefan Antczak – Janiny Gołebiowskiej
+
+#CZWARTEK - 22.04
+
+Godz.11.30
+[+] Genowefa Wojtkowska int. Katarzyny Andrzeja Czołpinskichz r.
+
+#PIĄTEK - 23.04
 
 Godz.16.00
+[+] Jerzy Maciejewski int. żony i dzieci 
 
-[+] Marianna Zakrocka int. córki Anety z dziećmi
-
-PIĄTEK - 6.04
-
-Godz.11.00
-
-[+] Izabella Bączek int. syna Darka z r. 
-
-SOBOTA - 17.04
+#SOBOTA - 24.04
 
 Godz. 09.00
+[+] Władysław Wojtkowski int. wnuka Jakuba z r.
 
-[+] Jan Zieliński i Zbigniew Wieczorkowski 
-
-[+] Daromiła Dybowska int. r. Jatczaków
-
-NIEDZIELA - 18.04
+#NIEDZIELA - 25.04
 
 Godz. 08.00
-
-[+] Stefan Antczak int. syna Adama z r.
+[+] Stanisława 20 rś i Stanisław Molewski int. córki i wnuczek z r.
 
 Godz.09.00
-
-[+] Wiesław Adrian 5 rś int. żony i dzieci
+ [+] Justyna Federowicz 10 rś int mamy
 
 Godz. 10.00
-
-[+] Stanisława Kurdupska int. córki Elżbiety z r. 
-
-[+] Izabella Bączek int. syna Romana z żoną
+[+] Jadwiga Baranowska 15 rś
 
 Godz. 11.00
-
-[+] Marianna Szydłowska int. sąsiadów Sobczyńskich 
-
+[+] Kazimiera i Jerzy Weneccy int. Sabiny Rosińskiej z r. 
 [-] PARAFIAN
-
 
 
