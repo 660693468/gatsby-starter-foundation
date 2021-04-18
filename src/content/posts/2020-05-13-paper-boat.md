@@ -35,16 +35,27 @@ Godz. 11.30
 
 Godz. 16.00
 [+] Daromiała Dybowska – Ryszardy Arkadiusza Kozickich
+
 [+] Aniela Zielińska – Kornelii z synem
+
 [+] Włodzimierz Gorzycki – Justyny Adama Drążkiewicz
+
 [+] Jan Pietrzak – r. Pietrzaków
+
 [+] Henryk Słowiński – Jadwigi i Jana Adamowskich 
+
 [+] Wanda Radaczewska – r. Wiśniewskich
+
 [+] Irena Pawłowska – Jąkalskich i Świątkowskich
+
 [+] Genowefa Wojtkowska – Darka z r. 
+
 [+] Władysław Wojtkowski – Wojtkowskich z Osięcin
+
 [+] Marianna Zakrocka – Danuty Szwarc i Jolanty Kwieciszewskiej
+
 [+] Stanisława Kurdupska – Ani Szałańskiej  
+
 [+] Stefan Antczak – Janiny Gołebiowskiej
 
 #CZWARTEK - 22.04
