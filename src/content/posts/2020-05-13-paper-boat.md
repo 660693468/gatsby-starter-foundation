@@ -58,6 +58,8 @@ Godz. 16.00
 
 [+] Stefan Antczak – Janiny Gołebiowskiej
 
+[+] Janina Migdalska w rś
+
 #CZWARTEK - 22.04
 
 Godz.11.30
