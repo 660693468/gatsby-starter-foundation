@@ -19,46 +19,8 @@ featuredImage: /assets/papiez.jpg
 
 
 
-#Intencje mszalne 19 - 26 kwietnia   2021
+#Intencje mszalne 
 
-#PONIEDZIAŁEK - 19.04
-
-Godz. 12.00 
-[+] Krzysztof Przybysz int. teściowej Ewy Witulskiej i Eweliny z mężem
-
-#WTOREK - 20.04
-
-Godz. 11.30
-[+] Czesław Łodygowski  int.  brata Stanisława z żoną 
-
-#ŚRODA - 21.04
-
-Godz. 16.00
-[+] Daromiała Dybowska – Ryszardy Arkadiusza Kozickich
-
-[+] Aniela Zielińska – Kornelii z synem
-
-[+] Włodzimierz Gorzycki – Justyny Adama Drążkiewicz
-
-[+] Jan Pietrzak – r. Pietrzaków
-
-[+] Henryk Słowiński – Jadwigi i Jana Adamowskich 
-
-[+] Wanda Radaczewska – r. Wiśniewskich
-
-[+] Irena Pawłowska – Jąkalskich i Świątkowskich
-
-[+] Genowefa Wojtkowska – Darka z r. 
-
-[+] Władysław Wojtkowski – Wojtkowskich z Osięcin
-
-[+] Marianna Zakrocka – Danuty Szwarc i Jolanty Kwieciszewskiej
-
-[+] Stanisława Kurdupska – Ani Szałańskiej  
-
-[+] Stefan Antczak – Janiny Gołebiowskiej
-
-[+] Janina Migdalska w rś
 
 #CZWARTEK - 22.04
 
