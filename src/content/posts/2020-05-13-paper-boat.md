@@ -9,47 +9,92 @@ featuredImage: /assets/papiez.jpg
 
 
 
-##TRZECIA NIEDZIELA WIELKANOCY  - 18 kwietnia 2021                                          #OGŁOSZENIA DUSZPASTERSKIE
+##CZWARTA NIEDZIELA WIELKANOCY  - 25 kwietnia 2021 
 
-1. W rozpoczynającym się Tygodniu Biblijnym prośmy Pana Jezusa szczególnie o to, aby pozwolił nam jeszcze bardziej ukochać i zrozumieć Pismo Święte. Wygospodarujmy w tym tygodniu nieco więcej czasu, abyśmy mogli sięgać po Biblię.
+#OGŁOSZENIA DUSZPASTERSKIE
 
-2. W piątek uroczystość św. Wojciecha, biskupa i męczennika, głównego patrona Polski. 
+1. Przeżywamy dziś Niedzielę Dobrego Pasterza, która rozpoczyna kwartalne dni modlitw o powołania do służby w Kościele. Potrzebujemy wciąż nowych ludzi, którzy tak jak Chrystus podejmą w Kościele służbę głoszenia słowa i sprawowania sakramentów. 
 
-3. Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
+2.W poniedziałek na godz. 19.00 proszę o pomoc w demontażu dekoracji.
 
+3.W najbliższą sobotę rozpocznie się maj, miesiąc poświęcony szczególnej czci Matki Bożej. Każdego dnia przed Mszą zapraszam na nabożeństwa majowe. 
 
+4. Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
 
-#Intencje mszalne 
+##Intencje mszalne  26 kwietnia  - 02 maja 2021
 
+#PONIEDZIAŁEK - 26.04
 
-#CZWARTEK - 22.04
+Godz. 13.00 
 
-Godz.11.30
-[+] Genowefa Wojtkowska int. Katarzyny Andrzeja Czołpinskichz r.
+[+] Kazimierz Kosiński int. Wawrzeńczaków
 
-#PIĄTEK - 23.04
+Godz. 16.00
 
-Godz.16.00
-[+] Jerzy Maciejewski int. żony i dzieci 
+[+] Marianna Zakrocka int. córki Elżbiety
 
-#SOBOTA - 24.04
+#WTOREK - 27.04
+
+Godz. 16.00
+
+[+] Marianna Gardyza int. syna z żoną
+
+#ŚRODA - 28.04
+
+Godz. 16.00
+
+[+]Krzysztof Przybysz – Jadwigi Stanisława Nejman
+
+[+]Daromiała Dybowska -  r. Ucińskich
+
+[+] Jan Pietrzak – Moniki z r. 
+
+[+] Irena Pawłowska – Bożeny Ścińskiej z dziećmi
+
+[+] Władysław Wojtkowski – Misterskich i Zielińskich z Dąbia
+
+[+] Stanisława Kurdupska – Zakładu Pogrzebowego Arka
+
+[+] Czesław Łodygowski – Zakładu Pogrzebowego Arka
+
+[+] Stefan Antczak -  Agnieszki Tomasza Antczak z synem
+
+[+]Helena Pawlak – przyjaciółki córki Agnieszki
+
+[+]Aniela Zielińska – Barbary Jerzego Zielińskich
+
+#CZWARTEK - 29.04
+
+Godz.13.00
+
+[+]Włodzimierz Gorzycki int. r. Lewandowskich i Krulikowskich  
+
+#PIĄTEK - 30.04
+
+Godz.12.00
+
+[+]Marianna Szydłowska int. r. Głowackich i Ochmańskich
+
+#SOBOTA - 01.05
 
 Godz. 09.00
-[+] Władysław Wojtkowski int. wnuka Jakuba z r.
 
-#NIEDZIELA - 25.04
+[+]Kazimierz 11 rś i Krystyna 10 rś Poturalskich int. syna Jana z r
+
+#NIEDZIELA - 02.05
 
 Godz. 08.00
-[+] Stanisława 20 rś i Stanisław Molewski int. córki i wnuczek z r.
+
+[+]Halina Algierowicz int Heleny Płoszaj 
 
 Godz.09.00
- [+] Justyna Federowicz 10 rś int mamy
+
+[+]Ryszard Gołębiowski 6rś int. żony Janiny
 
 Godz. 10.00
-[+] Jadwiga Baranowska 15 rś
+
+[+]Włodzimierz Morawski 1 rś
 
 Godz. 11.00
-[+] Kazimiera i Jerzy Weneccy int. Sabiny Rosińskiej z r. 
-[-] PARAFIAN
 
-
+[-]  Parafian – Joanna 40 r ur błogosławieństwo dla rodziny -maturzystów 
