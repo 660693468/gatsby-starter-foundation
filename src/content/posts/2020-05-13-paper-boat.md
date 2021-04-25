@@ -15,9 +15,9 @@ featuredImage: /assets/papiez.jpg
 
 1. Przeżywamy dziś Niedzielę Dobrego Pasterza, która rozpoczyna kwartalne dni modlitw o powołania do służby w Kościele. Potrzebujemy wciąż nowych ludzi, którzy tak jak Chrystus podejmą w Kościele służbę głoszenia słowa i sprawowania sakramentów. 
 
-2.W poniedziałek na godz. 19.00 proszę o pomoc w demontażu dekoracji.
+2. W poniedziałek na godz. 19.00 proszę o pomoc w demontażu dekoracji.
 
-3.W najbliższą sobotę rozpocznie się maj, miesiąc poświęcony szczególnej czci Matki Bożej. Każdego dnia przed Mszą zapraszam na nabożeństwa majowe. 
+3. W najbliższą sobotę rozpocznie się maj, miesiąc poświęcony szczególnej czci Matki Bożej. Każdego dnia przed Mszą zapraszam na nabożeństwa majowe. 
 
 4. Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
 
