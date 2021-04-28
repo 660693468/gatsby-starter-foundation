@@ -21,47 +21,8 @@ featuredImage: /assets/papiez.jpg
 
 4. Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
 
-##Intencje mszalne  26 kwietnia  - 02 maja 2021
+##Intencje mszalne 
 
-#PONIEDZIAŁEK - 26.04
-
-Godz. 13.00 
-
-[+] Kazimierz Kosiński int. Wawrzeńczaków
-
-Godz. 16.00
-
-[+] Marianna Zakrocka int. córki Elżbiety
-
-#WTOREK - 27.04
-
-Godz. 16.00
-
-[+] Marianna Gardyza int. syna z żoną
-
-#ŚRODA - 28.04
-
-Godz. 16.00
-
-[+]Krzysztof Przybysz – Jadwigi Stanisława Nejman
-
-[+]Daromiała Dybowska -  r. Ucińskich
-
-[+] Jan Pietrzak – Moniki z r. 
-
-[+] Irena Pawłowska – Bożeny Ścińskiej z dziećmi
-
-[+] Władysław Wojtkowski – Misterskich i Zielińskich z Dąbia
-
-[+] Stanisława Kurdupska – Zakładu Pogrzebowego Arka
-
-[+] Czesław Łodygowski – Zakładu Pogrzebowego Arka
-
-[+] Stefan Antczak -  Agnieszki Tomasza Antczak z synem
-
-[+]Helena Pawlak – przyjaciółki córki Agnieszki
-
-[+]Aniela Zielińska – Barbary Jerzego Zielińskich
 
 #CZWARTEK - 29.04
 
