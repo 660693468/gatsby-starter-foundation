@@ -28,9 +28,9 @@ Za 2 tygodnie rocznicowych.
 
 8.Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
 
-#Intencje mszalne   03-09  maja 2021
+##Intencje mszalne   03-09  maja 2021
 
-PONIEDZIAŁEK - 03.05
+#PONIEDZIAŁEK - 03.05
 
 Godz. 09.00 
 
@@ -44,13 +44,13 @@ Godz. 11.00
 
 [+] Anna Mieczysław Kopaczewscy int. córki Haliny z r.
 
-WTOREK - 04.05
+#WTOREK - 04.05
 
 Godz. 13.00
 
 [+] Wanda Radaczewska int. Małgorzaty Zbigniewa Kamińskich  r
 
-ŚRODA - 05.05
+#ŚRODA - 05.05
 
 Godz. 16.00
 
@@ -80,13 +80,13 @@ Godz. 17.00
 
 [-] Wiktoria 18 r. urodzin
 
-CZWARTEK - 06.05
+#CZWARTEK - 06.05
 
 Godz.16.00
 
 [+] Czesław Kwaśny 3 rś int. żony dzieci wnuków
 
-PIĄTEK - 07.05
+#PIĄTEK - 07.05
 
 Godz.15.30
 
@@ -96,7 +96,7 @@ Godz. 16.00
 
 [+] Wanda Stanisław Radaczewscy int. kuzynki Marianny z Woli Skarbkowej
 
-SOBOTA - 08.05
+#SOBOTA - 08.05
 
 Godz. 09.00
 
@@ -106,7 +106,7 @@ Godz. 16.00
 
 [+] Stanisławów
 
-NIEDZIELA - 09.05
+#NIEDZIELA - 09.05
 
 Godz. 08.00
 
