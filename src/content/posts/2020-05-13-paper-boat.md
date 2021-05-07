@@ -28,63 +28,8 @@ Za 2 tygodnie rocznicowych.
 
 8.Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
 
-##Intencje mszalne   03-09  maja 2021
+##Intencje mszalne   
 
-#PONIEDZIAŁEK - 03.05
-
-Godz. 09.00 
-
-[+] Józef Bączek 6 rś int. żony i dzieci z r.
-
-Godz. 10.00
-
-[+] Henryk Słowiński int. wnuczki Grażyny z Hubertem
-
-Godz. 11.00
-
-[+] Anna Mieczysław Kopaczewscy int. córki Haliny z r.
-
-#WTOREK - 04.05
-
-Godz. 13.00
-
-[+] Wanda Radaczewska int. Małgorzaty Zbigniewa Kamińskich  r
-
-#ŚRODA - 05.05
-
-Godz. 16.00
-
-[+] rodzice Wójciak int. córki Jadwigi
-
-[+] Kazimiera Ryszard Rybscy
-
-[+] Daromiła Dybowska -  r. Balceraków z Guźlina 
-
-[+] Irena Pawłowska -  Marka Maćkowiaka z r. 
-
-[+] Władysław Wojtkowski – Beaty Żurawicz z r.
-
-[+] Marianna Zakrocka – Wiolety i Tomasza Stasiak
-
-[+] Stanisława Kurdupska – kuzyna Ryszarda z r. 
-
-[+] Stefan Antczak – Marii Kapelińskiej z r. 
-
-[+] Helena Pawlak – Henryki Juszczyńskiej
-
-[+] Jan Pietrzak – Magdaleny z r.
-
-[+] Marianna Gardyza – siostry Henryki
-
-Godz. 17.00
-
-[-] Wiktoria 18 r. urodzin
-
-#CZWARTEK - 06.05
-
-Godz.16.00
-
-[+] Czesław Kwaśny 3 rś int. żony dzieci wnuków
 
 #PIĄTEK - 07.05
 
