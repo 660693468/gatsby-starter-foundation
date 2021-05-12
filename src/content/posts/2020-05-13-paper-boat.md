@@ -12,41 +12,20 @@ featuredImage: /assets/papiez.jpg
 #OGŁOSZENIA DUSZPASTERSKIE
 
 1.Świętowanie niedzieli to świętowanie obecności Jezusa Zmartwychwstałego wśród nas. Oddał życie, aby nas zbawić, abyśmy mieli życie. Jego ofiara wymaga naszej odpowiedzi, dlatego zachęcajmy się nawzajem do autentycznego życia wiarą na co dzień. Tak żyły pierwsze wspólnoty. Trwajmy w radości Wielkiej Nocy.
+
 2.Dziś o 11. spotkanie rodziców dzieci I Komunijnych  za tydzień rocznicowej.
+
 3.Przez cały maj codziennie,  nabożeństwo majowe
+
 4.W najbliższy czwartek, 13 maja, wspomnienie Matki Bożej Fatimskiej i kolejna rocznica zamachu na Jana Pawła II w 1981 r. O godz. 18.00  Na ten różaniec zabierzmy ze sobą świece.
+
 5.W  piątek rozpoczniemy nowennę przed uroczystością Zesłania Ducha Świętego. 
+
 6.Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
 
 ##Intencje mszalne  
 
-#WTOREK - 11.05
-
-Godz. 16.00
-
-[+] Henryk Słowiński int.  wnuków prawnuków Jasińkich
-
-#ŚRODA - 12.05
-
-Godz. 16.00
-
-[+] Marianna Gardyza – Asysty
-
-[+] Helena Pawlak – Leszka Bączka z r. 
-
-[+]Stefan Antczak – właścicieli pracowników „Jagienka”
-
-[+] Marianna Zakrocka – r. Pyzder z Redcza
-
-[+] Władysław Wojtkowski – Joanny i Macieja Patrowicz z Tatą
-
-[+] Wanda Radaczewska – Łyczaków 
-
-[+] Jan Pietrzak – siostrzenicy Ani z dziećmi 
-
-[+] Daromiła Dybowska – Wiolety 
-
-[+] Edward Krulikowski – Sabiny Rosińskiej
+#
 
 ##CZWARTEK - 13.05
 
