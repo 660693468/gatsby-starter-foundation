@@ -7,66 +7,89 @@ description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
 
-##SZÓSTA NIEDZIELA WIELKANOCY  - 9 maja 2021                                           
- 
-#OGŁOSZENIA DUSZPASTERSKIE
+##WNIEBOWSTĄPIENIE PAŃSKIE - 16 maja 2021
+##OGŁOSZENIA DUSZPASTERSKIE
 
-1.Świętowanie niedzieli to świętowanie obecności Jezusa Zmartwychwstałego wśród nas. Oddał życie, aby nas zbawić, abyśmy mieli życie. Jego ofiara wymaga naszej odpowiedzi, dlatego zachęcajmy się nawzajem do autentycznego życia wiarą na co dzień. Tak żyły pierwsze wspólnoty. Trwajmy w radości Wielkiej Nocy.
+1. Uroczystość Wniebowstąpienia Pana Jezusa uświadamia nam, że Chrystus uwielbiony, przebywający z Bogiem jest równocześnie z nami przez wszystkie dni, aż do skończenia świata. Żyje w Kościele, nieustannie uobecnia się w czasie każdej Eucharystii. Przyjęcie tej prawdy pomaga nam trwać w dziękczynieniu i uświęcać codzienność.
 
-2.Dziś o 11. spotkanie rodziców dzieci I Komunijnych  za tydzień rocznicowej.
+2. Przez cały maj codziennie, przed Mszą  nabożeństwo majowe. 
 
-3.Przez cały maj codziennie,  nabożeństwo majowe
+3. Spowiedź „0” dzieci Pierwszokomunijnych poniedziałek godz. 18.00
 
-4.W najbliższy czwartek, 13 maja, wspomnienie Matki Bożej Fatimskiej i kolejna rocznica zamachu na Jana Pawła II w 1981 r. O godz. 18.00  Na ten różaniec zabierzmy ze sobą świece.
+4. Trwamy w nowennie przed uroczystością Zesłania Ducha Świętego. 
 
-5.W  piątek rozpoczniemy nowennę przed uroczystością Zesłania Ducha Świętego. 
+5. Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
 
-6.Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
+ ##Kolęda - wizyta duszpasterska
 
-##Intencje mszalne  
+Wtorek godz. 14.00 
 
-#
+Borucin Niwy Szymczak – Jonatowskiej Olszewski – Zatarscy 
 
-##CZWARTEK - 13.05
+Środa godz. 13.00 
 
-Godz.18.00
+Borucin  Dytkiewicz  - Gajewscy –centrum Szkoła – Szmajda 
 
-[+]Irena Pawłowska  int. sąsiadów Nawrockich 
+Czwartek godz. 13.00 
 
-#Nabożeństwo Fatimskie
+Borucin Olszak i Błota Simińscy – Chojnaccy –Gąsiorowscy- Łodygowscy – Opłatkowscy  
 
-#PIĄTEK - 14.05
+Piątek godz. 12.00 
 
-Godz.12.00
+Borucin Krulikowscy – Wawrzyniak 
 
-[+]Czesław Łodygowski int.  r. Nawrockich z Borucina
+Sobota godz. 10.00 
 
-#SOBOTA - 15.05
+Borucin Bernaciak – Mierzejewscy – Grochowina - Nowakowscy
 
-Godz. 09.00
 
-[+]Halina Algierowicz int. Zofii Drzewieckiej z r. 
 
-[+] Stanisława Kurdupska int. wnuka Piotra z r.
+##Intencje mszalne 17  - 24  maja  2021
 
-#NIEDZIELA - 16.05
+#PONIEDZIAŁEK  - 17.05  - godz. 13.00 
 
-Godz. 08.00
+[+]Tomasz Puchalski  int. Stanisławy Wojtkowskiej
 
-[+]Stefan  Antczak  int. córki Marzeny z r.
+#WTOREK  - 18.05  - godz.13.00 
 
-Godz.09.00
+[+] Jarosław Wawrzonkowski  int.  Warzonkowskich ze Stoku
 
-[+]Marianna Łodygowska int. syna Jacka z r.
+#ŚRODA - 19.05 - NOWENNA DO MB NIEUSTAJĄCEJ POMOCY -  godz.18.00
 
-Godz. 10.00
+[+]  Irena Pawłowska –Jesionowskich i Maćkowiaków
 
-[+]rodzice Weronika Władysław Opłatkowscy int. córki z r.
+[+]  Marianna Zakrocka – wnuczek Martyny Weroniki Damiana z Kasią
 
-[+] Kazimiera Roman Balcerowscy
+[+]  Daromiła Dybowska – Borkowskich
 
-Godz. 11.00
+[+]  Henryk Słowiński – wnuka Krzysztofa z r. 
 
-[+] Andrzej Sikorski int. żony i dzieci 
+[+]  Władysław Wojtkowski – Zakładu Pogrzebowego Arka
 
-[-] Parafian
+[+]  Marianna Gardyza – brata Jana z r. 
+
+[+]  Edward Krulikowski – Genowefy Bączek
+
+[+]  Renata Ziółkowska – Jadwigi Bartkowiak i Barbary
+
+#CZWARTEK - 20.06 - godz. 12.00
+
+[+]  Władysław Wojtkowski  int.  Wojtkowskich 
+
+#PIĄTEK   - 21.05  - godz. 16.00
+
+[+]  rodzice Stanisława Stanisław Jączak int. córki Janiny
+
+#SOBOTA  - 22.05 – godz. 9.00 
+
+[+] Daromiła Dybowska int. dzieci z rodz.
+
+#NIEDZIELA - 23.05 – ZESŁANIE DUCHA ŚWIETEGO
+
+08.00 [-]  Parafian
+
+09.00 [+] Katarzyna Wawrzyniec Zgoła Katarzyna Józef Kurant 
+
+10.00 [+] Janina Stanisław Andrzej  Balcerowscy
+
+11.00 [+] Edward Krulikowski int. żony
