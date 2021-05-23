@@ -7,89 +7,88 @@ description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
 
-##WNIEBOWSTĄPIENIE PAŃSKIE - 16 maja 2021
-##OGŁOSZENIA DUSZPASTERSKIE
+##ZESŁANIE DUCHA ŚWIĘTEGO - 23 maja 2021                                                  
+#OGŁOSZENIA DUSZPASTERSKIE
 
-1. Uroczystość Wniebowstąpienia Pana Jezusa uświadamia nam, że Chrystus uwielbiony, przebywający z Bogiem jest równocześnie z nami przez wszystkie dni, aż do skończenia świata. Żyje w Kościele, nieustannie uobecnia się w czasie każdej Eucharystii. Przyjęcie tej prawdy pomaga nam trwać w dziękczynieniu i uświęcać codzienność.
+1. Przeżywamy dziś uroczystość Zesłania Ducha Świętego. W historii Kościoła dzień Pięćdziesiątnicy był punktem zwrotnym: obdarzeni darami Ducha Świętego apostołowie wyruszyli z wielką żarliwością głosić światu zmartwychwstałego Jezusa. 
 
-2. Przez cały maj codziennie, przed Mszą  nabożeństwo majowe. 
+2. Jutro  święto Najświętszej Maryi Panny, Matki Kościoła. 
 
-3. Spowiedź „0” dzieci Pierwszokomunijnych poniedziałek godz. 18.00
+3. W środę 26 maja – Dzień Matki. To dzięki matkom żyjemy, to one troszczyły się, i stale troszczą, o nas, z ojcami kształtują naszą osobowość. Msza święta o godz. 11.00 
 
-4. Trwamy w nowennie przed uroczystością Zesłania Ducha Świętego. 
+4. W czwartek 27 maja  Chrystusa, najwyższego i wiecznego Kapłana, jedynego pośrednika u Ojca. Tego dnia będziemy się modlić o uświęcenie tych, których Chrystus zaprosił do kapłańskiej wspólnoty ze sobą przez sakrament święceń. 
 
-5. Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
+5. W przyszłą niedzielę, będziemy obchodzili uroczystość Najświętszej Trójcy nasz parafialny odpust zapraszam na uroczystą sumę z procesją asysta na godz. 10.00
 
- ##Kolęda - wizyta duszpasterska
+6. Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
 
-Wtorek godz. 14.00 
+#Wizyta duszpasterska – kolęda
 
-Borucin Niwy Szymczak – Jonatowskiej Olszewski – Zatarscy 
+#Poniedziałek godz. 09.00   
 
-Środa godz. 13.00 
+- Kąkowa Wola Karkowscy Głowaccy Popławska Klejbach  Pogodzińscy
 
-Borucin  Dytkiewicz  - Gajewscy –centrum Szkoła – Szmajda 
+#Wtorek godz. 09.00  
 
-Czwartek godz. 13.00 
+- Kąkowa Wola Krawczyk- Klejbach Szatkowski - Lewandowscy
 
-Borucin Olszak i Błota Simińscy – Chojnaccy –Gąsiorowscy- Łodygowscy – Opłatkowscy  
+#Czwartek godz. 09.00  
 
-Piątek godz. 12.00 
+- Redecz Krukowy Wysocki
+                           
+14.00 – Redecz Krukowy Nowak 
 
-Borucin Krulikowscy – Wawrzyniak 
+#Piątek godz. 13.00 
 
-Sobota godz. 10.00 
+-  Stok 
 
-Borucin Bernaciak – Mierzejewscy – Grochowina - Nowakowscy
+#Sobota godz. 09.00 
+
+-  Annowo
 
 
+                        ##Intencje mszalne 24 – 30 maja 2021
 
-##Intencje mszalne 17  - 24  maja  2021
+#PONIEDZIAŁEK  - 24.05
 
-#PONIEDZIAŁEK  - 17.05  - godz. 13.00 
+godz. 8.00 [+] Halina Algierowicz int. Elżbiety Zielińskiej z r.
 
-[+]Tomasz Puchalski  int. Stanisławy Wojtkowskiej
+godz. 19.30 [-] o zdrowie dla Wiolety
 
-#WTOREK  - 18.05  - godz.13.00 
+#WTOREK  - 25.05
 
-[+] Jarosław Wawrzonkowski  int.  Warzonkowskich ze Stoku
+godz. 8.00 [+] Władysław Wojtkowski int. r Grzelaków i Siembitów
 
-#ŚRODA - 19.05 - NOWENNA DO MB NIEUSTAJĄCEJ POMOCY -  godz.18.00
+#ŚRODA – 26.05 – DZIEŃ MATKI
 
-[+]  Irena Pawłowska –Jesionowskich i Maćkowiaków
+godz. 11.00 – 29 rocznica święceń kapłańskich
 
-[+]  Marianna Zakrocka – wnuczek Martyny Weroniki Damiana z Kasią
+#CZWARTEK – 27.05
 
-[+]  Daromiła Dybowska – Borkowskich
+godz. 8.00 [+] Daromiła Dybowska  int. r. Ogrodowskich z Sułkowa
 
-[+]  Henryk Słowiński – wnuka Krzysztofa z r. 
+#PIĄTEK – 28.05
 
-[+]  Władysław Wojtkowski – Zakładu Pogrzebowego Arka
+godz. 12.00 [+]  Stanisława Kurdupska  int. chrześniaczki Jadwigi Nejman z mężem
 
-[+]  Marianna Gardyza – brata Jana z r. 
+#SOBOTA  29.05
 
-[+]  Edward Krulikowski – Genowefy Bączek
+godz. 16.00 [+] Henryk Słowiński int. Jaskólskich 
 
-[+]  Renata Ziółkowska – Jadwigi Bartkowiak i Barbary
+                    [+]  Joanna Stanisław Tadeusz Głowaccy
 
-#CZWARTEK - 20.06 - godz. 12.00
+#NIEDZIELA – 30.05 ŚWIĘTEJ TRÓJCY
 
-[+]  Władysław Wojtkowski  int.  Wojtkowskich 
+godz. 8.00 [+] Irena Pawłowska int. wnuka Rafała z r. 
 
-#PIĄTEK   - 21.05  - godz. 16.00
+godz. 9.00 [+] Tadeusz 13 rś i Marta Matusiak
 
-[+]  rodzice Stanisława Stanisław Jączak int. córki Janiny
+godz. 10.00 [+] Barbara Marianna Jan
 
-#SOBOTA  - 22.05 – godz. 9.00 
+                     [-] Parafian
 
-[+] Daromiła Dybowska int. dzieci z rodz.
+godz. 11.00  [+] Izabella Bączek int. syna Romana z r. 
 
-#NIEDZIELA - 23.05 – ZESŁANIE DUCHA ŚWIETEGO
+[+] Marianna Szydłowska int. r. Bloch i Gawrońskich
 
-08.00 [-]  Parafian
 
-09.00 [+] Katarzyna Wawrzyniec Zgoła Katarzyna Józef Kurant 
-
-10.00 [+] Janina Stanisław Andrzej  Balcerowscy
-
-11.00 [+] Edward Krulikowski int. żony
