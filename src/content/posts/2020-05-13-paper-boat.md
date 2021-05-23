@@ -73,9 +73,7 @@ godz. 12.00 [+]  Stanisława Kurdupska  int. chrześniaczki Jadwigi Nejman z mę
 
 #SOBOTA  29.05
 
-godz. 16.00 [+] Henryk Słowiński int. Jaskólskich 
-
-                    [+]  Joanna Stanisław Tadeusz Głowaccy
+godz. 16.00 [+] Henryk Słowiński int. Jaskólskich [+]  Joanna Stanisław Tadeusz Głowaccy
 
 #NIEDZIELA – 30.05 ŚWIĘTEJ TRÓJCY
 
@@ -83,9 +81,7 @@ godz. 8.00 [+] Irena Pawłowska int. wnuka Rafała z r.
 
 godz. 9.00 [+] Tadeusz 13 rś i Marta Matusiak
 
-godz. 10.00 [+] Barbara Marianna Jan
-
-                     [-] Parafian
+godz. 10.00 [+] Barbara Marianna Jan.  [-] Parafian
 
 godz. 11.00  [+] Izabella Bączek int. syna Romana z r. 
 
