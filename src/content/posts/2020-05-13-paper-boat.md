@@ -7,7 +7,9 @@ description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
 
-##NAJŚWIĘTSZEJ TRÓJCY  - 30 maja 2021                                                               #OGŁOSZENIA DUSZPASTERSKIE
+##NAJŚWIĘTSZEJ TRÓJCY  - 30 maja 2021                                                              
+
+#OGŁOSZENIA DUSZPASTERSKIE
 
 1. Stajemy dziś wobec największej tajemnicy wiary, która mówi, że jest jeden Bóg w trzech Osobach: Ojca, Syna i Ducha Świętego. Próbujmy zrozumieć tę prawdę nie tyle umysłem, ile światłem wiary, bowiem nie o zrozumienie chodzi, ale o tajemnicę miłości, która spaja Osoby Boskie i w której my także mamy swoje miejsce. Dziś odpust parafialny dziękuję uczestnikom asyście ministrantom dzieciom.
 
@@ -26,7 +28,7 @@ Przez całą oktawę Bożego Ciała zapraszam na nabożeństwo czerwcowe z proce
  
 PONIEDZIAŁEK – 14.00 Dąbie Poduchowne 
 
-WTOREK – 10.00 Bodzanowo Nejman – zawodzie –Wysoccy ok. 14-15.00 Dąbie centrum
+WTOREK – 10.00 Bodzanowo Nejman – Zawodzie –Wysoccy ok. 14-15.00 Dąbie centrum
 
 ŚRODA – 14.00 Dąbie Wieś
 
