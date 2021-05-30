@@ -2,89 +2,95 @@
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
-date: 2021-05-23
+date: 2021-05-30
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
 
-##ZESŁANIE DUCHA ŚWIĘTEGO - 23 maja 2021                                                  
-#OGŁOSZENIA DUSZPASTERSKIE
+##NAJŚWIĘTSZEJ TRÓJCY  - 30 maja 2021                                                               #OGŁOSZENIA DUSZPASTERSKIE
 
-1. Przeżywamy dziś uroczystość Zesłania Ducha Świętego. W historii Kościoła dzień Pięćdziesiątnicy był punktem zwrotnym: obdarzeni darami Ducha Świętego apostołowie wyruszyli z wielką żarliwością głosić światu zmartwychwstałego Jezusa. 
+1. Stajemy dziś wobec największej tajemnicy wiary, która mówi, że jest jeden Bóg w trzech Osobach: Ojca, Syna i Ducha Świętego. Próbujmy zrozumieć tę prawdę nie tyle umysłem, ile światłem wiary, bowiem nie o zrozumienie chodzi, ale o tajemnicę miłości, która spaja Osoby Boskie i w której my także mamy swoje miejsce. Dziś odpust parafialny dziękuję uczestnikom asyście ministrantom dzieciom.
 
-2. Jutro  święto Najświętszej Maryi Panny, Matki Kościoła. 
+2. Jutro ostatni dzień maja. Nabożeństwo majowe przed Mszą świętą.
 
-3. W środę 26 maja – Dzień Matki. To dzięki matkom żyjemy, to one troszczyły się, i stale troszczą, o nas, z ojcami kształtują naszą osobowość. Msza święta o godz. 11.00 
+3. Na jutro na godz. 10.00 proszę o pomoc przy kościele w załadowaniu ściętych gałęzi na przyczepę.
 
-4. W czwartek 27 maja  Chrystusa, najwyższego i wiecznego Kapłana, jedynego pośrednika u Ojca. Tego dnia będziemy się modlić o uświęcenie tych, których Chrystus zaprosił do kapłańskiej wspólnoty ze sobą przez sakrament święceń. 
+4. W najbliższy czwartek uroczystość Najświętszego Ciała i Krwi Chrystusa. Msze Święte o godz. 8.00 9.00 i 11.00 o 9.00 z procesją eucharystyczną /ze względu na ograniczenia epidemiologiczne wokół kościoła/   do czterech ołtarzy przy kościele. Do udziału w procesji zapraszam wszystkich, Dziewczynki zapraszam do sypania kwiatów, chłopców do funkcji dzwonników. 
+Przez całą oktawę Bożego Ciała zapraszam na nabożeństwo czerwcowe z procesją. 
 
-5. W przyszłą niedzielę, będziemy obchodzili uroczystość Najświętszej Trójcy nasz parafialny odpust zapraszam na uroczystą sumę z procesją asysta na godz. 10.00
+5. W pierwszy piątek miesiąca okazja do spowiedzi i Komunii Świętej. O godz. 15.30  dla przygotowujących się do I Komunii św i Komunii rocznicowej o 20.00
 
 6. Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
 
-#Wizyta duszpasterska – kolęda
+##Wizyta duszpasterska
+ 
+PONIEDZIAŁEK – 14.00 Dąbie Poduchowne 
 
-#Poniedziałek godz. 09.00   
+WTOREK – 10.00 Bodzanowo Nejman – zawodzie –Wysoccy ok. 14-15.00 Dąbie centrum
 
-- Kąkowa Wola Karkowscy Głowaccy Popławska Klejbach  Pogodzińscy
+ŚRODA – 14.00 Dąbie Wieś
 
-#Wtorek godz. 09.00  
+PIĄTEK – 09.00 Agnieszkowo - Bodzanowo
 
-- Kąkowa Wola Krawczyk- Klejbach Szatkowski - Lewandowscy
+##Intencje mszalne 31 maja - 06 czerwca 2021
 
-#Czwartek godz. 09.00  
+#PONIEDZIAŁEK – 31.05
 
-- Redecz Krukowy Wysocki
-                           
-14.00 – Redecz Krukowy Nowak 
+13.00 [+] Jarosław Wawrzonkowski i rodzice int. Sołtysińskich z Kłobi
 
-#Piątek godz. 13.00 
+#WTOREK – 01.06
 
--  Stok 
+09.30 [+] Władysław Wojtkowski int. r. Modrzejewskich z Dąbia
 
-#Sobota godz. 09.00 
+#ŚRODA – 02.06
 
--  Annowo
+13.00 [+] Daromiła Dybowska  int. Agaty Bogdana Dybowskich
 
+#CZWARTEK – Boże Ciało – 03.06
 
-                        ##Intencje mszalne 24 – 30 maja 2021
+08.00 [+] Halina Algierowicz int. Joli Krzyśka Małgorzaty 
 
-#PONIEDZIAŁEK  - 24.05
+[-] Parafian
 
-godz. 8.00 [+] Halina Algierowicz int. Elżbiety Zielińskiej z r.
+09.00 [+] Stefan Antczak int. teściowej Krystyny Nowak
 
-godz. 19.30 [-] o zdrowie dla Wiolety
+[+] Władysław Wojtkowski int. wnuka Kamila z r. 
 
-#WTOREK  - 25.05
+#PROCESJA EUCHARYSTYCZNA
+ 
+11.00 [+] Irena Pawłowska int. wnuczki Aleksandry 
 
-godz. 8.00 [+] Władysław Wojtkowski int. r Grzelaków i Siembitów
+[+]  Czesław Łodygowski int. wnuka Łukasza z r.
 
-#ŚRODA – 26.05 – DZIEŃ MATKI
+#PIĄTEK – I miesiąca – 04.06
 
-godz. 11.00 – 29 rocznica święceń kapłańskich
+15.30 - wystawienie Najświętszego Sakramentu Spowiedź
 
-#CZWARTEK – 27.05
+16.00 [+] Stanisława Kurdupska int. wnuka Daniela z r.
+[+] Edward Krulikowski int. syna Andrzeja z żoną 
 
-godz. 8.00 [+] Daromiła Dybowska  int. r. Ogrodowskich z Sułkowa
+PROCESJA EUCHARYSTYCZNA
 
-#PIĄTEK – 28.05
+20.00 SPOWIEDŹ  - komunijna i rocznicowa
 
-godz. 12.00 [+]  Stanisława Kurdupska  int. chrześniaczki Jadwigi Nejman z mężem
+#SOBOTA – 05.06
 
-#SOBOTA  29.05
+09.00 [+]  Halina Algierowicz int. Kucińskich z Rzadkiej Woli
+[+] Marianna Szydłowska int. r. Gębickich 
 
-godz. 16.00 [+] Henryk Słowiński int. Jaskólskich [+]  Joanna Stanisław Tadeusz Głowaccy
+PROCESJA EUCHARYSTYCZNA 
 
-#NIEDZIELA – 30.05 ŚWIĘTEJ TRÓJCY
+# NIEDZIELA – UROCZYSTOŚĆ PIERWSZEJ KOMUNII ŚWIETEJ - 06.06
 
-godz. 8.00 [+] Irena Pawłowska int. wnuka Rafała z r. 
+08.00 [+] Marianna Gardyza int. córki Jadwigi
 
-godz. 9.00 [+] Tadeusz 13 rś i Marta Matusiak
+09.00 [+] Renata Ziółkowska int. brata Bogumiła z r. 
 
-godz. 10.00 [+] Barbara Marianna Jan.  [-] Parafian
+10.00 [-] PARAFIAN 
+[+] Henryk Słowiński int. wnuków Asi i Marcina z r. 
 
-godz. 11.00  [+] Izabella Bączek int. syna Romana z r. 
+11.00 [+] Helena Pawlak int. dzieci 
+[+] Marianna Zakrocka int. córki Katarzyny z r. 
 
-[+] Marianna Szydłowska int. r. Bloch i Gawrońskich
-
+12.00 [-] Dzieci przystępujących do Pierwszej Komunii Świętej
 
