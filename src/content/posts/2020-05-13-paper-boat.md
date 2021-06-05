@@ -2,97 +2,66 @@
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
-date: 2021-05-30
+date: 2021-06-05
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
 
-##NAJŚWIĘTSZEJ TRÓJCY  - 30 maja 2021                                                              
+##DZIESIĄTA NIEDZIELA W CIĄGU ROKU – 6 czerwca 2021                                            
 
 #OGŁOSZENIA DUSZPASTERSKIE
 
-1. Stajemy dziś wobec największej tajemnicy wiary, która mówi, że jest jeden Bóg w trzech Osobach: Ojca, Syna i Ducha Świętego. Próbujmy zrozumieć tę prawdę nie tyle umysłem, ile światłem wiary, bowiem nie o zrozumienie chodzi, ale o tajemnicę miłości, która spaja Osoby Boskie i w której my także mamy swoje miejsce. Dziś odpust parafialny dziękuję uczestnikom asyście ministrantom dzieciom.
+1. Dziś uroczystość I Komunii św. 
 
-2. Jutro ostatni dzień maja. Nabożeństwo majowe przed Mszą świętą.
+2. Procesje eucharystyczne wokół naszego kościoła będą odbywały się codziennie o godz. 17.00 przez całą tzw. oktawę Bożego Ciała. 
 
-3. Na jutro na godz. 10.00 proszę o pomoc przy kościele w załadowaniu ściętych gałęzi na przyczepę.
+3. Biały Tydzień codziennie o 17.00 sobota i niedziela o 10.00
 
-4. W najbliższy czwartek uroczystość Najświętszego Ciała i Krwi Chrystusa. Msze Święte o godz. 8.00 9.00 i 11.00 o 9.00 z procesją eucharystyczną /ze względu na ograniczenia epidemiologiczne wokół kościoła/   do czterech ołtarzy przy kościele. Do udziału w procesji zapraszam wszystkich, Dziewczynki zapraszam do sypania kwiatów, chłopców do funkcji dzwonników. 
-Przez całą oktawę Bożego Ciała zapraszam na nabożeństwo czerwcowe z procesją. 
 
-5. W pierwszy piątek miesiąca okazja do spowiedzi i Komunii Świętej. O godz. 15.30  dla przygotowujących się do I Komunii św i Komunii rocznicowej o 20.00
+##Intencje mszalne  07 - 13 czerwca 2021
 
-6. Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
+#PONIEDZIAŁEK  - 07.06
 
-##Wizyta duszpasterska
- 
-PONIEDZIAŁEK – 14.00 Dąbie Poduchowne 
+17.00 [+] Wincenty Czesława Stanisław Głowaccy Lucjan Ochmański 
 
-WTOREK – 10.00 Bodzanowo Nejman – Zawodzie –Wysoccy ok. 14-15.00 Dąbie centrum
+[-] Procesja Eucharystyczna
 
-ŚRODA – 14.00 Dąbie Wieś
+#WTOREK – 08.06
 
-PIĄTEK – 09.00 Agnieszkowo - Bodzanowo
+17.00 [+]Artur Krawczyk w rś int. rodziców
 
-##Intencje mszalne 31 maja - 06 czerwca 2021
+[-] Procesja Eucharystyczna
 
-#PONIEDZIAŁEK – 31.05
+#ŚRODA - 09.06
 
-13.00 [+] Jarosław Wawrzonkowski i rodzice int. Sołtysińskich z Kłobi
+17.00 [+]Edward Krulikowski int. wnuczki Danuty z r. 
 
-#WTOREK – 01.06
+[-] Procesja Eucharystyczna
 
-09.30 [+] Władysław Wojtkowski int. r. Modrzejewskich z Dąbia
+#CZWARTEK – 10.06
 
-#ŚRODA – 02.06
+17.00 [+]Józef Kubiak int. siostry Reginy z mężem 
 
-13.00 [+] Daromiła Dybowska  int. Agaty Bogdana Dybowskich
+[-] Procesja Eucharystyczna  zakończenie oktawy
 
-#CZWARTEK – Boże Ciało – 03.06
+#PIĄTEK – 11.06
 
-08.00 [+] Halina Algierowicz int. Joli Krzyśka Małgorzaty 
+17.00 [+]Renata Ziółkowska int. siostry Beaty z r.
 
-[-] Parafian
+#SOBOTA – 12.06 
 
-09.00 [+] Stefan Antczak int. teściowej Krystyny Nowak
+10.00 [+]Stanisław Zieliński 3 rś int. żony i dzieci
 
-[+] Władysław Wojtkowski int. wnuka Kamila z r. 
+#NIEDZIELA – 13.06
 
-#PROCESJA EUCHARYSTYCZNA
- 
-11.00 [+] Irena Pawłowska int. wnuczki Aleksandry 
+08.00  [-]  Parafian 
 
-[+]  Czesław Łodygowski int. wnuka Łukasza z r.
+09.00  [+]  Antoni Marianna Marek
 
-#PIĄTEK – I miesiąca – 04.06
+09.00  [+]  Stanisław Zakrocki w rś int. wnuków Agaty Amelii Huberta 
 
-15.30 - wystawienie Najświętszego Sakramentu Spowiedź
+10.00  [+]  Leszek 8 rś Małgorzata Bronisław Pikulscy int żony i córek z r.
 
-16.00 [+] Stanisława Kurdupska int. wnuka Daniela z r.
-[+] Edward Krulikowski int. syna Andrzeja z żoną 
+11.00  [+]  Stanisław 25 rś i Stanisława Molewscy int córki i wnuczek z r
 
-PROCESJA EUCHARYSTYCZNA
-
-20.00 SPOWIEDŹ  - komunijna i rocznicowa
-
-#SOBOTA – 05.06
-
-09.00 [+]  Halina Algierowicz int. Kucińskich z Rzadkiej Woli
-[+] Marianna Szydłowska int. r. Gębickich 
-
-PROCESJA EUCHARYSTYCZNA 
-
-# NIEDZIELA – UROCZYSTOŚĆ PIERWSZEJ KOMUNII ŚWIETEJ - 06.06
-
-08.00 [+] Marianna Gardyza int. córki Jadwigi
-
-09.00 [+] Renata Ziółkowska int. brata Bogumiła z r. 
-
-10.00 [-] PARAFIAN 
-[+] Henryk Słowiński int. wnuków Asi i Marcina z r. 
-
-11.00 [+] Helena Pawlak int. dzieci 
-[+] Marianna Zakrocka int. córki Katarzyny z r. 
-
-12.00 [-] Dzieci przystępujących do Pierwszej Komunii Świętej
-
+12.00  [- ] Komunia Rocznicowa
