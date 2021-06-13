@@ -2,66 +2,74 @@
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
-date: 2021-06-05
+date: 2021-06-13
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
 
-##DZIESIĄTA NIEDZIELA W CIĄGU ROKU – 6 czerwca 2021                                            
+##JEDENASTA NIEDZIELA W CIĄGU ROKU - 13 czerwca 2021
 
 #OGŁOSZENIA DUSZPASTERSKIE
 
-1. Dziś uroczystość I Komunii św. 
+1. Słowo Boże, które słyszymy w liturgii słowa, czasami może wydawać się nam jak drobne ziarno gorczycy, lecz jeśli padnie na podatny grunt naszego serca, wyrośnie z niego zaskakujący nas krzew, który da schronienie wielu. Nie odrzucajmy nigdy poruszeń serca, których źródłem jest słowo samego Boga. Niech pomaga nam nie tylko w głębszym przeżywaniu Eucharystii, lecz także uwrażliwia na natchnienia Ducha Świętego w codzienności.
 
-2. Procesje eucharystyczne wokół naszego kościoła będą odbywały się codziennie o godz. 17.00 przez całą tzw. oktawę Bożego Ciała. 
+2. Komunikat Kurii Diecezjalnej Włocławskiej: 
 
-3. Biały Tydzień codziennie o 17.00 sobota i niedziela o 10.00
+7 czerwca br. ks. bp Krzysztof Wętkowski, z woli Ojca Świętego Franciszka 
+mianowany 77. biskupem włocławskim, objął kanonicznie diecezję  włocławską i rozpoczął posługę biskupa diecezjalnego. W najbliższą sobotę 19 czerwca br. o godz. 11 Ksiądz Biskup odprawi  uroczystą Mszę świętą połączoną z ingresem do Bazyliki Katedralnej we  Włocławku. Serdecznie zapraszamy do udziału w tej uroczystości. Wszystkich diecezjan  prosimy o modlitwę za nowego Pasterza Kościoła Włocławskiego.
+Ze względu na ograniczenia związane z pandemią, nie wszyscy chętni będą  mogli wejść do katedry, dlatego informujemy, że uroczystość będzie  transmitowana w Telewizji TRWAM, Radiu Maryja oraz na stronach  internetowych tych rozgłośni. Zachęcamy do duchowej, modlitewnej łączności z tak ważnym dla Diecezji Włocławskiej wydarzeniem.
+
+3. Dziś komunia rocznicowa.
+
+4. Nabożeństwo czerwcowe codziennie przed Mszą św. 
+
+5. Przypominam o opłatach za śmieci i wodę na cmentarzu.
+
+6. Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
 
 
-##Intencje mszalne  07 - 13 czerwca 2021
+##Intencje mszalne 14– 20  czerwca 2021
 
-#PONIEDZIAŁEK  - 07.06
+#PONIEDZIAŁEK -14.06
 
-17.00 [+] Wincenty Czesława Stanisław Głowaccy Lucjan Ochmański 
+15.30 [–] RÓŻANIEC FATIMSKI
 
-[-] Procesja Eucharystyczna
+16.00 [+] Stanisław Marek w 2rś int żony i dzieci z r
 
-#WTOREK – 08.06
+#WTOREK – 15.06
 
-17.00 [+]Artur Krawczyk w rś int. rodziców
+11.00 [+]Wanda Radaczewska int. r. Rumińskich  
 
-[-] Procesja Eucharystyczna
+#ŚRODA – 16.06
 
-#ŚRODA - 09.06
+16.00 [+]Jacek Misterski w 15 rś int. żony i córki
 
-17.00 [+]Edward Krulikowski int. wnuczki Danuty z r. 
+#CZWARTEK – 17.06
 
-[-] Procesja Eucharystyczna
+12.00 [+]Halina Algierowicz int. chrześniaczki Anny Nowickiej z mężem
 
-#CZWARTEK – 10.06
+#PIĄTEK -18.06
 
-17.00 [+]Józef Kubiak int. siostry Reginy z mężem 
+16.00 [+] Renata Ziółkowska – r. Dwojak z Redcza Kalnego 
 
-[-] Procesja Eucharystyczna  zakończenie oktawy
+[+] Edward Krulikowski – r. Matusiaków
 
-#PIĄTEK – 11.06
+[+] Marianna Gardyza – chrześniaczki z r.  
 
-17.00 [+]Renata Ziółkowska int. siostry Beaty z r.
+[+]Marianna Zakrocka – Mileny Kucal
 
-#SOBOTA – 12.06 
+[+]Władysław Wojtkowski – społeczności szkolnej ZS Lubraniec
 
-10.00 [+]Stanisław Zieliński 3 rś int. żony i dzieci
+[+] Kamil Pietrzak  - Mileny Kucal
 
-#NIEDZIELA – 13.06
+#SOBOTA – 19.06
 
-08.00  [-]  Parafian 
+09.00[+]Stanisława Kurdupska int. syna Ryszarda z r.
 
-09.00  [+]  Antoni Marianna Marek
+#NIEDZIELA – 20.06
 
-09.00  [+]  Stanisław Zakrocki w rś int. wnuków Agaty Amelii Huberta 
+08.00 [-]Parafian
 
-10.00  [+]  Leszek 8 rś Małgorzata Bronisław Pikulscy int żony i córek z r.
+09.00[+] Wacława Edward Kinasiewicz 
 
-11.00  [+]  Stanisław 25 rś i Stanisława Molewscy int córki i wnuczek z r
-
-12.00  [- ] Komunia Rocznicowa
+11.00 [+] Zygmunt Marianna Tuchorscy, o zdrowie dla Makarego i Genowefy Zielińskich
