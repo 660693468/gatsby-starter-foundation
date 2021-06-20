@@ -2,74 +2,71 @@
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
-date: 2021-06-13
+date: 2021-06-20
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
 
-##JEDENASTA NIEDZIELA W CIĄGU ROKU - 13 czerwca 2021
+##DWUNASTA NIEDZIELA W CIĄGU ROKU - 20 czerwca 2021                             
 
 #OGŁOSZENIA DUSZPASTERSKIE
 
-1. Słowo Boże, które słyszymy w liturgii słowa, czasami może wydawać się nam jak drobne ziarno gorczycy, lecz jeśli padnie na podatny grunt naszego serca, wyrośnie z niego zaskakujący nas krzew, który da schronienie wielu. Nie odrzucajmy nigdy poruszeń serca, których źródłem jest słowo samego Boga. Niech pomaga nam nie tylko w głębszym przeżywaniu Eucharystii, lecz także uwrażliwia na natchnienia Ducha Świętego w codzienności.
+1. Eucharystia, w której uczestniczymy, jest cudem dokonującym się na naszych oczach, lecz rzadko tak o niej myślimy. Może gdyby wśród nas Jezus dokonał tak spektakularnego znaku jak ucieszenie burzy na jeziorze Genezaret, przypadlibyśmy Mu do stóp. A tu, na tym ołtarzu, w czasie każdej Eucharystii dokonuje się cud: Bóg staje wśród nas i jest dla nas pokarmem. 
 
-2. Komunikat Kurii Diecezjalnej Włocławskiej: 
+2. Nabożeństwo czerwcowe codziennie przed Mszą św.
 
-7 czerwca br. ks. bp Krzysztof Wętkowski, z woli Ojca Świętego Franciszka 
-mianowany 77. biskupem włocławskim, objął kanonicznie diecezję  włocławską i rozpoczął posługę biskupa diecezjalnego. W najbliższą sobotę 19 czerwca br. o godz. 11 Ksiądz Biskup odprawi  uroczystą Mszę świętą połączoną z ingresem do Bazyliki Katedralnej we  Włocławku. Serdecznie zapraszamy do udziału w tej uroczystości. Wszystkich diecezjan  prosimy o modlitwę za nowego Pasterza Kościoła Włocławskiego.
-Ze względu na ograniczenia związane z pandemią, nie wszyscy chętni będą  mogli wejść do katedry, dlatego informujemy, że uroczystość będzie  transmitowana w Telewizji TRWAM, Radiu Maryja oraz na stronach  internetowych tych rozgłośni. Zachęcamy do duchowej, modlitewnej łączności z tak ważnym dla Diecezji Włocławskiej wydarzeniem.
+3. W środę Dzień Ojca pamiętajmy o modlitwie.
 
-3. Dziś komunia rocznicowa.
+4. W czwartek 24 czerwca  uroczystość Narodzenia św. Jana Chrzciciela, który wzywał do nawrócenia i przygotował drogę Jezusowi. Wskazał Jezusa jako Baranka Bożego.
 
-4. Nabożeństwo czerwcowe codziennie przed Mszą św. 
+5. W czwartek  zakończenie roku szkolnego. Spowiedź od 17.30 o godz. 18.00   Msza św. dziękczynna za wszelkie dary i łaski, których Bóg udzielił nam w tym roku, za piękną pracę wychowawczą naszych nauczycieli, pedagogów, pracowników szkoły, za rzetelną pracę dzieci i młodzieży, uwieńczoną dobrymi wynikami.
 
-5. Przypominam o opłatach za śmieci i wodę na cmentarzu.
+6.Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
 
-6. Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
+##Intencje mszalne 21 - 27 czerwca   2021
+
+#PONIEDZIAŁEK – 21.06
+
+16.00 [+] Stanisław Kropidłowski int. r. Waśkiewiczów i Balcerak
+
+#WTOREK – 22.06
+
+13.00 [+] Kamil Pietrzak int. 
+
+#ŚRODA – 23.06
+
+15.30 [+] Edmund Stefański w 32 r r. Stefańskich Podolskich Górniaków
+
+16.00 [+] Serafina Łacińska w rś
+
+#CZWARTEK - 24.06
+
+##Św. Jana Chrzciciela  -  Zakończenie roku katechetycznego
+
+17.00 [+] Janów 
+
+#17.30 – WYSTAWIENIE NAJŚWIETSZEGO SAKRAMENTU – SPOWIEDŹ
+
+18.00 – DZIECI MŁODZIEŻY NAUCZYCIELI PRACOWNIKÓW SZKOŁY 
+
+#PIĄTEK  - 25.06
+
+12.30 [+] Barbara Pawłowska int. męża Janusza
+
+#SOBOTA  - 26.06
+
+09.00 [+] Urszula Kozińska 10 rś rodzic. Stanisława Antoni Anastazja Baltazar Franciszek Wawrzyniak int. Wawrzyniak
+
+#NIEDZIELA -27.06
 
 
-##Intencje mszalne 14– 20  czerwca 2021
+08.00 [+] Władysław Wojtkowski imieninowa
 
-#PONIEDZIAŁEK -14.06
+09.00 [+] Marianna 9 rś i Henryk Kujawa int. dzieci
 
-15.30 [–] RÓŻANIEC FATIMSKI
+[+] Edward Krulikowski int. syna Jana z r
 
-16.00 [+] Stanisław Marek w 2rś int żony i dzieci z r
+11.00 [+] Kazimierz Wiktoria Kralscy Genowefa Eugeniusz Bladowski
 
-#WTOREK – 15.06
+[-] Parafian
 
-11.00 [+]Wanda Radaczewska int. r. Rumińskich  
-
-#ŚRODA – 16.06
-
-16.00 [+]Jacek Misterski w 15 rś int. żony i córki
-
-#CZWARTEK – 17.06
-
-12.00 [+]Halina Algierowicz int. chrześniaczki Anny Nowickiej z mężem
-
-#PIĄTEK -18.06
-
-16.00 [+] Renata Ziółkowska – r. Dwojak z Redcza Kalnego 
-
-[+] Edward Krulikowski – r. Matusiaków
-
-[+] Marianna Gardyza – chrześniaczki z r.  
-
-[+]Marianna Zakrocka – Mileny Kucal
-
-[+]Władysław Wojtkowski – społeczności szkolnej ZS Lubraniec
-
-[+] Kamil Pietrzak  - Mileny Kucal
-
-#SOBOTA – 19.06
-
-09.00[+]Stanisława Kurdupska int. syna Ryszarda z r.
-
-#NIEDZIELA – 20.06
-
-08.00 [-]Parafian
-
-09.00[+] Wacława Edward Kinasiewicz 
-
-11.00 [+] Zygmunt Marianna Tuchorscy, o zdrowie dla Makarego i Genowefy Zielińskich
