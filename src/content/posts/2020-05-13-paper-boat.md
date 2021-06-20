@@ -21,7 +21,7 @@ featuredImage: /assets/papiez.jpg
 
 5. W czwartek  zakończenie roku szkolnego. Spowiedź od 17.30 o godz. 18.00   Msza św. dziękczynna za wszelkie dary i łaski, których Bóg udzielił nam w tym roku, za piękną pracę wychowawczą naszych nauczycieli, pedagogów, pracowników szkoły, za rzetelną pracę dzieci i młodzieży, uwieńczoną dobrymi wynikami.
 
-6.Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
+6. Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
 
 ##Intencje mszalne 21 - 27 czerwca   2021
 
@@ -31,7 +31,7 @@ featuredImage: /assets/papiez.jpg
 
 #WTOREK – 22.06
 
-13.00 [+] Kamil Pietrzak int. 
+13.00 [+] Kamil Pietrzak int. Taty
 
 #ŚRODA – 23.06
 
