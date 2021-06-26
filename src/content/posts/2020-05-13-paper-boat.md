@@ -2,71 +2,76 @@
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
-date: 2021-06-20
+date: 2021-06-26
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
-
-##DWUNASTA NIEDZIELA W CIĄGU ROKU - 20 czerwca 2021                             
+##TRZYNASTA NIEDZIELA W CIĄGU ROKU  - 27 czerwca 2021                            
 
 #OGŁOSZENIA DUSZPASTERSKIE
 
-1. Eucharystia, w której uczestniczymy, jest cudem dokonującym się na naszych oczach, lecz rzadko tak o niej myślimy. Może gdyby wśród nas Jezus dokonał tak spektakularnego znaku jak ucieszenie burzy na jeziorze Genezaret, przypadlibyśmy Mu do stóp. A tu, na tym ołtarzu, w czasie każdej Eucharystii dokonuje się cud: Bóg staje wśród nas i jest dla nas pokarmem. 
+1. Jednym z owoców Eucharystii jest nasze uzdrowienie. Dokonuje się w głębokiej jedności z Bogiem i nie od razu skutki Jego działania są widoczne. Czasami trzeba dystansu, czasu, a przede zaufania Bogu, które wzmacnia naszą wiarę w życiu codziennym. Po wyjściu ze Mszy Świętej, pobłogosławieni przez Boga, umocnieni Jego słowem i ciałem, jesteśmy przeświadczeni, że On jest zawsze z nami, że nam błogosławi i uzdrawia nas mocą swoich sakramentów.
 
-2. Nabożeństwo czerwcowe codziennie przed Mszą św.
+2. Kończy się czerwiec – miesiąc szczególnej modlitwy do Najświętszego Serca Jezusa. Zapraszam na ostatnie nabożeństwa czerwcowe  przed Mszą św.
 
-3. W środę Dzień Ojca pamiętajmy o modlitwie.
+3.We wtorek 29 czerwca uroczystość Świętych Apostołów Piotra i Pawła. Tego dnia w sposób szczególny pamiętajmy o Piotrze naszych czasów, papieżu Franciszku, i ks. bp. Krzysztofie  i prośmy Ducha Świętego, aby towarzyszył im w posłudze. taca przeznaczona na świętopietrze.
 
-4. W czwartek 24 czerwca  uroczystość Narodzenia św. Jana Chrzciciela, który wzywał do nawrócenia i przygotował drogę Jezusowi. Wskazał Jezusa jako Baranka Bożego.
+4.Pierwszy piątek miesiąca - okazja do spowiedzi adoracji Najświętszego Sakramentu i Komunii Świętej wynagradzającej 15.30 
 
-5. W czwartek  zakończenie roku szkolnego. Spowiedź od 17.30 o godz. 18.00   Msza św. dziękczynna za wszelkie dary i łaski, których Bóg udzielił nam w tym roku, za piękną pracę wychowawczą naszych nauczycieli, pedagogów, pracowników szkoły, za rzetelną pracę dzieci i młodzieży, uwieńczoną dobrymi wynikami.
+5.Czas  wakacji szkolnych i urlopów. Dobry wypoczynek, czas spędzony z najbliższymi i poświęcony Panu Bogu pomogą nam odkrywać nowy sens codziennych spraw. Wszystkim uczniom, nauczycielom i wypoczywającym na urlopach życzymy bezpiecznych i ubogacających dni. 
 
 6. Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
 
-##Intencje mszalne 21 - 27 czerwca   2021
+##Intencje mszalne 28 czerwca – 04 lipca  2021
 
-#PONIEDZIAŁEK – 21.06
+#PONIEDZIAŁEK - 28.06
 
-16.00 [+] Stanisław Kropidłowski int. r. Waśkiewiczów i Balcerak
+12.oo [-] w intencji własnej
 
-#WTOREK – 22.06
+#WTOREK  - 29.06
 
-13.00 [+] Kamil Pietrzak int. Taty
+16.00 [+]  Piotruś Mroziński imieninowa
 
-#ŚRODA – 23.06
+#ŚRODA  - 30.06 
 
-15.30 [+] Edmund Stefański w 32 r r. Stefańskich Podolskich Górniaków
+16.00 [+] Bolesław 25 rś i Janina Jatczak
 
-16.00 [+] Serafina Łacińska w rś
+#CZWARTEK - 01.07
 
-#CZWARTEK - 24.06
+16.00 [+] Marian Ładziński imieninowa int. rodziny  
 
-##Św. Jana Chrzciciela  -  Zakończenie roku katechetycznego
+#PIĄTEK  -  02.07 – PIERWSZY PIĄTEK MIESIĄCA
 
-17.00 [+] Janów 
+15.30 [-] adoracja Najświętszego Sakramentu – spowiedź
 
-#17.30 – WYSTAWIENIE NAJŚWIETSZEGO SAKRAMENTU – SPOWIEDŹ
+16.00 [+]Kamil Pietrzak – Betlińskich i Wawrzonkowskich
 
-18.00 – DZIECI MŁODZIEŻY NAUCZYCIELI PRACOWNIKÓW SZKOŁY 
+[+] Renata Ziółkowska – Krzysztofa i Wandy z r.
 
-#PIĄTEK  - 25.06
+[+] Edward Krulikowski – r. Szynalskich 
 
-12.30 [+] Barbara Pawłowska int. męża Janusza
+[+] Marianna Gardyza – Jędrzejewskiej z córkami
 
-#SOBOTA  - 26.06
+[+] Halina Algierowicz – Izabeli z r. i Lidii 
 
-09.00 [+] Urszula Kozińska 10 rś rodzic. Stanisława Antoni Anastazja Baltazar Franciszek Wawrzyniak int. Wawrzyniak
+[+] Marianna Zakrocka – sąsiadów Wawrzonkowskich
 
-#NIEDZIELA -27.06
+[+] Czesław Łodygowski – prac. Starostwa Radziejów 
 
+[+] Władysław Wojtkowski – piłkarzy Oldboy Lubraniec
 
-08.00 [+] Władysław Wojtkowski imieninowa
+#SOBOTA – 03.07
 
-09.00 [+] Marianna 9 rś i Henryk Kujawa int. dzieci
+09.00 [+] Helena Pawlak int szwagra Seweryna z córką; Anety Henryka Zielińskich z synami 
 
-[+] Edward Krulikowski int. syna Jana z r
+16.00 [-] Krystyna Krzysztof Urbańscy 40 r. ślubu
 
-11.00 [+] Kazimierz Wiktoria Kralscy Genowefa Eugeniusz Bladowski
+17.00 [-] ślub Anna i Przemysław
 
-[-] Parafian
+#NIEDZIELA  - 04.07
 
+08.00 [+] Adela Adam Pawlik
+
+09.00 [+] Ryszard Rzepka 10 rś
+
+11.00 [+] r. Czajkowskich Marczaków Pawlików Ewa Dombek
