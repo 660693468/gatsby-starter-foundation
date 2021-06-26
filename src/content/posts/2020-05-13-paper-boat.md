@@ -14,11 +14,11 @@ featuredImage: /assets/papiez.jpg
 
 2. Kończy się czerwiec – miesiąc szczególnej modlitwy do Najświętszego Serca Jezusa. Zapraszam na ostatnie nabożeństwa czerwcowe  przed Mszą św.
 
-3.We wtorek 29 czerwca uroczystość Świętych Apostołów Piotra i Pawła. Tego dnia w sposób szczególny pamiętajmy o Piotrze naszych czasów, papieżu Franciszku, i ks. bp. Krzysztofie  i prośmy Ducha Świętego, aby towarzyszył im w posłudze. taca przeznaczona na świętopietrze.
+3. We wtorek 29 czerwca uroczystość Świętych Apostołów Piotra i Pawła. Tego dnia w sposób szczególny pamiętajmy o Piotrze naszych czasów, papieżu Franciszku, i ks. bp. Krzysztofie  i prośmy Ducha Świętego, aby towarzyszył im w posłudze. taca przeznaczona na świętopietrze.
 
-4.Pierwszy piątek miesiąca - okazja do spowiedzi adoracji Najświętszego Sakramentu i Komunii Świętej wynagradzającej 15.30 
+4. Pierwszy piątek miesiąca - okazja do spowiedzi adoracji Najświętszego Sakramentu i Komunii Świętej wynagradzającej 15.30 
 
-5.Czas  wakacji szkolnych i urlopów. Dobry wypoczynek, czas spędzony z najbliższymi i poświęcony Panu Bogu pomogą nam odkrywać nowy sens codziennych spraw. Wszystkim uczniom, nauczycielom i wypoczywającym na urlopach życzymy bezpiecznych i ubogacających dni. 
+5. Czas  wakacji szkolnych i urlopów. Dobry wypoczynek, czas spędzony z najbliższymi i poświęcony Panu Bogu pomogą nam odkrywać nowy sens codziennych spraw. Wszystkim uczniom, nauczycielom i wypoczywającym na urlopach życzymy bezpiecznych i ubogacających dni. 
 
 6. Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
 
