@@ -2,76 +2,64 @@
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
-date: 2021-06-26
+date: 2021-07-04
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
-##TRZYNASTA NIEDZIELA W CIĄGU ROKU  - 27 czerwca 2021                            
+##CZTERNASTA NIEDZIELA W CIĄGU ROKU - 4 lipca 2021                               
 
 #OGŁOSZENIA DUSZPASTERSKIE
 
-1. Jednym z owoców Eucharystii jest nasze uzdrowienie. Dokonuje się w głębokiej jedności z Bogiem i nie od razu skutki Jego działania są widoczne. Czasami trzeba dystansu, czasu, a przede zaufania Bogu, które wzmacnia naszą wiarę w życiu codziennym. Po wyjściu ze Mszy Świętej, pobłogosławieni przez Boga, umocnieni Jego słowem i ciałem, jesteśmy przeświadczeni, że On jest zawsze z nami, że nam błogosławi i uzdrawia nas mocą swoich sakramentów.
+1. Czas wakacji, urlopów, odpoczynku jest okazją do pogłębiania relacji z Bogiem przez modlitwę, lekturę Pisma Świętego, celebrowanie niedzieli i spotkania na Eucharystii, na które wcześniej, z powodu zabiegania, musieliśmy znaleźć czas. 
 
-2. Kończy się czerwiec – miesiąc szczególnej modlitwy do Najświętszego Serca Jezusa. Zapraszam na ostatnie nabożeństwa czerwcowe  przed Mszą św.
+2. Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli
 
-3. We wtorek 29 czerwca uroczystość Świętych Apostołów Piotra i Pawła. Tego dnia w sposób szczególny pamiętajmy o Piotrze naszych czasów, papieżu Franciszku, i ks. bp. Krzysztofie  i prośmy Ducha Świętego, aby towarzyszył im w posłudze. taca przeznaczona na świętopietrze.
+##Intencje mszalne 05 – 11 lipca 2021
 
-4. Pierwszy piątek miesiąca - okazja do spowiedzi adoracji Najświętszego Sakramentu i Komunii Świętej wynagradzającej 15.30 
+#PONIEDZIAŁEK - 05.07 godz. 09.00 
 
-5. Czas  wakacji szkolnych i urlopów. Dobry wypoczynek, czas spędzony z najbliższymi i poświęcony Panu Bogu pomogą nam odkrywać nowy sens codziennych spraw. Wszystkim uczniom, nauczycielom i wypoczywającym na urlopach życzymy bezpiecznych i ubogacających dni. 
+[+]  Mirosław Kocent int. r. Waśkiewicz i Balcerak
 
-6. Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
+#WTOREK  - 06.07 godz. 16.00 
 
-##Intencje mszalne 28 czerwca – 04 lipca  2021
+[+]  Daromiła Dybowska – Dybowskich z Inowrocławia i Aleksandrowa 
 
-#PONIEDZIAŁEK - 28.06
+[+]  Stanisław Kropidłowski - Augustyniaków z Borucina
 
-12.oo [-] w intencji własnej
+[+] Wincenty Wojtasik – Leon i Zofia Nawroccy
 
-#WTOREK  - 29.06
+[+] Kamil Pietrzak – Heleny Kwaśnej z dziećmi 
 
-16.00 [+]  Piotruś Mroziński imieninowa
+[+] Renata Ziółkowska – sąsiadów Misterskich 
 
-#ŚRODA  - 30.06 
+[+] Edward Krulikowski – r. Olejniczak i Betlińskich
 
-16.00 [+] Bolesław 25 rś i Janina Jatczak
+[+] Marianna Gardyza – Wilczewskich z dziećmi
 
-#CZWARTEK - 01.07
+[+] Marianna Zakrocka – Bruzdów Moniki Kalinowskiej dziećmi
 
-16.00 [+] Marian Ładziński imieninowa int. rodziny  
+[+] Władysław Wojtkowski -  r. Woźny  
 
-#PIĄTEK  -  02.07 – PIERWSZY PIĄTEK MIESIĄCA
+#ŚRODA – 07.07 godz. 16.00
 
-15.30 [-] adoracja Najświętszego Sakramentu – spowiedź
+[+] Danuta Lewandowska w 3 rś
 
-16.00 [+]Kamil Pietrzak – Betlińskich i Wawrzonkowskich
+#CZWARTEK – 08.07 godz. 16.00
 
-[+] Renata Ziółkowska – Krzysztofa i Wandy z r.
+[+] Rafał Sadowski int. rodziców i rodzeństwa
 
-[+] Edward Krulikowski – r. Szynalskich 
+#PIĄTEK – 09.07 godz. 09.00
 
-[+] Marianna Gardyza – Jędrzejewskiej z córkami
+[+] Wanda Radaczewska int Stawickich z Osięcin
 
-[+] Halina Algierowicz – Izabeli z r. i Lidii 
+#SOBOTA – 10.07  godz. 16.00 
 
-[+] Marianna Zakrocka – sąsiadów Wawrzonkowskich
+[+] Baltazar Bolesław Wawrzyniak
 
-[+] Czesław Łodygowski – prac. Starostwa Radziejów 
+#NIEDZIELA 11.07
 
-[+] Władysław Wojtkowski – piłkarzy Oldboy Lubraniec
+08.00 [+] Stanisław Piechocki 5 rś r. Stępińskich
 
-#SOBOTA – 03.07
+09.00 [+] Wielisława i  Tadeusz Dudczak  int. córki Wandy z r. 
 
-09.00 [+] Helena Pawlak int szwagra Seweryna z córką; Anety Henryka Zielińskich z synami 
-
-16.00 [-] Krystyna Krzysztof Urbańscy 40 r. ślubu
-
-17.00 [-] ślub Anna i Przemysław
-
-#NIEDZIELA  - 04.07
-
-08.00 [+] Adela Adam Pawlik
-
-09.00 [+] Ryszard Rzepka 10 rś
-
-11.00 [+] r. Czajkowskich Marczaków Pawlików Ewa Dombek
+10.00 [+] Helena Pawlak int. synowej Marii
