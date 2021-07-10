@@ -24,22 +24,6 @@ featuredImage: /assets/papiez.jpg
 
 [+]  Daromiła Dybowska – Dybowskich z Inowrocławia i Aleksandrowa 
 
-[+]  Stanisław Kropidłowski - Augustyniaków z Borucina
-
-[+] Wincenty Wojtasik – Leon i Zofia Nawroccy
-
-[+] Kamil Pietrzak – Heleny Kwaśnej z dziećmi 
-
-[+] Renata Ziółkowska – sąsiadów Misterskich 
-
-[+] Edward Krulikowski – r. Olejniczak i Betlińskich
-
-[+] Marianna Gardyza – Wilczewskich z dziećmi
-
-[+] Marianna Zakrocka – Bruzdów Moniki Kalinowskiej dziećmi
-
-[+] Władysław Wojtkowski -  r. Woźny  
-
 #ŚRODA – 07.07 godz. 16.00
 
 [+] Danuta Lewandowska w 3 rś
@@ -62,4 +46,4 @@ featuredImage: /assets/papiez.jpg
 
 09.00 [+] Wielisława i  Tadeusz Dudczak  int. córki Wandy z r. 
 
-10.00 [+] Helena Pawlak int. synowej Marii
+11.00 [+] Helena Pawlak int. synowej Marii
