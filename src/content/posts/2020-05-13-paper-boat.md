@@ -2,48 +2,49 @@
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
-date: 2021-07-04
+date: 2021-07-11
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
-##CZTERNASTA NIEDZIELA W CIĄGU ROKU - 4 lipca 2021                               
+#PIĘTNASTA NIEDZIELA W CIĄGU ROKU	 - 11 lipca 2021                               
 
 #OGŁOSZENIA DUSZPASTERSKIE
 
-1. Czas wakacji, urlopów, odpoczynku jest okazją do pogłębiania relacji z Bogiem przez modlitwę, lekturę Pisma Świętego, celebrowanie niedzieli i spotkania na Eucharystii, na które wcześniej, z powodu zabiegania, musieliśmy znaleźć czas. 
+1. W okresie wakacyjnym, urlopów, odpoczynku gromadzimy się na Eucharystii, by ze źródła, jakim jest Bóg, zaczerpnąć siły i przyjąć wszelkie dary i łaski dla nas przygotowane. 
 
-2. Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli
+2. Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
 
-##Intencje mszalne 05 – 11 lipca 2021
 
-#PONIEDZIAŁEK - 05.07 godz. 09.00 
+##Intencje mszalne 12 – 18 lipca 2021
 
-[+]  Mirosław Kocent int. r. Waśkiewicz i Balcerak
+#PONIEDZIAŁEK - 12.07 
 
-#WTOREK  - 06.07 godz. 16.00 
+8.00 [+] Irena Pawłowska int. Lucyny Korytkowskiej z r.
 
-[+]  Daromiła Dybowska – Dybowskich z Inowrocławia i Aleksandrowa 
+#WTOREK – 13.07 
 
-#ŚRODA – 07.07 godz. 16.00
+8.30 [-] RÓŻANIEC FATIMSKI
 
-[+] Danuta Lewandowska w 3 rś
+9.00 [+] Władysław Wojtkowski int. r. Wójtowiczów
 
-#CZWARTEK – 08.07 godz. 16.00
+#ŚRODA  -14.07 
 
-[+] Rafał Sadowski int. rodziców i rodzeństwa
+9.00 [+] Stanisława Kurdupska int. sąsiadów Sadowskich
 
-#PIĄTEK – 09.07 godz. 09.00
+#CZWARTEK – 15.07 
 
-[+] Wanda Radaczewska int Stawickich z Osięcin
+9.00 [+] Marianna Zakrocka int. siostry Jadwigi
 
-#SOBOTA – 10.07  godz. 16.00 
+#PIĄTEK – 16.07 
 
-[+] Baltazar Bolesław Wawrzyniak
+9.00 [+] Czesław Łodygowski int. teściów Zeszotarskich
 
-#NIEDZIELA 11.07
+#SOBOTA – 17.07 
 
-08.00 [+] Stanisław Piechocki 5 rś r. Stępińskich
+9.00 [+] Rafał Sadowski int. rodziców i rodzeństwa
 
-09.00 [+] Wielisława i  Tadeusz Dudczak  int. córki Wandy z r. 
+#NIEDZIELA – 18.07
 
-11.00 [+] Helena Pawlak int. synowej Marii
+9.00 [+] Józef Kubiak int. chrześniaczki Iwony z r.
+
+11.00 [+] Czesław Adam Kamińscy Czesław Ryniec
