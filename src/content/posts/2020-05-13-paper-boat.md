@@ -10,7 +10,7 @@ featuredImage: /assets/papiez.jpg
 
 #OGŁOSZENIA DUSZPASTERSKIE
 
-1. W okresie wakacyjnym, urlopów, odpoczynku gromadzimy się na Eucharystii, by ze źródła, jakim jest Bóg, zaczerpnąć siły i przyjąć wszelkie dary i łaski dla nas przygotowane. 
+1. W okresie wakacyjnym, urlopów, odpoczynku ale dla wielu ciężkiej i mozolnej pracy gromadzimy się na Eucharystii, by ze źródła, jakim jest Bóg, zaczerpnąć siły i przyjąć wszelkie dary i łaski dla nas przygotowane. 
 
 2. Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
 
