@@ -12,23 +12,23 @@ featuredImage: /assets/papiez.jpg
 
 1. Jak miło brzmią w naszych uszach słowa Jezusa z dzisiejszej Ewangelii: „Pójdźcie wy sami osobno na pustkowie i wypocznijcie nieco”. Abyśmy mogli podejmować wyzwania związane z powołaniem, potrzebujemy czasu na odpoczynek, ale także na zaakcentowanie spraw duchowych, dzięki którym otaczający nas świat – dzieło Boga – nabiera wyjątkowego blasku.
 
-2. Za tydzień będziemy wspominać św. Krzysztofa, patrona ks Bpa Krzysztofa Wętkowskiego i  patrona kierowców, i podróżujących, orędownika w śmiertelnych niebezpieczeństwach. Po Mszy Świętej  błogosławieństwo pojazdów przed kościołem. Pamiętajmy jednak, że błogosławieństwo nie zwalnia nas z obowiązku zachowania rozsądku i wyobraźni na drodze.
+2. Za tydzień będziemy wspominać św. Krzysztofa, patrona ks Bpa Krzysztofa Wętkowskiego oraz patrona kierowców i podróżujących, orędownika w śmiertelnych niebezpieczeństwach. Po Mszy Świętej  błogosławieństwo pojazdów przed kościołem. Pamiętajmy jednak, że błogosławieństwo nie zwalnia nas z obowiązku zachowania rozsądku i wyobraźni na drodze.
 
 3. Zbliża się czas pieszej pielgrzymki na Jasną Górę. Wszystkich, którzy pragną podążać do stóp Jasnogórskiej Pani, prosimy o zgłoszenia  w kancelarii katedralnej.
 
-4.Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
+4. Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
 
 ##Intencje mszalne 21 – 27 lipca 2021
 
-ŚRODA – 21.07
+#ŚRODA – 21.07
 
 9.00 [+] Daniel Kostecki int. dziadków z Dąbia Kuj.
 
-CZWARTEK – 22.07
+#CZWARTEK – 22.07
 
 16.00 [+] r. Pytlaków i Łacińskich 
 
-PIĄTEK – 23.07
+#PIĄTEK – 23.07
 
 16.00 [+] Henryk Michalak - rodziny
 
@@ -44,13 +44,14 @@ PIĄTEK – 23.07
 
 [+] Marianna Zakrocka – Włodarskich Szczerbiaków Jarońskich 
                                     Zbigniewa Kalinowskiego
+
 [+] Władysław Wojtkowski – r. Rosińskich Umerle Kudłaków 
 
-SOBOTA -24.07
+#SOBOTA -24.07
 
 16.00 [+] Jan w 3 rś i Franciszek Bartkowiak int matki zony córki  z r 
 
-NIEDZIELA – 25.07
+#NIEDZIELA – 25.07
 
 8.00 [+] Stefan Antczak int. siostry Krystyna z r.
 
