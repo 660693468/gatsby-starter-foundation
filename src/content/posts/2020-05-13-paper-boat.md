@@ -2,63 +2,73 @@
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
-date: 2021-07-20
+date: 2021-07-25
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
-##SZESNASTA NIEDZIELA W CIĄGU ROKU  - 18 lipca 2021                                            
+ 
+               ##SIEDEMNASTA NIEDZIELA W CIĄGU ROKU  - 25 lipca 2021                  
+                 
+                   # OGŁOSZENIA DUSZPASTERSKIE
 
-#OGŁOSZENIA DUSZPASTERSKIE
+1. Każda Msza Święta rozpoczyna się wezwaniem do modlitwy, kierowanym do nas przez celebransa, byśmy do wspólnej intencji dołączyli osobiste, z którymi przyszliśmy. Czy o tym pamiętamy? Czy zabieramy na Eucharystię także osobiste sprawy, by przedstawić je Panu? 
 
-1. Jak miło brzmią w naszych uszach słowa Jezusa z dzisiejszej Ewangelii: „Pójdźcie wy sami osobno na pustkowie i wypocznijcie nieco”. Abyśmy mogli podejmować wyzwania związane z powołaniem, potrzebujemy czasu na odpoczynek, ale także na zaakcentowanie spraw duchowych, dzięki którym otaczający nas świat – dzieło Boga – nabiera wyjątkowego blasku.
+2. Wspominamy dziś św. Krzysztofa, patrona kierowców i podróżujących, orędownika w śmiertelnych niebezpieczeństwach. Po Mszach Świętych  błogosławieństwo pojazdów przed kościołem. Pamiętajmy dziś o  modlitwie w intencji  solenizantów i ks. Bpa Krzysztofa Wętkowskiego.
 
-2. Za tydzień będziemy wspominać św. Krzysztofa, patrona ks Bpa Krzysztofa Wętkowskiego oraz patrona kierowców i podróżujących, orędownika w śmiertelnych niebezpieczeństwach. Po Mszy Świętej  błogosławieństwo pojazdów przed kościołem. Pamiętajmy jednak, że błogosławieństwo nie zwalnia nas z obowiązku zachowania rozsądku i wyobraźni na drodze.
+3. Trwa czas urlopów, wakacji dany nam przez Boga, abyśmy zatroszczyli się o ubogacenie swojej duchowości. Wakacje to czas żniw, zbiorów różnych plonów. Pamiętajmy o ciężkiej pracy rolników, która często nie jest doceniana, a służy nam wszystkim. Szanujmy ich trud.
+4. 1 sierpnia będziemy obchodzili 77. rocznicę wybuchu powstania warszawskiego. Pamiętajmy o tych, którzy oddali życie za wolność ojczyzny.
 
-3. Zbliża się czas pieszej pielgrzymki na Jasną Górę. Wszystkich, którzy pragną podążać do stóp Jasnogórskiej Pani, prosimy o zgłoszenia  w kancelarii katedralnej.
+5. W tym tygodniu:  w poniedziałek  – Święci Joachim i Anna, rodzice Najświętszej Maryi Panny, dziadkowie Pana Jezusa; w czwartek  – św. Marta, siostra Łazarza i Marii; – w sobotę  – św. Ignacy Loyola (1491-1556),  założyciel TJ
 
-4. Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
+6. Za tydzień nasz odpust parafialny św. Jana Marii Vianneya, którego wspomnienie liturgiczne przypada 4 sierpnia  -  procesja po Mszy o godz. 9.00.
 
-##Intencje mszalne 21 – 27 lipca 2021
+7. Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
+	
+#Intencje mszalne  26 lipca – 01  sierpnia 2021
 
-#ŚRODA – 21.07
+#PONIEDZIAŁEK – 26.07
 
-9.00 [+] Daniel Kostecki int. dziadków z Dąbia Kuj.
+09.00  [+] Anna Seweryn Dynarscy  int. Seweryna Bączka z r.
 
-#CZWARTEK – 22.07
+#WTOREK – 27.07
 
-16.00 [+] r. Pytlaków i Łacińskich 
+09.00 [+] Beata Pietrzak  2 rś i urodzinowa int. męża
 
-#PIĄTEK – 23.07
+#ŚRODA – 28.07
 
-16.00 [+] Henryk Michalak - rodziny
+16.00 [+] Mariusz Kamasz – chrześniaka Patryka z Ewą i r.   Gajewskich Nawrotków 
+                                           Osińskich Lewandowskich
 
-[+] Wincenty Wojtasik – r. Lewińskich
+[+] Władysław Wojtkowski – r. Wojtkowskich
 
-[+] Kamil Pietrzak – Zakładu Pogrzebowego Arka
+[+] Marianna Zakrocka  - zakładu Pogrzebowego Arka
 
-[+] Renata Ziółkowska – Betlińskich i Wawrzonkowskich 
+[+] Marianna Gardyza – Małgorzaty Sikorskiej z r. 
 
-[+] Edward Krulikowski – Marii Wieczorkowskiej
+[+] Edward Krulikowski – Czerwińskich z Lubrańca
 
-[+] Marianna Gardyza -  brata Bogusława z dziećmi
+[+] Renata Ziółkowska – Elżbiety Czapskiej z mężem
 
-[+] Marianna Zakrocka – Włodarskich Szczerbiaków Jarońskich 
-                                    Zbigniewa Kalinowskiego
+[+] Wincenty Wojtasik – r. Grabowskich
 
-[+] Władysław Wojtkowski – r. Rosińskich Umerle Kudłaków 
+#CZWARTEK – 29.07
 
-#SOBOTA -24.07
+16.00 [+] r. Sobczyńskich
 
-16.00 [+] Jan w 3 rś i Franciszek Bartkowiak int matki zony córki  z r 
+#PIĄTEK – 30.07
 
-#NIEDZIELA – 25.07
+09.00 [+] Wanda Radaczewska int.  chrześniaka Romualda z r
 
-8.00 [+] Stefan Antczak int. siostry Krystyna z r.
+#SOBOTA - 31.07
 
-9.00 [+] Anna Kurczewska int. matki i brata
+09. [+] Helena Pawlak int. Balcerowskich z Redcza
 
-[+] Anna Zatarska int. męża marka z r.
+#NIEDZIELA  - 01.08 
 
-11.00 [+] Anna Mieczysław Kopaczwscy int. córki z r.
+#ODPUST PARAFIALNY ŚW JANA M. VIANNEYA
 
-[-] Parafian
+08.00 [-] Parafian
+
+09.00 [-] Natalia 18 r ur i 18 rś [+] Piotrusia Mrozińskiego
+
+11.00 [+] Irena Pawłowska int. wnuczki Edyty z r. 
