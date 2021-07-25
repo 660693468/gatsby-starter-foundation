@@ -61,7 +61,7 @@ featuredImage: /assets/papiez.jpg
 
 #SOBOTA - 31.07
 
-09. [+] Helena Pawlak int. Balcerowskich z Redcza
+09.00 [+] Helena Pawlak int. Balcerowskich z Redcza
 
 #NIEDZIELA  - 01.08 
 
