@@ -2,73 +2,170 @@
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
-date: 2021-07-25
+date: 2021-08-01
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
  
-               ##SIEDEMNASTA NIEDZIELA W CIĄGU ROKU  - 25 lipca 2021                  
-                 
-                   # OGŁOSZENIA DUSZPASTERSKIE
+##OSIEMNASTA NIEDZIELA W CIĄGU ROKU  - 1 sierpnia 2021                         
 
-1. Każda Msza Święta rozpoczyna się wezwaniem do modlitwy, kierowanym do nas przez celebransa, byśmy do wspólnej intencji dołączyli osobiste, z którymi przyszliśmy. Czy o tym pamiętamy? Czy zabieramy na Eucharystię także osobiste sprawy, by przedstawić je Panu? 
+#OGŁOSZENIA DUSZPASTERSKIE
 
-2. Wspominamy dziś św. Krzysztofa, patrona kierowców i podróżujących, orędownika w śmiertelnych niebezpieczeństwach. Po Mszach Świętych  błogosławieństwo pojazdów przed kościołem. Pamiętajmy dziś o  modlitwie w intencji  solenizantów i ks. Bpa Krzysztofa Wętkowskiego.
+1. W codziennej pogoni możemy zapomnieć o tym, by niekoniecznie być człowiekiem, ale nieustannie stawać się człowiekiem. Współczesny człowiek to homo viator – człowiek w drodze. Czy jednak dostrzegamy, że życie jest tylko wędrówką ku wieczności? 
 
-3. Trwa czas urlopów, wakacji dany nam przez Boga, abyśmy zatroszczyli się o ubogacenie swojej duchowości. Wakacje to czas żniw, zbiorów różnych plonów. Pamiętajmy o ciężkiej pracy rolników, która często nie jest doceniana, a służy nam wszystkim. Szanujmy ich trud.
-4. 1 sierpnia będziemy obchodzili 77. rocznicę wybuchu powstania warszawskiego. Pamiętajmy o tych, którzy oddali życie za wolność ojczyzny.
+2. Naszą szczególną pamięcią i modlitwą otaczamy dzisiaj proboszczów, wzywając orędownictwa św. Jana Marii Vianneya, patrona proboszczów. 
 
-5. W tym tygodniu:  w poniedziałek  – Święci Joachim i Anna, rodzice Najświętszej Maryi Panny, dziadkowie Pana Jezusa; w czwartek  – św. Marta, siostra Łazarza i Marii; – w sobotę  – św. Ignacy Loyola (1491-1556),  założyciel TJ
+3. Rozpoczęliśmy sierpień. To miesiąc dla nas szczególny tak pod względem religijnym, jak i historycznym. W tym miesiącu ze wszystkich stron Polski i Europy tysiące pielgrzymów zdążają na Jasną Górę. Łączmy się w modlitwie z tymi, którzy podjęli trud wyjścia na pątnicze szlaki. Włączmy się też w wielką modlitwę o trzeźwość naszego narodu. 
 
-6. Za tydzień nasz odpust parafialny św. Jana Marii Vianneya, którego wspomnienie liturgiczne przypada 4 sierpnia  -  procesja po Mszy o godz. 9.00.
+4. W tym tygodniu przypada pierwszy piątek (okazja do spowiedzi i Komunii Świętej wynagradzającej Najświętszemu Sercu Jezusowemu) o godz. 15.00. to również święto Przemienienia Pańskiego. 
 
-7. Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
-	
-#Intencje mszalne  26 lipca – 01  sierpnia 2021
+5. Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
 
-#PONIEDZIAŁEK – 26.07
+#Intencje mszalne 02 – 08 sierpnia 2021
 
-09.00  [+] Anna Seweryn Dynarscy  int. Seweryna Bączka z r.
+#PONIEDZIAŁEK – 02.08
 
-#WTOREK – 27.07
+16.00 [+] Wincenty Wojtasik int. żony
 
-09.00 [+] Beata Pietrzak  2 rś i urodzinowa int. męża
+#WTOREK – 03.08
 
-#ŚRODA – 28.07
+09.00 [+] Stanisława Kurdupska int. syna Piotra z r.
 
-16.00 [+] Mariusz Kamasz – chrześniaka Patryka z Ewą i r.   Gajewskich Nawrotków 
-                                           Osińskich Lewandowskich
+#ŚRODA – 04.08
 
-[+] Władysław Wojtkowski – r. Wojtkowskich
+16.00 [+] ks. Józef Iwanicki 36 rś
 
-[+] Marianna Zakrocka  - zakładu Pogrzebowego Arka
+[+] Zdzisław Kalinowski – chrześniaka Henryka z r.
 
-[+] Marianna Gardyza – Małgorzaty Sikorskiej z r. 
+[+] Daromiła Dybowska - Ptaszyńskich z Borucina
 
-[+] Edward Krulikowski – Czerwińskich z Lubrańca
+[+] Kamil Pietrzak – koleżanek i kolegów z Technikum
 
-[+] Renata Ziółkowska – Elżbiety Czapskiej z mężem
+[+] Renata Ziółkowska – Danuty Modrzejewskiej z synami
 
-[+] Wincenty Wojtasik – r. Grabowskich
+[+] Edward Krulikowski – Leona Nawrockiego z Włocławka
 
-#CZWARTEK – 29.07
+[+] Marianna Gardyza – r. Mireckich
 
-16.00 [+] r. Sobczyńskich
+[+] Marianna Zakrocka – Małgorzaty i Sławomira Jagodzińskich
 
-#PIĄTEK – 30.07
+[+] Władysław Wojtkowski – Mileny Bartłomieja Jagodzińskich
 
-09.00 [+] Wanda Radaczewska int.  chrześniaka Romualda z r
+#PIĄTEK – 06.08
 
-#SOBOTA - 31.07
+15.00 [-]  Adoracja Najświętszego Sakramentu i spowiedź
 
-09.00 [+] Helena Pawlak int. Balcerowskich z Redcza
+#SOBOTA – 07.08
 
-#NIEDZIELA  - 01.08 
+17.00 [-] ślub Grażyna i Hubert
 
-#ODPUST PARAFIALNY ŚW JANA M. VIANNEYA
+#NIEDZIELA - 08.08
 
-08.00 [-] Parafian
+09.00 [+]  Helena Pawlak int. Janiny i Zbigniewa Benedykcińskich
 
-09.00 [-] Natalia 18 r ur i 18 rś [+] Piotrusia Mrozińskiego
+11.00 [+]  Irena Czesław Bożena Ryniec zmarli z ich rodzin. 
 
-11.00 [+] Irena Pawłowska int. wnuczki Edyty z r. 
+
+ 
+##DZIEWIĘTNASTA NIEDZIELA W CIĄGU ROKU - 8 sierpnia 2021                     
+
+#OGŁOSZENIA DUSZPASTERSKIE
+
+1. Sierpień jest miesiącem wielu ważnych wydarzeń, dla wielu z nas jest to także czas abstynencji od alkoholu, by dać świadectwo życia w wolności i wspierać tych, którzy żyć w trzeźwości. Nie zapominajmy o tym, jak wielką moc ma nasze codzienne świadectwo, ponieważ naszym celem jest spotkanie z Bogiem w wieczności.
+
+2. W najbliższą niedzielę uroczystość Wniebowzięcia Najświętszej Maryi Panny. W polskiej tradycji z tą uroczystością jest związany obrzęd błogosławienia ziół, kwiatów, warzyw, zbóż, dlatego przynosimy je przed ołtarz. Chcemy w ten sposób uwielbić Boga i podziękować Mu za to, że troszczy się o nas. Obrzęd błogosławieństwa odbędzie się na zakończenie każdej Mszy Świętej. 
+
+3. 15 sierpnia przypadnie 101. rocznica zwycięskiej bitwy warszawskiej w 1920 r., zwanej Cudem nad Wisłą, która zmieniła bieg historii naszej ojczyzny. Skutki tego triumfu Wojska Polskiego wpłynęły także na historię Europy, bowiem zatrzymano nawałnicę bolszewicką, która zagrażała nie tylko naszemu narodowi.
+
+4. Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
+
+#Intencje mszalne  09- 15 sierpnia 2021
+
+#PONIEDZIAŁEK – 09.08
+
+09.00  [+] Czesław Łodygowski int. Krzysztofa Żywicy z r.
+
+#WTOREK – 10.08
+
+09.00  [+] Marianna Zakrocka int. syna Piotra
+
+#ŚRODA  - 11.08
+
+09.00 [+] Elżbieta i Stefan Kruszewscy
+
+#CZWARTEK – 12.08
+
+09.00 [+] Barbara Pawłowska int. szwagra Leszka z r.
+
+#PIĄTEK – 13.08
+
+08.30 [-]  Nabożeństwo Fatimskie
+
+09.00 [+] Rafał Borkowski
+
+#SOBOTA -14.08
+
+14.00 [+] Czesława Szelągowska w 7 rś int. wnuczki Anny z r
+- chrzest 
+
+#NIEDZIELA – 15.08
+
+08.00 [+]  Genowefa Skowrońska 9 rś Leon Wanda int. dzieci z r.
+
+09.00 [+] Jurek Ciechalski int. żony i dzieci 
+
+11.00 [+] Krystyna Kinasiewicz 12 rś int. syna Roberta
+
+##WNIEBOWZIĘCIE NAJŚW. MARYI PANNY - 15 sierpnia 2021                           
+
+OGŁOSZENIA DUSZPASTERSKIE
+
+1. Przez dogmat o wniebowzięciu Najświętszej Maryi Panny Kościół przypomina nam, że powołaniem każdego z nas jest zjednoczenie z Bogiem. Dążymy do niego w doczesnym, ziemskim życiu, dlatego podejmujemy różne wyzwania wynikające z naszego powołania, realizowanego na różnych płaszczyznach, wspierani łaską Boga w sakramentach, których szczytem jest Eucharystia. 
+
+2. Przeżywamy uroczystość Wniebowzięcia Najświętszej Maryi Panny. Obrzęd błogosławienia ziół, kwiatów, warzyw, pierwocin zbóż na zakończenie każdej Mszy Świętej.
+
+3. Dziś 101. rocznica zwycięskiej bitwy warszawskiej w 1920 r., zwanej Cudem nad Wisłą, która zmieniła bieg historii naszej ojczyzny i całej Europy. Za przyczyną Maryi Królowej Pokoju polecajmy Bogu sprawy naszej ojczyzny i naszego narodu. 
+
+4. Odpust Parafialny św. Rocha – 22 sierpnia Msze: 8.00 10.00; 12.00  sumie przewodniczyć będzie ks. Prał. Jacek Kędzierski  – dyrektor Zespołu Szkół Katolickich im. Długosza we Włocławku. W tym dniu zostanie uroczyście wniesiony relikwiarz z relikwiami św. Rocha. Proszę o mobilizację asysty dzieci do sypania kwiatków młodzieży straży pożarnej i orkiestry. 
+
+5. Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
+
+#Intencje mszalne  18 - 22 sierpnia 2021
+
+#ŚRODA – 18.08
+
+16.00 [+] Waldemar Kostecki r. Kosteckich Gajewskich
+
+#CZWARTEK – 19.08
+
+16.00 [+] Eugeniusz Roszak 2 rś Zbigniew Janusz Anna Jan Żbikowscy r Żbikowskich
+
+#PIĄTEK – 20.08
+
+09.00 [+]  Edward Krulikowski int. córki Anny z r. 
+
+#SOBOTA  - 21.08
+
+09.00  [+]  Helena Pawlak int. Marii Juszczyńskiej z r.
+
+#NIEDZIELA – 22.08  ODPUST ŚW ROCHA
+
+08.00 [+] rodziców Karkowskich dziadków Weneckich
+
+[+] Czesław Janus w 5rś
+
+10.00 [+] Jan Łukaszewski 19 rś int. żony i córek z r. 
+
+[+] Władysław Wojtkowski int.  wójta Gminy Włocławek z 
+                                       Przewodniczącym Rady i Radnymi
+
+[+] Kamil Pietrzak int. Beaty
+
+12.00 [-] Parafian
+
+[+]  Władysław Rosiński rodzice Jan Zofia Marciniak
+
+[+] Edward Krulikowski int. r. Szumlańskich z Orłowa
+
+[+] Stanisława Kurdupska int. syna Czesława z r. 
+
