@@ -7,49 +7,6 @@ description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
  
-##OSIEMNASTA NIEDZIELA W CIĄGU ROKU  - 1 sierpnia 2021                         
-
-#OGŁOSZENIA DUSZPASTERSKIE
-
-1. W codziennej pogoni możemy zapomnieć o tym, by niekoniecznie być człowiekiem, ale nieustannie stawać się człowiekiem. Współczesny człowiek to homo viator – człowiek w drodze. Czy jednak dostrzegamy, że życie jest tylko wędrówką ku wieczności? 
-
-2. Naszą szczególną pamięcią i modlitwą otaczamy dzisiaj proboszczów, wzywając orędownictwa św. Jana Marii Vianneya, patrona proboszczów. 
-
-3. Rozpoczęliśmy sierpień. To miesiąc dla nas szczególny tak pod względem religijnym, jak i historycznym. W tym miesiącu ze wszystkich stron Polski i Europy tysiące pielgrzymów zdążają na Jasną Górę. Łączmy się w modlitwie z tymi, którzy podjęli trud wyjścia na pątnicze szlaki. Włączmy się też w wielką modlitwę o trzeźwość naszego narodu. 
-
-4. W tym tygodniu przypada pierwszy piątek (okazja do spowiedzi i Komunii Świętej wynagradzającej Najświętszemu Sercu Jezusowemu) o godz. 15.00. to również święto Przemienienia Pańskiego. 
-
-5. Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
-
-#Intencje mszalne 02 – 08 sierpnia 2021
-
-#PONIEDZIAŁEK – 02.08
-
-16.00 [+] Wincenty Wojtasik int. żony
-
-#WTOREK – 03.08
-
-09.00 [+] Stanisława Kurdupska int. syna Piotra z r.
-
-#ŚRODA – 04.08
-
-16.00 [+] ks. Józef Iwanicki 36 rś
-
-[+] Zdzisław Kalinowski – chrześniaka Henryka z r.
-
-[+] Daromiła Dybowska - Ptaszyńskich z Borucina
-
-[+] Kamil Pietrzak – koleżanek i kolegów z Technikum
-
-[+] Renata Ziółkowska – Danuty Modrzejewskiej z synami
-
-[+] Edward Krulikowski – Leona Nawrockiego z Włocławka
-
-[+] Marianna Gardyza – r. Mireckich
-
-[+] Marianna Zakrocka – Małgorzaty i Sławomira Jagodzińskich
-
-[+] Władysław Wojtkowski – Mileny Bartłomieja Jagodzińskich
 
 #PIĄTEK – 06.08
 
