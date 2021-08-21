@@ -11,56 +11,49 @@ featuredImage: /assets/papiez.jpg
 
 
 
-##WNIEBOWZIĘCIE NAJŚW. MARYI PANNY - 15 sierpnia 2021                           
+##DWUDZIESTA PIERWSZA NIEDZIELA W CIĄGU ROKU - 22 sierpnia 2021
 
-OGŁOSZENIA DUSZPASTERSKIE
+#Odpust parafialny ku czci św. Rocha
 
-1. Przez dogmat o wniebowzięciu Najświętszej Maryi Panny Kościół przypomina nam, że powołaniem każdego z nas jest zjednoczenie z Bogiem. Dążymy do niego w doczesnym, ziemskim życiu, dlatego podejmujemy różne wyzwania wynikające z naszego powołania, realizowanego na różnych płaszczyznach, wspierani łaską Boga w sakramentach, których szczytem jest Eucharystia. 
+#OGŁOSZENIA DUSZPASTERSKIE
 
-2. Przeżywamy uroczystość Wniebowzięcia Najświętszej Maryi Panny. Obrzęd błogosławienia ziół, kwiatów, warzyw, pierwocin zbóż na zakończenie każdej Mszy Świętej.
+1. Bóg zapłać wszystkim za przygotowanie dzisiejszej uroczystości: Panu Bogu za pogodę. Sumiście i kaznodziei ks. Kan Jackowi Kędzierskiemu  dyrektorowi Zespołu Szkół Katolickich Długosza we Włocławku: ks Kan. Henrykowi Kruszewskiemu  za  odnowienie relikwii św. Rocha:  ks. Adamowi Zielińskiemu ,  drogim gościom, p. Kubiakowi za zorganizowanie orkiestry ,  OSP z Bodzanowa Kąkowej Woli   asyście, dzieciom, młodzieży, służbie liturgicznej . P. kościelnej  i Organistce .   p. Szatkowskiej z Tawerny Zajazdowi Piłsudskiego p.  radnemu Mirosławowi  Stefańskiemu i Urzędowi Miasta i Gminy Lubraniec za prace porządkowe w Dąbiu przed i po Odpuście
 
-3. Dziś 101. rocznica zwycięskiej bitwy warszawskiej w 1920 r., zwanej Cudem nad Wisłą, która zmieniła bieg historii naszej ojczyzny i całej Europy. Za przyczyną Maryi Królowej Pokoju polecajmy Bogu sprawy naszej ojczyzny i naszego narodu. 
+2. Jutro przypadnie smutna rocznica podpisania paktu Ribbentrop – Mołotow. Dzień ten został ustanowiony Europejskim Dniem Pamięci Ofiar Stalinizmu i Nazizmu,  Pamiętajmy w modlitwie nie tylko o tych, którzy zginęli w sowieckich łagrach i niemieckich nazistowskich obozach koncentracyjnych, lecz także o tych, którzy opowiedzieli się za Bogiem i dlatego oddali zdrowie i życie w obronie godności i praw człowieka. Słyszymy o próbach relatywizowania i podważania współczesnej historii, naginania faktów w imię tzw. poprawności politycznej. Warto znać fakty, warto pamiętać i pielęgnować pamięć.
 
-4. Odpust Parafialny św. Rocha – 22 sierpnia Msze: 8.00 10.00; 12.00  sumie przewodniczyć będzie ks. Prał. Jacek Kędzierski  – dyrektor Zespołu Szkół Katolickich im. Długosza we Włocławku. Proszę o mobilizację asysty dzieci do sypania kwiatków młodzieży straży pożarnej i orkiestry. 
+3. W czwartek 26 sierpnia uroczystość Najświętszej Maryi Panny Częstochowskiej. 
 
-5. Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
+4. Wszystkim solenizantom i jubilatom gościom  życzę obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
 
-#Intencje mszalne  
+##Intencje mszalne  23 – 29   sierpnia  2021
 
-#ŚRODA – 18.08
+#PONIEDZIAŁEK – 23.08
 
-16.00 [+] Waldemar Kostecki r. Kosteckich Gajewskich
+09.00 [+] Jerzy Kołodziejski  int. brata Dariusza
 
-#CZWARTEK – 19.08
+#WTOREK – 24.08
 
-16.00 [+] Eugeniusz Roszak 2 rś Zbigniew Janusz Anna Jan Żbikowscy r Żbikowskich
+18.00 [+]  Wincenty Wojtasik  int. córki Agnieszki z r.
 
-#PIĄTEK – 20.08
+#ŚRODA  - 25.08
 
-09.00 [+]  Edward Krulikowski int. córki Anny z r. 
+09.00 [+]  Kamil Pietrzak  int. wujka Mirka z r.
 
-#SOBOTA  - 21.08
+#CZWARTEK  - 26.08 – Uroczystość Matki Boskiej Częstochowskiej
 
-09.00  [+]  Helena Pawlak int. Marii Juszczyńskiej z r.
+18.00 [+]  Hieronim Spychalski 3 rś int. żony z rodz.
 
-#NIEDZIELA – 22.08  ODPUST ŚW ROCHA
+#PIĄTEK  - 27.08
 
-08.00 [+] rodziców Karkowskich dziadków Weneckich
+09.00 [+] Barbara Pawłowska  int. brata Romualda Sadownika z r.
 
-[+] Czesław Janus w 5rś
+#SOBOTA – 28.08
 
-10.00 [+] Jan Łukaszewski 19 rś int. żony i córek z r. 
+09.00 [-] o zdrowie dla r. Sobczyńskich
 
-[+] Władysław Wojtkowski int.  wójta Gminy Włocławek z 
-                                       Przewodniczącym Rady i Radnymi
+#NIEDZIELA – 29.08
 
-[+] Kamil Pietrzak int. Beaty
+09.00 [+] Krystyna  Jan Przychodzcy Krystyna  i Kazimierz Ochocińscy r. Linert Ochocińskich Szczupakowskich Kołodziejskich 
 
-12.00 [-] Parafian
-
-[+]  Władysław Rosiński rodzice Jan Zofia Marciniak
-
-[+] Edward Krulikowski int. r. Szumlańskich z Orłowa
-
-[+] Stanisława Kurdupska int. syna Czesława z r. 
+11.00 [+]  r. Walczaków z Borucina [+] Marianna Wróblewska int. córki Ewy z r. 
 
