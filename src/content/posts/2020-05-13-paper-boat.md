@@ -37,7 +37,7 @@ featuredImage: /assets/papiez.jpg
 
 #ŚRODA  - 25.08
 
-09.00 [+]  Kamil Pietrzak  int. wujka Mirka z r.
+16,00 [+]  Kamil Pietrzak  int. wujka Mirka z r.
 
 #CZWARTEK  - 26.08 – Uroczystość Matki Boskiej Częstochowskiej
 
