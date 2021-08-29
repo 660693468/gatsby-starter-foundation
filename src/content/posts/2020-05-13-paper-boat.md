@@ -17,7 +17,7 @@ featuredImage: /assets/papiez.jpg
 
 #OGŁOSZENIA DUSZPASTERSKIE
 
-1. Czas urlopów i wakacji, który się kończy, był dla wielu z nas okazją do pogłębienia więzi z Bogiem, szukania i rozpoznawania znaków Jego obecności i błogosławieństwa. Mam nadzieję powoli będziemy wracać do kościoła.
+1. Czas urlopów i wakacji, który się kończy, był dla wielu z nas okazją do pogłębienia więzi z Bogiem, szukania i rozpoznawania znaków Jego obecności i błogosławieństwa. Mam nadzieję że powoli będziemy wracać do kościoła.
 
 2. We wtorek 31 sierpnia będziemy obchodzić 41. rocznicę podpisania porozumień sierpniowych, które zakończyły strajki i rozpoczęły proces przebudowy naszego państwa. Żyliśmy ideałami solidarności, prawdy, wolności. Dziś warto zadać sobie pytanie, co w naszych sercach zostało z etosu Solidarności tamtych lat.
 
