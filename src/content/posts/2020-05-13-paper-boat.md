@@ -2,7 +2,7 @@
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
-date: 2021-08-21
+date: 2021-08-29
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
@@ -11,7 +11,9 @@ featuredImage: /assets/papiez.jpg
 
 
 
-#DWUDZIESTA DRUGA NIEDZIELA W CIĄGU ROKU  - 29 sierpnia 2021 
+#DWUDZIESTA DRUGA NIEDZIELA W CIĄGU ROKU  
+
+# 29 sierpnia 2021 
 
 #OGŁOSZENIA DUSZPASTERSKIE
 
