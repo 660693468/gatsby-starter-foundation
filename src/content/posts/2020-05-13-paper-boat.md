@@ -11,49 +11,67 @@ featuredImage: /assets/papiez.jpg
 
 
 
-##DWUDZIESTA PIERWSZA NIEDZIELA W CIĄGU ROKU - 22 sierpnia 2021
-
-#Odpust parafialny ku czci św. Rocha
+#DWUDZIESTA DRUGA NIEDZIELA W CIĄGU ROKU  - 29 sierpnia 2021 
 
 #OGŁOSZENIA DUSZPASTERSKIE
 
-1. Bóg zapłać wszystkim za przygotowanie dzisiejszej uroczystości: Panu Bogu za pogodę. Sumiście i kaznodziei ks. Prał. Jackowi Kędzierskiemu  dyrektorowi Zespołu Szkół Katolickich Długosza we Włocławku: ks Kan. Henrykowi Kruszewskiemu  za  odnowienie relikwii św. Rocha:  ks. Adamowi Zielińskiemu ,  drogim gościom, p. Kubiakowi za zorganizowanie orkiestry ,  OSP z Bodzanowa Kąkowej Woli   asyście, dzieciom, młodzieży, służbie liturgicznej . P. kościelnej  i Organistce .   p. Lucynie Szatkowskiej z Tawerny p.  radnemu Mirosławowi  Stefańskiemu i Urzędowi Miasta i Gminy Lubraniec.
+1. Czas urlopów i wakacji, który się kończy, był dla wielu z nas okazją do pogłębienia więzi z Bogiem, szukania i rozpoznawania znaków Jego obecności i błogosławieństwa. Mam nadzieję powoli będziemy wracać do kościoła.
 
-2. Jutro przypadnie smutna rocznica podpisania paktu Ribbentrop – Mołotow. Dzień ten został ustanowiony Europejskim Dniem Pamięci Ofiar Stalinizmu i Nazizmu,  Pamiętajmy w modlitwie nie tylko o tych, którzy zginęli w sowieckich łagrach i niemieckich nazistowskich obozach koncentracyjnych, lecz także o tych, którzy opowiedzieli się za Bogiem i dlatego oddali zdrowie i życie w obronie godności i praw człowieka. Słyszymy o próbach relatywizowania i podważania współczesnej historii, naginania faktów w imię tzw. poprawności politycznej. Warto znać fakty, warto pamiętać i pielęgnować pamięć.
+2. We wtorek 31 sierpnia będziemy obchodzić 41. rocznicę podpisania porozumień sierpniowych, które zakończyły strajki i rozpoczęły proces przebudowy naszego państwa. Żyliśmy ideałami solidarności, prawdy, wolności. Dziś warto zadać sobie pytanie, co w naszych sercach zostało z etosu Solidarności tamtych lat.
 
-3. W czwartek 26 sierpnia uroczystość Najświętszej Maryi Panny Częstochowskiej. 
+3. W środę będziemy obchodzić 82. rocznicę wybuchu II wojny światowej. Pamiętajmy w modlitwie szczególnie o tych, którzy oddali życie w obronie ojczyzny na wszystkich frontach. 
+1 września rozpocznie się nowy rok szkolny. Dzieciom i młodzieży życzymy wiele zapału i wytrwałości w zdobywaniu wiedzy, kształtowaniu dojrzałych postaw, a czcigodnym nauczycielom, katechetom i wychowawcom dużo siły i mocy Ducha Świętego, potrzebnego w procesie kształtowania dzieci i młodzieży. Msza Święta, ze szczególną prośbą o błogosławieństwo w nowym roku szkolnym, asystencję Ducha Świętego na czas edukacji i wszelkie potrzebne łaski dla wychowawców, nauczycieli i rodziców, w naszym kościele w piątek o godz. 17.00 Serdecznie zapraszamy. Poświęcenie tornistrów. To również I piątek miesiąca i okazja do spowiedzi świętej i Adoracji Najświętszego Sakramentu od godz. 16.30 – 17.00.
 
-4. Wszystkim solenizantom i jubilatom gościom  życzę obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
+4. Osoby posiadające nieużywane stroje asysty małe lub duże proszę o zwrot do p. Bartkowiak.
 
-##Intencje mszalne  23 – 29   sierpnia  2021
+5. Przypominam o opłatach cmentarnych – śmieci i woda.
 
-#PONIEDZIAŁEK – 23.08
+6. Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
 
-09.00 [+] Jerzy Kołodziejski  int. brata Dariusza
+##Intencje mszalne    30 sierpnia  – 05 września 2021
 
-#WTOREK – 24.08
+#PONIEDZIAŁEK  30.08
 
-18.00 [+]  Wincenty Wojtasik  int. córki Agnieszki z r.
+09.00 [+]  Henryk Sadowski int. mieszkańców Stoku i 3 rodz. z Agnieszkowa
 
-#ŚRODA  - 25.08
+#WTOREK 31.08
 
-16,00 [+]  Kamil Pietrzak  int. wujka Mirka z r.
+08.30 [+] Czesław Łodygowski int. szwagra Włodzimierza z r. 
 
-#CZWARTEK  - 26.08 – Uroczystość Matki Boskiej Częstochowskiej
+#ŚRODA 01.09
 
-18.00 [+]  Hieronim Spychalski 3 rś int. żony z rodz.
+16.00 [+] Daromiła Dybowska
 
-#PIĄTEK  - 27.08
+[+] Zofia Gawrońska – siostry Barbary z r. 
 
-09.00 [+] Barbara Pawłowska  int. brata Romualda Sadownika z r.
+[+] Jerzy Kołodziejski – Jana Kołodziejskiego z r. 
 
-#SOBOTA – 28.08
+[+] Wincenty Wojtasik – Romana i Grażyny Gutral 
 
-09.00 [-] o zdrowie dla r. Sobczyńskich
+[+] Edward Krulikowski – r. Żychlińskich z Paniewa
 
-#NIEDZIELA – 29.08
+[+] Marianna Gardyza – sąsiadów Żelazek
 
-09.00 [+] Krystyna  Jan Przychodzcy Krystyna  i Kazimierz Ochocińscy r. Linert Ochocińskich Szczupakowskich Kołodziejskich 
+[+] Władysław Wojtkowski – Sylwi Radosława Kostrzewskich
 
-11.00 [+]  r. Walczaków z Borucina [+] Marianna Wróblewska int. córki Ewy z r. 
+#CZWARTEK 02.09
 
+16.00 [+] Renata Ziółkowska int. córki Moniki z r.
+
+#PIĄTEK 03.09
+
+16.30 [-] Adoracja Najświętszego Sakramentu  i spowiedź
+
+17.00 [+]  Stefan Antczak int. Nowakowskich i Jankowskich
+
+#SOBOTA 04.09
+
+09.00 [+] Władysław Szczepański int. brata Piotra z żoną
+
+#NIEDZIELA 05.09
+
+09.00 [+] Stefan Sochacki rodzic. Sochaccy Głowaccy
+
+11.00 [-] PARAFIAN 
+
+[+] Helena Pawlak int. teściowej Heleny Czyżewskiej
