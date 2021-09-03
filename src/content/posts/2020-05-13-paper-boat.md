@@ -44,17 +44,6 @@ featuredImage: /assets/papiez.jpg
 
 16.00 [+] Daromiła Dybowska
 
-[+] Zofia Gawrońska – siostry Barbary z r. 
-
-[+] Jerzy Kołodziejski – Jana Kołodziejskiego z r. 
-
-[+] Wincenty Wojtasik – Romana i Grażyny Gutral 
-
-[+] Edward Krulikowski – r. Żychlińskich z Paniewa
-
-[+] Marianna Gardyza – sąsiadów Żelazek
-
-[+] Władysław Wojtkowski – Sylwi Radosława Kostrzewskich
 
 #CZWARTEK 02.09
 
