@@ -2,7 +2,7 @@
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
-date: 2021-08-29
+date: 2021-05-09
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
@@ -11,58 +11,52 @@ featuredImage: /assets/papiez.jpg
 
 
 
-#DWUDZIESTA DRUGA NIEDZIELA W CIĄGU ROKU  
+#DWUDZIESTA TRZECIA NIEDZIELA W CIĄGU ROKU  
 
-# 29 sierpnia 2021 
+#5 września 2021
 
-#OGŁOSZENIA DUSZPASTERSKIE
+# OGŁOSZENIA DUSZPASTERSKIE
 
-1. Czas urlopów i wakacji, który się kończy, był dla wielu z nas okazją do pogłębienia więzi z Bogiem, szukania i rozpoznawania znaków Jego obecności i błogosławieństwa. Mam nadzieję że powoli będziemy wracać do kościoła.
+1. Człowiek, który ma serce przepełnione miłością, na spotkaniu chce powiedzieć dosłownie o wszystkim. Kiedy szuka pocieszenia, umocnienia, wsparcia w trudnościach, pomocnej rady, wtedy ma mało czasu na bycie blisko i słuchanie Boga, który kocha. Lecz jeśli nie ma miłości, to wszystko się dłuży i jest tylko niemiłym obowiązkiem. Nie zapominajmy o miłości, gdy jesteśmy na niedzielnej Eucharystii, bo stoimy przed Tym, który jest miłością i z miłości daje nam siebie jako pokarm na życie wieczne.
 
-2. We wtorek 31 sierpnia będziemy obchodzić 41. rocznicę podpisania porozumień sierpniowych, które zakończyły strajki i rozpoczęły proces przebudowy naszego państwa. Żyliśmy ideałami solidarności, prawdy, wolności. Dziś warto zadać sobie pytanie, co w naszych sercach zostało z etosu Solidarności tamtych lat.
+2. W środę 8 września święto Narodzenia Najświętszej Maryi Panny. Duchowość naszego narodu jest przeniknięta duchowością maryjną, która zawsze ukierunkowuje nas na Boga. W naszej tradycji to święto jest nazywane świętem Matki Bożej Siewnej, bo tego właśnie dnia prosimy o błogosławieństwo Boże dla przyszłych plonów, żeby nasza ziemia przyniosła chleb.
 
-3. W środę będziemy obchodzić 82. rocznicę wybuchu II wojny światowej. Pamiętajmy w modlitwie szczególnie o tych, którzy oddali życie w obronie ojczyzny na wszystkich frontach. 
-1 września rozpocznie się nowy rok szkolny. Dzieciom i młodzieży życzymy wiele zapału i wytrwałości w zdobywaniu wiedzy, kształtowaniu dojrzałych postaw, a czcigodnym nauczycielom, katechetom i wychowawcom dużo siły i mocy Ducha Świętego, potrzebnego w procesie kształtowania dzieci i młodzieży. Msza Święta, ze szczególną prośbą o błogosławieństwo w nowym roku szkolnym, asystencję Ducha Świętego na czas edukacji i wszelkie potrzebne łaski dla wychowawców, nauczycieli i rodziców, w naszym kościele w piątek o godz. 17.00 Serdecznie zapraszamy. Poświęcenie tornistrów. To również I piątek miesiąca i okazja do spowiedzi świętej i Adoracji Najświętszego Sakramentu od godz. 16.30 – 17.00.
+3. Za tydzień po Mszy o 11. Spotkanie rodziców klas 3 przygotowujących się do I Komunii św. kl 1 i 2 po każdej Mszy.
 
-4. Osoby posiadające nieużywane stroje asysty małe lub duże proszę o zwrot do p. Bartkowiak.
+4. Spotkanie Rady Parafialnej  środa  godz. 20.00.
 
-5. Przypominam o opłatach cmentarnych – śmieci i woda.
+5. Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
 
-6. Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
+##Intencje mszalne   06 - 12 września 2021
 
-##Intencje mszalne    30 sierpnia  – 05 września 2021
+#PONIEDZIAŁEK  - 06.09
 
-#PONIEDZIAŁEK  30.08
+16.00 [+] Janina Włodarzewska int. mieszkańców Dąbia Kuj
 
-09.00 [+]  Henryk Sadowski int. mieszkańców Stoku i 3 rodz. z Agnieszkowa
+#WTOREK – 07.09
 
-#WTOREK 31.08
+16.00 [+] Aurelia Bolesław Szelągowscy int dzieci z r.
 
-08.30 [+] Czesław Łodygowski int. szwagra Włodzimierza z r. 
+#ŚRODA – 08.09
 
-#ŚRODA 01.09
+16.00 [+] Kazimierz Grabowski  5 rś int. zony i syna Józefa
 
-16.00 [+] Daromiła Dybowska
+#CZWARTEK -09.09
+
+16.00 [+]  Marek Juszczyński 3 rś int. żony i dzieci
+
+#PIĄTEK – 10.09
+
+12.00 [+] Aniela Jonatowska int. córki z mężem
+
+#SOBOTA  - 11.09
+
+09.00 [+] Artur Skowroński int. teściowej z Dąbia
 
 
-#CZWARTEK 02.09
+#NIEDZIELA -12.09
 
-16.00 [+] Renata Ziółkowska int. córki Moniki z r.
+09.00 [+] Marianna Zakrocka int. córki Doroty z r. 
 
-#PIĄTEK 03.09
+11.00 [-] PARAFIAN [-] Ewa Krzysztof Betlińscy w 34 r. ślub
 
-16.30 [-] Adoracja Najświętszego Sakramentu  i spowiedź
-
-17.00 [+]  Stefan Antczak int. Nowakowskich i Jankowskich
-
-#SOBOTA 04.09
-
-09.00 [+] Władysław Szczepański int. brata Piotra z żoną
-
-#NIEDZIELA 05.09
-
-09.00 [+] Stefan Sochacki rodzic. Sochaccy Głowaccy
-
-11.00 [-] PARAFIAN 
-
-[+] Helena Pawlak int. teściowej Heleny Czyżewskiej
