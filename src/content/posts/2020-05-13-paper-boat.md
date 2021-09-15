@@ -23,7 +23,7 @@ featuredImage: /assets/papiez.jpg
 
 4. 17 września będziemy obchodzili rocznicę napaści Związku Sowieckiego na Polskę w 1939 r. Pamiętajmy o tej tragicznej karcie historii i módlmy się za wszystkich poległych na Wschodzie w obronie ojczyzny.
 
-5. Za 2 tygodnie 27 września parafialne święto dziękczynienia za plony proszę o pomoc w dekoracji i warzywa owoce 
+5. Za 2 tygodnie 26 września parafialne święto dziękczynienia za plony proszę o pomoc w dekoracji i warzywa owoce 
 Dąbie – kosz z darami
 Bodzanowo – chleb i dary
 Annowo - miód i wino
