@@ -2,7 +2,7 @@
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
-date: 2021-19-09
+date: 2021-09-19
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
@@ -59,7 +59,7 @@ Franciszek Nawroccy int. Marty i  Stanisława Łodygowskich
 
 #PIĄTEK – 24.04
 
-16.00 [+]+ Artur Skowroński int. Cr Bartczak ze śląska
+16.00 [+] Artur Skowroński int. Cr Bartczak ze śląska
 
 #SOBOTA – 25.09
 
