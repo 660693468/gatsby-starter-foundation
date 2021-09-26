@@ -17,7 +17,7 @@ featuredImage: /assets/papiez.jpg
 
 2. W środę święto Świętych Archaniołów Michała, Gabriela i Rafała. Bóg posyła swoich aniołów, by troszczyli się o nas, strzegli nas i chronili w ważnych momentach życia. Warto polecać się ich opiece nie tylko w latach dziecięcych, ale i w dorosłym życiu.
 
-3. W piątek rozpoczniemy październik, miesiąc w szczególny sposób poświęcony Matce Bożej Różańcowej. Różaniec będziemy odmawiać codziennie o godz.… We wtorki środy i w czwartki zapraszam szczególnie dzieci i  młodzież.
+3. W piątek rozpoczniemy październik, miesiąc w szczególny sposób poświęcony Matce Bożej Różańcowej. Różaniec będziemy odmawiać codziennie przed Mszą św. We wtorki środy i w czwartki zapraszam szczególnie dzieci i  młodzież.
 
 4. W pierwszy piątek miesiąca adoracja Najświętszego Sakramentu i spowiedź.
 
