@@ -2,76 +2,69 @@
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
-date: 2021-09-26
+date: 2021-10-03
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
  
 
 
-##DWUDZIESTA SZÓSTA NIEDZIELA W CIĄGU ROKU  - 26 września 2021 
+##DWUDZIESTA SIÓDMA NIEDZIELA W CIĄGU ROKU  - 3 października 2021           
 
 #OGŁOSZENIA DUSZPASTERSKIE
 
-1. Dziś święto dziękczynienia za plony.
+1. Pierwszym, fundamentalnym powołaniem, którym obdarza nas Bóg, jest powołanie do życia w rodzinie opartej na małżeństwie mężczyzny i kobiety. To jest przestrzeń, w której realizujemy swoją świętość i z której wyruszamy w świat, żeby wypełniać różne powołania. O tę przestrzeń trzeba nieustannie dbać, umacniać ją życiem sakramentalnym, budować codzienną duchowość małżeńską i rodzinną
 
-2. W środę święto Świętych Archaniołów Michała, Gabriela i Rafała. Bóg posyła swoich aniołów, by troszczyli się o nas, strzegli nas i chronili w ważnych momentach życia. Warto polecać się ich opiece nie tylko w latach dziecięcych, ale i w dorosłym życiu.
+2. Rozpoczęliśmy październik – miesiąc modlitwy różańcowej. Zachęcam do odmawiania różańca w rodzinach. Każdego dnia zapraszamy na nabożeństwo różańcowe.  Dzieci i młodzież spotkają się na różańcu we wtorek środę i czwartek o 16.30.  - 7 października poświęcenie różańców dzieci przygotowujących się do I Komunii św.  o godz. 17.00
 
-3. W piątek rozpoczniemy październik, miesiąc w szczególny sposób poświęcony Matce Bożej Różańcowej. Różaniec będziemy odmawiać codziennie przed Mszą św. We wtorki środy i w czwartki zapraszam szczególnie dzieci i  młodzież.
 
-4. W pierwszy piątek miesiąca adoracja Najświętszego Sakramentu i spowiedź.
+3. W przyszłą niedzielę będziemy obchodzić 21. Dzień Papieski. Tego dnia swoimi ofiarami wspieramy Fundację „Dzieło Nowego Tysiąclecia”
 
-5. Z okazji rozpoczynającego się w tym tygodniu roku akademickiego pragniemy modlić się w intencji studentów i pracowników naukowych uczelni.
+4. Wypominki można już zamawiać.
 
-6. W sobotę będziemy wspominali Świętych Aniołów Stróżów. Bóg każdemu z nas daje Anioła, by go strzegł i wspomagał na drogach życia.
 
-7. Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
+5. Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
+	 
 
-Zaproszeni goście:
-- Burmistrz Miasta Gminy i Lubraniec – Stanisław Piotr Budzyński                                           - Burmistrz Miasta Gminy i Brześć Kujawski –  Tomasz   Chymkowski                                                    - Wójt Gminy Osięciny – Jerzy Izydorski                                                                                                   - Przewodniczący Rady Miasta i Gminy  Lubraniec – Piotr Sławianowski                                         - Zespół Folklorystyczny Kujawy Bachorne Nowe z Osięcin                                             Podziękowania organizatorom dziękczynienia za plony. - Radzie Parafialnej, delegacjom poszczególnych miejscowości,  wioskom za dary ołtarza parafianom za obfite  plony dekoracji kościoła:  paniom za dekorację: Lewandowskiej, Juszczyńskiej ,Sobieraj, Caban, Staszak  Andrusiewicz, Sierakowskiej ;  p Ładzińskiej; Radnym, sołtysom, asyście.
-                                                
-##Intencje mszalne    27 września  – 03 października 2021
+##Intencje mszalne    03 – 11 października 2020
 
-#PONIEDZIAŁEK – 27.09
+#PONIEDZIAŁEK  - 04.10
 
-12.00 [+] Barbara Pawłowska int.  brata Józefa z żoną Jadwigą 
+15.30 [-] Różaniec
+16.00 [+] Krystyna 2 rś Marian Łukasz Zalewscy.
 
-#WTOREK – 28.09
+#WTOREK – 05.10
 
-16.00 + Aniela Jonatowska int. r. Witkowskich
+16.00 [+] Wanda Radaczewska int. r. Żywiczków
+16.30 [-] Różaniec/dzieci/
+17.00 [+] Zofia Kwiatkowska int. siostry Anki z mężem
 
-#ŚRODA – 29.09
+#ŚRODA - 06.10
 
-16.00 [+] Stanisław Chaberski int. żony i dzieci
+16.00 [+] Barbara Bolesław Mrozińscy int. dzieci
+16.30 [-] Różaniec/dzieci/
+17.00 [+] Wincenty Wojtasik int. córki Marzeny z r.
 
-[+] Zofia Kwiatkowska int. Bożeny i Grzegorza Urbańskich 
 
-[+] Władysław Wojtkowski int. Katarzyny Andrzeja Czołpińskich z r.
+#CZWARTEK – 07.1O MATKI BOŻEJ RÓŻAŃCOWEJ
 
-[+] Marianna Gardyza – Zakładu Pogrzebowego Arka
+16.00 [+] Stanisława Gęgotek int męża 
+16.30 [-] Różaniec/dzieci/
+17.00 [+] Ewa Witulska int syna Jana z r.
 
-[+] Kamil Pietrzak – kol i koleżanek z Dąbia 
 
-[+] Ewa Witulska – mieszkańców Dąbia
+#PIĄTEK – 08.10
 
-#CZWARTEK – 30.09
+11.30 [-] Różaniec
+12.00 [+] Stanisława Kurdupska int. Opłatkowskich
 
-16.00 [+] Helena Krygier int. r. Woźniaków z Paniewa i Szałańskich
+#SOBOTA - 09.10
 
-#PIĄTEK  - 01.10
+08.30 [-] Różaniec
+09.00 [+] Marian Ładziński w rś
 
-16.30 [-]Spowiedź  RÓŻANIEC Adoracja Najświętszego Sakramentu
+#NIEDZIELA -10.10
 
-17.00 [+] Wanda Radaczewska int. sąsiadów Stefańskich
+09.00 [+]Jan Zalewski teściowie Zalewscy rodzic Czarniak br Henryk
 
-#SOBOTA – 02.10
-
-0830 [-] Różaniec 
-
-09.00 [+] Zofia Jan Marciniak
-
-#NIEDZIELA – 03.10
-
-09.00 [+] Jan Łucja Urbańscy int. dzieci z r.
-
-11.00 [+] Grażyna i Marian 34 rocznica ślubu  – Artur imieninowa Bartosz – urodzinowa - PARAFIAN
+11.00 [-] Parafian  [+] Halina Pawlak int. Krygierów z Włocławka
