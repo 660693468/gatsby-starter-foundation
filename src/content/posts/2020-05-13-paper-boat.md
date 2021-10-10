@@ -2,78 +2,91 @@
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
-date: 2021-10-03
+date: 2021-10-10
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
  
 
 
-##DWUDZIESTA SIÓDMA NIEDZIELA W CIĄGU ROKU  - 3 października 2021           
+##DWUDZIESTA ÓSMA NIEDZIELA W CIĄGU ROKU  - 10 października 2021 
 
 #OGŁOSZENIA DUSZPASTERSKIE
 
-1. Pierwszym, fundamentalnym powołaniem, którym obdarza nas Bóg, jest powołanie do życia w rodzinie opartej na małżeństwie mężczyzny i kobiety. To jest przestrzeń, w której realizujemy swoją świętość i z której wyruszamy w świat, żeby wypełniać różne powołania. O tę przestrzeń trzeba nieustannie dbać, umacniać ją życiem sakramentalnym, budować codzienną duchowość małżeńską i rodzinną
+1. Skarbem Kościoła jest Eucharystia, w której Bóg jest dla nas pokarmem i mądrością w Najświętszym Sakramencie i swoim słowie. W świecie, który nieustannie proponuje nam wiele różnorakich dóbr, warto rozróżnić, co tak naprawdę jest dla nas dobrem, a co tylko ułudą, iluzją dobra. Przychodzimy jak młodzieniec z Ewangelii, by zadać Bogu najistotniejsze pytania. Nie lękajmy się też przyjąć Bożej odpowiedzi.
 
-2. Rozpoczęliśmy październik – miesiąc modlitwy różańcowej. Zachęcam do odmawiania różańca w rodzinach. Każdego dnia zapraszamy na nabożeństwo różańcowe.  Dzieci i młodzież spotkają się na różańcu we wtorek środę i czwartek o 16.30.  - 7 października poświęcenie różańców dzieci przygotowujących się do I Komunii św.  o godz. 17.00
+2. Obchodzimy 21. Dzień Papieski  -  można złożyć ofiary do puszek na Fundację „Dzieło Nowego Tysiąclecia”, która realizuje program stypendialny skierowany do uzdolnionej młodzieży z małych miast i wsi.
 
+3. Październik to miesiąc różańca. Zapraszamy codziennie na różaniec. Zachęcam także do wspólnego odmawiania różańca w rodzinach. Spotkanie organizacyjne rodziców dzieci I komunijnych wtorek po różańcu.
 
-3. W przyszłą niedzielę będziemy obchodzić 21. Dzień Papieski. Tego dnia swoimi ofiarami wspieramy Fundację „Dzieło Nowego Tysiąclecia”
+4. 13 w środę ostatnie nabożeństwo fatimskie przy figurze w Borucinie Kolonia o godz.19.00 jeżeli będzie bezdeszczowo / jeżeli deszcz 16.30 w kościele/ To również 40 rocznica śmierci ks. Szczepana Wojtasa.
 
-4. Wypominki można już zamawiać.
+5. W czwartek będziemy obchodzić Dzień Edukacji Narodowej. Wszystkim, którym leży na sercu dobre wychowanie młodego pokolenia, szczególnie rodzicom, nauczycielom, wychowawcom, katechetom, życzymy przede wszystkim wytrwałości i mocy Ducha Świętego na każdy dzień.
 
+6. Zbliża się listopad, miesiąc szczególnej pamięci o naszych zmarłych. Można zabrać ze sobą formularze wypominków. Przypominam o opłatach cmentarnych – śmieci i woda 
 
-5. Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
-	 
+7. Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
 
-##Intencje mszalne    03 – 11 października 2020
+#Intencje mszalne    11 – 19 października 2021
 
-#PONIEDZIAŁEK  - 04.10
+#PONIEDZIAŁEK – 11.10
 
-15.30 [-] Różaniec
+11.30 – RÓŻANIEC
 
-16.00 [+] Krystyna 2 rś Marian Łukasz Zalewscy.
+12.00 [+] Władysław Wojtkowski int. sąsiadów Bączków
 
-#WTOREK – 05.10
+#WTOREK – 12.10
 
-16.00 [+] Wanda Radaczewska int. r. Żywiczków
+16.00 [+] Stefan 30 rś i Elżbieta Kruszewscy
 
-16.30 [-] Różaniec/dzieci/
+16.30 – RÓŻANIEC
 
-17.00 [+] Zofia Kwiatkowska int. siostry Anki z mężem
+17.00 [+]Marianna Zakrocka int. wnuczki Iwony z r.
 
-#ŚRODA - 06.10
+#ŚRODA – 13.10
 
-16.00 [+] Barbara Bolesław Mrozińscy int. dzieci
+16.00  - NOWENNA DO MB NIEUSTAJACEJ POMOCY
 
-16.30 [-] Różaniec/dzieci/
+[+] ks Szczepan Wojtas 40 rś
 
-17.00 [+] Wincenty Wojtasik int. córki Marzeny z r.
+[+] Daromiła Dybowska int. męża i dzieci z r.
 
+[+] Aniela Jonatowska int. Godzińskich  i Kocińskich 
 
-#CZWARTEK – 07.1O MATKI BOŻEJ RÓŻAŃCOWEJ
+[+] Władysław Wojtkowski int. Renaty Jagodzińskiej 
 
-16.00 [+] Stanisława Gęgotek int męża 
+[+] Czesław Łodygowski int. Ignacego Olejniczaka z r. 
 
-16.30 [-] Różaniec/dzieci/
+[+] Stefan Antczak int. Bożeny i Stanisława  Czołpińskich 
 
-17.00 [+] Ewa Witulska int syna Jana z r.
+[+] Marianna Gardyza int. r. Gostyńskich
 
+[+] Kamil Pietrzak int sąsiada Gorzyckiego 
 
-#PIĄTEK – 08.10
+[+] Zofia Kwiatkowska int.  r. Walczaków 
 
-11.30 [-] Różaniec
+#19.00  [-]   Różaniec   - Fatimskie Nabożeństwo /Borucin Kolonia/
 
-12.00 [+] Stanisława Kurdupska int. Opłatkowskich
+#CZWARTEK – 14.10
 
-#SOBOTA - 09.10
+10.30 [-] Różaniec 
 
-08.30 [-] Różaniec
+11.00 [+] Jerzy  Kołodziejski int. Krzysztofa Zielińskiego z r.
 
-09.00 [+] Marian Ładziński w rś
+#PIĄTEK – 15.10
 
-#NIEDZIELA -10.10
+16.30 – RÓŻANIEC
 
-09.00 [+]Jan Zalewski teściowie Zalewscy rodzic Czarniak br Henryk
+17.00+ Władysław Zieliński 6 rś	
 
-11.00 [-] Parafian  [+] Halina Pawlak int. Krygierów z Włocławka
+#SOBOTA – 16.10
+
+08.00 – RÓŻANIEC
+
+08.30  [+] Stanisława Gęgotek int córki Renaty z r.
+
+#NIEDZIELA – 17.10 
+
+09.00 [+] Stanisława Gęgotek int. córki Mileny z r.
+
+11.00 [-] PARAFIAN [+] Genowefa Wacław Pańka int. Józefa Pańki
