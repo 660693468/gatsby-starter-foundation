@@ -27,43 +27,9 @@ featuredImage: /assets/papiez.jpg
 
 7. Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
 
-#Intencje mszalne    11 – 19 października 2021
+#Intencje mszalne   
 
-#PONIEDZIAŁEK – 11.10
 
-11.30 – RÓŻANIEC
-
-12.00 [+] Władysław Wojtkowski int. sąsiadów Bączków
-
-#WTOREK – 12.10
-
-16.00 [+] Stefan 30 rś i Elżbieta Kruszewscy
-
-16.30 – RÓŻANIEC
-
-17.00 [+]Marianna Zakrocka int. wnuczki Iwony z r.
-
-#ŚRODA – 13.10
-
-16.00  - NOWENNA DO MB NIEUSTAJACEJ POMOCY
-
-[+] ks Szczepan Wojtas 40 rś
-
-[+] Daromiła Dybowska int. męża i dzieci z r.
-
-[+] Aniela Jonatowska int. Godzińskich  i Kocińskich 
-
-[+] Władysław Wojtkowski int. Renaty Jagodzińskiej 
-
-[+] Czesław Łodygowski int. Ignacego Olejniczaka z r. 
-
-[+] Stefan Antczak int. Bożeny i Stanisława  Czołpińskich 
-
-[+] Marianna Gardyza int. r. Gostyńskich
-
-[+] Kamil Pietrzak int sąsiada Gorzyckiego 
-
-[+] Zofia Kwiatkowska int.  r. Walczaków 
 
 #19.00  [-]   Różaniec   - Fatimskie Nabożeństwo /Borucin Kolonia/
 
