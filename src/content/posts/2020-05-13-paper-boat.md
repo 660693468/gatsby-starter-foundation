@@ -2,57 +2,84 @@
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
-date: 2021-10-10
+date: 2021-10-17
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
  
 
+##DWUDZIESTA DZIEWIĄTA NIEDZIELA W CIĄGU ROKU                                                                                  
 
-##DWUDZIESTA ÓSMA NIEDZIELA W CIĄGU ROKU  - 10 października 2021 
+#17 października 2021  -  OGŁOSZENIA DUSZPASTERSKIE
 
-#OGŁOSZENIA DUSZPASTERSKIE
+1. Niezwykła to sytuacja, kiedy Pan staje się sługą. Bóg oddaje się w ręce człowieka, by móc stać się pokarmem, który możemy jeść. Tylko Bóg, który jest miłością, może to zrealizować. Tylko Bóg, który ustanowił Eucharystię, gorąco pragnie zasiąść z nami do stołu i z nami ją spożywać. Odkrywajmy, w jak wielkiej tajemnicy bierzemy udział.
 
-1. Skarbem Kościoła jest Eucharystia, w której Bóg jest dla nas pokarmem i mądrością w Najświętszym Sakramencie i swoim słowie. W świecie, który nieustannie proponuje nam wiele różnorakich dóbr, warto rozróżnić, co tak naprawdę jest dla nas dobrem, a co tylko ułudą, iluzją dobra. Przychodzimy jak młodzieniec z Ewangelii, by zadać Bogu najistotniejsze pytania. Nie lękajmy się też przyjąć Bożej odpowiedzi.
+2. Październik to miesiąc różańca. Razem z Matką Bożą pragniemy rozważać tajemnice zbawienia. Zapraszamy codziennie, dzieci we wtorek środa i w czwartek 
 
-2. Obchodzimy 21. Dzień Papieski  -  można złożyć ofiary do puszek na Fundację „Dzieło Nowego Tysiąclecia”, która realizuje program stypendialny skierowany do uzdolnionej młodzieży z małych miast i wsi.
+3. Zbliża się listopad, miesiąc szczególnej pamięci o naszych zmarłych. - przyjmuję już wypominki roczne i jednorazowe. Opłaty cmentarne.
 
-3. Październik to miesiąc różańca. Zapraszamy codziennie na różaniec. Zachęcam także do wspólnego odmawiania różańca w rodzinach. Spotkanie organizacyjne rodziców dzieci I komunijnych wtorek po różańcu.
+4. Jutro przypada wspomnienie św. Łukasza Ewangelisty, który zanim rozpoczął kroczenie drogą Pańską, był lekarzem. Tego dnia pamiętajmy o pracownikach służby zdrowia, o tych, którzy służą nam i opiekują się nami.
 
-4. 13 w środę ostatnie nabożeństwo fatimskie przy figurze w Borucinie Kolonia o godz.19.00 jeżeli będzie bezdeszczowo / jeżeli deszcz 16.30 w kościele/ To również 40 rocznica śmierci ks. Szczepana Wojtasa.
+5. Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
 
-5. W czwartek będziemy obchodzić Dzień Edukacji Narodowej. Wszystkim, którym leży na sercu dobre wychowanie młodego pokolenia, szczególnie rodzicom, nauczycielom, wychowawcom, katechetom, życzymy przede wszystkim wytrwałości i mocy Ducha Świętego na każdy dzień.
+##Intencje mszalne     18 - 24 października 2021
 
-6. Zbliża się listopad, miesiąc szczególnej pamięci o naszych zmarłych. Można zabrać ze sobą formularze wypominków. Przypominam o opłatach cmentarnych – śmieci i woda 
+#PONIEDZIAŁEK  – 18.10
 
-7. Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
+15.30 - RÓŻANIEC
 
-#Intencje mszalne   
+16.00 [+] Czesław Łodygowski int.  Mirosławy Stefana Chaberskich z r.
+
+#WTOREK  - 19.10
+
+16.00 [+] Janina Władysław Matusiak Stanisława Jan Włodzimierz Waśkiewicz
+
+16.30 [-] Różaniec
+
+17.00 [+] Marianna Zakrocka int.  mieszkańców Stoku i sąsiadów z Agnieszkowa
 
 
+#ŚRODA  -  20.10
 
-#19.00  [-]   Różaniec   - Fatimskie Nabożeństwo /Borucin Kolonia/
+16.00 [+] Marianna Lewandowska Krystyna Czerwińska Ryszard Klofczyński - Żurańskich i Hofmanów
 
-#CZWARTEK – 14.10
+[+] Zofia Kwiatkowska – zakładu Pogrzebowego Arka
 
-10.30 [-] Różaniec 
+[+] Ewa Witulska -  mieszkańców Dąbia Kuj.
 
-11.00 [+] Jerzy  Kołodziejski int. Krzysztofa Zielińskiego z r.
+[+] Jerzy Kołodziejski – r. Rogowskich
 
-#PIĄTEK – 15.10
+[+] Kamil Pietrzak int. r. Borkowskich 
 
-16.30 – RÓŻANIEC
+16.30  [-]  RÓŻANIEC
 
-17.00+ Władysław Zieliński 6 rś	
+#CZWARTEK  - 21.01
 
-#SOBOTA – 16.10
+16.00 [+] Stanisława Kurdupska int. Ani Maciejewskiej z r. 
 
-08.00 – RÓŻANIEC
+16.30 [-] Różaniec
 
-08.30  [+] Stanisława Gęgotek int córki Renaty z r.
+17.00 [+] Zofia Kwiatkowska int.  chrześniaczki Aurelii z r.
 
-#NIEDZIELA – 17.10 
+#PIĄTEK – 22.10	
 
-09.00 [+] Stanisława Gęgotek int. córki Mileny z r.
+11.00 [-] Różaniec
 
-11.00 [-] PARAFIAN [+] Genowefa Wacław Pańka int. Józefa Pańki
+11.30 [+] Stanisław Betliński z racji ur. int. żony i córki
+
+#SOBOTA  -  23.10
+
+08.30- Różaniec
+
+09.00 [+] Helena Pawlak int. Bartczaków i Szmajda
+
+
+#NIEDZIELA – 24.10
+
+09.00 [+] Tadeusz Bartkowiak 3 rś int. żony i dzieci
+
+[+] Stanisława Janina Andrzej Balcerowscy 
+
+11.00  [-] PARAFIAN
+
+[+]  Anna Szatkowska w 5 rś nt. męża i dzieci
