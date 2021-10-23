@@ -2,84 +2,95 @@
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
-date: 2021-10-17
+date: 2021-10-23
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
  
 
-##DWUDZIESTA DZIEWIĄTA NIEDZIELA W CIĄGU ROKU                                                                                  
+#TRZYDZIESTA NIEDZIELA W CIĄGU ROKU  - 24 października 2021 
 
-#17 października 2021  -  OGŁOSZENIA DUSZPASTERSKIE
+#OGŁOSZENIA DUSZPASTERSKIE
 
-1. Niezwykła to sytuacja, kiedy Pan staje się sługą. Bóg oddaje się w ręce człowieka, by móc stać się pokarmem, który możemy jeść. Tylko Bóg, który jest miłością, może to zrealizować. Tylko Bóg, który ustanowił Eucharystię, gorąco pragnie zasiąść z nami do stołu i z nami ją spożywać. Odkrywajmy, w jak wielkiej tajemnicy bierzemy udział.
+1. Bóg słyszy nasz głos, nasze wołanie nawet wtedy, gdy nam się wydaje, że nie jesteśmy w stanie przebić się przez współczesny szum, który zewsząd nas otacza. On potrafi wyłuskać nasze wołanie pełne wiary, miłości i zaufania jak wołanie Bartymeusza. 
 
-2. Październik to miesiąc różańca. Razem z Matką Bożą pragniemy rozważać tajemnice zbawienia. Zapraszamy codziennie, dzieci we wtorek środa i w czwartek 
-
-3. Zbliża się listopad, miesiąc szczególnej pamięci o naszych zmarłych. - przyjmuję już wypominki roczne i jednorazowe. Opłaty cmentarne.
-
-4. Jutro przypada wspomnienie św. Łukasza Ewangelisty, który zanim rozpoczął kroczenie drogą Pańską, był lekarzem. Tego dnia pamiętajmy o pracownikach służby zdrowia, o tych, którzy służą nam i opiekują się nami.
-
-5. Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
-
-##Intencje mszalne     18 - 24 października 2021
-
-#PONIEDZIAŁEK  – 18.10
-
-15.30 - RÓŻANIEC
-
-16.00 [+] Czesław Łodygowski int.  Mirosławy Stefana Chaberskich z r.
-
-#WTOREK  - 19.10
-
-16.00 [+] Janina Władysław Matusiak Stanisława Jan Włodzimierz Waśkiewicz
-
-16.30 [-] Różaniec
-
-17.00 [+] Marianna Zakrocka int.  mieszkańców Stoku i sąsiadów z Agnieszkowa
+2. Dzisiejsza niedziela rozpoczyna Tydzień Misyjny, w którym będziemy otaczać modlitwą i wsparciem materialnym szczególnie tych, którzy głoszą Chrystusa na wszystkich kontynentach świata. 
 
 
-#ŚRODA  -  20.10
+3. Kończy się październik – miesiąc różańca. Zapraszamy codziennie na różaniec. Warto zadać sobie pytania: Czy choć raz w tym miesiącu modliłem się na różańcem w intencjach swoich bliskich? Czy udało mi się zebrać rodzinę i zaprosić ją do wspólnej modlitwy?
 
-16.00 [+] Marianna Lewandowska Krystyna Czerwińska Ryszard Klofczyński - Żurańskich i Hofmanów
+4. Nadchodzący listopad to miesiąc szczególnej pamięci o naszych zmarłych. W zakrystii i kancelarii przyjmujemy wypominki roczne i jednorazowe. Opłaty cmentarne. Zapłaciłem za śmieci 16.400 zł wzrasta koszt śmieci Duzy pojemnik  z 600 na 700 zł i małe ze 100 na 120 zł.
 
-[+] Zofia Kwiatkowska – zakładu Pogrzebowego Arka
+5.Przyszły weekend to czas, w którym wyruszymy na groby bliskich. Zbliża się uroczystość Wszystkich Świętych (Msze Święte jak niedzielę) i Dzień Zaduszny. Procesja na cmentarzu parafialnym o godz. 10.40 a po niej Msza Święta za zmarłych. 2 listopada będziemy wspominali wszystkich wiernych zmarłych. W Dzień Zaduszny o godz. 17.00  z z modlitwą za wszystkich bliskich zmarłych.
 
-[+] Ewa Witulska -  mieszkańców Dąbia Kuj.
+6. Od 1 do 8 listopada włącznie można codziennie zyskać odpust zupełny za pobożne nawiedzenie cmentarza i odmówienie modlitwy za zmarłych. Trzeba także spełnić zwykłe warunkami otrzymania odpustu, czyli być w stanie łaski uświęcającej, przyjąć Komunię Świętą, pomodlić się w intencjach wyznaczonych przez papieża, wykluczyć przywiązanie do jakiegokolwiek grzechu. Odpust można ofiarować wyłącznie za zmarłych. Przed mszą koronka do Bożego Miłosierdzia.
 
-[+] Jerzy Kołodziejski – r. Rogowskich
 
-[+] Kamil Pietrzak int. r. Borkowskich 
+7. 04.12.2021 r. (sobota) szkolenie liturgiczne dla fotografów i operatorów kamer.
 
-16.30  [-]  RÓŻANIEC
+8. Powróciły od renowacji kolejne elementy ołtarza głównego: mensa ołtarzowa, elementy złocone,  obraz Madonny Sykstyńskiej. Koszt renowacji 71 .000 zł 
 
-#CZWARTEK  - 21.01
+9. Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli. 
 
-16.00 [+] Stanisława Kurdupska int. Ani Maciejewskiej z r. 
 
-16.30 [-] Różaniec
 
-17.00 [+] Zofia Kwiatkowska int.  chrześniaczki Aurelii z r.
+##Intencje mszalne     25 października – 01 listopada   2021
 
-#PIĄTEK – 22.10	
+#PONIEDZIAŁEK – 25.10
+
+12.00 – RÓŻANIEC
+
+12.30 [+] Jadwiga Rybacka int. brata Tadeusza z rodz.
+ 
+#WTOREK – 26.10
+
+16.00 [+] Aniela Jonatowska r. Jonatowskich Łączkowskich 
+
+16.30 - RÓŻANIEC dzieci
+
+17.00 [+] Rafał Sadowski imieninowa
+
+#ŚRODA – 27.10
+
+16.00 [+] Zofia Kwiatkowska
+[+] Jadwiga Rybacka – Elżbiety i Piotra Szczepańskich 
+[+] Julianna Mantyk – Czapskich z Redcza 
+[+] Jerzy Kołodziejski – Zakładu Pogrzebowego Arka
+
+16.30 – RÓŻANIEC
+
+#CZWARTEK – 28.10
+
+16.00 [-]  dziękczynna z prośbą o Błogosławieństwo 
+
+16.30 [-] Różaniec - dzieci
+
+17.00 [+] Marianna Zakrocka int. Teresy Smól
+
+#PIĄTEK  - 29.10
 
 11.00 [-] Różaniec
 
-11.30 [+] Stanisław Betliński z racji ur. int. żony i córki
+11.30 [+] Ewa Witulska int. córki Barbary z Kamilą
 
-#SOBOTA  -  23.10
+#SOBOTA  - 30.10
 
-08.30- Różaniec
+08.30 – RÓŻANIEC
 
-09.00 [+] Helena Pawlak int. Bartczaków i Szmajda
+09.00 [+] Stanisława Gęgotek int. córki Sławomiry z r.
 
+#NIEDZIELA – 31.10
 
-#NIEDZIELA – 24.10
+09.00 [+] Jan w rś Krystyna Przychodzcy zmarli  z ich rodzin  Kazimierz  Ochociński
 
-09.00 [+] Tadeusz Bartkowiak 3 rś int. żony i dzieci
+11.00 [+] Renata Ziółkowska int. koleżanek i kolegów z SP Dąbie /
 
-[+] Stanisława Janina Andrzej Balcerowscy 
+[-] Mariola ur. int. męża i dzieci/
 
-11.00  [-] PARAFIAN
+#PONIEDZIAŁEK – 01.11 UROCZYSTOŚĆ WSZYSTKICH ŚWIĘTYCH
 
-[+]  Anna Szatkowska w 5 rś nt. męża i dzieci
+09.00[+] Kamil Pietrzak int. babci i cioci Reni z Dawidem    
+
+#10.40 – PROCESJA NA CMENTARZU
+
+11.00 [+] PARAFIAN
