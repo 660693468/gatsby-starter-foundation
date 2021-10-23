@@ -21,7 +21,7 @@ featuredImage: /assets/papiez.jpg
 
 4. Nadchodzący listopad to miesiąc szczególnej pamięci o naszych zmarłych. W zakrystii i kancelarii przyjmujemy wypominki roczne i jednorazowe. Opłaty cmentarne. Zapłaciłem za śmieci 16.400 zł wzrasta koszt śmieci Duzy pojemnik  z 600 na 700 zł i małe ze 100 na 120 zł.
 
-5.Przyszły weekend to czas, w którym wyruszymy na groby bliskich. Zbliża się uroczystość Wszystkich Świętych (Msze Święte jak niedzielę) i Dzień Zaduszny. Procesja na cmentarzu parafialnym o godz. 10.40 a po niej Msza Święta za zmarłych. 2 listopada będziemy wspominali wszystkich wiernych zmarłych. W Dzień Zaduszny o godz. 17.00  z z modlitwą za wszystkich bliskich zmarłych.
+5. Przyszły weekend to czas, w którym wyruszymy na groby bliskich. Zbliża się uroczystość Wszystkich Świętych (Msze Święte jak niedzielę) i Dzień Zaduszny. Procesja na cmentarzu parafialnym o godz. 10.40 a po niej Msza Święta za zmarłych. 2 listopada będziemy wspominali wszystkich wiernych zmarłych. W Dzień Zaduszny o godz. 17.00  z z modlitwą za wszystkich bliskich zmarłych.
 
 6. Od 1 do 8 listopada włącznie można codziennie zyskać odpust zupełny za pobożne nawiedzenie cmentarza i odmówienie modlitwy za zmarłych. Trzeba także spełnić zwykłe warunkami otrzymania odpustu, czyli być w stanie łaski uświęcającej, przyjąć Komunię Świętą, pomodlić się w intencjach wyznaczonych przez papieża, wykluczyć przywiązanie do jakiegokolwiek grzechu. Odpust można ofiarować wyłącznie za zmarłych. Przed mszą koronka do Bożego Miłosierdzia.
 
@@ -53,8 +53,11 @@ featuredImage: /assets/papiez.jpg
 #ŚRODA – 27.10
 
 16.00 [+] Zofia Kwiatkowska
+
 [+] Jadwiga Rybacka – Elżbiety i Piotra Szczepańskich 
+
 [+] Julianna Mantyk – Czapskich z Redcza 
+
 [+] Jerzy Kołodziejski – Zakładu Pogrzebowego Arka
 
 16.30 – RÓŻANIEC
