@@ -2,82 +2,61 @@
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
-date: 2021-10-30
+date: 2021-11-05
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
  
 
-##TRZYDZIESTA PIERWSZA NIEDZIELA W CIĄGU ROKU   31 października 2021                       
+##TRZYDZIESTA DRUGA NIEDZIELA W CIĄGU ROKU  - 7 listopada 2021
 
 #OGŁOSZENIA DUSZPASTERSKIE
 
-1. Jutro uroczystość Wszystkich Świętych Msza św. w kościele o 9.00 i na  cmentarzu parafialnym o godz. o 11.00  przed nią 10.40  procesja żałobna. Zbiórka na tace na WSD Włocławek.
+1. Bóg prowadzi nas drogami prawdy i miłości. Dał nam przykazania, a więc jasne zasady, konkretne wymagania. W świecie skażonym obłudą i zakłamaniem ci, którzy to demaskują, są narażeni na różne ataki, trudności. Jednak wpatrujemy się w Pana Jezusa, który nie bał się demaskować faryzejskich, nieprawdziwych i nieuczciwych postaw, dlatego miejmy odwagę zawsze stawać po stronie prawdy i uczciwości. Bóg wspiera tych, którzy są Mu wierni.
 
-2. We wtorek 2 listopada – Dzień Zaduszny. W liturgii Kościół wspomina wszystkich wiernych zmarłych, którzy poprzedzili nas na drodze wiary. O 16.40 koronka do Bożego Miłosierdzia o 17.00 Msza za zmarłych z 2020/21.
+2. W czwartek 11 listopada będziemy świętowali Narodowe Święto Niepodległości – 103. rocznicę odzyskania niepodległości przez Polskę. 
 
-3. Od 1 do 8 listopada włącznie można codziennie zyskać odpust zupełny za pobożne nawiedzenie cmentarza i odmówienie modlitwy za zmarłych. Trzeba także spełnić zwykłe warunkami otrzymania odpustu, czyli być w stanie łaski uświęcającej, przyjąć Komunię Świętą, pomodlić się w intencjach wyznaczonych przez papieża, wykluczyć przywiązanie do jakiegokolwiek grzechu. Odpust można ofiarować wyłącznie za zmarłych. Przed Mszą Koronka Do Bożego Miłosierdzia.
+3. Przez cały listopad w zakrystii i kancelarii przyjmujemy wypominki i opłaty cmentarne. 
 
-4. Podziękowanie za kwiaty p. Jasińskim z Stoku  i pomoc przy cmentarzu: Kazimierz Danielak piasek; Krzysztof Betliński i Ireneusz Sobczyński – transport; Józef Błaszczyk Leszek Osiński radny Mirosław Stefański sołtysi z Dąbia i Bodzanowa.
+4. Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
 
-5. Wypominki i opłaty cmentarne. Proszę o nie wrzucanie do pojemników na śmieci gruzu po nagrobkach i dużych gabarytowo gałęzi drzew i tuj. 
 
-6. 5 listopada przypada pierwszy piątek miesiąca. Spowiedź i  adoracja Najświętszego Sakramentu 15.30 -16.00.
+#Intencje mszalne 08 – 17 listopada 2021
 
-7. Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
+#PONIEDZIAŁEK - 08.11
 
-##Intencje mszalne     01 - 09 listopada 2021
+ 16.00 [+] Stanisław Smól
 
-#PONIEDZIAŁEK – 01.11 UROCZYSTOŚĆ WSZYSTKICH ŚWIĘTYCH
+#WTOREK  - 09.11
 
-09.00 [+] Kamil Pietrzak int. babci i cioci Reni z Dawidem oraz int. r. Pisarków i cioci Zosi z Bydgoszczy
+11.00 [+]  Janina Buczkowska int. siostry Marty 
 
-10.40 -  PROCESJA NA CMENTARZU
+#ŚRODA - 10.11
 
-11.00 [+] PARAFIAN /na cmentarzu/
+16.00 
+[+] Jadwiga Rybacka int. r. Rzepka i Rogalskich z Lubrańca
+[+] Julianna Mantyk int. Zakładu Pogrzebowego Arka
+[+] Wincenty Wojtasik int. Zbyszka z r. 
+[+] Renata Ziółkowska int. mieszkańców Dąbia Kuj.
+[+] Janina Buczkowska int. Joli i Kasi z r. 
 
-#WTOREK – 02.11 DZIEŃ ZADUSZNY
+#CZWARTEK - 11.11 Narodowe Święto Niepodległości 
 
-16.40 – KORONKA DO BOŻEGO MIŁOSIERDZIA
+09.00 [+]  Czesław Zaparucha 24 rś int dzieci i wnuków
+[+] Marian Roszak 4 rś żony dzieci i wnuków
 
-17.00 [+] ZMARLI 01.11.2020-31.11.2021 
-+ Janina Buczkowska + Jadwiga Rybacka + Ewa Witulska  + Julianna Mantyk                              + Zofia Kwiatkowska + Helena Pawlak  + Stanisława Gęgotek + Aniela Jonatowska                           + Piotr Kwaśny + Zofia Gawrońska + Jerzy Kołodziejski + Stefan Antczak + Jan Pietrzak                 + Henryk Słowiński  + Wincenty Wojtasik +Kamil Pietrzak + Marianna Gardyza                           + Barbara Pawłowska + Renata Ziółkowska + Edward Krulikowski  + Halina Algierowicz                      + Stanisława Kurdupska + Marianna Zakrocka + Marianna Szydłowska + Czesław Łodygowski                + Władysław Wojtkowski + Izabella Bączek + Genowefa Wojtkowska-Skowrońska                             + Kazimierz Kosiński + Irena Pawłowska  + Wanda Radaczewska
+#PIĄTEK - 12.11
 
-#ŚRODA – 03.11
+09.00  [+] Zofia Gawrońska int. r. Skowrońskich 
 
-16.40 - Koronka do Bożego Miłosierdzia
+#SOBOTA - 13.11
 
-17.00 [+]+ Daromiła Dybowska -  męża i dzieci z r. 
+09.00 [+]  Barbara Pawłowska int. chrześniaka Wojtka z r.
 
-[+] Janina Buczkowska  - Bożeny i Pawła Niewiadomskich z  synem Patrykiem
+#NIEDZIELA - 14.11
 
-[+] Jadwiga Rybacka – bratowej Danuty
+09.00 [+]  Czesława 40 rś Franciszek Mierzejewscy
 
-[+] Julianna Mantyk – Leokadii Mantyk z r.
+11.00 [+] Marianna Henryk Andrzej Piotr Słowińscy Stefania Jan Czesława Franciszek Adamowscy int. Janiny z r. 
 
-[+] Zofia Kwiatkowska – Beaty i Sławka
-
-#CZWARTEK – 04.11
-
-16.40 - Koronka do Bożego Miłosierdzia
-
-17.00 [+] Edward Krulikowski int. syna Krzysztofa
-
-#PIĄTEK – 05.11 – PIERWSZY MIESIĄCA
-
-15.30 - Wystawienie Najświętszego sakramentu  - Koronka do Bożego Miłosierdzia
-- spowiedź 
-
-16.00 [+] Czesław Łodygowski int. r. Waśkiewiczów i Balcerak 
-
-#SOBOTA – 06.11
-
-08.40 - Koronka do Bożego Miłosierdzia
-
-09.00 [+] Henryk Sadowski int. Bronisława Ciesielskiego
-
-#NIEDZIELA 07.11
-
-09.00 [+] Eleonora i Stefan Ciesielscy
-
-11.00 [+] Lesław Nowak int żony z r. 
+ 
