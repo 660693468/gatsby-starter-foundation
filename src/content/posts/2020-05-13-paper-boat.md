@@ -40,7 +40,7 @@ featuredImage: /assets/papiez.jpg
 
 #CZWARTEK – 18.11
 
-16.00 [+] Wincenty Wojtasik int syna Mariusza z r.
+16.00 [+] Stanisława Kurdupska int. Chrześniaczki Haliny i r. Chojnackich
 
 #PIĄTEK – 19.11
 
