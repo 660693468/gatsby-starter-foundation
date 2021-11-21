@@ -2,56 +2,75 @@
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
-date: 2021-11-14
+date: 2021-11-21
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
  
 
-#TRZYDZIESTA TRZECIA NIEDZIELA W CIĄGU ROKU  - 14 listopada 2021 
+##JEZUSA CHRYSTUSA, KRÓLA WSZECHŚWIATA  
+
+#21 listopada 2021                   
 
 #OGŁOSZENIA DUSZPASTERSKIE
 
-1. Żyjemy w czasach ostatecznych, bo nasze życie na tym świecie jest tylko etapem pielgrzymki ku niebieskiej ojczyźnie, gdzie miejsca przygotował nam Bóg. Wobec wydarzeń, które czasem mają cechy apokaliptyczne, w sercu człowieka pojawia się strach i niepokój. Nie możemy jednak zapomnieć, że Chrystus nas odkupił, że jesteśmy wezwani, by przyjąć Jego perspektywę. Świat się zmienia, lecz słowo Boga trwa na wieki. Każdy nasz udział w Eucharystii jest wyrazem naszej czujności, ufności i gotowości na spotkanie z Panem.
+1. Mamy Króla! Jest nim Jezus Chrystus – Zbawiciel, Król wszechświata. Należymy do królewskiego rodu i z Chrystusem mamy udział w królewskim kapłaństwie. Znakiem Jego królowania nie jest jednak korona, lecz krzyż zbawienia, który wisi na ścianach naszych domów, jest wpisany w nasze serca i którym znaczymy siebie, gdy stajemy do modlitwy. A ponieważ szlachectwo zobowiązuje, niech świadomość przynależności do królewskiego rodu zobowiązuje nas do godnego życia.
 
-2. Wypominki roczne i jednorazowe – opłaty cmentarne.
+2. Kolejny rok liturgiczny kończymy uroczystością Jezusa Chrystusa Króla Wszechświata. Za publiczne odmówienie aktu poświęcenia rodzaju ludzkiego Chrystusowi Królowi możemy dziś uzyskać odpust zupełny. Trzeba także spełnić zwykłe warunkami otrzymania odpustu, czyli być w stanie łaski uświęcającej, przyjąć Komunię Świętą, pomodlić się w intencjach wyznaczonych przez papieża, wykluczyć przywiązanie do jakiegokolwiek grzechu. Akt poświęcenia odmówimy przed błogosławieństwem na każdej Mszy Świętej. 
 
-3. 20 listopada sobota godz. 11.00 – zbiórka zużytego sprzętu elektrycznego i elektronicznego – pomoc misjom.
+3. Wypominki roczne i opłaty cmentarne.  
 
-4. W przyszłą niedzielę zakończymy rok liturgiczny uroczystością Jezusa Chrystusa Króla Wszechświata. 
+4. W przyszłą niedzielę rozpoczynamy Adwent, czas radosnego oczekiwania na przyjście Pana. Roraty w naszym kościele codziennie. Dzieci zapraszam w środy i czwartki. W pierwszą niedzielę Adwentu podczas  Mszy Świętej poświęcenie opłatków wigilijnych, które tradycyjnie Rada Parafialna rozniesie po domach.
 
 5. Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
 
 
-##Intencje mszalne    15 – 21 listopada 2021
+
+##Intencje mszalne    23 -29   listopada  2020
+
+#PONIEDZIAŁEK – 22.11
 
 
-#PONIEDZIAŁEK - 15.11
+12.00 [+]Czesław Łodygowski int. Skowrońskich i Kurantów
 
-12.00  [+] Jadwiga Rybacka int. Agnieszki z r. 
+#WTOREK – 23.11
 
-#WTOREK – 16.11
+13.00 [+] Wanda i Stanisław Radaczewscy w rś
 
-13.00 [+] Ewa Witulska  int. córki Eweliny z mężem
+#ŚRODA – 24.11
 
-#ŚRODA – 17.11
+15.30[+] Władysław Wojtkowski – urodzinowa
 
-16.00 [+] Marianna Gardyza  int. mieszkańców Stoku i 3 r. z Agnieszkowa
+[+] Stanisława w 15 rś i Edward Pawłowscy
 
-#CZWARTEK – 18.11
+[+] Jadwiga Rybacka  - sąsiadów Ciesielskich
 
-16.00 [+] Stanisława Kurdupska int. Chrześniaczki Haliny i r. Chojnackich
+[+] Julianna Mantyk – bratowej z r. 
 
-#PIĄTEK – 19.11
+[+] Zofia Kwiatkowska – Renaty i Roberta
 
-16.00 [+] Czesław Dziubich 19 rś Józefa Antoni Witulscy int. żony i dzieci z r. 
+[+] Jerzy Kołodziejski – Wandy i Mirki z r.
 
-#SOBOTA – 20.11
+[+] Wincenty Wojtasik – syna Mariusza z r.  
 
-09.00 [+] Renata Ziółkowska int. męża Jana
+#CZWARTEK – 25.11
 
-#NIEDZIELA – 21.11 
+16.00 [+]Stefan Antczak  int. szwagra Andrzeja z r.
 
-09.00 [+] Irena Pawłowska int. r. Kurantów
+#PIĄTEK – 26.11
 
-11.00 [-] PARAFIAN  Czesława Betlińska 80 r.ur int dzieci zr
+11.00 [+]Kamil Pietrzak  int.  Czapskich z Redcza
+
+#SOBOTA - 27.11
+
+09.00 [+] Stanisława Kurdupska int. Bożeny Szałańskiej i Jąkalskich 
+
+12.00 [-] Hubert z okazji 1 r. ur.
+
+16.00 [-] ślub Karina Wojciech
+
+#NIEDZIELA – 28.11
+
+09.00 [+] Franciszek Pawłowski int. żony
+
+11.00 [+] Jadwiga Rybacka int. dzieci z rodzinami
