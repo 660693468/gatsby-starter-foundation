@@ -43,18 +43,28 @@ featuredImage: /assets/papiez.jpg
 13.00 [+]Sabina Kujawa int. Bożeny Marek z r.
 
 
-$ŚRODA – 01.XII RORATY DZIECI
+#ŚRODA – 01.XII RORATY DZIECI
 
 15.30 [+] Daromiła Dybowska int. męża i dzieci z r.
+
 [+] Jan Henryka int.  Danuty Ziółkowskiej z r. 
+
 [+] Janina 32 rś i Stanisław Chrząszcz
+
 [+] Mirosław Augustyniak
+
 [+] Czesław Łodygowski – Jan Obrzezgiewicza z r. 
+
 [+] Kamil Pietrzak – Zielińskich
+
 [+] Wincenty Wojtasik – Renaty Wojciechowskiej z bratem 
+
 [+] Jerzy Kołodziejski – Daniela Kołodziejskiego 
+
 [+] Ewa Witulska  - sąsiadów z domu 16B
+
 [+]Zofia Kwiatkowska – Marka i Andrzeja z r. 
+
 [+] Julianna Mantyk – Borkowskich z Redcza
 
 #CZWARTEK – O2.XII
@@ -78,4 +88,5 @@ $ŚRODA – 01.XII RORATY DZIECI
 #NIEDZIELA – 05.XII
 
 09.00 + Henryk 17 rś Marianna Kujawa int dzieci 
+
 11.00 - Parafian /+ rodzic. Genowefa Józef Szałańscy Piotr i Andrzej Słowińscy
