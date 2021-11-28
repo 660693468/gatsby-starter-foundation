@@ -2,75 +2,80 @@
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
-date: 2021-11-21
+date: 2021-11-28
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
  
 
-##JEZUSA CHRYSTUSA, KRÓLA WSZECHŚWIATA  
-
-#21 listopada 2021                   
+##PIERWSZA NIEDZIELA ADWENTU - 28 listopada 2021                                              
 
 #OGŁOSZENIA DUSZPASTERSKIE
 
-1. Mamy Króla! Jest nim Jezus Chrystus – Zbawiciel, Król wszechświata. Należymy do królewskiego rodu i z Chrystusem mamy udział w królewskim kapłaństwie. Znakiem Jego królowania nie jest jednak korona, lecz krzyż zbawienia, który wisi na ścianach naszych domów, jest wpisany w nasze serca i którym znaczymy siebie, gdy stajemy do modlitwy. A ponieważ szlachectwo zobowiązuje, niech świadomość przynależności do królewskiego rodu zobowiązuje nas do godnego życia.
+1. Dzisiejszą niedzielą rozpoczynamy Adwent, czas radosnego oczekiwania i przygotowania na przyjście Chrystusa. Wykorzystajmy dobrze ten czas na słuchanie słowa Bożego oraz wchodzenie w tajemnicę bliskości Boga, który przychodzi jako Emmanuel – Bóg z nami. 
 
-2. Kolejny rok liturgiczny kończymy uroczystością Jezusa Chrystusa Króla Wszechświata. Za publiczne odmówienie aktu poświęcenia rodzaju ludzkiego Chrystusowi Królowi możemy dziś uzyskać odpust zupełny. Trzeba także spełnić zwykłe warunkami otrzymania odpustu, czyli być w stanie łaski uświęcającej, przyjąć Komunię Świętą, pomodlić się w intencjach wyznaczonych przez papieża, wykluczyć przywiązanie do jakiegokolwiek grzechu. Akt poświęcenia odmówimy przed błogosławieństwem na każdej Mszy Świętej. 
-
-3. Wypominki roczne i opłaty cmentarne.  
-
-4. W przyszłą niedzielę rozpoczynamy Adwent, czas radosnego oczekiwania na przyjście Pana. Roraty w naszym kościele codziennie. Dzieci zapraszam w środy i czwartki. W pierwszą niedzielę Adwentu podczas  Mszy Świętej poświęcenie opłatków wigilijnych, które tradycyjnie Rada Parafialna rozniesie po domach.
-
-5. Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
+2. Proszę o zgłaszanie chorych przed świętami  do przyjęcia sakramentów. 
 
 
+3. Dziś poświęcenie opłatków wigilijnych, które tradycyjnie Rada Parafialna rozniesie po domach.
 
-##Intencje mszalne    23 -29   listopada  2020
-
-#PONIEDZIAŁEK – 22.11
+4. W Adwencie będziemy także przeżywali adwentowy dzień skupienia – 18.XII .
 
 
-12.00 [+]Czesław Łodygowski int. Skowrońskich i Kurantów
+5. W tym tygodniu pierwszy  piątek miesiąca - nabożeństwo do Najświętszego Serca Pana Jezusa i spowiedź.
 
-#WTOREK – 23.11
+6. Najbliższa niedziela, 5 grudnia, będzie 2. niedzielą Adwentu. To także Dzień modlitwy i pomocy materialnej Kościołowi na Wschodzie. 
 
-13.00 [+] Wanda i Stanisław Radaczewscy w rś
 
-#ŚRODA – 24.11
+7. Z dziećmi na roratach spotykamy się w środy i czwartki.  8. XII poświecenie medalików dzieci I komunijnych.
 
-15.30[+] Władysław Wojtkowski – urodzinowa
+8. Wszystkim jubilatom i solenizantom tego tygodnia Andrzejom Barbarom życzę doświadczenia bliskości Boga, obfitości Jego darów w codziennym życiu oraz opieki Matki Najświętszej. 
 
-[+] Stanisława w 15 rś i Edward Pawłowscy
+##Intencje mszalne 29 listopada - 05 grudnia 2021
 
-[+] Jadwiga Rybacka  - sąsiadów Ciesielskich
+#PONIEDZIAŁEK – 29.XI
 
-[+] Julianna Mantyk – bratowej z r. 
+12.00 [+] Stanisława Gęgotek int. sąsiadów Grabowskich
 
-[+] Zofia Kwiatkowska – Renaty i Roberta
 
-[+] Jerzy Kołodziejski – Wandy i Mirki z r.
+#WTOREK -30.XI
 
-[+] Wincenty Wojtasik – syna Mariusza z r.  
+13.00 [+]Sabina Kujawa int. Bożeny Marek z r.
 
-#CZWARTEK – 25.11
 
-16.00 [+]Stefan Antczak  int. szwagra Andrzeja z r.
+$ŚRODA – 01.XII RORATY DZIECI
 
-#PIĄTEK – 26.11
+15.30 [+] Daromiła Dybowska int. męża i dzieci z r.
+[+] Jan Henryka int.  Danuty Ziółkowskiej z r. 
+[+] Janina 32 rś i Stanisław Chrząszcz
+[+] Mirosław Augustyniak
+[+] Czesław Łodygowski – Jan Obrzezgiewicza z r. 
+[+] Kamil Pietrzak – Zielińskich
+[+] Wincenty Wojtasik – Renaty Wojciechowskiej z bratem 
+[+] Jerzy Kołodziejski – Daniela Kołodziejskiego 
+[+] Ewa Witulska  - sąsiadów z domu 16B
+[+]Zofia Kwiatkowska – Marka i Andrzeja z r. 
+[+] Julianna Mantyk – Borkowskich z Redcza
 
-11.00 [+]Kamil Pietrzak  int.  Czapskich z Redcza
+#CZWARTEK – O2.XII
 
-#SOBOTA - 27.11
+15.30 [+] Jadwiga Zenon Helena Stanisław Henryk Przygodzińscy
 
-09.00 [+] Stanisława Kurdupska int. Bożeny Szałańskiej i Jąkalskich 
+#PIĄTEK – 03.XII – PIERWSZY MIESIĄCA
 
-12.00 [-] Hubert z okazji 1 r. ur.
+15.00 [+]Edward Krulikowski int. wnuka Marcina z r.
 
-16.00 [-] ślub Karina Wojciech
+15.30 [-]Adoracja Najświętszego Sakramentu– Spowiedź 
 
-#NIEDZIELA – 28.11
+16.00 [+] Marianna Zakrocka int. r. Czołpińskich
 
-09.00 [+] Franciszek Pawłowski int. żony
 
-11.00 [+] Jadwiga Rybacka int. dzieci z rodzinami
+#SOBOTA – 04.XII
+
+09.00 [+] Barbara Pawłowska int. szwagierki Anny z r.
+
+
+#NIEDZIELA – 05.XII
+
+09.00 + Henryk 17 rś Marianna Kujawa int dzieci 
+11.00 - Parafian /+ rodzic. Genowefa Józef Szałańscy Piotr i Andrzej Słowińscy
