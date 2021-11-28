@@ -67,7 +67,7 @@ featuredImage: /assets/papiez.jpg
 
 [+] Julianna Mantyk – Borkowskich z Redcza
 
-#CZWARTEK – O2.XII
+#CZWARTEK – O2.XII RORATY DZIECI
 
 15.30 [+] Jadwiga Zenon Helena Stanisław Henryk Przygodzińscy
 
