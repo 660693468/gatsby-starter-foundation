@@ -2,72 +2,74 @@
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
-date: 2021-11-28
+date: 2021-12-05
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
  
 
-##PIERWSZA NIEDZIELA ADWENTU - 28 listopada 2021                                              
+##DRUGA NIEDZIELA ADWENTU - 5 grudnia 2021                                                         
 
 #OGŁOSZENIA DUSZPASTERSKIE
 
-1. Dzisiejszą niedzielą rozpoczynamy Adwent, czas radosnego oczekiwania i przygotowania na przyjście Chrystusa. Wykorzystajmy dobrze ten czas na słuchanie słowa Bożego oraz wchodzenie w tajemnicę bliskości Boga, który przychodzi jako Emmanuel – Bóg z nami. 
+1. Dziś druga niedziela Adwentu. Trwamy w radosnym czasie oczekiwania na spotkanie z Panem. Jednocześnie już po raz 22. obchodzimy Dzień modlitwy i pomocy materialnej Kościołowi na Wschodzie. Wpieramy modlitwą wspólnoty chrześcijan mieszkających za naszą wschodnią granicą. Po Mszy Świętej możemy także wesprzeć naszych braci i siostry na Wschodzie ofiarą do puszek.
 
-2. Proszę o zgłaszanie chorych przed świętami  do przyjęcia sakramentów. 
+2. W środę, 8 grudnia, będziemy obchodzili uroczystość Niepokalanego Poczęcia Najświętszej Maryi Panny. Poświęcenie medalików . 
 
-
-3. Dziś poświęcenie opłatków wigilijnych, które tradycyjnie Rada Parafialna rozniesie po domach.
-
-4. W Adwencie będziemy także przeżywali adwentowy dzień skupienia – 18.XII .
+3. Msze Święte roratne w soboty dla dzieci w środy i czwartki. Zabierzmy ze sobą lampiony. 
 
 
-5. W tym tygodniu pierwszy  piątek miesiąca - nabożeństwo do Najświętszego Serca Pana Jezusa i spowiedź.
+4 Zachęcam także do korzystania ze spowiedzi świętej. Codziennie jestem 
+w konfesjonale przed Msza Świętą. Nie odkładajmy spowiedzi na ostatnie dni Adwentu. 
 
-6. Najbliższa niedziela, 5 grudnia, będzie 2. niedzielą Adwentu. To także Dzień modlitwy i pomocy materialnej Kościołowi na Wschodzie. 
+5. Przypominam o zgłaszaniu chorych.
 
+6. Wszystkich parafianom i gościom, a szczególnie solenizantom i jubilatom tego tygodnia życzę wzrastania w miłości ku Bogu, który uczynił dla nas wielkie rzeczy, oraz opieki Niepokalanej. 
 
-7. Z dziećmi na roratach spotykamy się w środy i czwartki.  8. XII poświecenie medalików dzieci I komunijnych.
+##Intencje mszalne   06 – 12 grudnia 2021
 
-8. Wszystkim jubilatom i solenizantom tego tygodnia Andrzejom Barbarom życzę doświadczenia bliskości Boga, obfitości Jego darów w codziennym życiu oraz opieki Matki Najświętszej. 
+#PONIEDZIAŁEK – 6.XII
 
-##Intencje mszalne 29 listopada - 05 grudnia 2021
+13.00 [+] Kamil Pietrzak urodzinowo-imieninowa int. ojca z Anitą
 
-#PONIEDZIAŁEK – 29.XI
+#WTOREK – 7.XII
 
-12.00 [+] Stanisława Gęgotek int. sąsiadów Grabowskich
+13.00 + Bogumiła Józef Zbigniew Pawłowscy
 
+#ŚRODA – 8.XII 
 
-#WTOREK -30.XI
+# UROCZYSTOŚĆ NIEPOKALANEGO POCZĘCIA NAJŚWIĘTSZEJ MARII PANNY
 
-13.00 [+]Sabina Kujawa int. Bożeny Marek z r.
+15.30 [-] Joanna o szczęśliwe rozwiązanie
 
+[+] Władysław Wojtkowski – żony 
 
-#ŚRODA – 01.XII RORATY DZIECI
+[+] Czesław Łodygowski – r. Anasz
 
-15.30 [+] Daromiła Dybowska int. męża i dzieci z r.
+[+] Edward Krulikowski – ks Henryka
 
+[+] Wincenty Wojtasik – r. Auguścik
 
-#CZWARTEK – O2.XII RORATY DZIECI
+[+] Jerzy Kołodziejski – r. Wierzchowskich 
 
-15.30 [+] Jadwiga Zenon Helena Stanisław Henryk Przygodzińscy
+[+] Jadwiga Rybacka – Zakłady Pogrzebowego Arka
 
-#PIĄTEK – 03.XII – PIERWSZY MIESIĄCA
+#CZWARTEK – 09.XII
 
-15.00 [+]Edward Krulikowski int. wnuka Marcina z r.
+15.30 [+]Stanisława Gęgotek int. Gregorowiczów z Guźlina
 
-15.30 [-]Adoracja Najświętszego Sakramentu– Spowiedź 
+#PIĄTEK – 10.XII
 
-16.00 [+] Marianna Zakrocka int. r. Czołpińskich
+11.00 [+]  Stanisław Betliński 5 rś   int. żony i córki
 
+#SOBOTA – 11.XII
 
-#SOBOTA – 04.XII
+12.00[+] Stanisław Czapski w 3 rś  int. syna Stanisława z r.
 
-09.00 [+] Barbara Pawłowska int. szwagierki Anny z r.
+#NIEDZIELA – 12.XII
 
+09.00[+] Zofia Stanisław Marczewscy Cecylia  Mieczysław i rodzic. Waszak 
 
-#NIEDZIELA – 05.XII
+10.00 [+]Julianna Franciszek Wawrzonkowscy int. syna Józefa z r. + Stanisław Betliński int syna z r.
 
-09.00 + Henryk 17 rś Marianna Kujawa int dzieci 
-
-11.00 - Parafian /+ rodzic. Genowefa Józef Szałańscy Piotr i Andrzej Słowińscy
+11.00 [+] Sylwester Małecki 35 rś  
