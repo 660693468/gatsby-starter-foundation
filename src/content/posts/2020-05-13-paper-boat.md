@@ -2,74 +2,94 @@
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
-date: 2021-12-05
+date: 2021-12-12
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
  
 
-##DRUGA NIEDZIELA ADWENTU - 5 grudnia 2021                                                         
+##TRZECIA NIEDZIELA ADWENTU - 12 grudnia 2021                                                   
 
 #OGŁOSZENIA DUSZPASTERSKIE
 
-1. Dziś druga niedziela Adwentu. Trwamy w radosnym czasie oczekiwania na spotkanie z Panem. Jednocześnie już po raz 22. obchodzimy Dzień modlitwy i pomocy materialnej Kościołowi na Wschodzie. Wpieramy modlitwą wspólnoty chrześcijan mieszkających za naszą wschodnią granicą. Po Mszy Świętej możemy także wesprzeć naszych braci i siostry na Wschodzie ofiarą do puszek.
+1. Dziś trzecia niedziela Adwentu, „Gaudete”. Słowa te są z Listu Świętego Pawła do Filipian i wyrażają adwentową radość z bliskości Pana. Podkreśla ją również stosowany dziś różowy kolor szat liturgicznych. 
 
-2. W środę, 8 grudnia, będziemy obchodzili uroczystość Niepokalanego Poczęcia Najświętszej Maryi Panny. Poświęcenie medalików . 
-
-3. Msze Święte roratne w soboty dla dzieci w środy i czwartki. Zabierzmy ze sobą lampiony. 
+2. Jutro, 13 grudnia, przypada kolejna rocznica wprowadzenia stanu wojennego w Polsce. Módlmy się za wszystkie ofiary tego trudnego czasu naszej historii oraz o Boże błogosławieństwo i pokój dla naszej ojczyzny.
 
 
-4 Zachęcam także do korzystania ze spowiedzi świętej. Codziennie jestem 
-w konfesjonale przed Msza Świętą. Nie odkładajmy spowiedzi na ostatnie dni Adwentu. 
+3. Od piątku, 17 grudnia, rozpoczynamy drugą część Adwentu, która stanowi bezpośrednie przygotowanie do uroczystości Narodzenia Pańskiego. To także dzień 85. urodzin papieża Franciszka. Pamiętajmy w naszej modlitwie o następcy Świętego Piotra i wypraszajmy obfitość Bożych darów w prowadzeniu owczarni Chrystusowej.
 
-5. Przypominam o zgłaszaniu chorych.
+4. Do chorych udam się w piątek od godz. 11.30
 
-6. Wszystkich parafianom i gościom, a szczególnie solenizantom i jubilatom tego tygodnia życzę wzrastania w miłości ku Bogu, który uczynił dla nas wielkie rzeczy, oraz opieki Niepokalanej. 
 
-##Intencje mszalne   06 – 12 grudnia 2021
+5. Dzień sakramentu pokuty i pojednania w sobotę poprowadzi  Ks Adam Kłonowski student UKSW Warszawa
 
-#PONIEDZIAŁEK – 6.XII
+6. Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli. 
 
-13.00 [+] Kamil Pietrzak urodzinowo-imieninowa int. ojca z Anitą
+##Intencje mszalne 13 – 19 grudnia 2021
 
-#WTOREK – 7.XII
+#PONIEDZIAŁEK – 13.XII
 
-13.00 + Bogumiła Józef Zbigniew Pawłowscy
+12.00 [+] Anna Stanisław Teodor Szymczak int.  r. Marków
 
-#ŚRODA – 8.XII 
+#WTOREK – 14.XII
 
-# UROCZYSTOŚĆ NIEPOKALANEGO POCZĘCIA NAJŚWIĘTSZEJ MARII PANNY
+13.00 [+] Julian Żak
 
-15.30 [-] Joanna o szczęśliwe rozwiązanie
+#ŚRODA  - 15.XII
 
-[+] Władysław Wojtkowski – żony 
+15.30 [+] Władysław Wojtkowski int żony
 
-[+] Czesław Łodygowski – r. Anasz
+[+] Czesław Łodygowski – r. Dobrzyckich i Puchalskich
 
-[+] Edward Krulikowski – ks Henryka
+[+] Wincenty Wojtasik – Anety i Beaty z r. 
 
-[+] Wincenty Wojtasik – r. Auguścik
+[+] Jerzy Kołodziejski – Stefana Wnukowskiego z żoną
 
-[+] Jerzy Kołodziejski – r. Wierzchowskich 
+[+] Zofia Kwiatkowska – Stefana  
 
-[+] Jadwiga Rybacka – Zakłady Pogrzebowego Arka
+#CZWARTEK – 16.XII
 
-#CZWARTEK – 09.XII
+15.30 [+] Stanisława Gęgotek int r. Panfilów
 
-15.30 [+]Stanisława Gęgotek int. Gregorowiczów z Guźlina
 
-#PIĄTEK – 10.XII
+#PIĄTEK – 17.XII
 
-11.00 [+]  Stanisław Betliński 5 rś   int. żony i córki
+11.00 [+] Edward Krulikowski int. Heleny i Krystyna Waśkiewiczów
 
-#SOBOTA – 11.XII
+#11.30 [-] odwiedziny chorych
 
-12.00[+] Stanisław Czapski w 3 rś  int. syna Stanisława z r.
+#SOBOTA – 18.XII
 
-#NIEDZIELA – 12.XII
+#08.30 [-] SPOWIEDŹ
 
-09.00[+] Zofia Stanisław Marczewscy Cecylia  Mieczysław i rodzic. Waszak 
+09.00 [+] Irena Pawłowska int. wnuczki Aleksandry
 
-10.00 [+]Julianna Franciszek Wawrzonkowscy int. syna Józefa z r. + Stanisław Betliński int syna z r.
+[+] Stanisława Kurdupska int. wnuczki Karoliny z mężem
 
-11.00 [+] Sylwester Małecki 35 rś  
+#10.30 [-] SPOWIEDŹ
+
+11.00 [+] Roman Kołata 3 rś int. żony i dzieci
+
++ Marianna Zakrocka int. r. Sobczyńskich
+
+#15.30 [–] SPOWIEDŹ
+
+
+16.00 [+] Genowefa Wawrzyniak
+
+[+] Janina Buczkowska int. siostrzenicy Ewy z mężem
+
+#NIEDZIELA – 19.XII
+
+09.00 [+] Dorota Tomczak int. Małgorzaty Wawrzyniak Jolanty Kurowskiej Małgorzaty Lewandowskiej 
+
+[+] Marianna Gardyza int. wnuczki Marzeny z r. 
+
+10.00 [+] Leon Ziółkowski int. syna Andrzeja z r. 
+
+[-] Parafian
+
+11.00 [+] dziadkowie Wincenty Małeccy i Jadwiga Mateusz Gąsiorowscy
+
+[+] Maria w 1 rś i Stanisław Strzeleccy
