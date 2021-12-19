@@ -2,94 +2,85 @@
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
-date: 2021-12-12
+date: 2021-12-19
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
  
 
-##TRZECIA NIEDZIELA ADWENTU - 12 grudnia 2021                                                   
+##CZWARTA NIEDZIELA ADWENT - 19 grudnia 2021                                                                                           
 
 #OGŁOSZENIA DUSZPASTERSKIE
 
-1. Dziś trzecia niedziela Adwentu, „Gaudete”. Słowa te są z Listu Świętego Pawła do Filipian i wyrażają adwentową radość z bliskości Pana. Podkreśla ją również stosowany dziś różowy kolor szat liturgicznych. 
+1. Dziś czwarta – ostatnia niedziela Adwentu. Wykorzystajmy te kilka dni adwentowego oczekiwania na duchowe przygotowanie do uroczystości Narodzenia Pańskiego. 
 
-2. Jutro, 13 grudnia, przypada kolejna rocznica wprowadzenia stanu wojennego w Polsce. Módlmy się za wszystkie ofiary tego trudnego czasu naszej historii oraz o Boże błogosławieństwo i pokój dla naszej ojczyzny.
+2. Jutro o 18.00 proszę o pomoc w ustawianiu choinek i stajenki na godz. 18.00
 
-
-3. Od piątku, 17 grudnia, rozpoczynamy drugą część Adwentu, która stanowi bezpośrednie przygotowanie do uroczystości Narodzenia Pańskiego. To także dzień 85. urodzin papieża Franciszka. Pamiętajmy w naszej modlitwie o następcy Świętego Piotra i wypraszajmy obfitość Bożych darów w prowadzeniu owczarni Chrystusowej.
-
-4. Do chorych udam się w piątek od godz. 11.30
+3. W piątek, 24 grudnia, wraz z bliskimi zasiądziemy przy wigilijnym stole. Zadbajmy o religijny wymiar tej wieczerzy. Niech towarzyszy nam modlitwa, czytanie fragmentu Ewangelii Świętego Łukasza o narodzeniu Chrystusa, łamanie opłatkiem oraz śpiew kolęd. Zachowajmy tradycyjny postny charakter wieczerzy. Niech będzie to czas rodzinnego spotkania, przepełniony życzliwością, dobrocią, a także okazja do pojednania w naszych małych wspólnotach. Pamiętajmy w modlitwie także o tych, których w tym roku przy stole wigilijnym zabraknie. Świętowanie tajemnicy narodzenia Pańskiego rozpoczniemy Mszą o 21.30 i 23.00 zwaną Pasterką. 
 
 
-5. Dzień sakramentu pokuty i pojednania w sobotę poprowadzi  Ks Adam Kłonowski student UKSW Warszawa
+4. W najbliższą niedzielę, 26 grudnia, w drugi dzień świąt, przypada święto Świętej Rodziny: Jezusa, Maryi i Józefa. Msze Święte będą sprawowane w naszej świątyni według stałego porządku. Koncert kolęd dzieci o 11.00
 
-6. Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli. 
-
-##Intencje mszalne 13 – 19 grudnia 2021
-
-#PONIEDZIAŁEK – 13.XII
-
-12.00 [+] Anna Stanisław Teodor Szymczak int.  r. Marków
-
-#WTOREK – 14.XII
-
-13.00 [+] Julian Żak
-
-#ŚRODA  - 15.XII
-
-15.30 [+] Władysław Wojtkowski int żony
-
-[+] Czesław Łodygowski – r. Dobrzyckich i Puchalskich
-
-[+] Wincenty Wojtasik – Anety i Beaty z r. 
-
-[+] Jerzy Kołodziejski – Stefana Wnukowskiego z żoną
-
-[+] Zofia Kwiatkowska – Stefana  
-
-#CZWARTEK – 16.XII
-
-15.30 [+] Stanisława Gęgotek int r. Panfilów
+5. Wszystkim solenizantom i jubilatom tego tygodnia życzymy otwartości na przychodzącego Pana, posłuszeństwa Jego zbawczej woli oraz gorliwego wypełniania codziennych obowiązków. 
 
 
-#PIĄTEK – 17.XII
+##Intencje mszalne 20 - 26 grudnia 2021
 
-11.00 [+] Edward Krulikowski int. Heleny i Krystyna Waśkiewiczów
+#PONIEDZIAŁEK -20.XII
 
-#11.30 [-] odwiedziny chorych
+12.00 [+] Jadwiga Wawrzyniak int. syna Zenona
 
-#SOBOTA – 18.XII
+#WTOREK – 21.XII
 
-#08.30 [-] SPOWIEDŹ
+13.00 [+] Stanisław Sobczak int. Chaberskich z Lubrańca
 
-09.00 [+] Irena Pawłowska int. wnuczki Aleksandry
+#ŚRODA – 22.XII
 
-[+] Stanisława Kurdupska int. wnuczki Karoliny z mężem
+16.00 [+] Kazimierz Jędrzejewski
 
-#10.30 [-] SPOWIEDŹ
+#CZWARTEK – 23.XII
 
-11.00 [+] Roman Kołata 3 rś int. żony i dzieci
+09.00 [+] Janina Buczkowska int. brata Jana z r.
 
-+ Marianna Zakrocka int. r. Sobczyńskich
+#PIĄTEK – 24.XII
+#WIGILIA BOŻEGO NARODZENIA
 
-#15.30 [–] SPOWIEDŹ
+10.00 [-] własna i imieninowa ks Adama
 
+#21.30 - Pasterka
 
-16.00 [+] Genowefa Wawrzyniak
+[+] Marianna Zakrocka int. r. Gracz i Braun 
 
-[+] Janina Buczkowska int. siostrzenicy Ewy z mężem
+[+] Stefan Antczak int. r. Czołpińskich z Agnieszkowa 
 
-#NIEDZIELA – 19.XII
+#22.40 [-] wprowadzenie kolędowe
 
-09.00 [+] Dorota Tomczak int. Małgorzaty Wawrzyniak Jolanty Kurowskiej Małgorzaty Lewandowskiej 
-
-[+] Marianna Gardyza int. wnuczki Marzeny z r. 
-
-10.00 [+] Leon Ziółkowski int. syna Andrzeja z r. 
+#23.00 - Pasterka
 
 [-] Parafian
 
-11.00 [+] dziadkowie Wincenty Małeccy i Jadwiga Mateusz Gąsiorowscy
+#SOBOTA – 25.XII
+#UROCZYSTOŚC NARODZENIA PAŃSKIEGO
 
-[+] Maria w 1 rś i Stanisław Strzeleccy
+09.00 [+] Wiktoria cr Fajkowskich
+
+[+] Stanisława Kurdupska int. r. Nowaków z Redcza Krukow
+
+10.00 [+] Stanisław Marek int. wnuka Arka z r
+
+[+] Jadwiga Rybacka int. mieszkańców Stoku i Czołpińskich 
+
+11.00 [+] Renata Ziółkowska int. brata Grzegorza z r.
+
++ Edward Krulikowski int. wnuczki Alicji z r. 
+
+- chrzest Oliwiera i Leny Wiktorii
+
+#NIEDZIELA -26.XII
+#ŚWIĘTEJ RODZINY JEZUSA MARYI I JÓZEFA
+
+09.00 [+] Jan Helena Szymczak int. syna Włodzimierza z r.
+
+10.00 [+] r. Nawrockich i Marcinkowskich 
+
+11.00 [+] Stanisław Szałański 45 rś  rodzic.  Szałańskich i Zatarskich  int. Janiny Szałańskiej z r. 
