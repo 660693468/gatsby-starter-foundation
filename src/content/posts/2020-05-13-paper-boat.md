@@ -72,7 +72,7 @@ featuredImage: /assets/papiez.jpg
 
 11.00 [+] Renata Ziółkowska int. brata Grzegorza z r.
 
-+ Edward Krulikowski int. wnuczki Alicji z r. 
+[+] Edward Krulikowski int. wnuczki Alicji z r. 
 
 - chrzest Oliwiera i Leny Wiktorii
 
