@@ -21,15 +21,15 @@ featuredImage: /assets/papiez.jpg
 
 5. W tym tygodniu pożegnamy zmarłych
 
-+ Anna Matuszak Annowo – pogrzeb w Świerczynie 
+[+] Anna Matuszak Annowo – pogrzeb w Świerczynie 
 
-+ Mieczysław Krygier - pogrzeb w Brześciu 28.XII – 13.00
+[+] Mieczysław Krygier - pogrzeb w Brześciu 28.XII – 13.00
 
-+ Jerzy Ciesielski - Chicago USA – czwartek 
+[+] Jerzy Ciesielski - Chicago USA – czwartek 
 
-+ Jerzy Sadowski – czwartek 11.00
+[+] Jerzy Sadowski – czwartek 11.00
 
-+ Grażyna Kołodziejska – czwartek 12.30
+[+] Grażyna Kołodziejska – czwartek 12.30
 
 6. Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
 
