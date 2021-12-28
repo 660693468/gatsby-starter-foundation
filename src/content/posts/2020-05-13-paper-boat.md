@@ -29,7 +29,7 @@ featuredImage: /assets/papiez.jpg
 
 [+] Jerzy Sadowski – czwartek 11.00
 
-[+] Grażyna Kołodziejska – czwartek 12.30
+[+] Grażyna Kołodziejska – czwartek 13.00
 
 6. Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
 
