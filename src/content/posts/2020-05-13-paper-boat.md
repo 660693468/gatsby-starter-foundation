@@ -25,7 +25,7 @@ featuredImage: /assets/papiez.jpg
 
 [+] Mieczysław Krygier - pogrzeb w Brześciu 28.XII – 13.00
 
-[+] Jerzy Ciesielski - Chicago USA – czwartek 
+[+] Jerzy Ciesielski - Chicago USA – czwartek - 10.00 
 
 [+] Jerzy Sadowski – czwartek 11.00
 
@@ -34,35 +34,13 @@ featuredImage: /assets/papiez.jpg
 6. Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
 
 
-##Intencje mszalne 27 grudnia 2021 – 02 stycznia 2022
+##Intencje mszalne 
 
-#PONIEDZIAŁEK – 27.XII
-
-09.00 [+] Zofia Kwiatkowska int. Mantyków
-
-
-#ŚRODA – 28.XII
-
-15.30 [+] Zbigniew Migdalski
-
-[+] Bogdan Sołtysiński – Danuta i Leszek Osińscy
-
-[+] r. Wojtkowskich i Szarwarkowskich 
-
-[+] w pewnej intencji 
-
-[+] Andrzej Rosa – sąsiadów Olakowskich 
-
-[+] Jadwiga Wawrzyniak – Krulikowskich
-
-[+] Wincenty Wojtasik – brata Leszka z r. 
-
-[+] Jerzy Kołodziejski - Kucińskich
 
 #CZWARTEK – 29.XII
 
 10.00 [+] Jerzy Ciesielski w dniu pogrzebu w Chicago USA
-int. ojca Bronisława int. z rodziną
+int. ojca Bronisława z rodziną
 
 #PIĄTEK – 30.XII
 
@@ -82,4 +60,3 @@ int. ojca Bronisława int. z rodziną
 10.00 [+] Stefan Antczak int. Jadwigi Marek i r. Wawrzyniaków 
 
 11.00 [+] Genowefa Wacław Pańka 
-##
