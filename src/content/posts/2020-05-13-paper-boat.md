@@ -16,7 +16,7 @@ featuredImage: /assets/papiez.jpg
 2. W czwartek, 6 stycznia, przypada uroczystość Objawienia Pańskiego, popularnie zwana świętem Trzech Króli. Będziemy wspominać Mędrców ze Wschodu, którzy przybyli oddać pokłon Jezusowi.. Msze Święte z obrzędem błogosławieństwa kredy i kadzidła będą sprawowane według porządku niedzielnego.  Jednocześnie będzie to Dzień Pomocy Misjom i Misyjny Dzień Dzieci. Ofiary składane na tacę zostaną przeznaczone na cele misyjne. 
 
 
-4.Piątek, 7 stycznia, będzie pierwszym piątkiem miesiąca. Nabożeństwo ku czci Najświętszego Serca Pana Jezusa o godz. 16.00
+4. Piątek, 7 stycznia, będzie pierwszym piątkiem miesiąca. Nabożeństwo ku czci Najświętszego Serca Pana Jezusa o godz. 16.00
 
 
 7. W najbliższą niedzielę, 9 stycznia, przypada święto Chrztu Pańskiego, które kończy liturgiczny okres Narodzenia Pańskiego to 10 rocznica konsekracji kościoła 
