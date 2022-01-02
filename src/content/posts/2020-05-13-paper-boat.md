@@ -2,61 +2,90 @@
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
-date: 2021-12-26
+date: 2022-01-02
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
  
-##NIEDZIELA ŚWIĘTEJ RODZINY: JEZUSA, MARYI I JÓZEFA - 26 grudnia 2021                                                                                                     
-
+#DRUGA NIEDZIELA PO NARODZENIU PAŃSKIM - 2 stycznia 2022
 #OGŁOSZENIA DUSZPASTERSKIE
 
-1. Dziś, w ostatnią niedzielę roku kalendarzowego, obchodzimy święto Świętej Rodziny: Jezusa, Maryi i Józefa. Naszą modlitwą otaczamy wszystkie rodziny, aby wzrastały w świętości, aby były środowiskiem umacniania wiary, nadziei i miłości oraz troski o każdego, szczególnie starszych i przeżywających życiowe trudności. 
-
-2. W piątek, 31 grudnia, ostatni dzień roku kalendarzowego. Nabożeństwo dziękczynno-przebłagalne po Mszy Świętej o godz. 16.00
-
-3. Dyspensa Ks. Biskupa na sylwestra. 
-
-4. W sobotę, 1 stycznia, przypada uroczystość Świętej Bożej Rodzicielki Maryi. Przez wstawiennictwo Bogurodzicy będziemy modlić się o pokój na świecie oraz wypraszać Boże błogosławieństwo na Nowy 
-
-5. W tym tygodniu pożegnamy zmarłych
-
-[+] Anna Matuszak Annowo – pogrzeb w Świerczynie 
-
-[+] Mieczysław Krygier - pogrzeb w Brześciu 28.XII – 13.00
-
-[+] Jerzy Ciesielski - Chicago USA – czwartek - 10.00 
-
-[+] Jerzy Sadowski – czwartek 11.00
-
-[+] Grażyna Kołodziejska – czwartek 13.00
-
-6. Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
+1. Trwamy w radości z narodzin Chrystusa, obchodząc drugą niedzielę po Narodzeniu Pańskim. Modlimy się dzisiaj, aby Bóg napełnił cały świat swoją chwałą i ukazał się wszystkim narodom. 
 
 
-##Intencje mszalne 
+2. W czwartek, 6 stycznia, przypada uroczystość Objawienia Pańskiego, popularnie zwana świętem Trzech Króli. Będziemy wspominać Mędrców ze Wschodu, którzy przybyli oddać pokłon Jezusowi.. Msze Święte z obrzędem błogosławieństwa kredy i kadzidła będą sprawowane według porządku niedzielnego.  Jednocześnie będzie to Dzień Pomocy Misjom i Misyjny Dzień Dzieci. Ofiary składane na tacę zostaną przeznaczone na cele misyjne. 
 
 
-#CZWARTEK – 29.XII
+4.Piątek, 7 stycznia, będzie pierwszym piątkiem miesiąca. Nabożeństwo ku czci Najświętszego Serca Pana Jezusa o godz. 16.00
 
-10.00 [+] Jerzy Ciesielski w dniu pogrzebu w Chicago USA
-int. ojca Bronisława z rodziną
 
-#PIĄTEK – 30.XII
+7. W najbliższą niedzielę, 9 stycznia, przypada święto Chrztu Pańskiego, które kończy liturgiczny okres Narodzenia Pańskiego to 10 rocznica konsekracji kościoła 
 
-16.00 [+]Sobiesław Żbikowski Genowefa Sylwester Małeccy Sylwester Małecki
 
-#SOBOTA – 01.01
+8. Wszystkim solenizantom i jubilatom składamy najlepsze życzenia, radości w podejmowaniu codziennych zmagań, Bożej mocy w trudnych doświadczeniach i odwagi w dawaniu chrześcijańskiego świadectwa.
+ 
 
-09.00 [+]  Mieczysław Genowefa Małeccy 
+	
+##Intencje mszalne 03– 10 stycznia 2022
 
-11.00 [+] Daniel Kostecki 4 rś int. dziadków Nejmanów
-       [+] Parafian
+#PONIEDZIAŁEK – 03.01
 
-#NIEDZIELA – 02.10
+12.00 [+] Józef Sołtysiński int. szwagra Stanisława z żoną
 
-09.00 [+] Irena Pawłowska 1 rś int dzieci wnuków prawnuków
+#WTOREK – 04.01
 
-10.00 [+] Stefan Antczak int. Jadwigi Marek i r. Wawrzyniaków 
+13.00 [+] Ewa Wituska int. Barbary i Andrzeja Nejman z r.
 
-11.00 [+] Genowefa Wacław Pańka 
+#ŚRODA – 05.01
+
+15.30 [+] Grażyna Kołodziejska – Wiolety i Seweryna Borkowskich 
+
+[+] Jerzy Ciesielski – Agnieszki z Lubrańca z r. 
+
+[+] Jerzy Sadowski – Ewy Artura Wojciecha Mrówczyńskich 
+
+[+] Jadwiga Wawrzyniak – Ireneusza Krystyny Wawrzyniak 
+
+[+] Jerzy Kołodziejski – Krawczyków
+
+[+] Wincenty Wojtasik – Wysockich
+
+#CZWARTEK – 06.01 
+##Uroczystość Objawienia Pańskiego
+
+09.00 [+] Janina Wacław Benedykcińscy int. syna Zbyszka z r. 
+
+[+] Marianna Gardyza int. wnuczki Renaty z r. 
+
+10.00 [+] Genowefa Baltazar Wawrzyniak 
+
+[+] Edward Krulikowski int. wnuczki Anny z r.
+
+11.00 [-] Parafian
+
+#PIĄTEK – 07.01
+##PIERWSZY PIĄTEK MIESIĄCA
+
+16.00 [-] Wystawienie Najświętszego Sakramentu - Spowiedź
+
+16.30 [+] Czesław Łodygowski int. Zofii Kazimierza Olejniczak  z r.
+
+#SOBOTA – 08.01 
+
+14.00 [+] Kamil Pietrzak int. chrzestnego z synem
+
+#NIEDZIELA – 09.01
+##Święto Chrztu Pańskiego
+
+09.00 [+] ks Edward Gutowski Bernard Marta Gutowscy
+
+[+] Renata Ziółkowska int. Wojtkowskich i Bernaciaków
+
+10.00 [+] Barbara Pawłowska int sąsiadów z Włocławka
+
+[+] Marianna Zakrocka int. sąsiadów Jasińskich
+
+
+11.00 [+] Stefan Antczak int. siostry Danuty i chrześniaczki Marleny z r
+
+[-] Ignacy w 1 r ur [-] Parafian
