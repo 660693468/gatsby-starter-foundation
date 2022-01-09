@@ -2,90 +2,62 @@
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
-date: 2022-01-02
+date: 2022-01-08
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
  
-#DRUGA NIEDZIELA PO NARODZENIU PAŃSKIM - 2 stycznia 2022
+##NIEDZIELA CHRZTU PAŃSKIEGO  -  9 stycznia 2022
+
 #OGŁOSZENIA DUSZPASTERSKIE
 
-1. Trwamy w radości z narodzin Chrystusa, obchodząc drugą niedzielę po Narodzeniu Pańskim. Modlimy się dzisiaj, aby Bóg napełnił cały świat swoją chwałą i ukazał się wszystkim narodom. 
+1. Dziś w liturgii celebrujemy święto Chrztu Pańskiego. Jezus staje w gronie grzeszników, aby przyjąć chrzest nawrócenia od Jana. Od tej chwili rozpoczyna publiczną działalność, głoszenie królestwa Bożego i wzywanie do nawrócenia. 
 
+2. Dzisiejszy dzień to okazja, aby wspomnieć sakrament chrztu świętego. Chrzest Janowy był zapowiedzią prawdziwego chrztu.. Niech dzisiejszy dzień będzie dniem wdzięczności za naszych rodziców, rodziców chrzestnych, którzy wyznając wiarę, przynieśli nas do świątyni, abyśmy mogli dostąpić odrodzenia z wody i Ducha Świętego. 
 
-2. W czwartek, 6 stycznia, przypada uroczystość Objawienia Pańskiego, popularnie zwana świętem Trzech Króli. Będziemy wspominać Mędrców ze Wschodu, którzy przybyli oddać pokłon Jezusowi.. Msze Święte z obrzędem błogosławieństwa kredy i kadzidła będą sprawowane według porządku niedzielnego.  Jednocześnie będzie to Dzień Pomocy Misjom i Misyjny Dzień Dzieci. Ofiary składane na tacę zostaną przeznaczone na cele misyjne. 
+3. Dziś kończy się liturgiczny okres Narodzenia Pańskiego. Kolędy tradycyjnie można śpiewać do 2 lutego po zakończonej liturgii mszalnej. 
 
+4. Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości Bożych łask oraz wzrastania w wierze, nadziei i miłości. 
 
-4. Piątek, 7 stycznia, będzie pierwszym piątkiem miesiąca. Nabożeństwo ku czci Najświętszego Serca Pana Jezusa o godz. 16.00
+##Intencje mszalne 10 – 16 stycznia 2022
 
+#PONIEDZIAŁEK – 10.01
+12.00 [+] Czesław Łodygowski int. Ewy i Jana Zeszotarskich z dziećmi  
 
-7. W najbliższą niedzielę, 9 stycznia, przypada święto Chrztu Pańskiego, które kończy liturgiczny okres Narodzenia Pańskiego to 10 rocznica konsekracji kościoła 
+#WTOREK  -11.01
+12.00 [+] Stanisława Gęgotek int. Barbary Bogumiła Augustyniak
 
+#ŚRODA – 12.01
+15.30  [+] Józef Sołtysiński -  r. Mrozińskich
 
-8. Wszystkim solenizantom i jubilatom składamy najlepsze życzenia, radości w podejmowaniu codziennych zmagań, Bożej mocy w trudnych doświadczeniach i odwagi w dawaniu chrześcijańskiego świadectwa.
- 
++ Barbara Sobczyńska – r. Hejmanowskich
 
-	
-##Intencje mszalne 03– 10 stycznia 2022
++ Grażyna Kołodziejska – sąsiadów Wójcików i Kucalów
 
-#PONIEDZIAŁEK – 03.01
++ Jerzy  Ciesielski – Rafała i Renty z synem Frankiem
 
-12.00 [+] Józef Sołtysiński int. szwagra Stanisława z żoną
++ Jerzy Sadowski – Danuty i Leszka Osińskich
 
-#WTOREK – 04.01
++ Jadwiga Wawrzyniak – Zakładu Pogrzebowego Arka
 
-13.00 [+] Ewa Wituska int. Barbary i Andrzeja Nejman z r.
++ Zofia Kwiatkowska – r. Borkowskich 
 
-#ŚRODA – 05.01
++ Wiesław Wojtasik – brata Bolesława z r. 
 
-15.30 [+] Grażyna Kołodziejska – Wiolety i Seweryna Borkowskich 
++ Jerzy Kołodziejski – Józefa Pańki z żoną
 
-[+] Jerzy Ciesielski – Agnieszki z Lubrańca z r. 
+#CZWARTEK  -13.01
+15.30 [+] Marianna Zakrocka int. Grażyny i Daniela Malec
 
-[+] Jerzy Sadowski – Ewy Artura Wojciecha Mrówczyńskich 
+#PIĄTEK – 14.01
+11.00 [+]Marianna Gardyza int. Juszczyńskich
 
-[+] Jadwiga Wawrzyniak – Ireneusza Krystyny Wawrzyniak 
+#SOBOTA -15.01
+09.00 [+]Stefan Antczak int. sąsiadów Kujawów
 
-[+] Jerzy Kołodziejski – Krawczyków
+#NIEDZIELA -16.01
+09.00 [+] Franciszek Kozicki 11 rś r. Jasnowskich Kozickich
 
-[+] Wincenty Wojtasik – Wysockich
+10.00 [+] Parafian
 
-#CZWARTEK – 06.01 
-##Uroczystość Objawienia Pańskiego
-
-09.00 [+] Janina Wacław Benedykcińscy int. syna Zbyszka z r. 
-
-[+] Marianna Gardyza int. wnuczki Renaty z r. 
-
-10.00 [+] Genowefa Baltazar Wawrzyniak 
-
-[+] Edward Krulikowski int. wnuczki Anny z r.
-
-11.00 [-] Parafian
-
-#PIĄTEK – 07.01
-##PIERWSZY PIĄTEK MIESIĄCA
-
-16.00 [-] Wystawienie Najświętszego Sakramentu - Spowiedź
-
-16.30 [+] Czesław Łodygowski int. Zofii Kazimierza Olejniczak  z r.
-
-#SOBOTA – 08.01 
-
-14.00 [+] Kamil Pietrzak int. chrzestnego z synem
-
-#NIEDZIELA – 09.01
-##Święto Chrztu Pańskiego
-
-09.00 [+] ks Edward Gutowski Bernard Marta Gutowscy
-
-[+] Renata Ziółkowska int. Wojtkowskich i Bernaciaków
-
-10.00 [+] Barbara Pawłowska int sąsiadów z Włocławka
-
-[+] Marianna Zakrocka int. sąsiadów Jasińskich
-
-
-11.00 [+] Stefan Antczak int. siostry Danuty i chrześniaczki Marleny z r
-
-[-] Ignacy w 1 r ur [-] Parafian
+11.00 [+] Izabella Bączek w rś int. dzieci z rodzinami
