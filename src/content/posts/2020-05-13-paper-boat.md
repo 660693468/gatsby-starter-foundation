@@ -1,63 +1,34 @@
----
+
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
-date: 2022-01-09
+date: 2022-01-16
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
  
-##NIEDZIELA CHRZTU PAŃSKIEGO  -  9 stycznia 2022
+##DRUGA NIEDZIELA W CIĄGU ROKU  - 16 stycznia 2022                                               
 
 #OGŁOSZENIA DUSZPASTERSKIE
 
-1. Dziś w liturgii celebrujemy święto Chrztu Pańskiego. Jezus staje w gronie grzeszników, aby przyjąć chrzest nawrócenia od Jana. Od tej chwili rozpoczyna publiczną działalność, głoszenie królestwa Bożego i wzywanie do nawrócenia. 
+1. Dziś druga niedziela tak zwana zwykła – w ciągu roku. Przypomina nam o tym zielony kolor szat liturgicznych. Prosimy Boga, aby dał nam poznać, co należy czynić, i udzielił siły do wypełnienia poznanych obowiązków 
 
-2. Dzisiejszy dzień to okazja, aby wspomnieć sakrament chrztu świętego. Chrzest Janowy był zapowiedzią prawdziwego chrztu.. Niech dzisiejszy dzień będzie dniem wdzięczności za naszych rodziców, rodziców chrzestnych, którzy wyznając wiarę, przynieśli nas do świątyni, abyśmy mogli dostąpić odrodzenia z wody i Ducha Świętego. 
+2. Od 18 do 25 stycznia w Kościele obchodzimy Tydzień Powszechnej Modlitwy o Jedność Chrześcijan. 
 
-3. Dziś kończy się liturgiczny okres Narodzenia Pańskiego. Kolędy tradycyjnie można śpiewać do 2 lutego po zakończonej liturgii mszalnej. 
+3. W piątek, 21 stycznia, będziemy obchodzili Dzień Babci, a w sobotę,  22 stycznia – Dzień Dziadka. 
+Niech będzie to czas szczególnej pamięci i życzliwości dla naszych dziadków i babć. Żyjącym wypraszajmy obfitość Bożego błogosławieństwa, a zmarłym radość życia wiecznego. 
 
-4. Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości Bożych łask oraz wzrastania w wierze, nadziei i miłości. 
+4. W piątek przywieziono od konserwacji z Gdańska nagrobek + Tomasza Boguckiego ur. 15.XII.1774 r. uczestnika insurekcji kościuszkowskiej zmarłego w 1849 r.  wcześniej grób ten został wpisany do ewidencji grobów weteranów walk o wolność i niepodległość Polski. Odnowiony dzięki ofiarności Instytutu Pamięci Narodowej z Gdańska. Znajduje się z nagrobkiem nauczycieli Bereśniewiczów. 
 
-##Intencje mszalne 10 – 16 stycznia 2022
+5. Wszystkim solenizantom i jubilatom tego tygodnia życzymy doświadczenia bliskości Boga i Jego mocy w codziennym  życiu oraz opieki Matki Najświętszej.
 
-#PONIEDZIAŁEK – 10.01
-12.00 [+] Czesław Łodygowski int. Ewy i Jana Zeszotarskich z dziećmi  
 
-#WTOREK  -11.01
-12.00 [+] Stanisława Gęgotek int. Barbary Bogumiła Augustyniak
+##Intencje mszalne 
 
-#ŚRODA – 12.01
-15.30  [+] Józef Sołtysiński -  r. Mrozińskich
+#NIEDZIELA  - 23.01 
 
-+ Barbara Sobczyńska – r. Hejmanowskich
+09.00 [+]+ Franciszek w 61 rś  Czesława Mierzejewscy int. syna Stefana z r. 
 
-+ Grażyna Kołodziejska – sąsiadów Wójcików i Kucalów
+10.00 [+] Bożena Ryniec w 1 rś Kazimierz  Ochociński w 58 r ś Krystyna,  Jan Przychodzcy  zmarli z ich  rodz.
 
-+ Jerzy  Ciesielski – Rafała i Renty z synem Frankiem
-
-+ Jerzy Sadowski – Danuty i Leszka Osińskich
-
-+ Jadwiga Wawrzyniak – Zakładu Pogrzebowego Arka
-
-+ Zofia Kwiatkowska – r. Borkowskich 
-
-+ Wiesław Wojtasik – brata Bolesława z r. 
-
-+ Jerzy Kołodziejski – Józefa Pańki z żoną
-
-#CZWARTEK  -13.01
-15.30 [+] Marianna Zakrocka int. Grażyny i Daniela Malec
-
-#PIĄTEK – 14.01
-11.00 [+]Marianna Gardyza int. Juszczyńskich
-
-#SOBOTA -15.01
-09.00 [+]Stefan Antczak int. sąsiadów Kujawów
-
-#NIEDZIELA -16.01
-09.00 [+] Franciszek Kozicki 11 rś r. Jasnowskich Kozickich
-
-10.00 [+] Parafian
-
-11.00 [+] Izabella Bączek w rś int. dzieci z rodzinami
+11.00 [-] Benedykta z okazji dnia dziadka [+] babcię Danusię int. wnuczki prawnuczki wnuków
