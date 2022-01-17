@@ -1,4 +1,4 @@
-
+---
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
@@ -6,6 +6,7 @@ date: 2022-01-16
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
+      
  
 ##DRUGA NIEDZIELA W CIĄGU ROKU  - 16 stycznia 2022                                               
 
