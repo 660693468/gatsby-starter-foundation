@@ -2,64 +2,69 @@
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
-date: 2022-01-24
+date: 2022-01-30
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
       
  
-#TRZECIA NIEDZIELA WCIĄGU ROKU - 23 stycznia 2022
+##CZWARTA NIEDZIELA W CIĄGU ROKU	 - 30 stycznia 2022
 
 #OGŁOSZENIA DUSZPASTERSKIE
 
-1. Dziś trzecia niedziela zwykła w roku kościelnym, z inicjatywy papieża Franciszka od 2019 roku obchodzona jako Niedziela Słowa Bożego. To szczególne zaproszenie, aby odkrywać tajemnicę Boga przez lekturę Pisma Świętego.
+1. Dziś czwarta niedziela zwykła w roku liturgicznym. Ostatnia niedziela stycznia.
 
-2. Trwają ferie zimowe – bezpiecznego wypoczynku dla nauczycieli i uczniów. 
-
-
-3. We wtorek, 25 stycznia, przypada liturgiczne święto Nawrócenia Świętego Pawła. Kończy ono Tydzień Powszechnej Modlitwy o Jedność Chrześcijan.
-
-4. W czwartek, 27 stycznia, obchodzony jest Międzynarodowy Dzień Pamięci o Ofiarach Holokaustu. Ogarniemy modlitewną pamięcią wszystkich członków narodu żydowskiego, którzy zginęli w wyniku hitlerowskich zbrodni, a także tych, którzy niosąc im pomoc, zostali zamordowani. 
+2. W środę, 2 lutego, przypada święto Ofiarowania Pańskiego, popularnie zwane świętem Matki Bożej Gromnicznej. Msza Święta z błogosławieństwem gromnic i świec dzieci przygotowujących się do I Komunii św. o godz. 16.30
 
 
-5. Solenizantom i jubilatom tego tygodnia życzymy otwartości na słowo Boga zapisane na kartach Pisma Świętego oraz trwania w bliskości z Chrystusem. 
+3. Tego dnia obchodzimy także ustanowiony przez Świętego Jana Pawła II Światowy Dzień Życia Konsekrowanego. Naszą modlitwą będziemy wspierać wszystkich, którzy oddali się na służbę Bogu i ludziom w zgromadzeniach życia zakonnego i instytutach świeckich. Będziemy prosić Boga o nowe powołania do życia zakonnego. Ofiary składane na tacę przeznaczone są na wparcie zakonów 
+klauzurowych. 
 
-#Intencje mszalne  24 – 30  stycznia   2022
+4. W czwartek proszę o pomoc w rozbiórce dekoracji godz. 17.00. i przyczepę.
 
-#PONIEDZIAŁEK – 24.01
+5. W tym tygodniu pierwszy piątek miesiąca okazja do Adoracji Najświętszego Sakramentu i spowiedzi.
 
-GODZ. 16.00 [-] Mateusz ur i Alicja
-[+] Jan Bartkowiak 
-[+] Barbara Sobczyńska – r. Pyzer
-[+] Jerzy Sadowski – Wojtkowskiej z Dąbia
-[+] Wincenty Wojtasik – siostry z mężem 
-[+] Jerzy Kołodziejski – r. Ochmańskich
-[+] Julianna Stanisław Zdzisław Mantyk – Fryzowskich
+6. Wszystkim przeżywającym w najbliższym tygodniu dzień imienin, urodzin życzę obfitości Bożego błogosławieństwa i Bożego światła na drogach codzienności. 
 
-#WTOREK – 25.01
+##Intencje mszalne 31 stycznia – 06 lutego 2022
 
-GODZ. 15.30 [+] Ewa Dombek 5 rś
+#PONIEDZIAŁEK – 31.01
 
-#ŚRODA – 26.01
+12.00 [+] Jadwiga Wawrzyniak int. siostry Marianny Kowalewskiej z r.
 
-GODZ. 09.00 [+]Grażyna Kołodziejska int. męża i córki
+#WTOREK  - 01.02
 
-#CZWARTEK – 27.01
+17.00 [+]Jadwiga 11 rś i Feliks Frątczak int. dzieci
 
-GODZ. 15.30 [+] Marianna Zakrocka int. Kazimierza Bączka
+#ŚRODA – 02.02 MATKI BOŻEJ GROMNICZNEJ
 
-#PIĄTEK – 28.01
+16.30 [+] rodzice Sabina i Józef Czołpińscy int. córek Marii i Danuty
+[+] Edward w 9 rś i Stanisława Pawłowscy
+[+] Grażyna Kołodziejska int. r. Klejbach 
+[+] Jerzy Sadowski int. sąsiadki Kralskiej z córką
+[+] Wincenty Wojtasik – Matusiaków
+[+] Jerzy Kołodziejski – Honoraty Płoszaj z r.
 
-GODZ. 09.00 [+] Ewa Witulska int.  r. Michałowskich z Redcza
+#CZWARTEK – 03.02
 
-#SOBOTA -29.01
+14.00 [+]Janina Buczkowska int.  Szczupakowskich z Końca
 
-09.00 [+] Edward Krulikowski int.  wnuka Jarka z r. 
+#PIĄTEK – 04.02 PIERWSZY MIESIĄCA
 
-#NIEDZIELA – 30.01
+16.00 [+] Andrzej Rosa int. syna Krzysztofa 
 
-09.00 [+] Czesław Marianna Łodygowscy Wiktoria Janus  Marianna Anasz
+#16.30 Spowiedź – adoracja Najświętszego Sakramentu
 
-10.00 [+] Jerzy Ciesielski int.  r. Rybaków z dziećmi 
+17.00 [+] Barbara Sobczyńska int.  córki Maryli z r.
 
-11.00 [+] Barbara Stanisław Sobczyńscy int. Stanisławy Sobczyńskiej
+#SOBOTA – 05.02
+
+09.00 [+] Waldemar Mantyk int. siostry Danuty
+
+#NIEDZIELA – 06.02
+
+09.00[+] Franciszek i  Irena Pańka r. Pańka i Cybulscy 
+
+10.00 [-] Parafian
+
+11.00 [+] Halina Kwaśna 6 rś rodzic. Kowalskich
