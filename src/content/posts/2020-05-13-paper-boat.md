@@ -19,13 +19,8 @@ Dzień wspomnienia Najświętszej Maryi Panny z Lourdes jest obchodzony także j
 
 #Intencje mszalne 07 – 13 luty 2022
 
-#PONIEDZIAŁEK  - 07.02
+#PONIEDZIAŁEK  - 07.02.   #WTOREK – 08.02 - Msze Św. Odwołane
 
-12.00 ++ Renata Ziółkowska int. Lucyny Nowak
-
-#WTOREK – 08.02
-
-12.00 ++ Marianna Gardyza int. Misterskich z Rumianków
 
 #ŚRODA  -  09.02
 
