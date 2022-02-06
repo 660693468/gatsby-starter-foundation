@@ -2,69 +2,59 @@
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
-date: 2022-01-30
+date: 2022-02-06
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
-      
- 
-##CZWARTA NIEDZIELA W CIĄGU ROKU	 - 30 stycznia 2022
+##PIĄTA NIEDZIELA W CIĄGU ROKU - 6 lutego 2022
 
 #OGŁOSZENIA DUSZPASTERSKIE
 
-1. Dziś czwarta niedziela zwykła w roku liturgicznym. Ostatnia niedziela stycznia.
+1. Dziś piąta niedziela w ciągu w roku kościelnego. Dobry Bóg gromadzi nas na Świętej Wieczerzy, aby karmić słowem i Ciałem Chrystusa. W ten sposób umacnia nas na drodze naszych codziennych zmagań. 
 
-2. W środę, 2 lutego, przypada święto Ofiarowania Pańskiego, popularnie zwane świętem Matki Bożej Gromnicznej. Msza Święta z błogosławieństwem gromnic i świec dzieci przygotowujących się do I Komunii św. o godz. 16.30
+2. W sobotę, 11 lutego, przypada wspomnienie Najświętszej Maryi Panny z Lourdes. 
+Dzień wspomnienia Najświętszej Maryi Panny z Lourdes jest obchodzony także jako Światowy Dzień Chorych. Szczególną modlitwą będziemy otaczać wszystkich, którzy zmagają się z trudnościami choroby i cierpienia. 
 
+3. Wszystkim solenizantom i jubilatom tego tygodnia życzymy odważnego odpowiadania na głos Bożego wezwania, ufnego kroczenia za Panem i bycia znakiem Bożej obecności dla innych. 
 
-3. Tego dnia obchodzimy także ustanowiony przez Świętego Jana Pawła II Światowy Dzień Życia Konsekrowanego. Naszą modlitwą będziemy wspierać wszystkich, którzy oddali się na służbę Bogu i ludziom w zgromadzeniach życia zakonnego i instytutach świeckich. Będziemy prosić Boga o nowe powołania do życia zakonnego. Ofiary składane na tacę przeznaczone są na wparcie zakonów 
-klauzurowych. 
+#Intencje mszalne 07 – 13 luty 2022
 
-4. W czwartek proszę o pomoc w rozbiórce dekoracji godz. 17.00. i przyczepę.
+#PONIEDZIAŁEK  - 07.02
 
-5. W tym tygodniu pierwszy piątek miesiąca okazja do Adoracji Najświętszego Sakramentu i spowiedzi.
+12.00 ++ Renata Ziółkowska int. Lucyny Nowak
 
-6. Wszystkim przeżywającym w najbliższym tygodniu dzień imienin, urodzin życzę obfitości Bożego błogosławieństwa i Bożego światła na drogach codzienności. 
+#WTOREK – 08.02
 
-##Intencje mszalne 31 stycznia – 06 lutego 2022
+12.00 ++ Marianna Gardyza int. Misterskich z Rumianków
 
-#PONIEDZIAŁEK – 31.01
+#ŚRODA  -  09.02
 
-12.00 [+] Jadwiga Wawrzyniak int. siostry Marianny Kowalewskiej z r.
+15.30 ++ Irena i Zdzisław w 6rś Pawłowscy int dzieci wnuków prawnuków
+++ Wincenty Wojtasik – wnuczki Patrycji z mężem
+++ Ewa Wituska – siostry Józefy z r. 
+++ Jadwiga Rybacka – Damiana z r. 
+++ Jadwiga Wawrzyniak – Szpadzińskich 
+++ Jerzy Sadowski – sąsiadów Maciejczak 
+++ Grażyna Kołodziejska – Józefa Klejbacha i Gniweckich
+++Barbara Sobczyńska – sąsiadów Racinwskich
+++ Romuald Kwiatkowski – OSP Bodzanowo
 
-#WTOREK  - 01.02
+#CZWARTEK – 10.02
 
-17.00 [+]Jadwiga 11 rś i Feliks Frątczak int. dzieci
+14.00 ++ Wanda Pawłowska 5 rś
 
-#ŚRODA – 02.02 MATKI BOŻEJ GROMNICZNEJ
+#PIĄTEK – 11.02
 
-16.30 [+] rodzice Sabina i Józef Czołpińscy int. córek Marii i Danuty
-[+] Edward w 9 rś i Stanisława Pawłowscy
-[+] Grażyna Kołodziejska int. r. Klejbach 
-[+] Jerzy Sadowski int. sąsiadki Kralskiej z córką
-[+] Wincenty Wojtasik – Matusiaków
-[+] Jerzy Kołodziejski – Honoraty Płoszaj z r.
+11.00 ++ Stanisława Gęgotek int. r. Gulańczyków
 
-#CZWARTEK – 03.02
+#SOBOTA – 12.02
 
-14.00 [+]Janina Buczkowska int.  Szczupakowskich z Końca
+09.00++ Barbara Pawłowska int.  chrześniaczki Marty z r. 
 
-#PIĄTEK – 04.02 PIERWSZY MIESIĄCA
+#NIEDZIELA – 13.02
 
-16.00 [+] Andrzej Rosa int. syna Krzysztofa 
+09.00++ Jurek Ciechalski 1 rś int. żony
 
-#16.30 Spowiedź – adoracja Najświętszego Sakramentu
+10.00++ Wincenty Żurawski w 27 rś int żony i dzieci z r.
 
-17.00 [+] Barbara Sobczyńska int.  córki Maryli z r.
-
-#SOBOTA – 05.02
-
-09.00 [+] Waldemar Mantyk int. siostry Danuty
-
-#NIEDZIELA – 06.02
-
-09.00[+] Franciszek i  Irena Pańka r. Pańka i Cybulscy 
-
-10.00 [-] Parafian
-
-11.00 [+] Halina Kwaśna 6 rś rodzic. Kowalskich
+11.00++ Anna Zatarska 3 rś int. męża Marka z r. + Parafian
