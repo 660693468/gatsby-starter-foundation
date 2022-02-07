@@ -17,34 +17,7 @@ Dzień wspomnienia Najświętszej Maryi Panny z Lourdes jest obchodzony także j
 
 3. Wszystkim solenizantom i jubilatom tego tygodnia życzymy odważnego odpowiadania na głos Bożego wezwania, ufnego kroczenia za Panem i bycia znakiem Bożej obecności dla innych. 
 
-#Intencje mszalne 07 – 13 luty 2022
-
-#PONIEDZIAŁEK  - 07.02.   #WTOREK – 08.02 - Msze Św. Odwołane
-
-
-#ŚRODA  -  09.02
-
-15.30 ++ Irena i Zdzisław w 6rś Pawłowscy int dzieci wnuków prawnuków
-++ Wincenty Wojtasik – wnuczki Patrycji z mężem
-++ Ewa Wituska – siostry Józefy z r. 
-++ Jadwiga Rybacka – Damiana z r. 
-++ Jadwiga Wawrzyniak – Szpadzińskich 
-++ Jerzy Sadowski – sąsiadów Maciejczak 
-++ Grażyna Kołodziejska – Józefa Klejbacha i Gniweckich
-++Barbara Sobczyńska – sąsiadów Racinwskich
-++ Romuald Kwiatkowski – OSP Bodzanowo
-
-#CZWARTEK – 10.02
-
-14.00 ++ Wanda Pawłowska 5 rś
-
-#PIĄTEK – 11.02
-
-11.00 ++ Stanisława Gęgotek int. r. Gulańczyków
-
-#SOBOTA – 12.02
-
-09.00++ Barbara Pawłowska int.  chrześniaczki Marty z r. 
+ 
 
 #NIEDZIELA – 13.02
 
