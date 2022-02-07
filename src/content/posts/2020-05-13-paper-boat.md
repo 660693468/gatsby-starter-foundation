@@ -18,7 +18,7 @@ Dzień wspomnienia Najświętszej Maryi Panny z Lourdes jest obchodzony także j
 3. Wszystkim solenizantom i jubilatom tego tygodnia życzymy odważnego odpowiadania na głos Bożego wezwania, ufnego kroczenia za Panem i bycia znakiem Bożej obecności dla innych. 
 
 
-##Zapowiadane Msze święte do niedzieli się nie odbędą /przeniesione na późniejszy termin/
+##Zapowiadane Msze święte do niedzieli się nie odbędą /przeniesione na późniejszy termin/ za zmiany na które nie mam wpływu przepraszam.
 
  
 
