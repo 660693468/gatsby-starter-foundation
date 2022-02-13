@@ -6,6 +6,7 @@ date: 2022-02-13
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
+
 ##SZÓSTA NIEDZIELA W CIĄGU ROKU - 13 lutego 2022                     
 
 #OGŁOSZENIA DUSZPASTERSKIE
