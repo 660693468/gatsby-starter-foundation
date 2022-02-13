@@ -2,30 +2,57 @@
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
-date: 2022-02-06
+date: 2022-02-13
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
-##PIĄTA NIEDZIELA W CIĄGU ROKU - 6 lutego 2022
+##SZÓSTA NIEDZIELA W CIĄGU ROKU - 13 lutego 2022                     
 
 #OGŁOSZENIA DUSZPASTERSKIE
 
-1. Dziś piąta niedziela w ciągu w roku kościelnego. Dobry Bóg gromadzi nas na Świętej Wieczerzy, aby karmić słowem i Ciałem Chrystusa. W ten sposób umacnia nas na drodze naszych codziennych zmagań. 
+1. Dziś szósta niedziela zwykła w ciągu roku liturgicznego. Każda Msza Święta jest uwielbieniem Boga i uświęceniem człowieka. Niech usłyszane słowo Boże i udział w świętych obrzędach będą dla nas pomocą w chrześcijańskim przeżywaniu naszej codzienności. 
 
-2. W sobotę, 11 lutego, przypada wspomnienie Najświętszej Maryi Panny z Lourdes. 
-Dzień wspomnienia Najświętszej Maryi Panny z Lourdes jest obchodzony także jako Światowy Dzień Chorych. Szczególną modlitwą będziemy otaczać wszystkich, którzy zmagają się z trudnościami choroby i cierpienia. 
+2. Dziękuję za modlitwę i wsparcie w czasie mojej choroby - testy wykazały - nie był to covid :)
 
-3. Wszystkim solenizantom i jubilatom tego tygodnia życzymy odważnego odpowiadania na głos Bożego wezwania, ufnego kroczenia za Panem i bycia znakiem Bożej obecności dla innych. 
+3. Wszystkim solenizantom i jubilatom tego tygodnia składamy najlepsze życzenia: obfitości Bożego błogosławieństwa i wzrastania w miłości do Boga i ludzi. 
 
 
-##Zapowiadane Msze święte do niedzieli się nie odbędą /przeniesione na późniejszy termin/ za zmiany na które nie mam wpływu przepraszam.
+##Intencje mszalne 14 – 20 lutego 2022
 
- 
+#PONIEDZIAŁEK – 14.02
 
-#NIEDZIELA – 13.02
+09.00 [+]  Renata Ziółkowska int. Lucyny Nowak
 
-09.00++ Jurek Ciechalski 1 rś int. żony
+#WTOREK – 15.02
 
-10.00++ Wincenty Żurawski w 27 rś int żony i dzieci z r.
+16.00  [+] Irena i Zdzisław w 6rś Pawłowscy int dzieci wnuków prawnuków
++ Wincenty Wojtasik – wnuczki Patrycji z mężem
++ Ewa Wituska – siostry Józefy z r. 
++ Jadwiga Rybacka – Damiana z r. 
++ Jadwiga Wawrzyniak – Szpadzińskich 
++ Jerzy Sadowski – sąsiadów Maciejczak 
++ Grażyna Kołodziejska – Józefa Klejbacha i Gniweckich
++ Barbara Sobczyńska – sąsiadów Racinwskich
++ Romuald Kwiatkowski – OSP Bodzanowo
 
-11.00++ Anna Zatarska 3 rś int. męża Marka z r. + Parafian
+#ŚRODA – 16.02
+
+09.00 [+] Danuta Lewandowska imieninowa
+
+#CZWARTEK – 17.02
+
+09.00 [+]Daniel Kostecki ur. int dziadków Nejmanów
+
+#PIĄTEK – 18.02
+
+15.00 [+]Wanda Pawłowska w 5 rś
+
+#SOBOTA – 19.02
+
+09.00 [+]Barbara Pawłowska int. chrześniaczki Marty z r.
+
+#NIEDZIELA – 20.02
+
+09.00 ++ Sobiesław Żbikowski
+10.00 ++Wacław Genowefa Pańka 
+ 11.00 ++ Janina Stanisław Betlińscy Fidelis Ignaczak int Krzysztofa z r. 
