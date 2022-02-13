@@ -55,5 +55,7 @@ featuredImage: /assets/papiez.jpg
 #NIEDZIELA – 20.02
 
 09.00 ++ Sobiesław Żbikowski
+
 10.00 ++Wacław Genowefa Pańka 
- 11.00 ++ Janina Stanisław Betlińscy Fidelis Ignaczak int Krzysztofa z r. 
+
+11.00 ++ Janina Stanisław Betlińscy Fidelis Ignaczak int Krzysztofa z r. 
