@@ -17,29 +17,8 @@ featuredImage: /assets/papiez.jpg
 
 3. Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości Bożego błogosławieństwa i wzrastania w wierze, nadziei i miłości. 
 
-#Intencje mszalne 21 – 27  lutego 2022
+#Intencje mszalne 
 
-#PONIEDZIAŁEK – 21.02
-
-12.00 [+]Stanisław Benedykciński 2 rś int. żony i syna z r. 
-
-#WTOREK – 22.02
-
-12.00  [+]Marianna Gardyza int. Misterskich
-
-#ŚRODA – 23.02
-
-16.00 [+]Władysław Wojtkowski  - żony
-+ Bronisław Migdalski  - dzieci z r. 
-+ Iwona Lewandowska -  chrześniaczki Andżeliki z r.
-+ Mirosław Augustyniak
-+ Renata Ziókowska – Kujawskich 
-+ Kamil Pietrzak – Szatkowskich
-+ Andrzej Rosa – córki Pauliny z r. 
-+ Jerzy Sadowski – Zakładu Pogrzebowego Arka
-+ Grażyna Kołodziejska – r. Malców i Barczaków 
-+ Barbara Sobczyńska – Rzepków z Agnieszkowa
-+ Romuald Kwiatkowski – r. Panowiczów
 
 #CZWARTEK – 24.02
 
