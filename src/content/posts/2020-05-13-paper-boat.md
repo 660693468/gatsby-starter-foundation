@@ -2,79 +2,76 @@
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
-date: 2022-02-27
+date: 2022-03-06
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
 
-##ÓSMA NIEDZIELA W CIĄGU ROKU	 - 27 lutego 2022                                                         
+#PIERWSZA NIEDZIELA WIELKIEGO POSTU - 6 marca 2022                                           
 
 #OGŁOSZENIA DUSZPASTERSKIE
 
-1. Rozpoczęła się agresyjna inwazja Rosji na Ukrainę. Proszę o modlitwę, ale ona sama nie wystarczy. Proszę o pomoc: zbiórka do puszek dziś i w Środę Popielcową: W związku z zaistniałą sytuacją organizujemy zbiórkę rzeczową i prosimy o:- koce,- śpiwory,- karimaty,- ręczniki,- materiały opatrunkowe,- wodę pitną,- żywność długoterminową,- mleko modyfikowane,- środki higieniczne, środki czystości, pampersy. Prosimy o nieprzekazywanie ubrań i innych rzeczy poza wymienionymi. Prosimy również, aby przekazywane rzeczy były nowe ze względu na ich przydatność. 
+1. Dziś pierwsza niedziela Wielkiego Postu. Niech ten czas  będzie dla każdego z nas czasem zbliżania się do Boga, pracy nad sobą i wrażliwości na potrzeby innych. Kościół w sposób szczególny zaprasza nas do praktykowania modlitwy, postu i jałmużny. 
+Trwamy w łączności z walczącą Ukrainą – dziękuje za dotychczasową modlitwę, ofiary zbierane do puszek, zrzutkę internetową na pomoc dla Siostry Kamili i 42 podopiecznych z Charkowa, pomoc w formie darów.
 
-2. We wtorek, 1.03 Narodowy Dzień Pamięci „Żołnierzy Wyklętych”. W naszej modlitwie pamiętajmy o wszystkich, którzy w trudnych czasach komunistycznego reżimu podejmowali walkę o wolność i suwerenność naszej ojczyzny. 
+2. Zapraszam na drogę krzyżową w  piątek o godz.  17.00 Niech rozważanie męki Chrystusa będzie dla nas pomocą w przeżywaniu codziennych trudności. 
 
-3. W najbliższą środę, 2 marca, przypada Środa Popielcowa rozpoczynająca w Kościele czas Wielkiego Postu. To dzień, kiedy wchodzimy na drogę pokuty i nawrócenia. Zewnętrznym znakiem takiej postawy jest obrzęd posypania głów popiołem. Msze Święte tego dnia o godz. 14.00 i 17.00
+3. We wtorek, 8 marca,  Dzień Kobiet. Wszystkim paniom życzymy obfitości Bożego błogosławieństwa, doświadczenia miłości i szacunku oraz opieki Matki  Bożej. 
 
-W Środę Popielcową obowiązuje post ścisły (jeden posiłek do syta i dwa mniejsze oraz wstrzemięźliwość od pokarmów mięsnych).. W myśl przykazań kościelnych czas Wielkiego Postu jest także okresem pokuty, dlatego jako wierzący nie organizujemy hucznych zabaw i nie bierzemy udziału w takich spotkaniach. 
-Z darem modlitwy możemy także podjąć abstynencję oraz inne wyrzeczenia w intencji tych, którzy nadużywają alkoholu lub cierpią z powodu choroby alkoholowej najbliższych. 
+4. Najbliższa niedziela, 13 marca, będzie Niedzielą Ad Gentes – Dniem Modlitwy, Postu i Solidarności z Misjonarzami. Zapraszamy do modlitwy indywidualnej i wspólnotowej w intencji wszystkich pracujących na misjach.  
 
-4. Pomocą w przeżywaniu czasu pokuty i nawrócenia będą nabożeństwa wielkopostne. Zapraszamy  na drogę krzyżową w piątki  oraz na nabożeństwo gorzkich żali  każdą niedzielę. 
+5. Tego dnia przypada także kolejna rocznica wyboru na Stolicę Piotrową papieża Franciszka. Zachęcam  do modlitwy w intencji następcy Świętego Piotra, aby był dla wszystkich czytelnym drogowskazem podążania za Chrystusem. 
 
-5. W tym tygodniu przypada, pierwszy piątek miesiąca wystawianie Najświętszego Sakramentu  i  spowiedź święta od godz. 16.30 -17.00
+6. W Wielkim Poście Kościół zachęca nas do podejmowania dzieł miłosierdzia. W naszej świątyni wystawiony jest „kosz dobroci”, gdzie można składać produkty żywnościowe i środki czystości, które zostaną przekazane najbardziej potrzebującym rodzinom z  Ukrainy za pośrednictwem Caritasu. 
+Dziękujemy z każdy – nawet najmniejszy gest miłosierdzia.
 
-6. Wracamy do Mszy niedzielnych 9.00 i 11.00 /nie ma limitów osób/
+7. Wizyta delegacji z Dyr. Instytutu Pamięci Narodowej z Gdańska w związku z wyremontowaniem pomnika Tomasza Boguckiego w przeddzień 228. Rocznicy wybuchu insurekcji kościuszkowskiej – 23.03. 2022 o godz. 14.00.prosba o udział na cmentarzu parafian i pocztów sztandarowych Ochotniczych Straży Pożarnych.
 
-7. Wszystkim jubilatom i solenizantom tego tygodnia życzymy postępów w rozumieniu tajemnicy Chrystusa oraz doświadczenia bliskości Pana i mocy Jego słowa w codziennym życiu.
+8. Modrzew pochylony na cmentarzu proszę o pomoc w usunięciu.
 
-##Intencje mszalne  28 lutego – 6 marca    2022
+9. Dziękuję za wsparcie materialne na rzecz renowacji ołtarzy starego kościoła.
 
-#PONIEDZIAŁEK – 28.02
-
-09.00  [+] Stanisława Gęgotek int Gulańczyków
-
-#WTOREK – 01.03
-
-12.00  [+] Iwona Lewandowska int.  siostry Teresy z r.
-
-#ŚRODA – 02.03  - Środa Popielcowa
-
-14.00 [+]  Kamil Pietrzak int.  chrzestnej Wandy z r. 
-
-17.00 [+] Antoni Lewandowski – r. Bartkowiak i Twardowskich
-[+] ks Kazimierz Marchlewski
-[+]Władysław Wojtkowski - żony
-[+] Romuald Kwiatkowski – r. Kuśmirków
-[+] Barbara Sobczyńska – r. Malców  
-[+]  Jerzy Sadowski – r. Kujawa i Kowalewskich 
-[+] Antoni Lewandowski – chrześniaka Tomasza z żoną
-[+] Tadeusz Wawrzonkowski  - Danuty i Leszka Osińskich
-[+] Alina Sochacka – asysty: Wojtkowska Bartkowiak 
-                                  Ochmańska Zielińska Sadowska Staszak
+10. Wszystkim, którzy w tym tygodniu będą świętować imieniny, urodziny oraz różne jubileusze, a także wszystkim paniom życzę obfitości Bożych darów oraz wsłuchiwania się w słowo Boga, które daje prawdziwe życie.  
 
 
-#CZWARTEK – 03.03
+##Intencje mszalne  07 – 13  marca    2022
 
-14.00 [+] Edward Krulikowski int.  Nowaków i Mrówczyńskich 
+#PONIEDZIAŁEK – 07.03
+
+10.30  [+]Helena Szudzik int. Elżbiety i Piotra Szczepańskich
+
+#WTOREK – 08.03
+
+12.00  [+]Beata Pietrzak imieninowa
+
+#ŚRODA – 09.03  
+
+16.00 [+]Czesław Trojankiewicz  35 rś int.  córki Katarzyna z r.
+[+] Romuald Kwiatkowski – Krystyny Sobieraj i Weneckich 
+[+]  Barbara Sobczyńska  - Katarzyny Augustyniak z Annowa
+[+]  Grażyna Kołodziejska – Anny Dziuba z synem
+[+] Jerzy Sadowski – Teresy Chaberskiej i r. Mikołajewskich 
+[+] Andrzej Rossa – Kwieciszewskich
+                                  
+#CZWARTEK – 10.03
+
+14.00 [+]Tadeusz Wawrzonkowski int brata Stanisława z r.
 
 
-#PIĄTEK – 04.03 - I miesiąca
+#PIĄTEK – 11.03 
 
-16.30 wystawianie Najświętszego Sakramentu  i  spowiedź święta
-
-17.00 [+] Grażyna Kołodziejska int. córki  Kasi z r. 
-
+17.00 [+]+ Alina Sochacka int. syna Krzysztofa z r. 
 17.30 [-] Nabożeństwo Drogi Krzyżowej
 
-#SOBOTA – 05.03
+#SOBOTA – 12.03
 
-09.00 [+] Marianna Zakrocka  1 rś int dzieci wnuków prawnuków
-
-
-#NIEDZIELA – 06.03
-
-09.00 [+]Irena Franciszek Pańka r. Cybulskich i Pańka
+09.00 [+]Stanisława Kurdupska int córki z r.
 
 
-11.00 [+]Stanisław w 11 rś i Maria Strzeleccy
+#NIEDZIELA – 13.03
+
+09.00 [+] rodziców i rodzeństwo Nejman Dariusz Jan Kusinowscy
+[+] Marian Cr Kurantów Katarzyna Wawrzyniec Zgoła braci Stanisław Jan Zgoła
+
+11.00 [+] Wielisława 2 rś Tadeusz Dudczak int. dzieci z rodz.
+[-] Parafian
