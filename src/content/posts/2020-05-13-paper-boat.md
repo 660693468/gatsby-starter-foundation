@@ -60,8 +60,8 @@ Dziękujemy z każdy – nawet najmniejszy gest miłosierdzia.
 
 #PIĄTEK – 11.03 
 
-17.00 [+]+ Alina Sochacka int. syna Krzysztofa z r. 
-17.30 [-] Nabożeństwo Drogi Krzyżowej
+16.30 [+]+ Alina Sochacka int. syna Krzysztofa z r. 
+17.00 [-] Nabożeństwo Drogi Krzyżowej
 
 #SOBOTA – 12.03
 
