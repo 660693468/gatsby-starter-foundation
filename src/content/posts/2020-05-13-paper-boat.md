@@ -2,76 +2,65 @@
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
-date: 2022-03-06
+date: 2022-03-13
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
 
-#PIERWSZA NIEDZIELA WIELKIEGO POSTU - 6 marca 2022                                           
+##DRUGA NIEDZIELA WIELKIEGO POSTU  -  13 marca 2022                                   
 
 #OGŁOSZENIA DUSZPASTERSKIE
 
-1. Dziś pierwsza niedziela Wielkiego Postu. Niech ten czas  będzie dla każdego z nas czasem zbliżania się do Boga, pracy nad sobą i wrażliwości na potrzeby innych. Kościół w sposób szczególny zaprasza nas do praktykowania modlitwy, postu i jałmużny. 
-Trwamy w łączności z walczącą Ukrainą – dziękuje za dotychczasową modlitwę, ofiary zbierane do puszek, zrzutkę internetową na pomoc dla Siostry Kamili i 42 podopiecznych z Charkowa, pomoc w formie darów.
+1. Dziś druga niedziela Wielkiego Postu, czyli Niedziela Ad Gentes, która jest Dniem Modlitwy, Postu i Solidarności z Misjonarzami. Módlmy się dzisiaj za wszystkich pracujących na misjach, aby doświadczali Bożej pomocy i wsparcia ze strony wspólnoty wierzących. Zbiórka do puszek.
 
-2. Zapraszam na drogę krzyżową w  piątek o godz.  17.00 Niech rozważanie męki Chrystusa będzie dla nas pomocą w przeżywaniu codziennych trudności. 
+2. Dziś  9. rocznica wyboru papieża Franciszka na Stolicę Piotrową. Módlmy się za następcę Świętego Piotra, aby dla wszystkich był znakiem miłości Boga i wiernie prowadził Owczarnię Chrystusa na spotkanie z Najlepszym Pasterzem.  
 
-3. We wtorek, 8 marca,  Dzień Kobiet. Wszystkim paniom życzymy obfitości Bożego błogosławieństwa, doświadczenia miłości i szacunku oraz opieki Matki  Bożej. 
+3. Zapraszam na nabożeństwo drogi krzyżowej w piątek o godz. 17.00. 
 
-4. Najbliższa niedziela, 13 marca, będzie Niedzielą Ad Gentes – Dniem Modlitwy, Postu i Solidarności z Misjonarzami. Zapraszamy do modlitwy indywidualnej i wspólnotowej w intencji wszystkich pracujących na misjach.  
+4. W sobotę, 19 marca, przypada uroczystość Świętego Józefa, Oblubieńca Najświętszej Maryi Panny. Święty Józef jest patronem Kościoła powszechnego oraz rodzin chrześcijańskich. Jest także orędownikiem dobrej śmierci.  Msza Święte o godz. 15.00. 
 
-5. Tego dnia przypada także kolejna rocznica wyboru na Stolicę Piotrową papieża Franciszka. Zachęcam  do modlitwy w intencji następcy Świętego Piotra, aby był dla wszystkich czytelnym drogowskazem podążania za Chrystusem. 
+5. W naszej świątyni wystawiony jest „kosz dobroci”, gdzie można składać produkty żywnościowe i środki czystości – pomoc dla Ukrainy.
 
-6. W Wielkim Poście Kościół zachęca nas do podejmowania dzieł miłosierdzia. W naszej świątyni wystawiony jest „kosz dobroci”, gdzie można składać produkty żywnościowe i środki czystości, które zostaną przekazane najbardziej potrzebującym rodzinom z  Ukrainy za pośrednictwem Caritasu. 
-Dziękujemy z każdy – nawet najmniejszy gest miłosierdzia.
-
-7. Wizyta delegacji z Dyr. Instytutu Pamięci Narodowej z Gdańska w związku z wyremontowaniem pomnika Tomasza Boguckiego w przeddzień 228. Rocznicy wybuchu insurekcji kościuszkowskiej – 23.03. 2022 o godz. 14.00.prosba o udział na cmentarzu parafian i pocztów sztandarowych Ochotniczych Straży Pożarnych.
-
-8. Modrzew pochylony na cmentarzu proszę o pomoc w usunięciu.
-
-9. Dziękuję za wsparcie materialne na rzecz renowacji ołtarzy starego kościoła.
-
-10. Wszystkim, którzy w tym tygodniu będą świętować imieniny, urodziny oraz różne jubileusze, a także wszystkim paniom życzę obfitości Bożych darów oraz wsłuchiwania się w słowo Boga, które daje prawdziwe życie.  
+6. Wszystkim solenizantom Bożenom i Krystynom i jubilatom tego tygodnia życzymy otwartości na Boże natchnienia i wzrastania w miłości do Bogu i ludzi. 
 
 
-##Intencje mszalne  07 – 13  marca    2022
+#Intencje mszalne  14 – 20  marca    2022
 
-#PONIEDZIAŁEK – 07.03
+#PONIEDZIAŁEK – 14.03
 
-10.30  [+]Helena Szudzik int. Elżbiety i Piotra Szczepańskich
+15.30 [+]Józef Poturalski 3 rś int. żony i dzieci
 
-#WTOREK – 08.03
+#WTOREK – 15.03
 
-12.00  [+]Beata Pietrzak imieninowa
+12.00  [+]Jerzy Kołodziejski int. Grabowskich
 
-#ŚRODA – 09.03  
+#ŚRODA – 16.03  
 
-16.00 [+]Czesław Trojankiewicz  35 rś int.  córki Katarzyna z r.
-[+] Romuald Kwiatkowski – Krystyny Sobieraj i Weneckich 
-[+]  Barbara Sobczyńska  - Katarzyny Augustyniak z Annowa
-[+]  Grażyna Kołodziejska – Anny Dziuba z synem
-[+] Jerzy Sadowski – Teresy Chaberskiej i r. Mikołajewskich 
-[+] Andrzej Rossa – Kwieciszewskich
-                                  
-#CZWARTEK – 10.03
+16.00 [+]Alina Sochacka int. Żurańskich z Kłobi
 
-14.00 [+]Tadeusz Wawrzonkowski int brata Stanisława z r.
+[+] Barbara Sobczyńska int.  Rady Sołeckiej Annowo
+[+] Grażyna Kołodziejska  int Zakładu Pogrzebowego Arka
+[+] Jerzy Sadowski  int. sąsiadów Bączków
+[+] Andrzej Rossa – int. syna Mariusza z Dawidem 
+
+#CZWARTEK – 17.03
+
+14.00 [+]Ewa Witulska int. Krystyny Borkowskiej z r.
 
 
-#PIĄTEK – 11.03 
+#PIĄTEK – 18.03 
 
-16.30 [+]+ Alina Sochacka int. syna Krzysztofa z r. 
+16.30 [+]Edward Krulikowski int. chrześniaczki Oli z r.
+
 17.00 [-] Nabożeństwo Drogi Krzyżowej
 
-#SOBOTA – 12.03
+#SOBOTA – 19.03 UROCZYSTOŚĆ  ŚW. JÓZEFA
 
-09.00 [+]Stanisława Kurdupska int córki z r.
+15.00 [+] JÓZEFA
 
 
-#NIEDZIELA – 13.03
+#NIEDZIELA – 20.03
 
-09.00 [+] rodziców i rodzeństwo Nejman Dariusz Jan Kusinowscy
-[+] Marian Cr Kurantów Katarzyna Wawrzyniec Zgoła braci Stanisław Jan Zgoła
+09.00 [+]Eugeniusz Nowak 8 rś
 
-11.00 [+] Wielisława 2 rś Tadeusz Dudczak int. dzieci z rodz.
-[-] Parafian
+11.00 [+] Julianna Stanisław Mantyk ich dzieci int Michalaków [+] Genowefa Sylwester Małeccy 
