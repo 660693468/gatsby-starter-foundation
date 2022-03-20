@@ -2,65 +2,78 @@
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
-date: 2022-03-13
+date: 2022-03-20
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
 
-##DRUGA NIEDZIELA WIELKIEGO POSTU  -  13 marca 2022                                   
+##TRZECIA NIEDZIELA WIELKIEGO POSTU - 20 marca 2022                                          
 
 #OGŁOSZENIA DUSZPASTERSKIE
 
-1. Dziś druga niedziela Wielkiego Postu, czyli Niedziela Ad Gentes, która jest Dniem Modlitwy, Postu i Solidarności z Misjonarzami. Módlmy się dzisiaj za wszystkich pracujących na misjach, aby doświadczali Bożej pomocy i wsparcia ze strony wspólnoty wierzących. Zbiórka do puszek.
+1. Trwamy w okresie pokuty i nawrócenia – dziś przypada już trzecia niedziela Wielkiego Postu. Po raz kolejny słyszymy słowa Zbawiciela: „Nawracajcie się, bliskie jest królestwo niebieskie”. Bóg daje nam czas na wydawanie owoców nawrócenia. Nie marnujmy go.  
 
-2. Dziś  9. rocznica wyboru papieża Franciszka na Stolicę Piotrową. Módlmy się za następcę Świętego Piotra, aby dla wszystkich był znakiem miłości Boga i wiernie prowadził Owczarnię Chrystusa na spotkanie z Najlepszym Pasterzem.  
+2. Nabożeństwo gorzkich żali  o godz.  11.00
 
-3. Zapraszam na nabożeństwo drogi krzyżowej w piątek o godz. 17.00. 
+3. Wizyta na cmentarzu Dyrektora IPN  - środa godz. 14.00 przy odrestaurowanym nagrobku + Tomasza Boguckiego  herbu Krzywda żołnierz z 1794 r
 
-4. W sobotę, 19 marca, przypada uroczystość Świętego Józefa, Oblubieńca Najświętszej Maryi Panny. Święty Józef jest patronem Kościoła powszechnego oraz rodzin chrześcijańskich. Jest także orędownikiem dobrej śmierci.  Msza Święte o godz. 15.00. 
+4. W piątek, 25 marca, przypada uroczystość Zwiastowania Pańskiego. Tego dnia obchodzimy Dzień Świętości Życia. Uroczystość Zwiastowania Pańskiego to także Dzień Duchowej Adopcji Dziecka Poczętego.  To dzień - Aktu poświęcenia Rosji i Ukrainy Niepokalanemu Sercu Maryi przed Drogą Krzyżową.
 
-5. W naszej świątyni wystawiony jest „kosz dobroci”, gdzie można składać produkty żywnościowe i środki czystości – pomoc dla Ukrainy.
+5. Nabożeństwo drogi krzyżowej w piątek o godz.  17.00.
 
-6. Wszystkim solenizantom Bożenom i Krystynom i jubilatom tego tygodnia życzymy otwartości na Boże natchnienia i wzrastania w miłości do Bogu i ludzi. 
+6. W sobotę, 26 marca, w liturgii przypada wspomnienie Dobrego Łotra oraz Dzień modlitwy za więźniów. 
 
+7. W Wielkim Poście Kościół zachęca do podejmowania dzieł miłosierdzia. W naszej świątyni wystawiony jest „kosz dobroci” pomoc dla Ukrainy.
 
-#Intencje mszalne  14 – 20  marca    2022
-
-#PONIEDZIAŁEK – 14.03
-
-15.30 [+]Józef Poturalski 3 rś int. żony i dzieci
-
-#WTOREK – 15.03
-
-12.00  [+]Jerzy Kołodziejski int. Grabowskich
-
-#ŚRODA – 16.03  
-
-16.00 [+]Alina Sochacka int. Żurańskich z Kłobi
-
-[+] Barbara Sobczyńska int.  Rady Sołeckiej Annowo
-[+] Grażyna Kołodziejska  int Zakładu Pogrzebowego Arka
-[+] Jerzy Sadowski  int. sąsiadów Bączków
-[+] Andrzej Rossa – int. syna Mariusza z Dawidem 
-
-#CZWARTEK – 17.03
-
-14.00 [+]Ewa Witulska int. Krystyny Borkowskiej z r.
+"PACZKA DLA UKRAINY". Ideą akcji jest tworzenie gotowej paczki dla rodzin na Ukrainie, bądź przekazywane na miejscu uchodźcom z Ukrainy, którzy nie posiadają środków do życia.  Paczkę należy przygotować według konkretnej listy 35 produktów. Prosimy o zakupienie wyłącznie wskazanych produktów, umieszczenie ich w kartonowym pudle. Obliczono, że produkty mieszczą się w pudle o wymiarach: szerokość 53 cm x głębokość 40 cm x wysokość 26 cm (dopuszczamy inne rozmiary, zbliżone do podanych). Masa paczki powinna wynosić max. 16-18 kg.
 
 
-#PIĄTEK – 18.03 
+8. Czas Wielkiego Postu to także czas, kiedy licznej przystępujemy do sakramentu pokuty i pojednania. 
 
-16.30 [+]Edward Krulikowski int. chrześniaczki Oli z r.
+9. Wszystkim solenizantom i jubilatom tego tygodnia życzymy trwania przy Chrystusie i pomnażania Bożych darów oraz wydawania błogosławionych owoców nawrócenia.
 
-17.00 [-] Nabożeństwo Drogi Krzyżowej
+#Intencje mszalne  21 – 28  marca    2022
 
-#SOBOTA – 19.03 UROCZYSTOŚĆ  ŚW. JÓZEFA
+#PONIEDZIAŁEK – 21.03
 
-15.00 [+] JÓZEFA
+11.00  [+] Zofia Kwiatkowska  int. r. Balcerowskich
+
+#WTOREK – 22.03
+
+13.00  [+] Kamil Pietrzak int.  Michałowskich
+
+#ŚRODA – 23.03  
+
+13.00 [+] Jadwiga Wawrzyniak  int.  syna Krzysztofa z żoną
+
+14.00 [-] na cmentarzu  poświecenie odnowionego nagrobka + Tomasza Boguckiego żołnierza z 1794 r
+
+#CZWARTEK – 24.03
+
+16.00 [+]Włodzimierz Lewandowski 6 rś  int. żony dzieci wnuków
 
 
-#NIEDZIELA – 20.03
+#PIĄTEK – 25.03 UROCZYSTOŚĆ ZWIASTOWANIA PAŃSKIEGO
 
-09.00 [+]Eugeniusz Nowak 8 rś
+16.30 [–] o pokój na świecie i zaprzestanie wojen – w Ukrainie
+[+]Alina Sochacka – Jadwiga Marek r. Wawrzyniak 
+[+] Romuald Kwiatkowski `- Zakładu Pogrzebowego Arka
+[+] Barbara Sobczyńska – Wanda Krzysztof Wojtkowscy
+[+] Grażyna Kołodziejska – Mileny Kucal 
+[+]  Jerzy Sadowski – sołtysów Gminy Lubraniec
+[+] Andrzej Rossa – Barbary Piotrowskiej z r. 
+[+]  Stanisław Szczot – r. Rzepka z Annowa 
 
-11.00 [+] Julianna Stanisław Mantyk ich dzieci int Michalaków [+] Genowefa Sylwester Małeccy 
+#17.00- Akt poświęcenia Rosji i Ukrainy Niepokalanemu Sercu Maryi 
+ Nabożeństwo Drogi Krzyżowej
+
+#SOBOTA – 26.03 
+
+09.00 [+] Józef  Sołtysiński int.  Agnieszki i Przemysława
+
+
+#NIEDZIELA – 27.03
+
+09.00 [+] Marta  8 rś Tadeusz Matusiak
+
+11.00 [+] Elżbieta Zenon Pawłowscy 3 rś int. syna Tomasza Mariusza Damiana [+] Stefan Antczak int. żony i dzieci z r. 
