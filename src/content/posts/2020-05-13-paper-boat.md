@@ -2,78 +2,73 @@
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
-date: 2022-03-20
+date: 2022-03-27
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
 
-##TRZECIA NIEDZIELA WIELKIEGO POSTU - 20 marca 2022                                          
+##CZWARTA NIEDZIELA WIELKIEGO POSTU - 27 marca 2022                            
 
 #OGŁOSZENIA DUSZPASTERSKIE
 
-1. Trwamy w okresie pokuty i nawrócenia – dziś przypada już trzecia niedziela Wielkiego Postu. Po raz kolejny słyszymy słowa Zbawiciela: „Nawracajcie się, bliskie jest królestwo niebieskie”. Bóg daje nam czas na wydawanie owoców nawrócenia. Nie marnujmy go.  
+1. Dziś czwarta niedziela Wielkiego Postu, nazywana  niedzielą radości. Jej nazwa wywodzi się od pierwszych słów antyfony na wejście w języku łacińskim: „Laetare, Jerusalem (…)”, czyli: „Raduj się, Jerozolimo (…)”. Zewnętrznym wyrazem radości jest różowy kolor szat liturgicznych. To znak, że zbliżamy się w wielkopostnym przygotowaniu do świętowania misterium paschalnego Jezusa Chrystusa.
 
-2. Nabożeństwo gorzkich żali  o godz.  11.00
+2. Gorzkie żale  o godz. 11.00.
 
-3. Wizyta na cmentarzu Dyrektora IPN  - środa godz. 14.00 przy odrestaurowanym nagrobku + Tomasza Boguckiego  herbu Krzywda żołnierz z 1794 r
+3. Najbliższy piątek, 1 kwietnia, będzie pierwszym piątkiem miesiąca. Msza Święta wotywna oraz nabożeństwo do Najświętszego Serca Pana Jezusa o godz. 16.30 Spowiedź od godz. 16.00 Mękę Zbawiciela będziemy rozważać w czasie nabożeństwa drogi krzyżowej o godz. 17.00.
 
-4. W piątek, 25 marca, przypada uroczystość Zwiastowania Pańskiego. Tego dnia obchodzimy Dzień Świętości Życia. Uroczystość Zwiastowania Pańskiego to także Dzień Duchowej Adopcji Dziecka Poczętego.  To dzień - Aktu poświęcenia Rosji i Ukrainy Niepokalanemu Sercu Maryi przed Drogą Krzyżową.
+4. W sobotę przypada  17. rocznica śmieci Świętego Jana Pawła II. Nasz Wielki Rodak nazywany jest Sługą Miłosierdzia. Módlmy się przez jego wstawiennictwo o miłosierdzie dla nas i całego świata. 
 
-5. Nabożeństwo drogi krzyżowej w piątek o godz.  17.00.
+5. W naszej świątyni wystawiony jest „kosz dobroci”, gdzie można składać produkty żywnościowe i środki czystości pomoc dla Ukrainy lista produktów w gablocie . Dziękuję za każdy – nawet najmniejszy gest miłosierdzia.
 
-6. W sobotę, 26 marca, w liturgii przypada wspomnienie Dobrego Łotra oraz Dzień modlitwy za więźniów. 
+6. Baranki wielkanocne czekoladowe w cenie 10 zł na pomoc Caritas dla Domu Samotnej matki w Ciechocinku.
 
-7. W Wielkim Poście Kościół zachęca do podejmowania dzieł miłosierdzia. W naszej świątyni wystawiony jest „kosz dobroci” pomoc dla Ukrainy.
+7. Wizyta duszpasterska po świętach wielkanocnych.
 
-"PACZKA DLA UKRAINY". Ideą akcji jest tworzenie gotowej paczki dla rodzin na Ukrainie, bądź przekazywane na miejscu uchodźcom z Ukrainy, którzy nie posiadają środków do życia.  Paczkę należy przygotować według konkretnej listy 35 produktów. Prosimy o zakupienie wyłącznie wskazanych produktów, umieszczenie ich w kartonowym pudle. Obliczono, że produkty mieszczą się w pudle o wymiarach: szerokość 53 cm x głębokość 40 cm x wysokość 26 cm (dopuszczamy inne rozmiary, zbliżone do podanych). Masa paczki powinna wynosić max. 16-18 kg.
+8. Opłata za śmieci i wodę na cmentarzu.
 
-
-8. Czas Wielkiego Postu to także czas, kiedy licznej przystępujemy do sakramentu pokuty i pojednania. 
-
-9. Wszystkim solenizantom i jubilatom tego tygodnia życzymy trwania przy Chrystusie i pomnażania Bożych darów oraz wydawania błogosławionych owoców nawrócenia.
-
-#Intencje mszalne  21 – 28  marca    2022
-
-#PONIEDZIAŁEK – 21.03
-
-11.00  [+] Zofia Kwiatkowska  int. r. Balcerowskich
-
-#WTOREK – 22.03
-
-13.00  [+] Kamil Pietrzak int.  Michałowskich
-
-#ŚRODA – 23.03  
-
-13.00 [+] Jadwiga Wawrzyniak  int.  syna Krzysztofa z żoną
-
-14.00 [-] na cmentarzu  poświecenie odnowionego nagrobka + Tomasza Boguckiego żołnierza z 1794 r
-
-#CZWARTEK – 24.03
-
-16.00 [+]Włodzimierz Lewandowski 6 rś  int. żony dzieci wnuków
+9. Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości Bożych darów, radości oraz wzrastania w wierze i miłości ku Panu.  
 
 
-#PIĄTEK – 25.03 UROCZYSTOŚĆ ZWIASTOWANIA PAŃSKIEGO
+##Intencje mszalne   28  marca – 03 kwietnia   2022
 
-16.30 [–] o pokój na świecie i zaprzestanie wojen – w Ukrainie
-[+]Alina Sochacka – Jadwiga Marek r. Wawrzyniak 
-[+] Romuald Kwiatkowski `- Zakładu Pogrzebowego Arka
-[+] Barbara Sobczyńska – Wanda Krzysztof Wojtkowscy
-[+] Grażyna Kołodziejska – Mileny Kucal 
-[+]  Jerzy Sadowski – sołtysów Gminy Lubraniec
-[+] Andrzej Rossa – Barbary Piotrowskiej z r. 
-[+]  Stanisław Szczot – r. Rzepka z Annowa 
+#PONIEDZIAŁEK – 28.03
 
-#17.00- Akt poświęcenia Rosji i Ukrainy Niepokalanemu Sercu Maryi 
- Nabożeństwo Drogi Krzyżowej
+12.00  [+]Marianna Gardyza int. Siewierskich
 
-#SOBOTA – 26.03 
+#WTOREK – 29.03
 
-09.00 [+] Józef  Sołtysiński int.  Agnieszki i Przemysława
+12.00  [+]Renata Ziółkowska int. Wojtkowskich z Boniewa
+
+#ŚRODA – 30.03  
+
+16.00 [+]Alina Sochacka – Kowalewskich z Paniewa 
+[+] Romuald Kwiatkowski – kolegów z pracy syna Mariusza
+[+] Barbara Sobczyńska – Włodarskich i Przewozikowskich 
+[+] Jerzy Sadowski – Pracowników Delikatesów Centrum 
+[+] Jadwiga Wawrzyniak – Jadwigi i Andrzeja
+
+#CZWARTEK – 31.03
+
+14.00 [+]Marianna Zakrocka int. Agnieszki Piotra Lewandowskich
 
 
-#NIEDZIELA – 27.03
+#PIĄTEK – 01.04 PIERWSZY PIĄTEK MIESIĄCA
 
-09.00 [+] Marta  8 rś Tadeusz Matusiak
+16.00 [-]- wystawienie Najświętszego Sakramentu i Spowiedź
 
-11.00 [+] Elżbieta Zenon Pawłowscy 3 rś int. syna Tomasza Mariusza Damiana [+] Stefan Antczak int. żony i dzieci z r. 
+16.30 [+] Barbara Sobczyńska int. syna Andrzeja
+
+17.00 [-] DROGA KRZYŻOWA
+
+#SOBOTA – 02.04 
+
+09.00 [+]Renata Ziółkowska z ok. ur. męża Jana i córki Moniki z r.
+
+
+#NIEDZIELA – 03.04
+
+09.00 [+]Stefan w 15 rś Alina  i Stanisław Sochaccy r.  Sochackich i Głowackich
+
+11.00 [+] Krzysztof Przybysz int. zony z dziećmi
+[+] ks. Kan. Tadeusza Pakulskiego w 5 rś int rodziny
