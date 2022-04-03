@@ -2,73 +2,71 @@
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
-date: 2022-03-27
+date: 2022-04-03
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
-
-##CZWARTA NIEDZIELA WIELKIEGO POSTU - 27 marca 2022                            
+## PIĄTA NIEDZIELA WIELKIEGO POSTU - 3 kwietnia 2022                                           
 
 #OGŁOSZENIA DUSZPASTERSKIE
 
-1. Dziś czwarta niedziela Wielkiego Postu, nazywana  niedzielą radości. Jej nazwa wywodzi się od pierwszych słów antyfony na wejście w języku łacińskim: „Laetare, Jerusalem (…)”, czyli: „Raduj się, Jerozolimo (…)”. Zewnętrznym wyrazem radości jest różowy kolor szat liturgicznych. To znak, że zbliżamy się w wielkopostnym przygotowaniu do świętowania misterium paschalnego Jezusa Chrystusa.
+1. Dziś, w piątą niedzielę Wielkiego Postu rozpoczynamy część tego okresu liturgicznego, która będzie miała charakter pasyjny. Od dziś zgodnie z tradycją w kościołach zasłaniane są krzyże. 
 
-2. Gorzkie żale  o godz. 11.00.
+2. W piątek serdecznie zapraszam na nabożeństwo drogi krzyżowej o godz. 17.00 tradycyjnie udamy się na cmentarz. Przynosimy znicze. / rozważania/ męka 
 
-3. Najbliższy piątek, 1 kwietnia, będzie pierwszym piątkiem miesiąca. Msza Święta wotywna oraz nabożeństwo do Najświętszego Serca Pana Jezusa o godz. 16.30 Spowiedź od godz. 16.00 Mękę Zbawiciela będziemy rozważać w czasie nabożeństwa drogi krzyżowej o godz. 17.00.
+3. W sobotę dzień sakramentu pokuty i pojednania poprowadzi ks.  Paweł Śmigiel.
+Dzień pokutny. Spowiedź o 8.30;10;30 i 15;30
 
-4. W sobotę przypada  17. rocznica śmieci Świętego Jana Pawła II. Nasz Wielki Rodak nazywany jest Sługą Miłosierdzia. Módlmy się przez jego wstawiennictwo o miłosierdzie dla nas i całego świata. 
+4. Przyszła niedziela,  będzie już Niedzielą Męki Pańskiej – Niedzielą Palmową. konkurs na najpiękniejszą palmę – procesja o 11.00
 
-5. W naszej świątyni wystawiony jest „kosz dobroci”, gdzie można składać produkty żywnościowe i środki czystości pomoc dla Ukrainy lista produktów w gablocie . Dziękuję za każdy – nawet najmniejszy gest miłosierdzia.
+5. Misterium Męki Pańskiej – Osięciny – g.19.30 – Niedziela Palmowa.
 
-6. Baranki wielkanocne czekoladowe w cenie 10 zł na pomoc Caritas dla Domu Samotnej matki w Ciechocinku.
+6. Do chorych  udam się  we wtorek od 13.00.
 
-7. Wizyta duszpasterska po świętach wielkanocnych.
+7. W związku z rozporządzeniem Rady  Ministrów z dnia 25 marca br. uchylającym z dniem 28 marca br. ograniczenia, nakazy i zakazy w związku z wystąpieniem stanu epidemii, ks. bp Krzysztof Wętkowski z dniem 1 kwietnia br. odwołuje wszystkie dotychczasowe ograniczenia wprowadzone przez Biskupa Włocławskiego zarządzeniami w sprawie duszpasterstwa w stanie epidemii.
 
-8. Opłata za śmieci i wodę na cmentarzu.
+8. Wszystkim solenizantom i jubilatom tego tygodnia życzymy doświadczenia bliskości Boga i Jego zbawczej mocy oraz opieki Matki Najświętszej.  
 
-9. Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości Bożych darów, radości oraz wzrastania w wierze i miłości ku Panu.  
+#Intencje mszalne 04 -  10 kwietnia   2022
 
+#PONIEDZIAŁEK  -  04.04      
 
-##Intencje mszalne   28  marca – 03 kwietnia   2022
+14.00 [+]Zofia Kwiatkowska  int.  Nowaków i Kwilinskich
 
-#PONIEDZIAŁEK – 28.03
+# WTOREK – 05.04
 
-12.00  [+]Marianna Gardyza int. Siewierskich
+12.00 (+) Stanisława Gęgotek int.  Balceraków z Guźlina
 
-#WTOREK – 29.03
+13.00 [-] odwiedziny chorych
 
-12.00  [+]Renata Ziółkowska int. Wojtkowskich z Boniewa
+#ŚRODA  - 06.04
 
-#ŚRODA – 30.03  
+14.00 (+)Regina Bączek 25 rś   int. męża z rodz.
 
-16.00 [+]Alina Sochacka – Kowalewskich z Paniewa 
-[+] Romuald Kwiatkowski – kolegów z pracy syna Mariusza
-[+] Barbara Sobczyńska – Włodarskich i Przewozikowskich 
-[+] Jerzy Sadowski – Pracowników Delikatesów Centrum 
-[+] Jadwiga Wawrzyniak – Jadwigi i Andrzeja
+#CZWARTEK – 07.04
 
-#CZWARTEK – 31.03
+ 14.00 (+)Janina Buczkowska  int.  siostry Jadwigi z mężem
 
-14.00 [+]Marianna Zakrocka int. Agnieszki Piotra Lewandowskich
+#PIĄTEK – 08.04
 
+16.30 [+] Jadwiga Rybacka int. chrześniaczki Małgorzaty 
 
-#PIĄTEK – 01.04 PIERWSZY PIĄTEK MIESIĄCA
+17.00 [-] Droga Krzyżowa na cmentarz
 
-16.00 [-]- wystawienie Najświętszego Sakramentu i Spowiedź
+#SOBOTA – 09.04  SKUPIENIE WIELKOPOSTNE
 
-16.30 [+] Barbara Sobczyńska int. syna Andrzeja
+##SPOWIEDŹ:  8.30  10.30   15.30
 
-17.00 [-] DROGA KRZYŻOWA
+09.00 (+)Kamil Pietrzak int.  Bożeny i Mariana Wodzyńskich;  Ani z  Mariuszem i Kamilem
 
-#SOBOTA – 02.04 
+11.00 [+] Barbara Pawłowska int. Musiałów i Kapitajna 
 
-09.00 [+]Renata Ziółkowska z ok. ur. męża Jana i córki Moniki z r.
+16.00 (+)Jerzy Sadowski int córki Magdaleny z Alicją syna Jacka z r
 
+#NIEDZIELA  MEKI PAŃSKIEJ – PALMOWA – 10.04       
 
-#NIEDZIELA – 03.04
+9.00 (-) Parafian 
+[+] Jerzy Ciesielski int.  Czesławy i Czesława Betlińskich
 
-09.00 [+]Stefan w 15 rś Alina  i Stanisław Sochaccy r.  Sochackich i Głowackich
-
-11.00 [+] Krzysztof Przybysz int. zony z dziećmi
-[+] ks. Kan. Tadeusza Pakulskiego w 5 rś int rodziny
+11.00 [+]   br Fidelis Ignaczak 5 rś dziadkowie Ignaczak int. Betlińskich z Kąkowej Woli
+[+] Dominik Podlewski int. chrześniaczki Ewy z r.
