@@ -27,7 +27,7 @@ featuredImage: /assets/papiez.jpg
 8. Wigilia Paschalna. Liturgię rozpoczniemy o godz. 19.00  Zabierzmy świece. 
 Rezurekcja w poranek wielkanocny o godz. 6.00  
 
-9.W najbliższą niedzielę będziemy celebrować uroczystość Zmartwychwstania Pańskiego. Msze o godz. 9.00 i 11.00.
+9. W najbliższą niedzielę będziemy celebrować uroczystość Zmartwychwstania Pańskiego. Msze o godz. 9.00 i 11.00.
 
 
 ##Intencje mszalne 11 -18 kwietnia  2022
