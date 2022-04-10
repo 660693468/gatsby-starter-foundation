@@ -2,71 +2,149 @@
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
-date: 2022-04-03
+date: 2022-04-10
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
-## PIĄTA NIEDZIELA WIELKIEGO POSTU - 3 kwietnia 2022                                           
+#NIEDZIELA PALMOWA, CZYLI MĘKI PAŃSKIEJ - 10 kwietnia 2022                                         
 
 #OGŁOSZENIA DUSZPASTERSKIE
 
-1. Dziś, w piątą niedzielę Wielkiego Postu rozpoczynamy część tego okresu liturgicznego, która będzie miała charakter pasyjny. Od dziś zgodnie z tradycją w kościołach zasłaniane są krzyże. 
+1. Dziś Niedziela Palmowa, czyli Męki Pańskiej. Wspominamy uroczysty wjazd Jezusa do Jerozolimy. Dzisiejszą niedzielą rozpoczynamy obchód Wielkiego Tygodnia. Podziękowanie za palmy. Szczególnie uczniom i nauczycielom ZSN Kąkowa Wola. /rekolekcje dla nich w środę godz. 10.00/
 
-2. W piątek serdecznie zapraszam na nabożeństwo drogi krzyżowej o godz. 17.00 tradycyjnie udamy się na cmentarz. Przynosimy znicze. / rozważania/ męka 
+2. Dziś także przypada 12. rocznica katastrofy pod Smoleńskiem. W naszej modlitwie pamiętajmy o tych, którzy wówczas zginęli. 
 
-3. W sobotę dzień sakramentu pokuty i pojednania poprowadzi ks.  Paweł Śmigiel.
-Dzień pokutny. Spowiedź o 8.30;10;30 i 15;30
+3. W poniedziałek na 18.00 proszę o pomoc przy dekoracji. Bukszpan. W środę popołudniu wypełnienie dekoracji.
 
-4. Przyszła niedziela,  będzie już Niedzielą Męki Pańskiej – Niedzielą Palmową. konkurs na najpiękniejszą palmę – procesja o 11.00
+4. W Wielkim Tygodniu będziemy przeżywali największe tajemnice naszego zbawienia: mękę, śmierć i zmartwychwstanie Chrystusa. Niech będzie to czas aktywnego udziału w celebracjach Triduum Paschalnego, będące centrum roku liturgicznego. Zapraszam asystę Straż Pożarną
 
-5. Misterium Męki Pańskiej – Osięciny – g.19.30 – Niedziela Palmowa.
+5. Wielki Czwartek – pamiątka ustanowienia sakramentów Eucharystii i kapłaństwa. W katedrze będzie sprawowana przed południem Msza krzyżma. Uroczysta liturgia w naszej świątyni  o godz. 18.00  Adoracja Najświętszego Sakramentu po liturgii do godz. 21.00. /PROSZĘ 12 PANÓW DO OBMYCIA NÓG/
 
-6. Do chorych  udam się  we wtorek od 13.00.
+6. Wielki Piątek – pamiątka męki i śmierci Pana Jezusa. W tym dniu nie sprawujemy Eucharystii. Obowiązuje post ścisły. Liturgię rozpoczniemy o godz. 18.00  Adoracja Najświętszego Sakramentu do godz. 21.00. 
 
-7. W związku z rozporządzeniem Rady  Ministrów z dnia 25 marca br. uchylającym z dniem 28 marca br. ograniczenia, nakazy i zakazy w związku z wystąpieniem stanu epidemii, ks. bp Krzysztof Wętkowski z dniem 1 kwietnia br. odwołuje wszystkie dotychczasowe ograniczenia wprowadzone przez Biskupa Włocławskiego zarządzeniami w sprawie duszpasterstwa w stanie epidemii.
+7. Wielka Sobota – dzień, w którym Kościół trwa przy grobie Pańskim, rozważa mękę i śmierć Chrystusa, Jego zstąpienie do otchłani, a także oczekuje na Jego Zmartwychwstanie. W tym dniu Kościół powstrzymuje się od celebrowania Eucharystii.  Święcenie pokarmów o 9.00 10.00 11.00 i przed 19.00.
 
-8. Wszystkim solenizantom i jubilatom tego tygodnia życzymy doświadczenia bliskości Boga i Jego zbawczej mocy oraz opieki Matki Najświętszej.  
+8. Wigilia Paschalna. Liturgię rozpoczniemy o godz. 19.00  Zabierzmy świece. 
+Rezurekcja w poranek wielkanocny o godz. 6.00  
 
-#Intencje mszalne 04 -  10 kwietnia   2022
+9.W najbliższą niedzielę będziemy celebrować uroczystość Zmartwychwstania Pańskiego. Msze o godz. 9.00 i 11.00.
 
-#PONIEDZIAŁEK  -  04.04      
 
-14.00 [+]Zofia Kwiatkowska  int.  Nowaków i Kwilinskich
+##Intencje mszalne 11 -18 kwietnia  2022
 
-# WTOREK – 05.04
+#PONIEDZIAŁEK WIELKI – 11.04
 
-12.00 (+) Stanisława Gęgotek int.  Balceraków z Guźlina
+Godz. 12.00 [+]  Janina Buchner int. siostry Lucyny
 
-13.00 [-] odwiedziny chorych
+WTOREK WIELKI – 12.04
 
-#ŚRODA  - 06.04
+Godz. 12.00 [+] Marianna Wesołowska int. syna Franciszka z żoną
 
-14.00 (+)Regina Bączek 25 rś   int. męża z rodz.
+ŚRODA WIELKA – 13.04
 
-#CZWARTEK – 07.04
+Godz. 10.00 – rekolekcje dla uczniów Niepublicznego Zespołu Szkoły Podstawowej z Kąkowej Woli
 
- 14.00 (+)Janina Buczkowska  int.  siostry Jadwigi z mężem
+Godz. 13.00 [+] Edward Krulikowski int. r. Żychlińskich z Redcza Krukowego
 
-#PIĄTEK – 08.04
+CZWARTEK WIELKI – 14.04
 
-16.30 [+] Jadwiga Rybacka int. chrześniaczki Małgorzaty 
+Godz. 18.00 MSZA WIECZERZY PAŃSKIEJ
 
-17.00 [-] Droga Krzyżowa na cmentarz
+19.30 - 21.00 - Adoracja Dąbie Agnieszkowo Annowo Borucin
 
-#SOBOTA – 09.04  SKUPIENIE WIELKOPOSTNE
+PIĄTEK - Wielki - 15.04
 
-##SPOWIEDŹ:  8.30  10.30   15.30
+Godz. 18.00 Liturgia Wielkiego Piątku
 
-09.00 (+)Kamil Pietrzak int.  Bożeny i Mariana Wodzyńskich;  Ani z  Mariuszem i Kamilem
+19.30 – 21.00 Adoracja Stok Kąkowa Wola  Redecz Krukowy
 
-11.00 [+] Barbara Pawłowska int. Musiałów i Kapitajna 
+SOBOTA Wielka – 16.04
 
-16.00 (+)Jerzy Sadowski int córki Magdaleny z Alicją syna Jacka z r
+ŚWIĘCENIE POKARMÓW Godz. 9.00:10.00: 11,00: 18,45
 
-#NIEDZIELA  MEKI PAŃSKIEJ – PALMOWA – 10.04       
+Godz. 19.00  LITRUGIA WIGILII PASCHALNEJ
 
-9.00 (-) Parafian 
-[+] Jerzy Ciesielski int.  Czesławy i Czesława Betlińskich
+NIEDZIELA - Wielkanoc 17.04
 
-11.00 [+]   br Fidelis Ignaczak 5 rś dziadkowie Ignaczak int. Betlińskich z Kąkowej Woli
-[+] Dominik Podlewski int. chrześniaczki Ewy z r.
+Rezurekcja Godz. 06.00   za Parafian 
+
+09.00 + Jerzy Ciesielski int. Gasińskich z Torzewa
+
+11.00 + Marianna Gardyza w 1 rś int. syna Leszka z r.
+
++ Wiesław Adrian w 6 rś int żony i dzieci
++ Romuald Kwiatkowski int. córki Emilii z Mikołajem i Piotrem
+
+PONIEDZIAŁEK Wielkanocny - 18.04
+
+09.00 [+] Stanisława Stanisław Molewscy int. córki i wnuczek z r.
+
+[+] Alina Sochacka int. wnuczki Marty z r. 
+
+11.00 [+] Romuald Kwiatkowski int. syna Mariusza z r.
+
+[+] Stanisław w 5 rś i Barbara Sobczyńscy int. rodziny
+
+
+
+##Program Wizyty Duszpasterskiej:
+
+#19.04 – wtorek – 10.00 - BORUCIN  Niwy i Kolonia
+
+Szymczak – Zatarskich - Krulikowskich – Grabowskich
+
+#20.04  - środa – 14.00 – BORUCIN 
+
+Dytkiewicz  - Gajewscy –centrum Szkoła – Szmajda
+
+#21.04  - czwartek – 14.00 - BORUCIN
+
+Bernaciak – Mierzejewscy – Grochowina – Nowakowscy
+
+#22.04  - piątek – 11.30 – BORUCIN Olszak i Błota
+
+Simińscy – Chojnaccy –Gąsiorowscy- Łodygowscy – Opłatkowscy
+
+#23.04 – sobota – 09.00 – KĄKOWA WOLA 
+
+Karkowscy Głowaccy Popławska Klejbach Józef – Pogodzińscy
+
+…………………………………………………………………………………………..
+
+#25.04 – poniedziałek – 12.30 - Kąkowa Wola
+
+Krawczyk- Klejbach Szatkowski – Lewandowskich
+
+#26.04 – wtorek – 12.30 - REDECZ KRUKOWY
+
+Wysocki  - Sadownik
+
+#27.04  - środa – 14.00 - STOK
+
+Gardyza
+
+#28.04 – czwartek – 14.00 - DĄBIE WIEŚ
+
+Sadowscy – Jasińscy – Modrzejewscy - Zielińscy – Olszewska – Osińscy
+
+#29.04  - piątek – 11.30 – BODZANOWO
+
+Nejman – Zawodzie – Bączek  
+
+#30.04 – sobota – 09.00 - AGNIESZKOWO
+
+Pantuchowicz - Olakowscy – Koziccy
+
+………………………………………………………………………………………………………………………………
+
+#02.05 – poniedziałek – 09.00 - ANNOWO
+
+Sobczyńscy
+
+#04.05 – środa – 14.00 - DĄBIE CENTRUM
+
+Nowak  - Szałańscy
+
+#05.05 – czwartek – 14.00 - DĄBIE PODUCHOWN
+
+Jatczak – Kralska
