@@ -16,7 +16,7 @@ featuredImage: /assets/papiez.jpg
 
 3. W poniedziałek na 18.00 proszę o pomoc przy dekoracji. Bukszpan. W środę popołudniu wypełnienie dekoracji.
 
-4. W Wielkim Tygodniu będziemy przeżywali największe tajemnice naszego zbawienia: mękę, śmierć i zmartwychwstanie Chrystusa. Niech będzie to czas aktywnego udziału w celebracjach Triduum Paschalnego, będące centrum roku liturgicznego. Zapraszam asystę Straż Pożarną
+4. W Wielkim Tygodniu będziemy przeżywali największe tajemnice naszego zbawienia: mękę, śmierć i zmartwychwstanie Chrystusa. Niech będzie to czas aktywnego udziału w celebracjach Triduum Paschalnego, będące centrum roku liturgicznego. Zapraszam asystę Straż Pożarną Orkiestrę
 
 5. Wielki Czwartek – pamiątka ustanowienia sakramentów Eucharystii i kapłaństwa. W katedrze będzie sprawowana przed południem Msza krzyżma. Uroczysta liturgia w naszej świątyni  o godz. 18.00  Adoracja Najświętszego Sakramentu po liturgii do godz. 21.00. /PROSZĘ 12 PANÓW DO OBMYCIA NÓG/
 
