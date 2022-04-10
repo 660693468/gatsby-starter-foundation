@@ -68,12 +68,12 @@ NIEDZIELA - Wielkanoc 17.04
 
 Rezurekcja Godz. 06.00   za Parafian 
 
-09.00 + Jerzy Ciesielski int. Gasińskich z Torzewa
+09.00 [+] Jerzy Ciesielski int. Gasińskich z Torzewa
 
-11.00 + Marianna Gardyza w 1 rś int. syna Leszka z r.
+11.00 [+] Marianna Gardyza w 1 rś int. syna Leszka z r.
 
-+ Wiesław Adrian w 6 rś int żony i dzieci
-+ Romuald Kwiatkowski int. córki Emilii z Mikołajem i Piotrem
+[+] Wiesław Adrian w 6 rś int żony i dzieci
+[+] Romuald Kwiatkowski int. córki Emilii z Mikołajem i Piotrem
 
 PONIEDZIAŁEK Wielkanocny - 18.04
 
