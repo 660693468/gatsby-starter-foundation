@@ -8,73 +8,61 @@ featuredImage: /assets/papiez.jpg
 ---
       
 
-##NIEDZIELA WIELKANOCNA  -  17 kwietnia 2022                                  
-
-## ZMARTWYCHWSTANIA PAŃSKIEGO
+##DRUGA NIEDZIELA WIELKANOCY  24 kwietnia 2022                                                     
+#CZYLI MIŁOSIERDZIA BOŻEGO 	                                                                   
 
 #OGŁOSZENIA DUSZPASTERSKIE
 
-1. Słowa wdzięczności  do wszystkich, którzy włączyli się w przygotowanie celebracji Triduum Paschalnego oraz dekoracji w naszej świątyni. Za udział w nabożeństwach i adoracji. 
+1. Dziś druga niedziela Wielkanocy, czyli Niedziela Miłosierdzia Bożego. Trwamy w radości ze zmartwychwstania Chrystusa. To wydarzenie jest szczególnym znakiem tego, że Bóg zlitował się nad grzesznymi ludźmi i całemu światu okazał swoje miłosierdzie. 
 
-2. W piątek z racji oktawy Wielkanocy nie obowiązuje wstrzemięźliwość od pokarmów mięsnych. 
+2. Wtorek godz. 17.00 spotkanie dzieci pierwszokomunijnych.
 
-3. Najbliższa niedziela będzie Niedzielą Miłosierdzia Bożego, która rozpocznie Tydzień Miłosierdzia. 20 min przed Mszą Koronka do Bożego Miłosierdzia śpiewana. To niedziela przewodnia procesja po Mszy św. o godz. 9.00 / poświecenie książeczek dzieci I komunijnych/
+3. Jutro,  25 kwietnia,  święto Świętego Marka Ewangelisty. We wtorek, 26 kwietnia, uroczystość Świętego Wojciecha, biskupa i męczennika, głównego patrona Polski.  W piątek, 29 kwietnia,  święto Świętej Katarzyny Sieneńskiej, patronki Europy. To również Dzień Męczeństwa Duchowieństwa Polskiego, obchodzony w rocznicę wyzwolenia obozu w Dachau (1945). Naszą modlitwą będziemy otaczać wszystkie ofiary nazistowskiego i stalinowskiego totalitaryzmu, szczególnie kapłanów oraz osoby życia konsekrowanego.
 
-4. Dziś uroczystość Zmartwychwstania Pańskiego. Bóg w swojej wielkiej miłości nie zostawił nas samych, ale w Jezusie Chrystusie ofiarował nam nowe życie. Niech wielkanocna radość płynąca ze zmartwychwstania Pana będzie udziałem nas wszystkich. Niech Zwycięzca śmierci, piekła i szatana umacnia wiarę, nadzieję i miłość w naszych rodzinach i społecznościach, wspomaga na drogach codzienności oraz oświeca blaskiem swojej prawdy. 
+4. Za tydzień Niedziela Biblijna, rozpoczynająca Tydzień Biblijny. To szczególne zaproszenie do poznawania i rozważania słowa Bożego zapisanego na kartach Pisma Świętego. 
 
-##Intencje mszalne 19 -24 kwietnia  2022
+5. Wszystkim solenizantom i jubilatom tego tygodnia życzymy wzrastania w wierze, doświadczenia bliskości Zmartwychwstałego Pana i Jego mocy w codziennym życiu.
 
-#WTOREK – 19.04
 
-Godz. 18.00 [+] Bolesław Aurelia Szelągowscy int. dzieci z r.
+##Intencje mszalne 12 - 26 kwietnia   2021
 
-#ŚRODA  – 20.04
+#PONIEDZIAŁEK - 25.04
 
-Godz. 07.30 [+] Janina Migdalska int dzieci z r.
+Godz. 18.30 [+] Antoni w 20 rś i Marianna Marek Wanda Wawrzyniak 
 
-#CZWARTEK – 21.04
+#WTOREK - 26.04
 
-Godz. 07.30 [+] Jan Zieliński w 20 rś Zbigniew Wieczorkowski
+Godz. 07.30 [+]Marianna Gardyza int. Kazimierza Bączka ze Stoku 
 
-#PIĄTEK  - 22.04
+#ŚRODA - 27.04
 
-Godz. 07.30 [+] Marian Wawrzonkowski int. Reginy Sadowskiej
+Godz. 07.30 [+]Renata Ziółkowska int. r. Bywalskich i Czyżewskich
 
-#SOBOTA  – 23.04
+#CZWARTEK - 28.04
 
-Godz. 18.00  [-] Oliwia z okazji 18 urodzin
+Godz.07.30  [+] Kamil Pietrzak int. Krzysztofa Gazda
 
-#NIEDZIELA - Wielkanoc 24.04
+#PIĄTEK -29.04
 
-09.00 [+]  Justyna Fedorowicz  11 rś int. matki
+Godz.07.30 [+] Jerzy Kołodziejski int. Włodzimierza Klejbach z r.
 
-11.00 [-] PARAFIAN
+#SOBOTA - 30.04
+
+Godz. 14.30 [+] Marian Wawrzonkowski imien int. żony dzieci wnuków prawnuków
+
+Godz. 15.00  [+] Edward Krulikowski w 1 rś int. żony i dzieci z r.
+
+#NIEDZIELA - 01.05
+
+Godz.09.00 [+]Kazimierz w 12 rś i Krystyna w 11 rś Poturalscy int. syna Jana z r.
+
+Godz. 11.00 [+]Grażyna Kołodziejska  int. siostry Elżbiety z r.
+ [-] PARAFIAN
 
 
 
 #Program Wizyty Duszpasterskiej:
 
-19.04 – wtorek – 10.00 - BORUCIN  Niwy i Kolonia
-
-Szymczak – Zatarskich - Krulikowskich – Grabowskich
-
-20.04  - środa – 14.00 – BORUCIN 
-
-Dytkiewicz  - Gajewscy –centrum Szkoła – Szmajda
-
-21.04  - czwartek – 14.00 - BORUCIN
-
-Bernaciak – Mierzejewscy – Grochowina – Nowakowscy
-
-22.04  - piątek – 11.30 – BORUCIN Olszak i Błota
-
-Simińscy – Chojnaccy –Gąsiorowscy- Łodygowscy – Opłatkowscy
-
-23.04 – sobota – 09.00 – KĄKOWA WOLA 
-
-Karkowscy Głowaccy Popławska Klejbach Józef – Pogodzińscy
-
-…………………………………………………………………………………………..
 
 25.04 – poniedziałek – 12.30 - Kąkowa Wola
 
