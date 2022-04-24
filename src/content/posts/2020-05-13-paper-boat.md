@@ -24,7 +24,7 @@ featuredImage: /assets/papiez.jpg
 5. Wszystkim solenizantom i jubilatom tego tygodnia życzymy wzrastania w wierze, doświadczenia bliskości Zmartwychwstałego Pana i Jego mocy w codziennym życiu.
 
 
-##Intencje mszalne 12 - 26 kwietnia   2021
+##Intencje mszalne 25 kwietnia - 01 maja  2022
 
 #PONIEDZIAŁEK - 25.04
 
