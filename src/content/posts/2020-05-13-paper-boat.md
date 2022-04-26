@@ -56,7 +56,7 @@ Godz. 15.00  [+] Edward Krulikowski w 1 rś int. żony i dzieci z r.
 
 Godz.09.00 [+]Kazimierz w 12 rś i Krystyna w 11 rś Poturalscy int. syna Jana z r.
 
-Godz. 11.00 [+]Grażyna Kołodziejska  int. siostry Elżbiety z r.
+Godz. 11.00 [+]Grażyna Kołodziejska  int. sąsiadki Kariny z mężem
  [-] PARAFIAN
 
 
