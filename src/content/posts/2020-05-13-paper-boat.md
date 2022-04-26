@@ -64,14 +64,6 @@ Godz. 11.00 [+]Grażyna Kołodziejska  int. sąsiadki Kariny z mężem
 #Program Wizyty Duszpasterskiej:
 
 
-25.04 – poniedziałek – 12.30 - Kąkowa Wola
-
-Krawczyk- Klejbach Szatkowski – Lewandowskich
-
-26.04 – wtorek – 12.30 - REDECZ KRUKOWY
-
-Wysocki  - Sadownik
-
 27.04  - środa – 14.00 - STOK
 Gardyza
 
