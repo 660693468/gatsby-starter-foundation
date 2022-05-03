@@ -2,86 +2,94 @@
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
-date: 2022-04-24
+date: 2022-05-03
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
       
 
-##DRUGA NIEDZIELA WIELKANOCY  24 kwietnia 2022                                                     
-#CZYLI MIŁOSIERDZIA BOŻEGO 	                                                                   
+##TRZECIA NIEDZIELA WIELKANOCA  -  1 maja 2022                                                                      
 
 #OGŁOSZENIA DUSZPASTERSKIE
 
-1. Dziś druga niedziela Wielkanocy, czyli Niedziela Miłosierdzia Bożego. Trwamy w radości ze zmartwychwstania Chrystusa. To wydarzenie jest szczególnym znakiem tego, że Bóg zlitował się nad grzesznymi ludźmi i całemu światu okazał swoje miłosierdzie. 
+1. Dziś trzecia niedziela Wielkanocy. Trwamy w radości ze zmartwychwstania Chrystusa. Apostołowie doświadczyli Jego mocy, kiedy dokonali cudownego połowu ryb. Niech moc Chrystusa, której doświadczyliśmy w Eucharystii, uzdalnia nas do podejmowania codziennych obowiązków. 
 
-2. Wtorek godz. 17.00 spotkanie dzieci pierwszokomunijnych.
+2. Dziś w całej Polsce obchodzona jest po raz kolejny Niedziela Biblijna, rozpoczynająca Tydzień Biblijny. To zachęta do lektury i rozważania tekstów Pisma Świętego. „Nieznajomość Pisma Świętego jest nieznajomością Chrystusa” – mówił Święty Hieronim. Niech będzie to czas szczególnego zasłuchania i rozważania słowa Pana. 
 
-3. Jutro,  25 kwietnia,  święto Świętego Marka Ewangelisty. We wtorek, 26 kwietnia, uroczystość Świętego Wojciecha, biskupa i męczennika, głównego patrona Polski.  W piątek, 29 kwietnia,  święto Świętej Katarzyny Sieneńskiej, patronki Europy. To również Dzień Męczeństwa Duchowieństwa Polskiego, obchodzony w rocznicę wyzwolenia obozu w Dachau (1945). Naszą modlitwą będziemy otaczać wszystkie ofiary nazistowskiego i stalinowskiego totalitaryzmu, szczególnie kapłanów oraz osoby życia konsekrowanego.
+3. Dziś rozpoczynamy miesiąc maj, w którym w sposób szczególny będziemy oddawać cześć Matce Zbawiciela. Nabożeństwo majowe przed Mszą św. dziękuję za  dekorację figur i krzyży zachęcamy do modlitwy przy przydrożnych kapliczkach oraz domach rodzinnych. Wracamy do spotkań przy figurkach.
 
-4. Za tydzień Niedziela Biblijna, rozpoczynająca Tydzień Biblijny. To szczególne zaproszenie do poznawania i rozważania słowa Bożego zapisanego na kartach Pisma Świętego. 
+4. Dziś także przypada Święto Pracy. Naszą modlitwą wspieramy wszystkich pracowników i pracodawców, aby podejmowali uczciwie swoje obowiązki. 
 
-5. Wszystkim solenizantom i jubilatom tego tygodnia życzymy wzrastania w wierze, doświadczenia bliskości Zmartwychwstałego Pana i Jego mocy w codziennym życiu.
+5. Jutro, 2 maja, przypada Dzień Polonii oraz Dzień Flagi Narodowej. Nie zapomnijmy także wywiesić flagi narodowej. 
+
+6. We wtorek, 3 maja, przypada uroczystość Najświętszej Maryi Panny, Królowej Polski, głównej Patronki naszej ojczyzny. To także kolejna rocznica uchwalenia Konstytucji 3 Maja w 1791 roku. Msze Święte w naszej świątyni będą sprawowane o godz. 9.00 i 11.00
+
+7. W tym tygodniu pierwszy piątek -  nabożeństwo do Najświętszego Serca Pana Jezusa i spowiedź święta od godz. 16.00 wracam do odwiedzin chorych w sobotę od 9.30.
+
+8. W piątek Powiatowy Dzień Strażaka – msza o godz. 11.00 koncelebra orkiestra reprezentanci OSP z Powiatu Włocławskiego
+
+9. W najbliższą niedzielę, 8 maja, przypada czwarta niedziela Wielkanocy, nazywana popularnie Niedzielą Dobrego Pasterza. Będziemy obchodzić ją po raz kolejny jako Światowy Dzień Modlitw o Powołania Kapłańskie. W ten sposób rozpoczniemy Tydzień modlitw o powołania do służby w Kościele. 
+
+10. Wszystkim solenizantom i jubilatom tego tygodnia życzymy nieustannego doświadczania mocy Bożego słowa i wzrastania w posłuszeństwie Jego zbawczej woli. 
+
+##Intencje mszalne 02 – 08 maja    2022
+
+#PONIEDZIAŁEK - 02.05
+
+Godz. 17.30 
+
+[+] Ryszard Gołębiowski  7 rś  int. córki Renaty z r.
+
+#WTOREK - 03.05
+
+Godz. 09.00
+
+[+] Kazimiera Ryszard Rybscy int. dzieci
+
+Godz. 11.00 
+
+[+] Anna Mieczysław Kopaczewscy int. córki Haliny z r.
+
+#ŚRODA - 04.05
+
+Godz. 07.30
+
+[+] Marianna Wesołowska int. mieszkańców Dąbia Kujawskiego 
+
+#CZWARTEK - 05.05
+
+Godz. 07.30
+
+[+] Jerzy  Sadowski int mieszkańców Dąbie Kujawskiego
+
+#PIĄTEK - 6.05 Pierwszy piątek miesiąca
+
+11.00 - Powiatowy Dzień Strażaka
+
+16.00 - adoracja Najświętszego Sakramentu  Spowiedź
+
+16.30 + Barbara Sobczyńska  int. syna Irka
+
+#SOBOTA - 07.05
+
+Godz. 09.00
+
+[+ ]Renata Ziółkowska w 1 rś int. męża Jana córki Moniki z r.
+
+09.30 [-] odwiedziny chorych 
+
+#NIEDZIELA - 08.05
+
+Godz.09.00
+
+[+]Tadeusz Grzanka w 25 rś
+
+Godz. 11.00
+
+[+]Stanisławów
 
 
-##Intencje mszalne 25 kwietnia - 01 maja  2022
-
-#PONIEDZIAŁEK - 25.04
-
-Godz. 18.30 [+] Antoni w 20 rś i Marianna Marek Wanda Wawrzyniak 
-
-#WTOREK - 26.04
-
-Godz. 07.30 [+]Marianna Gardyza int. Kazimierza Bączka ze Stoku 
-
-#ŚRODA - 27.04
-
-Godz. 07.30 [+]Renata Ziółkowska int. r. Bywalskich i Czyżewskich
-
-#CZWARTEK - 28.04
-
-Godz.07.30  [+] Kamil Pietrzak int. Krzysztofa Gazda
-
-#PIĄTEK -29.04
-
-Godz.07.30 [+] Jerzy Kołodziejski int. Włodzimierza Klejbach z r.
-
-#SOBOTA - 30.04
-
-Godz. 14.30 [+] Marian Wawrzonkowski imien int. żony dzieci wnuków prawnuków
-
-Godz. 15.00  [+] Edward Krulikowski w 1 rś int. żony i dzieci z r.
-
-#NIEDZIELA - 01.05
-
-Godz.09.00 [+]Kazimierz w 12 rś i Krystyna w 11 rś Poturalscy int. syna Jana z r.
-
-Godz. 11.00 [+]Grażyna Kołodziejska  int. sąsiadki Kariny z mężem
- [-] PARAFIAN
-
-
-
-#Program Wizyty Duszpasterskiej:
-
-
-27.04  - środa – 14.00 - STOK
-Gardyza
-
-28.04 – czwartek – 14.00 - DĄBIE WIEŚ
-
-Sadowscy – Jasińscy – Modrzejewscy - Zielińscy – Olszewska – Osińscy
-
-29.04  - piątek – 11.30 – BODZANOWO
-
-Nejman – Zawodzie – Bączek  
-
-30.04 – sobota – 09.00 - AGNIESZKOWO
-
-Pantuchowicz - Olakowscy – Koziccy
-
-02.05 – poniedziałek – 09.00 - ANNOWO
-
-Sobczyńscy
+#Wizyta duszpasterska.
 
 04.05 – środa – 14.00 - DĄBIE CENTRUM
 
