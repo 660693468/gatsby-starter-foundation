@@ -90,5 +90,4 @@ Godz. 11.00
 
 [+]  rodzice Weronika Władysław Opłatkowscy int. córki z r. 
 
-[-] Aniela i Henryk Ciesielscy  70 r. ur.
 
