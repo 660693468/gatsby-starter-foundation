@@ -2,92 +2,80 @@
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
-date: 2022-05-08
+date: 2022-05-16
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
       
-
-#CZWARTA NIEDZIELA WIELKANOCY  -  8 maja 2022                                                                   
+##PIĄTA NIEDZIELA WIELKANOCY -  15 maja 2022                                                                
 
 #OGŁOSZENIA DUSZPASTERSKIE
 
-1. Dziś czwarta niedziela Wielkanocy, którą nazywamy popularnie Niedzielą Dobrego Pasterza. Dziś przypada Światowy Dzień Modlitw o Powołania Kapłańskie i Zakonne. Prosimy Jezusa Chrystusa, Dobrego Pasterza, aby nie zabrakło głosicieli Ewangelii i szafarzy sakramentów świętych. 
+1.  Dziś piąta niedziela Wielkanocy. Po raz kolejny gromadzimy się na Świętej Wieczerzy, aby pokrzepiać się słowem Bożym i Chlebem eucharystycznym. Umocnieni Bożymi darami będziemy wkraczać w nowe wyzwania kolejnego tygodnia i dawać świadectwo wiary w Zmartwychwstałego Pana. 
 
-2. W piątek, 13 maja, w liturgii będziemy wspominać Matkę Bożą Fatimską. Tego dnia przypada także 39. rocznicę zamachu na Świętego Jana Pawła II. Nabożeństwo fatimskie po Mszy Świętej o godz.18.00 Serdecznie zapraszam na wspólną modlitwę do Matki Najświętszej. 
+2. W poniedziałek, 16 maja, przypada święto Świętego Andrzeja Boboli, patrona Polski. 
 
-3. W sobotę, 14 maja, święto Świętego Macieja Apostoła, który dołączył do grona Dwunastu po śmierci Judasza. 
+3. W środę, 18 maja, przypada 102. urodzin Świętego Jana Pawła II. To kolejna okazja, aby odkrywać na nowo słowa naszego Wielkiego Rodaka. 
 
-4. Nabożeństwa majowe przed Mszą św. Tych, którzy nie mogą uczestniczyć w nabożeństwach majowych w kościele, zachęcamy do modlitwy przy przydrożnych kapliczkach oraz w domach rodzinnych.
+4. 19 maja czwartek pierwsza spowiedź dzieci I Komunijnych godz. 17.00, w piąek o 17.00 spotkanie przedkomunijne.
 
-5. Piesza pielgrzymka szlakiem figurek parafialnych:
--  poniedziałek godz. 19.00 w Redecz Krukowy  – Ciechalska Dybowscy Nowak                                    -  środa 19.00 Kąkowa Wola  Łukaszewska – Caban  - Pawlak -  Betlińscy  
+5. Nabożeństwa majowe w naszej świątyni codziennie
 
-6. Zapowiedzi: Konrad Jerzy Osiński par Tut i Jasica Patyńska Par Lubraniec /1/
-Daria Rosińska par tut  Mateusz Wypyszewski par Brześć Kuj /1/
+6. Pieszo-rowerowa pielgrzymka szlakiem parafialnych figur i krzyży.
 
-7. Wszystkim solenizantom i jubilatom tego tygodnia życzymy gorliwości w wypełnianiu codziennych obowiązków oraz otwartości na Boże natchnienia. 
+#Wtorek – 18.30 - Borucin Kolonia /p Ignaczak/ szkoła, na rozstaju dróg, Dąbie Poduchowne / Sierakowscy/
 
-##Intencje mszalne  08 – 15  maja 2022
+#Środa –18.30 -  Annowo – Stok – Agnieszkowo pod lasem
 
-#PONIEDZIAŁEK - 08.05
+7. Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości Bożych darów oraz opieki Maryi – Wspomożycielki Wiernych.
 
-Godz. 12.00 
 
-[+]Edward Krulikowski int. Jolanty i Tomasza Bet
+##Intencje mszalne 16 – 22  maja 2022	
 
-##Pielgrzymka szlakiem figurek parafialnych                                                                                                                 godz. 19.00 w Redecz Krukowy  – Ciechalska / przy trasie Brześć Radziejów/ Dybowscy Nowak   
+#PONIEDZIAŁEK - 16.05
 
-#WTOREK - 09.05
+12.00  [+] Jerzy Ciesielski int.  Błaszczyków ze Stoku 
 
-Godz. 12.00
+#WTOREK  - 17.05
 
-[+]Barbara Pawłowska int lokatorzy – sąsiedzi Fredry 16
+12.00 [+] Andrzej Rossa int. Moniki Rossy
 
-#ŚRODA - 10.05
+18.30 Szlakiem figurek parafialnych - Wtorek –  Borucin Kolonia /p Ignaczak/ szkoła, na rozstaju dróg, Dąbie Poduchowne / Sierakowscy/
 
-Godz. 16.00
+ŚRODA  - 18.05 
 
-[+] Marian Wawrzonkowski – Jolanty Stanisława Wawrzonkowskich
-[+] Władysław Wojtkowski - żony i dzieci
-[+] Marian Wawrzonkowski – Jadwigi Marek i r. Wawrzyniak
-[+] Irena Jesiołowska – przyjaciółek Bartkowiak i Ochamańskiej
-[+] Marianna Wesołowska – Jadwigi i Stanisława Nejman
-[+] Alina Sochacka – Natalii Podolskiej 
-[+] Romuald Kwiatkowski – Jacka Pszczólińskiego Pawła Wędzińskiego z r. 
-[+] Barbara Sobczyńska – Eli Kapelińskiej z r.
-[+] Janina Sarna – r. Krulikowskich z Borucina
+ 16.00 NOWENNA DO MATKI BOŻEJ NIEUSTAJĄCEJ POMOCY
+[+] Marian Wawrzonkowski – chrześniaka Krzysztofa Matusiaka 
+[+] Irena Jesiołowska – Jadwigi Marek z r.
+[+] Marianna Wesołowska  - Genowefy Roszak r. Simińskich
+[+] Alina Sochacka – sąsiadów Stefańskich 
+[+] Romuald Kwiatkowski – kolegów Mariusza
+[+] Barbara Sobczyńska – Małkowskich i Szwraców
+[+]  Jerzy Sadowski   - kolegów Jacka 
+[+] Jadwiga Wawrzyniak – córki Krystyny z dziećmi z r.
+[+] Stanisław Koprowski w 1 rś int. dzieci
 
-##Pielgrzymka szlakiem figurek                                                                                                                        ##- 19.00 Kąkowa Wola  Łukaszewska – Caban  - Pawlak -  Betlińskich
+   18.30 [-]Szlakiem figurek parafialnych Środa  -  Annowo – Stok – Agnieszkowo pod lasem
 
-#CZWARTEK - 12.05
+#CZWARTEK - 19.05
 
-Godz.14. 00
+16.00 [+]Kamil Pietrzak int. barci Wodzyńskich
 
-[+] Stanisława  Gęgotek int. Pasturczaków z Kąkowej Woli
+17.00 [-] I spowiedź
 
-#PIĄTEK - 13.05
+#PIĄTEK  - 20.05
 
-Godz.18.00
+11.00 [+]Zofia Kwiatkowska int.  Teresy Chaberskiej i r. Mikołajewskich
 
-[- ]Magdalena – o zdrowie i dziękczynna za łaski [+] r. Mirzejewskich 
+#SOBOTA - 21.05
 
-#Godz. 18.30 [-] Różaniec Fatimski
+09.00 [+]Daromiła Dybowska z okazji dnia matki int dzieci
 
-#SOBOTA - 14.05
+#NIEDZIELA - 22.05
 
-Godz. 09.00
+09.00 [+] Jadwiga Rybacka int Ilony z mężem 
+[+] Stanisław Janina Andrzej Balcerowscy 
 
-[+] Andrzej Sikorski w 2 rś int. żony i dzieci
-
-#NIEDZIELA - 15.05
-
-Godz.09.00
-
-[+]Marianna Czesław Łodygowscy Marianna Anasz Wiktoria Janus
-
-Godz. 11.00
-
-[+]  rodzice Weronika Władysław Opłatkowscy int. córki z r. 
-
+11.00 [+] Helena w 1 rś Kazimierz Krygier
+[-] Aniela Henryk Ciesielscy 70 r ur. 
 
