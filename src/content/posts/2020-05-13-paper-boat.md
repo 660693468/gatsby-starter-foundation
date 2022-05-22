@@ -2,80 +2,54 @@
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
-date: 2022-05-16
+date: 2022-05-22
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
       
-##PIĄTA NIEDZIELA WIELKANOCY -  15 maja 2022                                                                
+##SZÓSTA NIEDZIELA WIELKANOCY - 22 maja 2022                                                            
 
 #OGŁOSZENIA DUSZPASTERSKIE
 
-1.  Dziś piąta niedziela Wielkanocy. Po raz kolejny gromadzimy się na Świętej Wieczerzy, aby pokrzepiać się słowem Bożym i Chlebem eucharystycznym. Umocnieni Bożymi darami będziemy wkraczać w nowe wyzwania kolejnego tygodnia i dawać świadectwo wiary w Zmartwychwstałego Pana. 
+1. Dziś szósta niedziela Wielkanocy. Słowo Boże przypomina nam, że miłość do Zbawiciela wyraża się w zachowywaniu Jego nauki. Niech udział w tajemnicy paschalnej Jezusa Chrystusa, celebrowanej w Eucharystii, umacnia naszą miłość do Zmartwychwstałego Pana i pomaga zachowywać Jego słowa w codziennym życiu. 
 
-2. W poniedziałek, 16 maja, przypada święto Świętego Andrzeja Boboli, patrona Polski. 
+2. Jutro, w poniedziałek, początek Dni modlitw o urodzaje i za kraje głodujące. 
 
-3. W środę, 18 maja, przypada 102. urodzin Świętego Jana Pawła II. To kolejna okazja, aby odkrywać na nowo słowa naszego Wielkiego Rodaka. 
+3. W czwartek, 26 maja, przypada Dzień Matki. Pamiętajmy tego dnia o naszych mamach. Zapraszamy na Mszę Świętą o godz.18.00. Będziemy modlić się za wszystkie mamy, żyjącym wypraszać Boże błogosławieństwo i opiekę Matki Najświętszej, a dla zmarłych łaskę życia wiecznego. 
 
-4. 19 maja czwartek pierwsza spowiedź dzieci I Komunijnych godz. 17.00, w piąek o 17.00 spotkanie przedkomunijne.
+4. W piątek,  po Mszy Świętej  rozpoczniemy nowennę przed uroczystością Zesłania Ducha Świętego. 
 
-5. Nabożeństwa majowe w naszej świątyni codziennie
+5. Nabożeństwo majowe w naszym kościele codziennie.  Piękna inicjatywa Annowa spotkania majowe przy figurce.
 
-6. Pieszo-rowerowa pielgrzymka szlakiem parafialnych figur i krzyży.
+6. W najbliższą niedzielą przypada uroczystość Wniebowstąpienia Pańskiego. 
 
-#Wtorek – 18.30 - Borucin Kolonia /p Ignaczak/ szkoła, na rozstaju dróg, Dąbie Poduchowne / Sierakowscy/
+7. Wszystkim solenizantom i jubilatom życzymy Bożego błogosławieństwa i opieki Matki Zbawiciela.
 
-#Środa –18.30 -  Annowo – Stok – Agnieszkowo pod lasem
+##Intencje mszalne 23 - 29 maja 2022
 
-7. Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości Bożych darów oraz opieki Maryi – Wspomożycielki Wiernych.
+#PONIEDZIAŁEK 23.05
 
+Godz. 12.00 [+] Marianna Gardyza int.  r. Ptaszyńskich i Pawlaków z Sułkowa
 
-##Intencje mszalne 16 – 22  maja 2022	
+#CZWARTEK  26.05 - Dzień Matki
 
-#PONIEDZIAŁEK - 16.05
+Godz. 18.00 [+] Marianna Marta Stefania Maciejewscy
+[+]  Marian Wawrzonkowski – Marii Pikulskiej z r.
+[+] Marianna Wesołowska – wnuczek Anety Eweliny Andżeliki z r.
+[+] Alina Sochacka – r. Kotowskich z Paniewa 
+[+] Barbara Sobczyńska – Grzegorza Jabłońskiego z r. 
+[+] Grażyna Kołodziejska – ZNPO Kąkowa Wola
 
-12.00  [+] Jerzy Ciesielski int.  Błaszczyków ze Stoku 
+#PIĄTEK  27.05
 
-#WTOREK  - 17.05
+Godz. 11.00 [+]  Barbra Pawłowska   int. r. Domańskich z Powałkowic
 
-12.00 [+] Andrzej Rossa int. Moniki Rossy
+#SOBOTA  28.05
 
-18.30 Szlakiem figurek parafialnych - Wtorek –  Borucin Kolonia /p Ignaczak/ szkoła, na rozstaju dróg, Dąbie Poduchowne / Sierakowscy/
+Godz. 16.00 [+] Janina Stanisław Tadeusz Głowaccy
 
-ŚRODA  - 18.05 
+#NIEDZIELA   29.05
 
- 16.00 NOWENNA DO MATKI BOŻEJ NIEUSTAJĄCEJ POMOCY
-[+] Marian Wawrzonkowski – chrześniaka Krzysztofa Matusiaka 
-[+] Irena Jesiołowska – Jadwigi Marek z r.
-[+] Marianna Wesołowska  - Genowefy Roszak r. Simińskich
-[+] Alina Sochacka – sąsiadów Stefańskich 
-[+] Romuald Kwiatkowski – kolegów Mariusza
-[+] Barbara Sobczyńska – Małkowskich i Szwraców
-[+]  Jerzy Sadowski   - kolegów Jacka 
-[+] Jadwiga Wawrzyniak – córki Krystyny z dziećmi z r.
-[+] Stanisław Koprowski w 1 rś int. dzieci
+Godz. 09.00 [-] 30 lecie kapłaństwa
 
-   18.30 [-]Szlakiem figurek parafialnych Środa  -  Annowo – Stok – Agnieszkowo pod lasem
-
-#CZWARTEK - 19.05
-
-16.00 [+]Kamil Pietrzak int. barci Wodzyńskich
-
-17.00 [-] I spowiedź
-
-#PIĄTEK  - 20.05
-
-11.00 [+]Zofia Kwiatkowska int.  Teresy Chaberskiej i r. Mikołajewskich
-
-#SOBOTA - 21.05
-
-09.00 [+]Daromiła Dybowska z okazji dnia matki int dzieci
-
-#NIEDZIELA - 22.05
-
-09.00 [+] Jadwiga Rybacka int Ilony z mężem 
-[+] Stanisław Janina Andrzej Balcerowscy 
-
-11.00 [+] Helena w 1 rś Kazimierz Krygier
-[-] Aniela Henryk Ciesielscy 70 r ur. 
-
+Godz. 11.00 [+] Jadwiga Rybacka int dzieci
