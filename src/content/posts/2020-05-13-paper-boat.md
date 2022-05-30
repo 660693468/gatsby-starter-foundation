@@ -25,7 +25,7 @@ featuredImage: /assets/papiez.jpg
 
 7. W tym tygodniu przypada pierwszy piątek nabożeństwo do Najświętszego Serca Pana Jezusa i spowiedź święta od godz. 16.00- 16.30
 
-8. W najbliższą niedzielę, 5 czerwca przypada uroczystość Zesłania Ducha Świętego. Uroczystość Zesłania Ducha Świętego kończy okres Wielkanocy. To dzień Pierwsze Komunii Świętej – 12.00. Komunia rocznicowa 12 maja o 10.00.
+8. W najbliższą niedzielę, 5 czerwca przypada uroczystość Zesłania Ducha Świętego. Uroczystość Zesłania Ducha Świętego kończy okres Wielkanocy. To dzień Pierwszej Komunii Świętej – 12.00. Komunia rocznicowa 12 maja o 10.00.
 
 9. Dziękuję  ks Kan Henrykowi Kruszewskiemu za uświetnienie mojego jubileuszu Radzie Parafialnej, ministrantom Parafianom. Solenizantom  i jubilatom nadchodzącego tygodnia życzę wiernego trwania przy Chrystusie, doświadczenia mocy Boga w codziennym życiu oraz niegasnącej nadziei na spotkanie z Bogiem w niebie.  
 
