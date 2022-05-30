@@ -2,54 +2,71 @@
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
-date: 2022-05-22
+date: 2022-05-30
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
       
-##SZÓSTA NIEDZIELA WIELKANOCY - 22 maja 2022                                                            
+#WNIEBOWSTĄPIENIE PAŃSKIE - 29 maja 2022                                                                
 
 #OGŁOSZENIA DUSZPASTERSKIE
 
-1. Dziś szósta niedziela Wielkanocy. Słowo Boże przypomina nam, że miłość do Zbawiciela wyraża się w zachowywaniu Jego nauki. Niech udział w tajemnicy paschalnej Jezusa Chrystusa, celebrowanej w Eucharystii, umacnia naszą miłość do Zmartwychwstałego Pana i pomaga zachowywać Jego słowa w codziennym życiu. 
+1. Dziś przypada uroczystość Wniebowstąpienia Pańskiego. Święty Łukasz w Dziejach Apostolskich zanotował, że Jezus w obecności Apostołów uniósł się w górę i obłok zabrał Go im sprzed oczu
 
-2. Jutro, w poniedziałek, początek Dni modlitw o urodzaje i za kraje głodujące. 
+2. Codziennie przygotowujemy się do uroczystości Zesłania Ducha Świętego przez nowennę.
 
-3. W czwartek, 26 maja, przypada Dzień Matki. Pamiętajmy tego dnia o naszych mamach. Zapraszamy na Mszę Świętą o godz.18.00. Będziemy modlić się za wszystkie mamy, żyjącym wypraszać Boże błogosławieństwo i opiekę Matki Najświętszej, a dla zmarłych łaskę życia wiecznego. 
+3. We wtorek, 31 maja, przypada liturgiczne święto Nawiedzenia Najświętszej Maryi Panny. 
 
-4. W piątek,  po Mszy Świętej  rozpoczniemy nowennę przed uroczystością Zesłania Ducha Świętego. 
+4. W środę, 1 czerwca, przypada Międzynarodowy Dzień Dziecka. Zapraszamy na Mszę Świętą o godz. 16.00 , w czasie której będziemy modlić się za wszystkie dzieci, aby wzrastały w łasce Bożej, mądrości i były otaczane miłością i troską przez swoich rodziców. 
 
-5. Nabożeństwo majowe w naszym kościele codziennie.  Piękna inicjatywa Annowa spotkania majowe przy figurce.
+5. Spowiedź dzieci i rodziców Komunijnych i rocznicowych w środę o 19.30 spotkanie  wtorek i piątek o 17.00 
 
-6. W najbliższą niedzielą przypada uroczystość Wniebowstąpienia Pańskiego. 
+6. Rozpoczynamy miesiąc czerwiec, który poświęcony jest Najświętszemu Sercu Pana Jezusa. Nabożeństwo czerwcowe ze śpiewem Litanii do Serca Pana Jezusa codziennie przed Mszą św. Serdecznie zapraszamy na wspólną modlitwę. 
 
-7. Wszystkim solenizantom i jubilatom życzymy Bożego błogosławieństwa i opieki Matki Zbawiciela.
+7. W tym tygodniu przypada pierwszy piątek nabożeństwo do Najświętszego Serca Pana Jezusa i spowiedź święta od godz. 16.00- 16.30
 
-##Intencje mszalne 23 - 29 maja 2022
+8. W najbliższą niedzielę, 5 czerwca przypada uroczystość Zesłania Ducha Świętego. Uroczystość Zesłania Ducha Świętego kończy okres Wielkanocy. To dzień Pierwsze Komunii Świętej – 12.00. Komunia rocznicowa 12 maja o 10.00.
 
-#PONIEDZIAŁEK 23.05
+9. Dziękuję  ks Kan Henrykowi Kruszewskiemu za uświetnienie mojego jubileuszu Radzie Parafialnej, ministrantom Parafianom. Solenizantom  i jubilatom nadchodzącego tygodnia życzę wiernego trwania przy Chrystusie, doświadczenia mocy Boga w codziennym życiu oraz niegasnącej nadziei na spotkanie z Bogiem w niebie.  
 
-Godz. 12.00 [+] Marianna Gardyza int.  r. Ptaszyńskich i Pawlaków z Sułkowa
+#Intencje mszalne 30  maja  - 05 czerwca 2022
 
-#CZWARTEK  26.05 - Dzień Matki
+#PONIEDZIAŁEK – 30.05 -  JASNA GÓRA – CZĘSTOCHOWA
 
-Godz. 18.00 [+] Marianna Marta Stefania Maciejewscy
-[+]  Marian Wawrzonkowski – Marii Pikulskiej z r.
-[+] Marianna Wesołowska – wnuczek Anety Eweliny Andżeliki z r.
-[+] Alina Sochacka – r. Kotowskich z Paniewa 
-[+] Barbara Sobczyńska – Grzegorza Jabłońskiego z r. 
-[+] Grażyna Kołodziejska – ZNPO Kąkowa Wola
+[-] dziękczynna
+#WTOREK – 31.05
 
-#PIĄTEK  27.05
+12.00 [+]Jerzy Sadowski int.  Wawrzonkowskich ze Stoku
 
-Godz. 11.00 [+]  Barbra Pawłowska   int. r. Domańskich z Powałkowic
+#ŚRODA – 01.06
 
-#SOBOTA  28.05
+16.00 [-] dzieci z okazji Dnia Dziecka
+[+] Władysław Wojtkowski – żony i dzieci
+[+] Marian Wawrzonkowski -  Danuty i Leszka Osińskich
+[+] Marianna Wesołowska – Haliny i Henryka Osińskich 
+[+] Alina Sochacka – Marianny Konopińskiej
+[+] Barbara Sobczyńska – r. Zakrockich i Król 
 
-Godz. 16.00 [+] Janina Stanisław Tadeusz Głowaccy
+#CZWARTEK – 02.06
 
-#NIEDZIELA   29.05
+14.00 [+]Grażyna Kołodziejska int.  Haliny i Jana Śmigiel
 
-Godz. 09.00 [-] 30 lecie kapłaństwa
+#PIĄTEK -03.06 – I Piątek Miesiąca
 
-Godz. 11.00 [+] Jadwiga Rybacka int dzieci
+11.30 [-] odwiedziny chorych
+
+16.00 [-] spowiedź i wystawienie Najświętszego Sakramentu
+
+16.30 [+] Janina Buczkowska int. Bartłomieja Żywiczki z r.
+
+#SOBOTA – 04.06
+
+09.00 [+]Barbara Pawłowska w 1 rś Stanisław Zenobia Sadownik int. Romualda Sadownika z r.
+
+#NIEDZIELA – 05.06 ZESŁANIE DUCHA ŚWIĘTEGO
+
+09.00 [+] Tadeusz w 14 rś i Marta Matusiak 
+
+11.00 [+] Kamil Pietrzak w 1 r ś int ojca
+
+12.00 - dzieci I komunijnych
