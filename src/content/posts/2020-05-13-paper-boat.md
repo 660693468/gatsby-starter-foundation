@@ -2,71 +2,66 @@
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
-date: 2022-05-30
+date: 2022-06-05
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
       
-#WNIEBOWSTĄPIENIE PAŃSKIE - 29 maja 2022                                                                
+##ZESŁANIE DUCHA ŚWIĘTEGO - 5 czerwca 2022
+#Uroczystość Pierwszej Komunii Świętej                                                                                   
+OGŁOSZENIA DUSZPASTERSKIE
 
-#OGŁOSZENIA DUSZPASTERSKIE
+1. Dziś wraz z całym Kościołem obchodzimy uroczystość Zesłania Ducha Świętego. To dzień Pierwszej Komunii Świętej – 23 dzieci.
 
-1. Dziś przypada uroczystość Wniebowstąpienia Pańskiego. Święty Łukasz w Dziejach Apostolskich zanotował, że Jezus w obecności Apostołów uniósł się w górę i obłok zabrał Go im sprzed oczu
+2. Rozpoczynamy biały tydzień.
 
-2. Codziennie przygotowujemy się do uroczystości Zesłania Ducha Świętego przez nowennę.
+3. Jutro, 6 czerwca, przypada święto Najświętszej Maryi Panny Matki Kościoła.
 
-3. We wtorek, 31 maja, przypada liturgiczne święto Nawiedzenia Najświętszej Maryi Panny. 
+4. W czwartek, 9 czerwca, przypada święto Jezusa Chrystusa, Najwyższego i Wiecznego Kapłana. 
 
-4. W środę, 1 czerwca, przypada Międzynarodowy Dzień Dziecka. Zapraszamy na Mszę Świętą o godz. 16.00 , w czasie której będziemy modlić się za wszystkie dzieci, aby wzrastały w łasce Bożej, mądrości i były otaczane miłością i troską przez swoich rodziców. 
+5. Nabożeństwo czerwcowe z Litanią do Serca Pana Jezusa codziennie przed Mszą Świętą.
 
-5. Spowiedź dzieci i rodziców Komunijnych i rocznicowych w środę o 19.30 spotkanie  wtorek i piątek o 17.00 
+6. W najbliższą niedzielę, 12 czerwca, będziemy obchodzili uroczystość Najświętszej Trójcy. Kończy  ona czas wielkanocnej Komunii Świętej. Odpust parafialny asystę proszę na godz. 10.00. procesja Eucharystyczna o 10.45 Zapraszam asystę dzieci
 
-6. Rozpoczynamy miesiąc czerwiec, który poświęcony jest Najświętszemu Sercu Pana Jezusa. Nabożeństwo czerwcowe ze śpiewem Litanii do Serca Pana Jezusa codziennie przed Mszą św. Serdecznie zapraszamy na wspólną modlitwę. 
+7. Na 10.00 przychodzą dzieci I komunijne na zakończenie „Białego tygodnia”.
+ Na 10;40 dzieci komunii rocznicowej.
 
-7. W tym tygodniu przypada pierwszy piątek nabożeństwo do Najświętszego Serca Pana Jezusa i spowiedź święta od godz. 16.00- 16.30
+8. Wszystkim solenizantom i jubilatom składamy najlepsze życzenia: otwartości na działanie Bożej łaski oraz nieustannego czerpania mocy od Pana Jezusa, który jest cichy i pokornego Serca. 
 
-8. W najbliższą niedzielę, 5 czerwca przypada uroczystość Zesłania Ducha Świętego. Uroczystość Zesłania Ducha Świętego kończy okres Wielkanocy. To dzień Pierwszej Komunii Świętej – 12.00. Komunia rocznicowa 12 maja o 10.00.
+##Intencje mszalne 06 – 12 czerwca  2022 – BIAŁY TYDZIEŃ
 
-9. Dziękuję  ks Kan Henrykowi Kruszewskiemu za uświetnienie mojego jubileuszu Radzie Parafialnej, ministrantom Parafianom. Solenizantom  i jubilatom nadchodzącego tygodnia życzę wiernego trwania przy Chrystusie, doświadczenia mocy Boga w codziennym życiu oraz niegasnącej nadziei na spotkanie z Bogiem w niebie.  
+#PONIEDZIAŁEK – 06.06 
 
-#Intencje mszalne 30  maja  - 05 czerwca 2022
+17.00 [+]Wincenty Wojtasik  int. brata Mariana z żoną
 
-#PONIEDZIAŁEK – 30.05 -  JASNA GÓRA – CZĘSTOCHOWA
+#WTOREK – 07.06
 
-[-] dziękczynna
-#WTOREK – 31.05
+17.00 [+]Rodzic Janinę Tadeusza Weneckich Marzena i Stanisław
 
-12.00 [+]Jerzy Sadowski int.  Wawrzonkowskich ze Stoku
+#ŚRODA – 08.06
 
-#ŚRODA – 01.06
+16.30 [+]Wincenty Czesława Stanisław Głowaccy Lucjan Ochmański
 
-16.00 [-] dzieci z okazji Dnia Dziecka
-[+] Władysław Wojtkowski – żony i dzieci
-[+] Marian Wawrzonkowski -  Danuty i Leszka Osińskich
-[+] Marianna Wesołowska – Haliny i Henryka Osińskich 
-[+] Alina Sochacka – Marianny Konopińskiej
-[+] Barbara Sobczyńska – r. Zakrockich i Król 
+#CZWARTEK – 09.06
 
-#CZWARTEK – 02.06
+17.00 [+]rodzic Jan Helena Kopeć int. najbliższych
 
-14.00 [+]Grażyna Kołodziejska int.  Haliny i Jana Śmigiel
+#PIĄTEK -10.06 
 
-#PIĄTEK -03.06 – I Piątek Miesiąca
+14.30 [+]Jan Sadownik int wnuczki Kasi z r.
 
-11.30 [-] odwiedziny chorych
+#SOBOTA – 11.06
 
-16.00 [-] spowiedź i wystawienie Najświętszego Sakramentu
+11.00 [+]Edward Krulikowski  int.  Jolanty Balcerak z r.
 
-16.30 [+] Janina Buczkowska int. Bartłomieja Żywiczki z r.
+#NIEDZIELA – 12.06 UROCZYSTOŚĆ TRÓJCY ŚWIĘTEJ
 
-#SOBOTA – 04.06
+09.00 [+]Krystyna Kazimierz Ochocińscy Jan Przychodzki zm ich r.
+[+] Barbara Pawłowska int. Nowaków z Redcza 
 
-09.00 [+]Barbara Pawłowska w 1 rś Stanisław Zenobia Sadownik int. Romualda Sadownika z r.
+10.00 [+]Renata Ziółkowska int. siostry Danuty z r.  oraz Sławka Frydryszewskiego z r.
 
-#NIEDZIELA – 05.06 ZESŁANIE DUCHA ŚWIĘTEGO
+10.45 [-]PROCESJA EUCHARYSTYCZNA
 
-09.00 [+] Tadeusz w 14 rś i Marta Matusiak 
-
-11.00 [+] Kamil Pietrzak w 1 r ś int ojca
-
-12.00 - dzieci I komunijnych
+11.00 [-]dzieci rocznicowych 
+[+] Romuald Kwiatkowski int. żony z synem Michałem
