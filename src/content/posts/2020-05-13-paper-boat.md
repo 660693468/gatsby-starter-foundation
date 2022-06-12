@@ -2,66 +2,63 @@
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
-date: 2022-06-05
+date: 2022-06-12
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
       
-##ZESŁANIE DUCHA ŚWIĘTEGO - 5 czerwca 2022
-#Uroczystość Pierwszej Komunii Świętej                                                                                   
-OGŁOSZENIA DUSZPASTERSKIE
+#NAJŚWIĘTSZEJ TRÓJCY - 12 czerwca 2022                                                                      
 
-1. Dziś wraz z całym Kościołem obchodzimy uroczystość Zesłania Ducha Świętego. To dzień Pierwszej Komunii Świętej – 23 dzieci.
+#OGŁOSZENIA DUSZPASTERSKIE
 
-2. Rozpoczynamy biały tydzień.
+1. Dziś uroczystość Najświętszej Trójcy, w której Kościół wyznaje wiarę w Jednego Boga w Trzech Osobach. Uroczystość odpustowa podziękowanie dla asysty dzieci.
 
-3. Jutro, 6 czerwca, przypada święto Najświętszej Maryi Panny Matki Kościoła.
+2. Jutro, 13 czerwca,  o godz. 19.30 nabożeństwo fatimskie – serdecznie zapraszam! 
 
-4. W czwartek, 9 czerwca, przypada święto Jezusa Chrystusa, Najwyższego i Wiecznego Kapłana. 
+3. W czwartek, 16 czerwca, uroczystość Najświętszego Ciała i Krwi Chrystusa, Boże Ciało. Msze Święte jak w każdą niedzielę.  Procesja eucharystyczna do czterech ołtarzy po Mszy Świętej o godz. 9.00 Proszę  o przygotowanie ołtarzy w tradycyjnych miejscach. Włączmy się czynnie w przygotowanie procesji, niech będzie to wyraz naszej miłości do Zbawiciela. Zapraszam asystę OSP orkiestrę, dziewczynki do sypania kwiatów . Przez całą oktawę Bożego Ciała zapraszam na nabożeństwo czerwcowe z procesją  W niedzielę po mszy św. o 9.00
 
-5. Nabożeństwo czerwcowe z Litanią do Serca Pana Jezusa codziennie przed Mszą Świętą.
+4. Wszystkim solenizantom i jubilatom najbliższego tygodnia życzymy Bożego błogosławieństwa, mądrości i gorliwości w podejmowaniu codziennych obowiązków oraz doświadczenia bliskości Boga w drugim człowieku. 
 
-6. W najbliższą niedzielę, 12 czerwca, będziemy obchodzili uroczystość Najświętszej Trójcy. Kończy  ona czas wielkanocnej Komunii Świętej. Odpust parafialny asystę proszę na godz. 10.00. procesja Eucharystyczna o 10.45 Zapraszam asystę dzieci
+Intencje mszalne 13 - 19 czerwca 2022
 
-7. Na 10.00 przychodzą dzieci I komunijne na zakończenie „Białego tygodnia”.
- Na 10;40 dzieci komunii rocznicowej.
+PONIEDZIAŁEK – 13.06
 
-8. Wszystkim solenizantom i jubilatom składamy najlepsze życzenia: otwartości na działanie Bożej łaski oraz nieustannego czerpania mocy od Pana Jezusa, który jest cichy i pokornego Serca. 
+19.00 [+] Stanisław w 12 rś i Marianna Zakroccy int dzieci z r.
 
-##Intencje mszalne 06 – 12 czerwca  2022 – BIAŁY TYDZIEŃ
+19.30 [-] Nabożeństwo Fatimskie
 
-#PONIEDZIAŁEK – 06.06 
+WTOREK – 14.06
 
-17.00 [+]Wincenty Wojtasik  int. brata Mariana z żoną
+12.00 [+]Marianna Gardyza int sąsiadów Marków
 
-#WTOREK – 07.06
+ŚRODA – 15.06
 
-17.00 [+]Rodzic Janinę Tadeusza Weneckich Marzena i Stanisław
+18.00 [+]Alina Sochacka int. wnuczka Kamila z r.
 
-#ŚRODA – 08.06
+CZWARTEK – 16.06 Uroczystość Bożego Ciała
 
-16.30 [+]Wincenty Czesława Stanisław Głowaccy Lucjan Ochmański
+09.00 [+] Leszek Pikulski 9 rś Małgorzata Bronisław
 
-#CZWARTEK – 09.06
+[-] Procesja Eucharystyczna
 
-17.00 [+]rodzic Jan Helena Kopeć int. najbliższych
+11.00 [+] Wacława Edward Kinasiewicz
 
-#PIĄTEK -10.06 
+PIĄTEK – 17.06
 
-14.30 [+]Jan Sadownik int wnuczki Kasi z r.
+17.00  [+] Irena Jesiołowska int. siostry Krystyny z r. 
 
-#SOBOTA – 11.06
+[-] Procesja Eucharystyczna
 
-11.00 [+]Edward Krulikowski  int.  Jolanty Balcerak z r.
+SOBOTA – 18.06
 
-#NIEDZIELA – 12.06 UROCZYSTOŚĆ TRÓJCY ŚWIĘTEJ
+09.00 [+] Genowefa Eugeniusz Bladowscy Kazimierz Wiktoria Kralscy
 
-09.00 [+]Krystyna Kazimierz Ochocińscy Jan Przychodzki zm ich r.
-[+] Barbara Pawłowska int. Nowaków z Redcza 
+[-] Procesja Eucharystyczna
 
-10.00 [+]Renata Ziółkowska int. siostry Danuty z r.  oraz Sławka Frydryszewskiego z r.
+NIEDZIELA – 19.06
 
-10.45 [-]PROCESJA EUCHARYSTYCZNA
+09.00 [+] Leonard Niszczak w 12 rś int córki z r. 
 
-11.00 [-]dzieci rocznicowych 
-[+] Romuald Kwiatkowski int. żony z synem Michałem
+[-] Procesja Eucharystyczna
+
+11.00 [+] Stanisław Marek w 3 rś int. żony i dzieci z r. 
