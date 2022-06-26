@@ -2,68 +2,68 @@
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
-date: 2022-06-19
+date: 2022-06-26
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
       
-##DWUNASTA NIEDZIELA W CIĄGU ROKU - 19 czerwca 2022
+##TRZYNASTA NIEDZIELA W CIĄGU ROKU - 26 czerwca 2022                                                       
 
 #OGŁOSZENIA DUSZPASTERSKIE
 
-1. Dziś przypada dwunasta niedziela zwykła w roku liturgicznym. Centrum każdej niedzieli jest Eucharystia, czyli pamiątką męki, śmierci i zmartwychwstania Chrystusa. 
+1. Dziś trzynasta niedziela zwykła w roku liturgicznym. W sposób szczególny prosimy Boga, aby nie ogarnęły nas ciemności błędu oraz abyśmy żyli w blasku Bożej prawdy 
 
-2. W czwartek, 23 czerwca, przypada Dzień Ojca. Zapraszam na Mszę Świętą o godz. 17.00  w intencji ojców. Będziemy żyjącym wypraszać obfitość Bożego błogosławieństwa, a dla zmarłych – wieczną nagrodę. Zakończenie oktawy Bożego Ciała. Liturgiczna uroczystość Narodzenia Świętego Jana Chrzciciela ze względu na przypadającą w piątek uroczystość Najświętszego Serca Pana Jezusa została przeniesiona na dzień 23 czerwca. Piątek jest także dniem zakończenia roku szkolnego. Zapraszamy dzieci i młodzież, nauczycieli i wychowawców na Mszą Świętą  w czwartek o godz. 17.00 , w czasie której będziemy w sposób szczególny dziękować za trud całorocznej pracy i prosić o Bożą opiekę na czas wakacji. 
+2. W środę, 29 czerwca, przypada uroczystość Świętych Apostołów Piotra i Pawła. 
 
-3. W piątek, 24 czerwca, przypada uroczystość Najświętszego Serca Pana Jezusa. Z racji uroczystości nie obowiązuje wstrzemięźliwość od pokarmów mięsnych.
+3. Nabożeństwo czerwcowe przed Mszą Świętą do czwartku. 
 
-4. Nabożeństwo czerwcowe codziennie przed Mszą Świętą. Do czwartku włącznie jest połączone z procesją eucharystyczną. 
+4. Ostatnie pielgrzymki w pon  Agnieszkowo – Dąbie czwartek – Bodzanowo Dąbie.
 
-5. Wszystkim solenizantom i jubilatom życzymy obfitości Bożych darów oraz kształtowania własnego serca na wzór Serca Jezusowego.
+5. W tym tygodniu pierwszy piątek miesiąca -  nabożeństwo do Najświętszego Serca Pana Jezusa i spowiedź święta od godz. 15.30 do chorych udam się od godz. 9.30.
 
-##Intencje mszalne 20 - 26 czerwca   2022
+6. Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości Bożego błogosławieństwa i opieki Matki Zbawiciela. Tym, którzy rozpoczynają letni wypoczynek udanych wyjazdów, życzymy umocnienia sił fizycznych i duchowych, a także szczególnego doświadczenia obecności Boga w pięknie stworzonego świata. 
 
-#PONIEDZIAŁEK -  20.06 
 
-17.00 [+] Janina Władysław Matusiak Anastazja Piotr Edward Krulikowscy [-] Procesja Eucharystyczna 
+#Intencje mszalne 27 czerwca – 03 lipca   2022
 
-#WTOREK  -  21.06
+#PONIEDZIAŁEK -  27.06 
 
-17.00 [+] Jerzy Kołodziejski int. r. Sobczaków[-] Procesja Eucharystyczna
+18.00 [+]Władysław Wojtkowski int. żony i dzieci
 
-#ŚRODA - 22.06
+19.00 [-] pielgrzymka Agnieszkowo – Stok - Dąbie
 
-17.00 [+] Wincenty Wojtasik w 1 rś  - żony i dzieci z r.
-[+] Jan Sadownik – Zakładu Pogrzebowego Arka 
-[+] Marianna Wesołowska – Teresy z córka Anią
-[+] Alina Sochacka – Leszka Nejmana
-[+] Barbara Sobczyńska – r. Weneckich Szwarc Elżbiety Klonowskiej z r. 
-[+] Grażyna Kołodziejska – Elżbiety i Stefana	
+#WTOREK  -  28.06
 
-[-] Procesja Eucharystyczna
+09.00 [-] własna
 
-#CZWARTEK-  23.06    [-]Uroczystość Św. Jana Chrzciciela
+#ŚRODA - 29.06
 
-[-] Zakończenie oktawy Bożego Ciała [-] Dzień Ojca [-] Zakończenie Roku Katechetycznego
+16.00 [+]Piotruś Mroziński imieninowa
 
-16.30 [-]spowiedź Zakończenie roku katechetycznego
+#CZWARTEK-  30.06  
 
-17.00 [+] Marianna Stanisław Kwiatkowscy [+] Romuald Kwiatkowski int. córki Ani z r.
+18.00 [+]   Janina Wróblewska int Maciejewskich z Dąbia
 
- [-] Procesja Eucharystyczna     
+19.00 [-] pielgrzymka Bodzanowo – św. Hubert -  Dąbie
 
-#PIĄTEK  - 24.06     Uroczystość Najświętszego Serca Jezusa
+#PIĄTEK  - 01.07     Uroczystość Najświętszego Serca Jezusa
 
-12.00 [+] Kamil Pietrzak int. kolegów ze szkoły
+09.30 [-] odwiedziny chorych
 
-#SOBOTA - 25.06
+15.30 [-] adoracja Najświętszego Sakramentu - spowiedź
 
-16.00[+]Edmund Stefański r. Stefańskich Podolskich Górniaków
+16.00[+] + Baltazar i Bolesław Wawrzyniak
 
-#NIEDZIELA - 26.06
+#SOBOTA - 02.07
 
-08.00 [-] Parafian
+15.00 [+]+ Janina Wróblewska int. wnuczki Beaty
 
-09.00 [+] Marianna 10 rś Henryk Kujawa int. dzieci z r.
+16.00 [-] ślub Monika Jakub
 
-11.00 [+] Jadwiga Rybacka int brata z r.
+17.30 [-] ślub Rafał Patrycja
+
+#NIEDZIELA - 03.07
+
+09.00 [+]Ryszard Aurelia Czesław Rzepka Jacek Kompanowski rodzice Czesława Sylwester Lewandowscy 
+
+11.00 [+]Wiktoria Franciszek Piekarscy Stanisława Jeziorska Irena Jesiołowska int. r. Mróz§
