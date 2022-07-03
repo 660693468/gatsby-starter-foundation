@@ -2,68 +2,55 @@
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
-date: 2022-06-26
+date: 2022-07-04
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
       
-##TRZYNASTA NIEDZIELA W CIĄGU ROKU - 26 czerwca 2022                                                       
+##CZTERNASTA NIEDZIELA W CIĄGU ROKU - 3 lipca 2022
+                                       OGŁOSZENIA DUSZPASTERSKIE
+1. Dziś czternasta niedziela zwykła w ciągu roku kościelnego. Po raz kolejny Bóg zaprosił nas, abyśmy celebrowaliśmy tajemnicę Jezusa Chrystusa. On dla nas i naszego zbawienia umarł i powstał z martwych. Niech ta prawda wiary towarzyszy nam na drogach nowego tygodnia. 
 
-#OGŁOSZENIA DUSZPASTERSKIE
+2. Wszystkim solenizantom i jubilatom życzymy obfitości Bożych darów i opieki Matki Najświętszej, rolnikom optymalnej pogody a wyjeżdżającym na urlopy i wakacje – dobrego odpoczynku i szczęśliwych powrotów do domu. 
 
-1. Dziś trzynasta niedziela zwykła w roku liturgicznym. W sposób szczególny prosimy Boga, aby nie ogarnęły nas ciemności błędu oraz abyśmy żyli w blasku Bożej prawdy 
+##Intencje mszalne  04 – 10  lipca   2022
 
-2. W środę, 29 czerwca, przypada uroczystość Świętych Apostołów Piotra i Pawła. 
+#PONIEDZIAŁEK -  04.07 
 
-3. Nabożeństwo czerwcowe przed Mszą Świętą do czwartku. 
+09.00 [+]Edward Krulikowski int Konentów
 
-4. Ostatnie pielgrzymki w pon  Agnieszkowo – Dąbie czwartek – Bodzanowo Dąbie.
+#WTOREK  -  05.07
 
-5. W tym tygodniu pierwszy piątek miesiąca -  nabożeństwo do Najświętszego Serca Pana Jezusa i spowiedź święta od godz. 15.30 do chorych udam się od godz. 9.30.
+09.00 [+]Renata Ziółkowska int. r. Szałańskich
 
-6. Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości Bożego błogosławieństwa i opieki Matki Zbawiciela. Tym, którzy rozpoczynają letni wypoczynek udanych wyjazdów, życzymy umocnienia sił fizycznych i duchowych, a także szczególnego doświadczenia obecności Boga w pięknie stworzonego świata. 
+#ŚRODA - 06.07
+
+18.00 [+]+ Marek Karolak – Teresy Kralskiej z r
+[+] Zofia Głowacka– r. Kosteckich Kowalskich Wróblewskich
+[+] Marianna Wesołowska – Zakładu Pogrzebowego Arka
+[+] Alina Sochacka – Rosińskich z Borucina
+[+] Barbara Sobczyńska – Szynalskich 
+[+] Grażyna Kołodziejska – Dariusza Kołodziejskiego
+
+#CZWARTEK-  07.07  
+
+09.00 [+]  Danuta Lewandowska w 3 rś
+
+17.00 [+] Rafał Sadowski int. rodziców i rodzeństwa
+
+#PIĄTEK  - 08.07     
+
+09.00 [+]Barbara Pawłowska int. r. Malec z Brześcia
 
 
-#Intencje mszalne 27 czerwca – 03 lipca   2022
 
-#PONIEDZIAŁEK -  27.06 
+#SOBOTA - 09.07
 
-18.00 [+]Władysław Wojtkowski int. żony i dzieci
+09.00 [+]Marianna Gardyza int wnuka Radosława z r
 
-19.00 [-] pielgrzymka Agnieszkowo – Stok - Dąbie
+#NIEDZIELA - 10.07
 
-#WTOREK  -  28.06
+09.00 [+]rodzic Janina Wojciech Karbowiak int córki z r.
 
-09.00 [-] własna
-
-#ŚRODA - 29.06
-
-16.00 [+]Piotruś Mroziński imieninowa
-
-#CZWARTEK-  30.06  
-
-18.00 [+]   Janina Wróblewska int Maciejewskich z Dąbia
-
-19.00 [-] pielgrzymka Bodzanowo – św. Hubert -  Dąbie
-
-#PIĄTEK  - 01.07     Uroczystość Najświętszego Serca Jezusa
-
-09.30 [-] odwiedziny chorych
-
-15.30 [-] adoracja Najświętszego Sakramentu - spowiedź
-
-16.00[+] + Baltazar i Bolesław Wawrzyniak
-
-#SOBOTA - 02.07
-
-15.00 [+]+ Janina Wróblewska int. wnuczki Beaty
-
-16.00 [-] ślub Monika Jakub
-
-17.30 [-] ślub Rafał Patrycja
-
-#NIEDZIELA - 03.07
-
-09.00 [+]Ryszard Aurelia Czesław Rzepka Jacek Kompanowski rodzice Czesława Sylwester Lewandowscy 
-
-11.00 [+]Wiktoria Franciszek Piekarscy Stanisława Jeziorska Irena Jesiołowska int. r. Mróz§
+11.00 [+]Józef Nawrocki r. Majchrzaków oraz Tadeusz w 4 rś Wielisława i  Dudczak
+- Chrzest Łucji
