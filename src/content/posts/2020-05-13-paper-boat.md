@@ -2,89 +2,55 @@
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
-date: 2022-07-06
+date: 2022-07-24
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
       
+SIEDEMNASTA NIEDZIELA W CIĄGU ROKU	- 24 lipca 2022                                       
 
-Intencje mszalne  
+OGŁOSZENIA DUSZPASTERSKIE
 
-#PIĄTEK  - 08.07     
+1. Niech na drogach wakacyjnego odpoczynku ale i podczas żniw i prac polowych nie zabraknie troski o życie duchowe, o modlitwę osobistą, nawiedzenie świątyń i udział we Mszy Świętej. 
 
-09.00 [+]Barbara Pawłowska int. r. Malec z Brześcia
+2. W tym tygodniu patronują nam jutro  Święty Jakub Apostoł oraz  Krzysztof, który jest  patronem kierowców, Będziemy modlić się za  uczestników ruchu drogowego o rozsądek i odpowiedzialność na drodze oraz solenizantów i ks. Bpa Krzysztofa. W niedzielę po  Mszach Św. błogosławieństwo pojazdów i kierowców.  We wtorek, Św Rodziców Najświętszej Maryi Panny: Joachima i Annę. 
 
-#SOBOTA - 09.07
+3. Witam ks Mariusza Staszaka przebywającego na urlopie.
 
-13.30 [+]Marianna Gardyza int wnuka Radosława z r
+4. Juto odwiedzi naszą parafię ks Tomasz Bartczak misjonarz posługujący w Kazachstanie.
 
-#NIEDZIELA - 10.07
+5. Solenizantom i jubilatom tego tygodnia życzymy obfitości Bożego błogosławieństwa oraz doświadczenia bliskości Zbawiciela i Jego Najświętszej Matki.  Miłej i błogosławionej niedzieli.
+	
+#Intencje mszalne  25 -31  lipca  2022
 
-09.00 [+]rodzic Janina Wojciech Karbowiak int córki z r.
+#PONIEDZIAŁEK -  25.07 
 
-11.00 [+]Józef Nawrocki r. Majchrzaków oraz Tadeusz w 4 rś Wielisława i  Dudczak
+09.00 [+] Barbara Pawłowska int. cioci Irki z r. oraz r. Sadowników z Jądrowic
 
-#PONIEDZIAŁEK -  11.07 
+#WTOREK  -  26.07
 
-09.00 [+]Stanisława Gęgotek int. Sadowników z Jądrowic
+16.00 [+] Anna Kurczewska int. matki i brata [+] Zofia Kwiatkowska int. Kozickich z Redcza
 
-#WTOREK  -  12.07
+#ŚRODA - 27.07
 
-09.00 [+]Jerzy Kołodziejski int. Emila Benedykcińskiego z r.
+09.00 [+] Edward Krulikowski int.  r. Linowieckich oraz Bogatko 
 
-#ŚRODA - 13.07
+#CZWARTEK-  28.07  
 
-08.30 Różaniec Fatimski
+16.00 [+] Marianna Gardyza int. r. Pankiewiczów z Sułkowa i Skaszyna oraz sąsiadów Słowińskich
 
-09.00 [+]Kamil Pietrzak inr. sąsiadów Mantyków
+#PIĄTEK  - 29.07     
 
-#CZWARTEK-  14.07  
+09.00 [+]Kamil Pietrzak int. Żychlińskich z Redcza oraz Jabłońskich z Brześcia
 
-09.00 [+]  Barbara Pawłowska int. Bożeny z r.
+#SOBOTA – 30.07
 
-#PIĄTEK  - 15.07     
+09.00 [+] Renata Ziółkowska int.  Marciniaków z r oraz Karola Marciniaka z r.
 
-09.00 [+]Tadeusz Marek Pantuchowicz int. rodziny
+#NIEDZIELA - 31.07
 
-#SOBOTA - 16.07
+09.00 [+]Rodzice Olimpia Leon Lewandowscy
+[+] Jerzy Ciesielski int. Jadwigi Marek r. Wawrzyniaków Róży Nowakowskiej 
 
-09.00 [+]Józef Tadeusz Marek w 3 rś Pantuchowicz int. Pantuchowicz z Agnieszkowa
-
-#NIEDZIELA - 17.07
-
-09.00 [+]Daniel Kostecki imieninowa int. Kingi z Szymonem, dziadków Nejmanów
-
-11.00 [+]Franciszek w 20 rś i Jan w 4 rś Bartkowiak int. matki żony córki z r.
-
-#PONIEDZIAŁEK -  18.07 
-
-09.00 [+]Rafał Sadowski urodzinowa
-
-#WTOREK  -  19.07
-
-09.00 [+]Zofia Kwiatkowska int. Staszaków i Opasiaków
-
-#ŚRODA - 20.07
-
-09.00 [+] Jadwiga Rybacka int. Jadwigi Chlaściak
-
-#CZWARTEK-  21.07  
-
-09.00 [+]  Janina Buczykowska  int. Stanisława Czarnika z r.
-
-#PIĄTEK  - 22.07     
-
-09.00 [+]Jadwiga Wawrzyniak  int. Szelągowskich
-
-#SOBOTA - 23.07
-
-09.00 [+]Krystyna Józef Mikołajczak
-
-09.30 [+] Zofia Głowacka int. syna Tolka
-
-#NIEDZIELA - 24.07
-
-09.00 [+]Czesław Adam Kamińscy Czesław Ryniec zm z r.
-
-11.00 [+] Anna Mieczysław Kopaczwscy int. córki z r.
-[+] Krzysztof Przybysz ur i im int żony i dzieci
+11.00 [+] Beata Pietrzak  3 rś i urodzinowa int. męża 
+[+] Stanisława Gęgotek int.  Beaty Dariusz Lewandowskich
