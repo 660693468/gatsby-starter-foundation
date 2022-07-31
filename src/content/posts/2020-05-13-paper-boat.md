@@ -19,7 +19,7 @@ featuredImage: /assets/papiez.jpg
 
 4. Jutro, 1 sierpnia, 78. rocznica wybuchu powstania warszawskiego. Wszystkich, którzy oddali życie w obronie ojczyzny, będziemy polecać w modlitwie miłosiernemu Bogu. 
 
-5. W czwartek, 4 sierpnia, przypada liturgiczne wspomnienie Świętego Jana Marii Vianneya, patrona proboszczów. Odpust parafialny procesja z asystą po Mszy o 9.00
+5. W czwartek, 4 sierpnia, przypada liturgiczne wspomnienie Świętego Jana Marii Vianneya, patrona proboszczów. Odpust parafialny w niedzielę - procesja z asystą po Mszy o 9.00
 
 6. Najbliższy piątek, I piątkiem miesiąca. Spowiedź i wystawienie Najświętszego Sakramentu 16.30 Msza Święta wotywna o godz. 17.00 . chorzy 9.00
 
