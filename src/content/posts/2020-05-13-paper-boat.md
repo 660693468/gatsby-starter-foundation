@@ -2,55 +2,64 @@
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
-date: 2022-07-24
+date: 2022-07-31
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
       
-SIEDEMNASTA NIEDZIELA W CIĄGU ROKU	- 24 lipca 2022                                       
+##OSIEMNASTA NIEDZIELA W CIĄGU ROKU - 31 lipca 2022                                          
 
-OGŁOSZENIA DUSZPASTERSKIE
+#OGŁOSZENIA DUSZPASTERSKIE
 
-1. Niech na drogach wakacyjnego odpoczynku ale i podczas żniw i prac polowych nie zabraknie troski o życie duchowe, o modlitwę osobistą, nawiedzenie świątyń i udział we Mszy Świętej. 
+1. Dziś ostatnia niedziela lipca, Liturgia dzisiaj wzywa do troski nie tylko o dobra doczesne, ale przede wszystkim o dobra wieczne. 
 
-2. W tym tygodniu patronują nam jutro  Święty Jakub Apostoł oraz  Krzysztof, który jest  patronem kierowców, Będziemy modlić się za  uczestników ruchu drogowego o rozsądek i odpowiedzialność na drodze oraz solenizantów i ks. Bpa Krzysztofa. W niedzielę po  Mszach Św. błogosławieństwo pojazdów i kierowców.  We wtorek, Św Rodziców Najświętszej Maryi Panny: Joachima i Annę. 
+2. Dziś błogosławieństwo kierowców i poświęcenie pojazdów.
 
-3. Witam ks Mariusza Staszaka przebywającego na urlopie.
+3. Sierpień to miesiąc licznych pielgrzymek do różnych sanktuariów maryjnych, szczególnie na Jasną Górę. To również miesiąc abstynencji.
 
-4. Juto odwiedzi naszą parafię ks Tomasz Bartczak misjonarz posługujący w Kazachstanie.
+4. Jutro, 1 sierpnia, 78. rocznica wybuchu powstania warszawskiego. Wszystkich, którzy oddali życie w obronie ojczyzny, będziemy polecać w modlitwie miłosiernemu Bogu. 
 
-5. Solenizantom i jubilatom tego tygodnia życzymy obfitości Bożego błogosławieństwa oraz doświadczenia bliskości Zbawiciela i Jego Najświętszej Matki.  Miłej i błogosławionej niedzieli.
-	
-#Intencje mszalne  25 -31  lipca  2022
+5. W czwartek, 4 sierpnia, przypada liturgiczne wspomnienie Świętego Jana Marii Vianneya, patrona proboszczów. Odpust parafialny procesja z asystą po Mszy o 9.00
 
-#PONIEDZIAŁEK -  25.07 
+6. Najbliższy piątek, I piątkiem miesiąca. Spowiedź i wystawienie Najświętszego Sakramentu 16.30 Msza Święta wotywna o godz. 17.00 . chorzy 9.00
 
-09.00 [+] Barbara Pawłowska int. cioci Irki z r. oraz r. Sadowników z Jądrowic
+7. W sobotę, 6 sierpnia,  święto Przemienienia Pańskiego. 
 
-#WTOREK  -  26.07
+8. Wszystkim solenizantom i jubilatom rozpoczynającego się tygodnia życzymy otwartości na Boże słowo, roztropności w podejmowanych decyzjach oraz doświadczenia Bożej mocy w trudnościach dnia codziennego. 
 
-16.00 [+] Anna Kurczewska int. matki i brata [+] Zofia Kwiatkowska int. Kozickich z Redcza
+##Intencje mszalne 01 – 07 sierpnia 2022
 
-#ŚRODA - 27.07
+#PONIEDZIAŁEK -  01.08 
 
-09.00 [+] Edward Krulikowski int.  r. Linowieckich oraz Bogatko 
+09.00 [+]Jan Sadownik int. syna Mariana z żoną 
 
-#CZWARTEK-  28.07  
+#WTOREK  -  02.08
 
-16.00 [+] Marianna Gardyza int. r. Pankiewiczów z Sułkowa i Skaszyna oraz sąsiadów Słowińskich
+09.00 [+]Marianna Wesołowska int. sąsiadów Żbikowskich
 
-#PIĄTEK  - 29.07     
+#ŚRODA - 03.08
 
-09.00 [+]Kamil Pietrzak int. Żychlińskich z Redcza oraz Jabłońskich z Brześcia
+16.00 [+]Jerzy Sadowski int.  siostry Barbary z r.
 
-#SOBOTA – 30.07
+#CZWARTEK-  04.08  
 
-09.00 [+] Renata Ziółkowska int.  Marciniaków z r oraz Karola Marciniaka z r.
+09.00 [+]Romuald Kwiatkowski int. brata Janusza z r. z Gliwic
 
-#NIEDZIELA - 31.07
+#PIĄTEK  - 05.08     PIERWSZY MIESIĄCA
 
-09.00 [+]Rodzice Olimpia Leon Lewandowscy
-[+] Jerzy Ciesielski int. Jadwigi Marek r. Wawrzyniaków Róży Nowakowskiej 
+09.00 [-] odwiedziny chorych w domach 
 
-11.00 [+] Beata Pietrzak  3 rś i urodzinowa int. męża 
-[+] Stanisława Gęgotek int.  Beaty Dariusz Lewandowskich
+16.30 [-]  Adoracja Najświętszego Sakramentu i spowiedź 
+
+17.00 [+]Alina Sochacka Int. wnuka Karola z r.
+
+#SOBOTA – 06.08
+
+09.00 [+]Grażyna Kołodziejska int. Teresy Smól i r Czołpińskich
+
+#NIEDZIELA - 07.08
+
+09.00 [+]Janina Kazimierz Stępińscy Stanisław Piechocki int. rodziny
+[+] Piotruś Mroziński w r ś
+
+11.00 [+]Jacek Szychowicz w 1 rś int. siostry z r.
