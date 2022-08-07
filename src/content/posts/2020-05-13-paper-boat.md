@@ -1,14 +1,12 @@
-
---
-
+---
 template: blog-post
-
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
-date: 2022-08-07
+date: 2022-07-08
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
+
 
 ##DZIEWIĘTNASTA NIEDZIELA W CIĄGU ROKU	 - 7 sierpnia 2022                     
 
