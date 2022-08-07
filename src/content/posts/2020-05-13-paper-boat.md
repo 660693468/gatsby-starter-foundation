@@ -1,65 +1,80 @@
----
+
+--
+
 template: blog-post
+
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
-date: 2022-07-31
+date: 2022-08-07
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
-      
-##OSIEMNASTA NIEDZIELA W CIĄGU ROKU - 31 lipca 2022                                          
+
+##DZIEWIĘTNASTA NIEDZIELA W CIĄGU ROKU	 - 7 sierpnia 2022                     
 
 #OGŁOSZENIA DUSZPASTERSKIE
+ 
+1. Wspominamy św Jana Marię Vianneya patrona tego kościoła – podziękowania asyście. Wprowadzenie relikwiarza z relikwiami  tego świętego.
 
-1. Dziś ostatnia niedziela lipca, Liturgia dzisiaj wzywa do troski nie tylko o dobra doczesne, ale przede wszystkim o dobra wieczne. 
+2. Rozpoczynamy dziś nowennę przygotowującą nas do nawiedzenia naszej diecezji w 900 lecie jej powstania kopi Obrazu Jasnogórskiego -  w naszej Parafii będzie  26-27.IX.2023 hasłem „ Przez Matkę do Syna”
 
-2. Dziś błogosławieństwo kierowców i poświęcenie pojazdów.
+3. Wszystkich, którzy nie mogą uczestniczyć w pielgrzymce, zapraszam do duchowego pielgrzymowania i wpierania osobistą modlitwą i cierpieniem pielgrzymujących do różnych sanktuariów maryjnych, szczególnie na Jasną Górę.  
 
-3. Sierpień to miesiąc licznych pielgrzymek do różnych sanktuariów maryjnych, szczególnie na Jasną Górę. To również miesiąc abstynencji.
+4. W sobotę, 13 sierpnia, nabożeństwo fatimskie o godz. 15.30 . Serdecznie zapraszam, aby w modlitwie przez ręce Maryi wypraszać Boże dary dla nas i całego świata. 
 
-4. Jutro, 1 sierpnia, 78. rocznica wybuchu powstania warszawskiego. Wszystkich, którzy oddali życie w obronie ojczyzny, będziemy polecać w modlitwie miłosiernemu Bogu. 
+5. Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości Bożego błogosławieństwa oraz opieki Matki Najświętszej.
 
-5. W czwartek, 4 sierpnia, przypada liturgiczne wspomnienie Świętego Jana Marii Vianneya, patrona proboszczów. Odpust parafialny w niedzielę - procesja z asystą po Mszy o 9.00
+##Intencje mszalne  08 - 15 sierpnia 2022
 
-6. Najbliższy piątek, I piątkiem miesiąca. Spowiedź i wystawienie Najświętszego Sakramentu 16.30 Msza Święta wotywna o godz. 17.00 . chorzy 9.00
+#PONIEDZIAŁEK -  08.08 
 
-7. W sobotę, 6 sierpnia,  święto Przemienienia Pańskiego. 
+09.00 [+]Józef Pawikowski int. Janiny Bartkowiak z r.
 
-8. Wszystkim solenizantom i jubilatom rozpoczynającego się tygodnia życzymy otwartości na Boże słowo, roztropności w podejmowanych decyzjach oraz doświadczenia Bożej mocy w trudnościach dnia codziennego. 
+#WTOREK  -  09.08
 
-##Intencje mszalne 01 – 07 sierpnia 2022
+09.00 [+]Krystyna Sobieraj int. córki Sławki z mężem
 
-#PONIEDZIAŁEK -  01.08 
+#ŚRODA - 10.08
 
-09.00 [+]Jan Sadownik int. syna Mariana z żoną 
+16.00 [+]Daromiła Dybowska rodzic. Dybowscy i Mikołajczak
 
-#WTOREK  -  02.08
+#CZWARTEK-  11.08  
 
-09.00 [+]Marianna Wesołowska int. sąsiadów Żbikowskich
+09.00 [+]Elżbieta i Stefan Kruszewscy
 
-#ŚRODA - 03.08
+#PIĄTEK  - 12.08     
 
-16.00 [+]Jerzy Sadowski int.  siostry Barbary z r.
+16.00 [+]Scholastyka Kamińska 
 
-#CZWARTEK-  04.08  
+#SOBOTA – 13.08
 
-09.00 [+]Romuald Kwiatkowski int. brata Janusza z r. z Gliwic
+15.30 [-] Nabożeństwo Fatimskie
 
-#PIĄTEK  - 05.08     PIERWSZY MIESIĄCA
+16.00 [+] Rafał Borkowski
 
-09.00 [-] odwiedziny chorych w domach 
+17.00 [-] ślub Adrianna Jakub
 
-16.30 [-]  Adoracja Najświętszego Sakramentu i spowiedź 
+#NIEDZIELA - 14.08
 
-17.00 [+]Alina Sochacka Int. wnuka Karola z r.
+09.00 [+]Władysław Rosiński int żony i dzieci z r. 
 
-#SOBOTA – 06.08
+[+] Krystyna Kinasiewicz 13 rś int. syna Roberta
 
-09.00 [+]Grażyna Kołodziejska int. Teresy Smól i r Czołpińskich
+11.00 [+] Jurek Ciechalski ur int. żony dzieci wnuków prawnuków
 
-#NIEDZIELA - 07.08
+[+] Czesława Szelągowska int. wnuczki Anny córki Janiny
 
-09.00 [+]Janina Kazimierz Stępińscy Stanisław Piechocki int. rodziny
-[+] Piotruś Mroziński w r ś
+    [-] chrzest 
 
-11.00 [+]Jacek Szychowicz w 1 rś int. siostry z r.
+#PONIEDZIAŁEK WNIEBOWZIĘCIE NMP - 15.08
+
+09.00 [-]  Barbara Kościelska 84 ur
+
+[+] Irena Bożena Czesław Ryniec zm z ich rodz.
+
+11.00 [+] Genowefa 10 rś Leon Wanda Skowrońska int. dzieci z r.
+
+[+] Anna Jan Walczak int rodziny                                                                      
+
+
+      
