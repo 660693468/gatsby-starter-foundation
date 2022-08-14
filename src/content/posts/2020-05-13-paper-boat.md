@@ -2,77 +2,50 @@
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
-date: 2022-07-08
+date: 2022-08-15
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
 
-
-##DZIEWIĘTNASTA NIEDZIELA W CIĄGU ROKU	 - 7 sierpnia 2022                     
+##DWUDZIESTA NIEDZIELA W CIĄGU ROKU	 - 14 sierpnia 2022                       
 
 #OGŁOSZENIA DUSZPASTERSKIE
- 
-1. Wspominamy św Jana Marię Vianneya patrona tego kościoła – podziękowania asyście. Wprowadzenie relikwiarza z relikwiami  tego świętego.
 
-2. Rozpoczynamy dziś nowennę przygotowującą nas do nawiedzenia naszej diecezji w 900 lecie jej powstania kopi Obrazu Jasnogórskiego -  w naszej Parafii będzie  26-27.IX.2023 hasłem „ Przez Matkę do Syna”
+1. Jutro, 15 sierpnia, uroczystość Wniebowzięcia Najświętszej Maryi Panny.  W polskiej tradycji jutrzejsza uroczystość nosi nazwę święta Matki Bożej Zielnej.  Tego dnia błogosławione są bukiety kwiatów, ziół i warzyw. W ten sposób będziemy dziękowali Bogu za pierwsze tegoroczne zbiory i owoce ziemi.
 
-3. Wszystkich, którzy nie mogą uczestniczyć w pielgrzymce, zapraszam do duchowego pielgrzymowania i wpierania osobistą modlitwą i cierpieniem pielgrzymujących do różnych sanktuariów maryjnych, szczególnie na Jasną Górę.  
+2.Jutro przypada  kolejna rocznica Bitwy Warszawskiej z 1920 roku, tak zwanego Cudu nad Wisłą. Polacy odnieśli wówczas wielkie zwycięstwo w walce z wojskami bolszewickimi. Ten dzień obchodzony jest także jako Święto Wojska Polskiego. 
 
-4. W sobotę, 13 sierpnia, nabożeństwo fatimskie o godz. 15.30 . Serdecznie zapraszam, aby w modlitwie przez ręce Maryi wypraszać Boże dary dla nas i całego świata. 
+3. Odpust Parafialny św. Rocha – 21 sierpnia Msze: 8.00 10.00; 12.00  Proszę o mobilizację asysty dzieci do sypania kwiatków młodzieży straży pożarnej i orkiestry. 
 
-5. Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości Bożego błogosławieństwa oraz opieki Matki Najświętszej.
+4. Piknik dla dzieci 28.08. 14;30 -  świetlica w Dąbiu 
 
-##Intencje mszalne  08 - 15 sierpnia 2022
-
-#PONIEDZIAŁEK -  08.08 
-
-09.00 [+]Józef Pawikowski int. Janiny Bartkowiak z r.
-
-#WTOREK  -  09.08
-
-09.00 [+]Krystyna Sobieraj int. córki Sławki z mężem
-
-#ŚRODA - 10.08
-
-16.00 [+]Daromiła Dybowska rodzic. Dybowscy i Mikołajczak
-
-#CZWARTEK-  11.08  
-
-09.00 [+]Elżbieta i Stefan Kruszewscy
-
-#PIĄTEK  - 12.08     
-
-16.00 [+]Scholastyka Kamińska 
-
-#SOBOTA – 13.08
-
-15.30 [-] Nabożeństwo Fatimskie
-
-16.00 [+] Rafał Borkowski
-
-17.00 [-] ślub Adrianna Jakub
-
-#NIEDZIELA - 14.08
-
-09.00 [+]Władysław Rosiński int żony i dzieci z r. 
-
-[+] Krystyna Kinasiewicz 13 rś int. syna Roberta
-
-11.00 [+] Jurek Ciechalski ur int. żony dzieci wnuków prawnuków
-
-[+] Czesława Szelągowska int. wnuczki Anny córki Janiny
-
-    [-] chrzest 
-
-#PONIEDZIAŁEK WNIEBOWZIĘCIE NMP - 15.08
-
-09.00 [-]  Barbara Kościelska 84 ur
-
-[+] Irena Bożena Czesław Ryniec zm z ich rodz.
-
-11.00 [+] Genowefa 10 rś Leon Wanda Skowrońska int. dzieci z r.
-
-[+] Anna Jan Walczak int rodziny                                                                      
+5. Wszystkim solenizantom i jubilatom tego tygodnia życzymy wzrastania w wierze, nadziei i miłości oraz nieustannego trwania przy Chrystusie i nieustannej opieki Maryi Wniebowziętej.
 
 
-      
+##Intencje mszalne  16 - 21 sierpnia 2022
+
+
+#WTOREK  -  16.08
+
+    16.00 [+] Genowefa i Leon Lewandowscy 
+
+#ŚRODA - 17.08
+
+    09.00 [+] Marianna Gardyza int. r. Gontarskich
+
+#CZWARTEK-  18.08  
+
+    09.00 [+] Barbara Sobczyńska int. siostry Teresy 
+
+#SOBOTA – 20.08
+
+         17.00 [-]70 r ur dla brata rodzeństwo i ich rodz.
+
+##NIEDZIELA - 21.08 Uroczystość odpustowa św. Rocha
+
+         08.00 [+] rodziców Karkowskich dziadków Weneckich
+
+         10.00 [+] Jan Łukaszewski 20 rś int. żony i córek z r. 
+
+                   [+] Irena Lewandowska int. syna Grzesława z żoną
+        12.00 [-] Parafian 
