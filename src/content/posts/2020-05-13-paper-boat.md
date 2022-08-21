@@ -2,50 +2,59 @@
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
-date: 2022-08-15
+date: 2022-08-21
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
 
-##DWUDZIESTA NIEDZIELA W CIĄGU ROKU	 - 14 sierpnia 2022                       
+#DWUDZIESTA PIERWSZA NIEDZIELA W CIĄGU ROKU - 21 sierpnia 2022                     
 
-#OGŁOSZENIA DUSZPASTERSKIE
+Odpust parafialny ku czci św. Rocha                                                                                      
 
-1. Jutro, 15 sierpnia, uroczystość Wniebowzięcia Najświętszej Maryi Panny.  W polskiej tradycji jutrzejsza uroczystość nosi nazwę święta Matki Bożej Zielnej.  Tego dnia błogosławione są bukiety kwiatów, ziół i warzyw. W ten sposób będziemy dziękowali Bogu za pierwsze tegoroczne zbiory i owoce ziemi.
+OGŁOSZENIA DUSZPASTERSKIE
 
-2.Jutro przypada  kolejna rocznica Bitwy Warszawskiej z 1920 roku, tak zwanego Cudu nad Wisłą. Polacy odnieśli wówczas wielkie zwycięstwo w walce z wojskami bolszewickimi. Ten dzień obchodzony jest także jako Święto Wojska Polskiego. 
+1. Bóg zapłać wszystkim za przygotowanie dzisiejszej uroczystości: Panu Bogu za pogodę. Sumiście i kaznodziei ks.  Adamowi Zielińskiemu Dyr. Wydziału Duszpasterstwa Ogólnego katecheta ZSK Długosz  ks Kan. Henrykowi Kruszewskiemu  z Luksemburga, księżom z dekanatu ,  drogim gościom, p. Kubiakowi za zorganizowanie orkiestry ,  OSP z Bodzanowa,  asyście, dzieciom, młodzieży, służbie liturgicznej 
 
-3. Odpust Parafialny św. Rocha – 21 sierpnia Msze: 8.00 10.00; 12.00  Proszę o mobilizację asysty dzieci do sypania kwiatków młodzieży straży pożarnej i orkiestry. 
+2.Jutro, 22 sierpnia,  wspomnienie Najświętszej Maryi Panny Królowej.
+
+3. W piątek, 26 sierpnia,  uroczystość Najświętszej Maryi Panny Częstochowskiej. Tego dnia będziemy łączyć się z Jasną Górą, gdzie znajduje się wizerunek Czarnej Madonny.
 
 4. Piknik dla dzieci 28.08. 14;30 -  świetlica w Dąbiu 
 
-5. Wszystkim solenizantom i jubilatom tego tygodnia życzymy wzrastania w wierze, nadziei i miłości oraz nieustannego trwania przy Chrystusie i nieustannej opieki Maryi Wniebowziętej.
+5. Wszystkim solenizantom i jubilatom gościom  życzę obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
 
+##Intencje mszalne  22 – 28   sierpnia  2022
 
-##Intencje mszalne  16 - 21 sierpnia 2022
+#PONIEDZIAŁEK – 22.08
 
+16.00 [+]  Eugeniusz Roszak Zbigniew Janusz Anna Jan Żbikowscy
 
-#WTOREK  -  16.08
+#WTOREK  -  23.08
 
-    16.00 [+] Genowefa i Leon Lewandowscy 
+09.00 [+]Barbara Sobczyńska int. chrześniaczki Bożeny z r.
 
-#ŚRODA - 17.08
+#ŚRODA - 24.08
 
-    09.00 [+] Marianna Gardyza int. r. Gontarskich
+17.00 [+]Jerzy Ciesielski int. Anieli i Henryka Ciesielskich
 
-#CZWARTEK-  18.08  
+#CZWARTEK -  25.08  
 
-    09.00 [+] Barbara Sobczyńska int. siostry Teresy 
+18.00 [+]Hieronim Spychalski 4 rś  int. żony z rodz.
 
-#SOBOTA – 20.08
+#PIĄTEK – 26.08
 
-         17.00 [-]70 r ur dla brata rodzeństwo i ich rodz.
+09.00 [+]Aniela w 1 rś i r. Jonatowskich  int. córki z mężem
 
-##NIEDZIELA - 21.08 Uroczystość odpustowa św. Rocha
+#SOBOTA – 27.08
+         
+15.30 [+]Janina Józef Konduk
 
-         08.00 [+] rodziców Karkowskich dziadków Weneckich
+16.00 [-]  chrzest
 
-         10.00 [+] Jan Łukaszewski 20 rś int. żony i córek z r. 
+#NIEDZIELA - 28.08
+       
+09.00 [+]Krystyna w 5 rś  i Kazimierz Ochocińscy Jan Przychodzki zmarli z ich rodz.
+                   
+[+]Barbra Sobczyńska int. wnuczki Ilony z r. 
 
-                   [+] Irena Lewandowska int. syna Grzesława z żoną
-        12.00 [-] Parafian 
+11.00 [+]r. Czajkowskich Pawlików Marczaków i Ewę Dombek
