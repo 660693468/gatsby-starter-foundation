@@ -13,15 +13,15 @@ Odpust parafialny ku czci św. Rocha
 
 OGŁOSZENIA DUSZPASTERSKIE
 
-1. Bóg zapłać wszystkim za przygotowanie dzisiejszej uroczystości: Panu Bogu za pogodę. Sumiście i kaznodziei ks.  Adamowi Zielińskiemu Dyr. Wydziału Duszpasterstwa Ogólnego katecheta ZSK Długosz  ks Kan. Henrykowi Kruszewskiemu  z Luksemburga, księżom z dekanatu ,  drogim gościom, p. Kubiakowi za zorganizowanie orkiestry ,  OSP z Bodzanowa,  asyście, dzieciom, młodzieży, służbie liturgicznej 
+1.Bóg zapłać wszystkim za przygotowanie dzisiejszej uroczystości: Panu Bogu za pogodę. Sumiście i kaznodziei ks.  Adamowi Zielińskiemu Dyr. Wydziału Duszpasterstwa Ogólnego katechecie  ZSK Długosz  ks Kan. Henrykowi Kruszewskiemu  z Luksemburga, księżom z dekanatu ,  drogim gościom, p. Kubiakowi za zorganizowanie orkiestry ,  OSP z Bodzanowa,  asyście, dzieciom, młodzieży, służbie liturgicznej 
 
 2.Jutro, 22 sierpnia,  wspomnienie Najświętszej Maryi Panny Królowej.
 
-3. W piątek, 26 sierpnia,  uroczystość Najświętszej Maryi Panny Częstochowskiej. Tego dnia będziemy łączyć się z Jasną Górą, gdzie znajduje się wizerunek Czarnej Madonny.
+3.W piątek, 26 sierpnia,  uroczystość Najświętszej Maryi Panny Częstochowskiej. Tego dnia będziemy łączyć się z Jasną Górą, gdzie znajduje się wizerunek Czarnej Madonny.
 
-4. Piknik dla dzieci 28.08. 14;30 -  świetlica w Dąbiu 
+4.Piknik dla dzieci 28.08. 14;30 -  świetlica w Dąbiu 
 
-5. Wszystkim solenizantom i jubilatom gościom  życzę obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
+5.Wszystkim solenizantom i jubilatom gościom  życzę obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
 
 ##Intencje mszalne  22 – 28   sierpnia  2022
 
