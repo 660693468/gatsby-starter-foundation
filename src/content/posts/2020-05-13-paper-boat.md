@@ -2,59 +2,67 @@
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
-date: 2022-08-21
+date: 2022-08-28
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
 
-#DWUDZIESTA PIERWSZA NIEDZIELA W CIĄGU ROKU - 21 sierpnia 2022                     
+##DWUDZIESTA DRUGA NIEDZIELA W CIĄGU ROKU - 28 sierpnia 2022
 
-Odpust parafialny ku czci św. Rocha                                                                                      
+#OGŁOSZENIA DUSZPASTERSKIE
 
-OGŁOSZENIA DUSZPASTERSKIE
+1. Dziś ostatnia niedziela wakacji. Przed nami ostatnie dni wakacyjnego odpoczynku. Dziękujemy Bogu za czas wakacji i urlopów, za wszelkie dobro, którego doświadczyliśmy w tym czasie, i za ludzi, których Bóg postawił na naszej drodze. 
 
-1. Bóg zapłać wszystkim za przygotowanie dzisiejszej uroczystości: Panu Bogu za pogodę. Sumiście i kaznodziei ks.  Adamowi Zielińskiemu Dyr. Wydziału Duszpasterstwa Ogólnego katechecie  ZSK Długosz  ks Kan. Henrykowi Kruszewskiemu  z Luksemburga, księżom z dekanatu ,  drogim gościom, p. Kubiakowi za zorganizowanie orkiestry ,  OSP z Bodzanowa,  asyście, dzieciom, młodzieży, służbie liturgicznej 
+2. Jutro, 29 sierpnia,  Męczeństwo Świętego Jana Chrzciciela. 
 
-2. Jutro, 22 sierpnia,  wspomnienie Najświętszej Maryi Panny Królowej.
+3. W czwartek, 1 września, początek nowego roku szkolnego i katechetycznego. Zapraszamy dzieci i młodzież, rodziców, wychowawców i nauczycieli na Mszę Świętą w piątek o godz. 17.00  Będziemy prosili o Boże błogosławieństwo na trud pracy i nauki w nowym roku szkolnym. Można będzie skorzystać z sakramentu pokuty i pojednania przed Msza Świętą 16.30. – I piątek miesiąca. 
 
-3. W piątek, 26 sierpnia,  uroczystość Najświętszej Maryi Panny Częstochowskiej. Tego dnia będziemy łączyć się z Jasną Górą, gdzie znajduje się wizerunek Czarnej Madonny.
+4. 1.09  przypada także 83 rocznica wybuchu II wojny światowej. Naszą modlitewną pamięcią będziemy ogarniali wszystkich, którzy zginęli w obronie naszej ojczyzny. 
 
-4. Piknik dla dzieci 28.08. 14;30 -  świetlica w Dąbiu 
+5. W sobotę, 3 września,  pierwsza sobota miesiąca. Nabożeństwo przygotowujące nas na nawiedzenie NMP w ikonie Jasnogórskiej o 8.30
 
-5. Wszystkim solenizantom i jubilatom gościom  życzę obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
+6. Podziękowania dla Miriam i Gabriela z Francji za piękny śpiew liturgiczny.
 
-##Intencje mszalne  22 – 28   sierpnia  2022
+7. Wszystkim świętującym w tym tygodniu dzień urodzin, imienin oraz różnego rodzaju rocznice i jubileusze składamy najlepsze życzenia. Niech Bóg otacza was swoją opieką na drogach codzienności, obdarza radością i pokojem oraz umacnia w trudach i przeciwnościach.  
 
-#PONIEDZIAŁEK – 22.08
 
-16.00 [+]  Eugeniusz Roszak Zbigniew Janusz Anna Jan Żbikowscy
+#Intencje mszalne  29 sierpnia – 04 września  2022
 
-#WTOREK  -  23.08
+#PONIEDZIAŁEK – 29.08
 
-09.00 [+]Barbara Sobczyńska int. chrześniaczki Bożeny z r.
+09.00 [+]  Leszek Szałkiewicz int. żony Aleksandry
 
-#ŚRODA - 24.08
+#WTOREK  -  30.08
 
-17.00 [+]Jerzy Ciesielski int. Anieli i Henryka Ciesielskich
+09.00 [+]Edward Krulikowski int. Świątkowskich
 
-#CZWARTEK -  25.08  
+#ŚRODA - 31.08
 
-18.00 [+]Hieronim Spychalski 4 rś  int. żony z rodz.
+09.00 [+]Stanisława Gęgotek int Józefa i Stefana Kowal z r
 
-#PIĄTEK – 26.08
+#CZWARTEK -  01.09  
 
-09.00 [+]Aniela w 1 rś i r. Jonatowskich  int. córki z mężem
+16.00 [+]Renata Ziółkowska int. r. Szałańskich
 
-#SOBOTA – 27.08
-         
-15.30 [+]Janina Józef Konduk
+#PIĄTEK – 02.09
 
-16.00 [-]  chrzest
+16.30 [-]adoracja Najświętszego Sakramentu – spowiedź 
 
-#NIEDZIELA - 28.08
-       
-09.00 [+]Krystyna w 5 rś  i Kazimierz Ochocińscy Jan Przychodzki zmarli z ich rodz.
-                   
-[+]Barbra Sobczyńska int. wnuczki Ilony z r. 
+17.00 [+] Jan Sadownik int. żony
 
-11.00 [+]r. Czajkowskich Pawlików Marczaków i Ewę Dombek
+#SOBOTA – 03.09
+
+08.30 [-] przygotowanie do peregrynacji obrazu MB Częstochowskiej
+
+09.00 [+] Marianna Gardyza int. r. Sztrajbeków z Boniewa 
+
+09.30 [-] odwiedziny chorych 
+
+17.00 [-] ślub Sylwia i Damian
+
+#NIEDZIELA - 04.09
+
+09.00 [+] Stefan Sochacki imieninowa
+
+11.00 [+]Ewa Wituska 1 rś int. dzieci z r.
+[+] Marianna Leandowska w 2 rś int. wnuczki Lidii z r. i córki Anny z r.
