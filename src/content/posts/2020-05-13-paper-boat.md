@@ -17,7 +17,7 @@ OGŁOSZENIA DUSZPASTERSKIE
 
 3. W czwartek, 8 września, przypada święto Narodzenia Najświętszej Maryi Panny. W Polsce ten liturgiczny obchód nazywany jest popularnie świętem Matki Bożej Siewnej. Przez wstawiennictwo Maryi będziemy modlić się za wszystkich pracujących na roli, aby ich praca i trud wydawały błogosławione owoce. Błogosławieństwo ziarna siewnego podczas Mszy Świętej.
 
-4. Z tydzień po mszy o 11.00 Spotkanie rodziców klas 1,2,3 przygotowujących się do I Komunii św. poświecenie przyborów szkolnych i tornistrów na każdej Mszy.
+4. Za tydzień po mszy o 11.00 spotkanie rodziców klas 1,2,3 przygotowujących się do I Komunii św. poświecenie przyborów szkolnych i tornistrów na każdej Mszy.
 
 5. Zamarł mój tata + Wiktor Sawicki - pogrzeb we wtorek o 12.oo w par. MB Częstochowskiej w Lubiczu Górnym ciało spocznie na miejscowym cmentarzu
 Jest organizowany autokar na godz. 10.00 przed kościołem. Kontakt z ks Adamem Zielińskim
