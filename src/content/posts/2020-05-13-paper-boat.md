@@ -2,67 +2,46 @@
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
-date: 2022-08-28
+date: 2022-09-03
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
 
-##DWUDZIESTA DRUGA NIEDZIELA W CIĄGU ROKU - 28 sierpnia 2022
+#DWUDZIESTA TRZECIA NIEDZIELA W CIĄGU ROKU - 4 września 2022
 
-#OGŁOSZENIA DUSZPASTERSKIE
+OGŁOSZENIA DUSZPASTERSKIE
 
-1. Dziś ostatnia niedziela wakacji. Przed nami ostatnie dni wakacyjnego odpoczynku. Dziękujemy Bogu za czas wakacji i urlopów, za wszelkie dobro, którego doświadczyliśmy w tym czasie, i za ludzi, których Bóg postawił na naszej drodze. 
+1. Dziś dwudziesta trzecia niedziela w ciągu roku kościelnego. Sprawując tajemnicę męki, śmierci i zmartwychwstania Chrystusa, uwielbiliśmy Boga i zaczerpnęliśmy ze źródła Bożej łaski. Niech te dary umacniają nas na drogach codziennego życia i dawania świadectwa naszej bliskości z Bogiem. 
 
-2. Jutro, 29 sierpnia,  Męczeństwo Świętego Jana Chrzciciela. 
+2. Dziś pierwsza niedziela miesiąca przygotowująca do peregrynacji obrazu MB Częstochowskiej.
 
-3. W czwartek, 1 września, początek nowego roku szkolnego i katechetycznego. Zapraszamy dzieci i młodzież, rodziców, wychowawców i nauczycieli na Mszę Świętą w piątek o godz. 17.00  Będziemy prosili o Boże błogosławieństwo na trud pracy i nauki w nowym roku szkolnym. Można będzie skorzystać z sakramentu pokuty i pojednania przed Msza Świętą 16.30. – I piątek miesiąca. 
+3. W czwartek, 8 września, przypada święto Narodzenia Najświętszej Maryi Panny. W Polsce ten liturgiczny obchód nazywany jest popularnie świętem Matki Bożej Siewnej. Przez wstawiennictwo Maryi będziemy modlić się za wszystkich pracujących na roli, aby ich praca i trud wydawały błogosławione owoce. Błogosławieństwo ziarna siewnego podczas Mszy Świętej.
 
-4. 1.09  przypada także 83 rocznica wybuchu II wojny światowej. Naszą modlitewną pamięcią będziemy ogarniali wszystkich, którzy zginęli w obronie naszej ojczyzny. 
+4. Z tydzień po mszy o 11.00 Spotkanie rodziców klas 1,2,3 przygotowujących się do I Komunii św. poświecenie przyborów szkolnych i tornistrów na każdej Mszy.
 
-5. W sobotę, 3 września,  pierwsza sobota miesiąca. Nabożeństwo przygotowujące nas na nawiedzenie NMP w ikonie Jasnogórskiej o 8.30
+5. Zamarł mój tata + Wiktor Sawicki - pogrzeb we wtorek o 12.oo w par. MB Częstochowskiej w Lubiczu Górnym ciało spocznie na miejscowym cmentarzu
+Jest organizowany autokar na godz. 10.00 przed kościołem. Kontakt z ks Adamem Zielińskim
 
-6. Podziękowania dla Miriam i Gabriela z Francji za piękny śpiew liturgiczny.
+6. Wszystkim jubilatom i solenizantom życzymy obfitości Bożych darów oraz szczególnej opieki Matki Bożej.   
 
-7. Wszystkim świętującym w tym tygodniu dzień urodzin, imienin oraz różnego rodzaju rocznice i jubileusze składamy najlepsze życzenia. Niech Bóg otacza was swoją opieką na drogach codzienności, obdarza radością i pokojem oraz umacnia w trudach i przeciwnościach.  
+#Intencje mszalne  08 – 11 września  2022
 
+#CZWARTEK -  08.09  
 
-#Intencje mszalne  29 sierpnia – 04 września  2022
+15.00 [+] Stanisława Gęgotek 1 rś int męża i córek z r.
 
-#PONIEDZIAŁEK – 29.08
+16.00 [+] Kazimierz Grabowski  6 rś int. zony i syna Józefa 
 
-09.00 [+]  Leszek Szałkiewicz int. żony Aleksandry
+#PIĄTEK – 09.09
 
-#WTOREK  -  30.08
+16.00 [+]Marek Juszczyński 4 rś int. żony i dzieci
 
-09.00 [+]Edward Krulikowski int. Świątkowskich
+#SOBOTA – 10.09
 
-#ŚRODA - 31.08
+09.00 [+]Aurelia Bolesław Szelągowscy int dzieci z r.
 
-09.00 [+]Stanisława Gęgotek int Józefa i Stefana Kowal z r
+#NIEDZIELA - 11.09
 
-#CZWARTEK -  01.09  
+09.00 [+] Leon Ziółkowski i jego rodzice 
 
-16.00 [+]Renata Ziółkowska int. r. Szałańskich
-
-#PIĄTEK – 02.09
-
-16.30 [-]adoracja Najświętszego Sakramentu – spowiedź 
-
-17.00 [+] Jan Sadownik int. żony
-
-#SOBOTA – 03.09
-
-08.30 [-] przygotowanie do peregrynacji obrazu MB Częstochowskiej
-
-09.00 [+] Marianna Gardyza int. r. Sztrajbeków z Boniewa 
-
-09.30 [-] odwiedziny chorych 
-
-17.00 [-] ślub Sylwia i Damian
-
-#NIEDZIELA - 04.09
-
-09.00 [+] Stefan Sochacki imieninowa
-
-11.00 [+]Ewa Wituska 1 rś int. dzieci z r.
-[+] Marianna Leandowska w 2 rś int. wnuczki Lidii z r. i córki Anny z r.
+11.00 [-]  Ewa Krzysztof Betlińscy w 35 r. ślubu [-] Karolina – 18 r.ur
