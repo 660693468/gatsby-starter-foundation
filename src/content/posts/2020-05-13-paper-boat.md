@@ -2,46 +2,78 @@
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
-date: 2022-09-03
+date: 2022-09-12
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
 
-#DWUDZIESTA TRZECIA NIEDZIELA W CIĄGU ROKU - 4 września 2022
+##DWUDZIESTA CZWARTA NIEDZIELA W CIĄGU ROKU - 11 września 2022
 
-OGŁOSZENIA DUSZPASTERSKIE
+#OGŁOSZENIA DUSZPASTERSKIE
 
-1. Dziś dwudziesta trzecia niedziela w ciągu roku kościelnego. Sprawując tajemnicę męki, śmierci i zmartwychwstania Chrystusa, uwielbiliśmy Boga i zaczerpnęliśmy ze źródła Bożej łaski. Niech te dary umacniają nas na drogach codziennego życia i dawania świadectwa naszej bliskości z Bogiem. 
+1. Dziś dwudziesta czwarta niedziela zwykła w ciągu roku. Niech moc Boga płynąca z tajemnicy Eucharystii wspomaga nas w naśladowaniu Zbawiciela i dźwiganiu codziennego krzyża.
 
-2. Dziś pierwsza niedziela miesiąca przygotowująca do peregrynacji obrazu MB Częstochowskiej.
 
-3. W czwartek, 8 września, przypada święto Narodzenia Najświętszej Maryi Panny. W Polsce ten liturgiczny obchód nazywany jest popularnie świętem Matki Bożej Siewnej. Przez wstawiennictwo Maryi będziemy modlić się za wszystkich pracujących na roli, aby ich praca i trud wydawały błogosławione owoce. Błogosławieństwo ziarna siewnego podczas Mszy Świętej.
+2. Dziś poświecenie przyborów szkolnych i tornistrów  spotkanie uczniów kl 1 2  3 
 
-4. Za tydzień po mszy o 11.00 spotkanie rodziców klas 1,2,3 przygotowujących się do I Komunii św. poświecenie przyborów szkolnych i tornistrów na każdej Mszy.
+3. We wtorek, 13 września, nabożeństwo fatimskie o godz. 18.30
 
-5. Zamarł mój tata + Wiktor Sawicki - pogrzeb we wtorek o 12.oo w par. MB Częstochowskiej w Lubiczu Górnym ciało spocznie na miejscowym cmentarzu
-Jest organizowany autokar na godz. 10.00 przed kościołem. Kontakt z ks Adamem Zielińskim
+4. W środę,  święto Podwyższenia Krzyża Świętego W niedzielę odpust w Kruszynie. 
 
-6. Wszystkim jubilatom i solenizantom życzymy obfitości Bożych darów oraz szczególnej opieki Matki Bożej.   
+5. W czwartek, 15 września, w liturgii wspominamy Najświętszą Maryję Pannę Bolesną. 
 
-#Intencje mszalne  08 – 11 września  2022
+6. Dożynki w ostatnią niedzielę września – spotkanie rady parafialnej wtorek o 19.30
 
-#CZWARTEK -  08.09  
+7. W sobotę, 17 września, przypada kolejna rocznica zbrojnej napaści Związku Radzieckiego na Polskę. Tego dnia w sposób szczególny będziemy się modlić za wszystkich, którzy zginęli w obronie naszej ojczyzny. 
 
-15.00 [+] Stanisława Gęgotek 1 rś int męża i córek z r.
+8. Wczoraj zabrano do konserwacji pozostałe elementy lewego ołtarza i część prawego dziękuję p. Jabłońskiemu z pomoc i za rusztowania p. Pietrzakowi. 
 
-16.00 [+] Kazimierz Grabowski  6 rś int. zony i syna Józefa 
+9. W imieniu mojej rodziny i własnym dziękuję  za modlitwę, kondolencje, zamówione Msze św.,  Komunie  i obecność na pogrzebie mojego taty.
 
-#PIĄTEK – 09.09
+10. Wszystkim jubilatom i solenizantom najbliższego tygodnia życzymy doświadczenia bliskości i mocy Pana w codziennym życiu, posłuszeństwa Jego słowu oraz nieustannego dawania świadectwa przynależności do Boga i Kościoła.  
 
-16.00 [+]Marek Juszczyński 4 rś int. żony i dzieci
+##Intencje mszalne  12 – 18 września 2022
 
-#SOBOTA – 10.09
+#PONIEDZIAŁEK - 12.09
 
-09.00 [+]Aurelia Bolesław Szelągowscy int dzieci z r.
+16.00 [+] Zofia Kwiatkowska int. Nowakowskich z Lubrańca
 
-#NIEDZIELA - 11.09
+#WTOREK – 13.09
 
-09.00 [+] Leon Ziółkowski i jego rodzice 
+18.00 [+] Janina Stanisław Betlińscy  16 rś int. syna Krzysztofa z r.
 
-11.00 [-]  Ewa Krzysztof Betlińscy w 35 r. ślubu [-] Karolina – 18 r.ur
+#18.30 [-]  nabożeństwo fatimskie
+
+#ŚRODA – 14.09
+
+16.00 [+] Leszek Szałkiewicz int  Teresy Chaberskiej Małgorzaty Macieja Mikołajwskich
+
+[+] Irena Lewandowska int.  Wandy Nawrockiej
+
+[+] Krystyna Sobieraj int. wnuczki Agnieszki z r. 
+
+[+] Zofia Głowacka int sąsiadów Betlińskich
+
+[+]Alina Sochacka int. Danuty i Zbigniewa  Sudomir
+
+[+] Barbra Sobczyńska – zarząd Peuchatos
+
+[+] Janina Betlińska w 16 rś – Barbary Betlińskiej
+
+#CZWARTEK -  15.09  
+
+13.00 [+] Wiktor Sawicki int. r. Wawrzonkowskich ze Stoku
+
+#PIĄTEK – 16.09
+
+15.00 [+]Barbara Pawłowska int.  Haliny Chojnackiej z r.
+
+#SOBOTA – 17.09
+
+09.00 [+]  Justyna Federowicz im. i ur. int.  mamy
+
+#NIEDZIELA - 18.09
+
+09.00 [+]Wacława Błaszak Kazimierz Jan Kosińscy
+
+11.00 [-]  Parafian [+] Bogumił 10 rś Czesława Malec
