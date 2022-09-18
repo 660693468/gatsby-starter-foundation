@@ -26,7 +26,7 @@ twą otaczamy wszystkich pracujących w mediach, aby wiernie służyli prawdzie.
 Msza św.  z udziałem zespołu Spod Strzechy z Brześcia Kuj. o godz. 11.00. Dary ołtarza poszczególne wioski. 
 Dąbie, Bodzanowo, Kąkowa Wola, Borucin, Redecz Krukowy
 Stok, Agnieszkowo, Annowo
-Dekoracja:  do czwartku proszę o płody rolne. Burmistrzak Juszczyńska  Betlińska Lewandowskie  Sobieraj Caban Andrusiewicz  proszę asystę w strojach
+Dekoracja:  do czwartku proszę o płody rolne. Tradycyjnie proszę o pomoc p.Burmistrzak Juszczyńska  Betlińska Lewandowskie  Sobieraj Caban Andrusiewicz  proszę asystę w strojach
 
 7. Wszystkich jubilatów i solenizantów tego tygodnia niech Bóg hojnie obdarza swoją łaską,  umacnia w wierze, nadziei i miłości oraz prowadzi światłem swojej prawdy.  
 
