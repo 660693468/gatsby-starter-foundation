@@ -2,78 +2,75 @@
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
-date: 2022-09-12
+date: 2022-09-18
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
 
-##DWUDZIESTA CZWARTA NIEDZIELA W CIĄGU ROKU - 11 września 2022
+#DWUDZIESTA PIĄTA NIEDZIELA W CIĄGU ROKU - 18 września 2022
 
 #OGŁOSZENIA DUSZPASTERSKIE
 
-1. Dziś dwudziesta czwarta niedziela zwykła w ciągu roku. Niech moc Boga płynąca z tajemnicy Eucharystii wspomaga nas w naśladowaniu Zbawiciela i dźwiganiu codziennego krzyża.
+1. Dziś dwudziesta piąta niedziela zwykła w roku kościelnym. Modlimy się wspólnie, abyśmy zachowując Boże przykazania, zasłużyli na życie wieczne 
 
+2. Dziś przypada także Światowy Dzień Środków Społecznego Przekazu. Naszą modli
+twą otaczamy wszystkich pracujących w mediach, aby wiernie służyli prawdzie. W korzystaniu z przestrzeni medialnej niech wszystkim towarzyszy wzajemna życzliwość i szacunek. Dziękujemy także za media katolickie, które służą szerzeniu Dobrej Nowiny. 
 
-2. Dziś poświecenie przyborów szkolnych i tornistrów  spotkanie uczniów kl 1 2  3 
+3. Dziś, 18 września, przypada również święto Świętego Stanisława Kostki, patrona dzieci i młodzieży, głównego patrona Polski. Naszą modlitwą otaczamy młode pokolenie, aby wzrastało w wierze i bliskości Pana. 
 
-3. We wtorek, 13 września, nabożeństwo fatimskie o godz. 18.30
+4. W środę, 21 września, święto Świętego Mateusza Apostoła i Ewangelisty. 
 
-4. W środę,  święto Podwyższenia Krzyża Świętego W niedzielę odpust w Kruszynie. 
+5. W piątek, 23 września, będziemy obchodzili wspomnienie Świętego Ojca Pio. 
 
-5. W czwartek, 15 września, w liturgii wspominamy Najświętszą Maryję Pannę Bolesną. 
+6. Dożynki Parafialne za tydzień
+Msza św.  z udziałem zespołu Spod Strzechy z Brześcia Kuj. o godz. 11.00. Dary ołtarza poszczególne wioski. 
+Dąbie, Bodzanowo, Kąkowa Wola, Borucin, Redecz Krukowy
+Stok, Agnieszkowo, Annowo
+Dekoracja:  do czwartku proszę o płody rolne. Burmistrzak Juszczyńska  Betlińska Lewandowskie  Sobieraj Caban Andrusiewicz  proszę asystę w strojach
 
-6. Dożynki w ostatnią niedzielę września – spotkanie rady parafialnej wtorek o 19.30
+7. Wszystkich jubilatów i solenizantów tego tygodnia niech Bóg hojnie obdarza swoją łaską,  umacnia w wierze, nadziei i miłości oraz prowadzi światłem swojej prawdy.  
 
-7. W sobotę, 17 września, przypada kolejna rocznica zbrojnej napaści Związku Radzieckiego na Polskę. Tego dnia w sposób szczególny będziemy się modlić za wszystkich, którzy zginęli w obronie naszej ojczyzny. 
+##Intencje mszalne  19 – 25 września 2022
 
-8. Wczoraj zabrano do konserwacji pozostałe elementy lewego ołtarza i część prawego dziękuję p. Jabłońskiemu z pomoc i za rusztowania p. Pietrzakowi. 
+#PONIEDZIAŁEK - 19.09
 
-9. W imieniu mojej rodziny i własnym dziękuję  za modlitwę, kondolencje, zamówione Msze św.,  Komunie  i obecność na pogrzebie mojego taty.
+16.00 [+]Marian Dziuba int. żony i syna
 
-10. Wszystkim jubilatom i solenizantom najbliższego tygodnia życzymy doświadczenia bliskości i mocy Pana w codziennym życiu, posłuszeństwa Jego słowu oraz nieustannego dawania świadectwa przynależności do Boga i Kościoła.  
+#WTOREK – 20.09
 
-##Intencje mszalne  12 – 18 września 2022
-
-#PONIEDZIAŁEK - 12.09
-
-16.00 [+] Zofia Kwiatkowska int. Nowakowskich z Lubrańca
-
-#WTOREK – 13.09
-
-18.00 [+] Janina Stanisław Betlińscy  16 rś int. syna Krzysztofa z r.
-
-#18.30 [-]  nabożeństwo fatimskie
+16.00 [+]Marian Ładziński w r ś int. żony i dzieci
 
 #ŚRODA – 14.09
 
-16.00 [+] Leszek Szałkiewicz int  Teresy Chaberskiej Małgorzaty Macieja Mikołajwskich
+16.00 [-] o zdrowie w pewnej intencji
 
-[+] Irena Lewandowska int.  Wandy Nawrockiej
+[+] ks Kazimierz Marchlewski  13 rś
 
-[+] Krystyna Sobieraj int. wnuczki Agnieszki z r. 
+[+] Józef Wawrzonkowski – r. Betlińskich z Jądrowic 
 
-[+] Zofia Głowacka int sąsiadów Betlińskich
+[+] Leszek Szałkiewicz – sąsiadów Czajkowskich 
 
-[+]Alina Sochacka int. Danuty i Zbigniewa  Sudomir
+[+] Irena Lewandowska – koleżanki Henryki Juszczyńskiej 
 
-[+] Barbra Sobczyńska – zarząd Peuchatos
+[+] Zofia Głowacka – sąsiadów Grochowina 
 
-[+] Janina Betlińska w 16 rś – Barbary Betlińskiej
+[+] Alina Sochacka – sąsiadów Kubiaków
 
 #CZWARTEK -  15.09  
 
-13.00 [+] Wiktor Sawicki int. r. Wawrzonkowskich ze Stoku
+16.00 [-] w pewnej intencji 
 
 #PIĄTEK – 16.09
 
-15.00 [+]Barbara Pawłowska int.  Haliny Chojnackiej z r.
+15.00 [+] Anna Mantyk 3rś int. dzieci
 
 #SOBOTA – 17.09
 
-09.00 [+]  Justyna Federowicz im. i ur. int.  mamy
+09.00 [+]  Wiktor Sawicki int. Barbary i Bogumiła Augustyniak
 
 #NIEDZIELA - 18.09
 
-09.00 [+]Wacława Błaszak Kazimierz Jan Kosińscy
+09.00 [+]Agata i Józef Łodygowscy i rodzic. Bronisława Kazimierz  
+Franciszek Nawroccy int. Marty i Stanisława Łodygowskich
 
-11.00 [-]  Parafian [+] Bogumił 10 rś Czesława Malec
+11.00 [+] Józef Julianna Franciszek Wawrzonkowscy [–] dziękczynna za plony
