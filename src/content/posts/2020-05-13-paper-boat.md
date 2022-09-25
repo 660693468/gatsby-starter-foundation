@@ -2,75 +2,81 @@
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
-date: 2022-09-18
+date: 2022-09-25
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
 
-#DWUDZIESTA PIĄTA NIEDZIELA W CIĄGU ROKU - 18 września 2022
-
+##DWUDZIESTA SZÓSTA NIEDZIELA W CIĄGU ROKU - 25 września 2022 
 #OGŁOSZENIA DUSZPASTERSKIE
 
-1. Dziś dwudziesta piąta niedziela zwykła w roku kościelnym. Modlimy się wspólnie, abyśmy zachowując Boże przykazania, zasłużyli na życie wieczne 
+1. Dziś dwudziesta szósta niedziela w ciągu roku liturgicznego - święto dziękczynienia za plony. Podziękowanie za przybycie zaproszonych gości:
 
-2. Dziś przypada także Światowy Dzień Środków Społecznego Przekazu. Naszą modli
-twą otaczamy wszystkich pracujących w mediach, aby wiernie służyli prawdzie. W korzystaniu z przestrzeni medialnej niech wszystkim towarzyszy wzajemna życzliwość i szacunek. Dziękujemy także za media katolickie, które służą szerzeniu Dobrej Nowiny. 
+- Burmistrz Miasta i Gminy Lubraniec – Stanisław Piotr Budzyński                                           
 
-3. Dziś, 18 września, przypada również święto Świętego Stanisława Kostki, patrona dzieci i młodzieży, głównego patrona Polski. Naszą modlitwą otaczamy młode pokolenie, aby wzrastało w wierze i bliskości Pana. 
+- Burmistrz Miasta i Gminy Brześć Kujawski –  Tomasz   Chymkowski                                                     
 
-4. W środę, 21 września, święto Świętego Mateusza Apostoła i Ewangelisty. 
+- Przewodniczący Rady Miasta i Gminy  Lubraniec – Piotr Sławianowski
 
-5. W piątek, 23 września, będziemy obchodzili wspomnienie Świętego Ojca Pio. 
+- Zespół Folklorystyczny „Spod Strzechy” z Brześcia Kujawskiego 
 
-6. Dożynki Parafialne za tydzień
-Msza św.  z udziałem zespołu Spod Strzechy z Brześcia Kuj. o godz. 11.00. Dary ołtarza poszczególne wioski. 
-Dąbie, Bodzanowo, Kąkowa Wola, Borucin, Redecz Krukowy
-Stok, Agnieszkowo, Annowo
-Dekoracja:  do czwartku proszę o płody rolne. Tradycyjnie proszę o pomoc p.Burmistrzak Juszczyńska  Betlińska Lewandowskie  Sobieraj Caban Andrusiewicz  proszę asystę w strojach
+- radnym gminy Lubraniec Brześć Kujawski Osięciny, sołtysom                                     - 
 
-7. Wszystkich jubilatów i solenizantów tego tygodnia niech Bóg hojnie obdarza swoją łaską,  umacnia w wierze, nadziei i miłości oraz prowadzi światłem swojej prawdy.  
+Radzie Parafialnej, delegacjom poszczególnych miejscowości,  wioskom za dary ołtarza, parafianom za zbiory i plony; dekoracja kościoła: Panie Lewandowskie, Sobieraj, Caban, Staszak  Andrusiewicz, Juszczyńska 
+Urzędowi Miasta Lubraniec za uporządkowanie centrum Dąbia p. Lucynie Szatkowskiej z Tawerny Brześć Kujawski Zajazdowi Piłsudskiego z Dąbia p. Bączek  Piekarni Boniewo p. Przybysz
 
-##Intencje mszalne  19 – 25 września 2022
+2. W czwartek święto Świętych Archaniołów: Michała, Gabriela i Rafała. A w piątek, Św. Hieronima, który całe życie poświęcił poznawaniu Pisma Świętego. Przetłumaczył Biblię z języka greckiego na język łaciński (tzw. „Wulgata”). 
 
-#PONIEDZIAŁEK - 19.09
+3. 1 października, początek roku akademickiego. Wszystkim studentom życzymy gorliwości w zdobywaniu wiedzy, a nauczycielom akademickim i profesorom Bożego światła i cierpliwości w pracy akademickiej.  
 
-16.00 [+]Marian Dziuba int. żony i syna
+4. Rozpoczynamy  – miesiąc modlitwy różańcowej. Zapraszamy wszystkich: dzieci, młodzież i dorosłych do udziału w nabożeństwie różańcowym codziennie. Osoby, które nie mogą przybyć na tę modlitwę do świątyni, zapraszamy, aby modlić się na różańcu w domu. 
 
-#WTOREK – 20.09
+5. Tego dnia w liturgii Kościoła będziemy wspominać Świętą Teresę od Dzieciątka Jezus, nazywaną Małą Tereską, patronkę misji. Ta  sobota to pierwsza sobota miesiąca. Przez modlitwę różańcową przygotowujemy się do peregrynacji obrazu M B Częstochowskiej. Od  9.30 odwiedzać będę chorych.
 
-16.00 [+]Marian Ładziński w r ś int. żony i dzieci
+6. Wszystkim jubilatom i solenizantom tego tygodnia życzymy obfitości Bożego błogosławieństwa oraz opieki Niepokalanej.         
 
-#ŚRODA – 14.09
+#Intencje mszalne  26 września – 02 października  2022
 
-16.00 [-] o zdrowie w pewnej intencji
+#PONIEDZIAŁEK - 26.09
 
-[+] ks Kazimierz Marchlewski  13 rś
+13.00 [+] Grażyna Kołodziejska int. sąsiadów Paliwoda
 
-[+] Józef Wawrzonkowski – r. Betlińskich z Jądrowic 
+#WTOREK – 27.09
 
-[+] Leszek Szałkiewicz – sąsiadów Czajkowskich 
+16.00 [+] Józef Wawrzonkowski int. Franciszka Gołebiewskiego z dziećmi
 
-[+] Irena Lewandowska – koleżanki Henryki Juszczyńskiej 
+#ŚRODA – 28.09
 
-[+] Zofia Głowacka – sąsiadów Grochowina 
+16.00 [+] Zofia Głowacka – Ryszarda Piekarskiego z synem
 
-[+] Alina Sochacka – sąsiadów Kubiaków
+[+] Krystyna Sobieraj – wnuka Kamila z r. 
 
-#CZWARTEK -  15.09  
+[+] Irena Lewandowska – r. Benedykcińskich z Witowa
 
-16.00 [-] w pewnej intencji 
+[+] Leszek Szałkiewicz – sąsiadów Ziółkowskich 
 
-#PIĄTEK – 16.09
+[+] Józef Wawrzonkowski – Jadwigi Bartkowiak z r. 
 
-15.00 [+] Anna Mantyk 3rś int. dzieci
+[+] Wacław Chojnacki – r. Lipskich z Redcza 
 
-#SOBOTA – 17.09
+#CZWARTEK -  29.09  
 
-09.00 [+]  Wiktor Sawicki int. Barbary i Bogumiła Augustyniak
+14.00 [+] Jerzy Sadowski int. siostry Ireny z r.
 
-#NIEDZIELA - 18.09
+#PIĄTEK – 30.09
 
-09.00 [+]Agata i Józef Łodygowscy i rodzic. Bronisława Kazimierz  
-Franciszek Nawroccy int. Marty i Stanisława Łodygowskich
+13.00 [+]Romuald Kwiatkowski int. teściów Jóźwiaków
 
-11.00 [+] Józef Julianna Franciszek Wawrzonkowscy [–] dziękczynna za plony
+#SOBOTA – 01.10
+
+08.30 [-] Różaniec
+
+09.00 [+]  Daromiła Dybowska int męża i dzieci z r.
+
+09.30 [-] odwiedziny chorych
+
+#NIEDZIELA - 02.10
+
+09.00 [-] dziękczynna
+
+11.00 [-] Grażyna i Marian w 35 rocznicę ślubu
