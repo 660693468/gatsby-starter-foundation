@@ -12,15 +12,15 @@ featuredImage: /assets/papiez.jpg
 
 1. Dziś dwudziesta szósta niedziela w ciągu roku liturgicznego - święto dziękczynienia za plony. Podziękowanie za przybycie zaproszonych gości:
 
-- Burmistrz Miasta i Gminy Lubraniec – Stanisław Piotr Budzyński                                           
+[-] Burmistrz Miasta i Gminy Lubraniec – Stanisław Piotr Budzyński                                           
 
-- Burmistrz Miasta i Gminy Brześć Kujawski –  Tomasz   Chymkowski                                                     
+[-] Burmistrz Miasta i Gminy Brześć Kujawski –  Tomasz   Chymkowski                                                     
 
-- Przewodniczący Rady Miasta i Gminy  Lubraniec – Piotr Sławianowski
+[-] Przewodniczący Rady Miasta i Gminy  Lubraniec – Piotr Sławianowski
 
-- Zespół Folklorystyczny „Spod Strzechy” z Brześcia Kujawskiego 
+[-] Zespół Folklorystyczny „Spod Strzechy” z Brześcia Kujawskiego 
 
-- radnym gminy Lubraniec Brześć Kujawski Osięciny, sołtysom                                     - 
+[-] radnym gminy Lubraniec Brześć Kujawski Osięciny, sołtysom                                     - 
 
 Radzie Parafialnej, delegacjom poszczególnych miejscowości,  wioskom za dary ołtarza, parafianom za zbiory i plony; dekoracja kościoła: Panie Lewandowskie, Sobieraj, Caban, Staszak  Andrusiewicz, Juszczyńska 
 Urzędowi Miasta Lubraniec za uporządkowanie centrum Dąbia p. Lucynie Szatkowskiej z Tawerny Brześć Kujawski Zajazdowi Piłsudskiego z Dąbia p. Bączek  Piekarni Boniewo p. Przybysz
