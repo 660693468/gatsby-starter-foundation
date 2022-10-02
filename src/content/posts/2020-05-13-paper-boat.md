@@ -7,6 +7,7 @@ description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
 
+
 ##DWUDZIESTA SIÓDMA NIEDZIELA W CIĄGU ROKU	 -  2 października 2022 
 
 #OGŁOSZENIA DUSZPASTERSKIE
