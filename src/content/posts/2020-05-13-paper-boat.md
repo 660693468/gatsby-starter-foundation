@@ -1,82 +1,87 @@
----
+--
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
-date: 2022-09-25
+date: 2022-10-02
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
 
-##DWUDZIESTA SZÓSTA NIEDZIELA W CIĄGU ROKU - 25 września 2022 
+##DWUDZIESTA SIÓDMA NIEDZIELA W CIĄGU ROKU	 -  2 października 2022 
+
 #OGŁOSZENIA DUSZPASTERSKIE
 
-1. Dziś dwudziesta szósta niedziela w ciągu roku liturgicznego - święto dziękczynienia za plony. Podziękowanie za przybycie zaproszonych gości:
+1. Dziś dwudziesta siódma niedziela zwykła w ciągu roku kościelnego. Liturgia niedzielna wyparła liturgiczne wspomnienie Świętych Aniołów Stróżów. Niech towarzyszy nam wiara w obecność i pomoc świętych aniołów, których Bóg powołał, aby nas strzegli na drogach naszego życia. To trzeci dzień nowenny przygotowujący do peregrynacji obrazu Matki Bożej Częstochowskiej.
 
-[-] Burmistrz Miasta i Gminy Lubraniec – Stanisław Piotr Budzyński                                           
+2. Trwa październik – miesiąc modlitwy różańcowej. Zapraszamy wszystkich: dzieci, młodzież / wt śr i czw – 16.30 / i dorosłych do udziału w nabożeństwie różańcowym codziennie. Osoby modlące się na różańcu mogą zyskać łaskę odpustu zupełnego, czyli darowanie kar czyśćcowych za grzechy. Taki odpust pod zwykłymi warunkami można zyskać, odmawiając jedną część różańca. 
 
-[-] Burmistrz Miasta i Gminy Brześć Kujawski –  Tomasz   Chymkowski                                                     
+3. We wtorek wspomnienie Świętego Franciszka z Asyżu. To także dzień imienin papieża Franciszka. Niech nasza modlitwa będzie wsparciem dla Ojca Świętego. 
 
-[-] Przewodniczący Rady Miasta i Gminy  Lubraniec – Piotr Sławianowski
+4. W środę, wspominamy w liturgii Świętą Siostrę Faustynę Kowalską, którą nazywamy Apostołką Bożego Miłosierdzia. 
 
-[-] Zespół Folklorystyczny „Spod Strzechy” z Brześcia Kujawskiego 
+5. W piątek, 7 października, przypada liturgiczne wspomnienie Najświętszej Maryi Panny Różańcowej. To jednocześnie pierwszy piątek miesiąca. Nabożeństwo do Najświętszego Serca Pana Jezusa i sakrament pokuty i pojednania różaniec od 16.30 -17.00 zapraszam dzieci na poświęcenie różańców. 
 
-[-] radnym gminy Lubraniec Brześć Kujawski Osięciny, sołtysom                                     - 
+6. Za tydzień spotkanie kandydatów do bierzmowania.
 
-Radzie Parafialnej, delegacjom poszczególnych miejscowości,  wioskom za dary ołtarza, parafianom za zbiory i plony; dekoracja kościoła: Panie Lewandowskie, Sobieraj, Caban, Staszak  Andrusiewicz, Juszczyńska 
-Urzędowi Miasta Lubraniec za uporządkowanie centrum Dąbia p. Lucynie Szatkowskiej z Tawerny Brześć Kujawski Zajazdowi Piłsudskiego z Dąbia p. Bączek  Piekarni Boniewo p. Przybysz
+7. Proszę o zgłaszanie się chętnych na pielgrzymkę do `Częstochowy.
 
-2. W czwartek święto Świętych Archaniołów: Michała, Gabriela i Rafała. A w piątek, Św. Hieronima, który całe życie poświęcił poznawaniu Pisma Świętego. Przetłumaczył Biblię z języka greckiego na język łaciński (tzw. „Wulgata”). 
+8. Wszystkim jubilatom i solenizantom tego tygodnia życzymy Bożej mądrości w codziennych wyborach, wzrastania w miłości oraz podejmowania pokornej służby względem Boga i bliźniego. 
 
-3. 1 października, początek roku akademickiego. Wszystkim studentom życzymy gorliwości w zdobywaniu wiedzy, a nauczycielom akademickim i profesorom Bożego światła i cierpliwości w pracy akademickiej.  
 
-4. Rozpoczynamy  – miesiąc modlitwy różańcowej. Zapraszamy wszystkich: dzieci, młodzież i dorosłych do udziału w nabożeństwie różańcowym codziennie. Osoby, które nie mogą przybyć na tę modlitwę do świątyni, zapraszamy, aby modlić się na różańcu w domu. 
+##Intencje mszalne  03 – 09 października  2022
 
-5. Tego dnia w liturgii Kościoła będziemy wspominać Świętą Teresę od Dzieciątka Jezus, nazywaną Małą Tereską, patronkę misji. Ta  sobota to pierwsza sobota miesiąca. Przez modlitwę różańcową przygotowujemy się do peregrynacji obrazu M B Częstochowskiej. Od  9.30 odwiedzać będę chorych.
+#PONIEDZIAŁEK - 03.10
 
-6. Wszystkim jubilatom i solenizantom tego tygodnia życzymy obfitości Bożego błogosławieństwa oraz opieki Niepokalanej.         
+13.00 [-] Różaniec
 
-#Intencje mszalne  26 września – 02 października  2022
+13.30 [+] Barbara Pawłowska int. sąsiadów Majewskich 
 
-#PONIEDZIAŁEK - 26.09
+#WTOREK – 04.10
 
-13.00 [+] Grażyna Kołodziejska int. sąsiadów Paliwoda
+16.00 [-] Kubusia Jasińskiego o zdrowie
 
-#WTOREK – 27.09
+16.30 [-] Różaniec/dzieci/
 
-16.00 [+] Józef Wawrzonkowski int. Franciszka Gołebiewskiego z dziećmi
+17.00 [+] Stanisława Gęgotek int. Grażyny Ciechalskiej Edyty                                              i Marka Konopińskich
 
-#ŚRODA – 28.09
+#ŚRODA – 05.10
 
-16.00 [+] Zofia Głowacka – Ryszarda Piekarskiego z synem
+16.00 [+] Barbara Bolesław Mrozińscy int. dzieci
 
-[+] Krystyna Sobieraj – wnuka Kamila z r. 
+16.30 [-] Różaniec/dzieci/
 
-[+] Irena Lewandowska – r. Benedykcińskich z Witowa
+17.30 [+] Jadwiga Rybacka int. Jadwigi Marek i r. Wawrzyniak
 
-[+] Leszek Szałkiewicz – sąsiadów Ziółkowskich 
+#CZWARTEK -  06.10  
 
-[+] Józef Wawrzonkowski – Jadwigi Bartkowiak z r. 
+16.00 [+] Jadwiga Wawrzyniak int. r. Waśkiewicz i Balcerak 
 
-[+] Wacław Chojnacki – r. Lipskich z Redcza 
+16.30 [-] Różaniec/dzieci/
 
-#CZWARTEK -  29.09  
+17.00 [+] Stanisław Sobczak int. Opłatkowskich Kurantów 
+                              Skruchów Skowrońskich Wójcików
 
-14.00 [+] Jerzy Sadowski int. siostry Ireny z r.
+#PIĄTEK – 07.10 I Pierwszy Piątek Miesiąca - Matki Bożej Różańcowej
 
-#PIĄTEK – 30.09
+16.30 [+] Różaniec – spowiedź 
 
-13.00 [+]Romuald Kwiatkowski int. teściów Jóźwiaków
+17.00 [+] Janina Buczkowska int. Zielińskich i Siemiątkowskich
 
-#SOBOTA – 01.10
+#SOBOTA – 08.10
 
 08.30 [-] Różaniec
 
-09.00 [+]  Daromiła Dybowska int męża i dzieci z r.
+09.00 [+]  Jan Łucja Urbańscy int. dzieci z r. 
 
-09.30 [-] odwiedziny chorych
+16.00 [-] ślub Anna i Sławomir
 
-#NIEDZIELA - 02.10
+#NIEDZIELA - 09.10
 
-09.00 [-] dziękczynna
+09.00 [-] Bartek 18 r. urodzin dziękczynna
 
-11.00 [-] Grażyna i Marian w 35 rocznicę ślubu
+11.00 [+] Jan Zalewski teściowie Zalewscy rodzic Czarniak br Henryk siostra Janina
+
+
+
+
+
