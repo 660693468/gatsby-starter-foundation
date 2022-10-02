@@ -1,4 +1,4 @@
---
+---
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
