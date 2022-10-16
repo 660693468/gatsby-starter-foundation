@@ -2,87 +2,86 @@
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
-date: 2022-10-02
+date: 2022-10-16
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
 
 
-##DWUDZIESTA SIÓDMA NIEDZIELA W CIĄGU ROKU	 -  2 października 2022 
+##DZIEWIĄTA NIEDZIELA W CIĄGU ROKU   -   16 października 2022
 
 #OGŁOSZENIA DUSZPASTERSKIE
 
-1. Dziś dwudziesta siódma niedziela zwykła w ciągu roku kościelnego. Liturgia niedzielna wyparła liturgiczne wspomnienie Świętych Aniołów Stróżów. Niech towarzyszy nam wiara w obecność i pomoc świętych aniołów, których Bóg powołał, aby nas strzegli na drogach naszego życia. To trzeci dzień nowenny przygotowujący do peregrynacji obrazu Matki Bożej Częstochowskiej.
+1. Dziś przypada kolejna rocznica wyboru Kardynała Karola Wojtyły na Stolicę Piotrową. Przez wstawiennictwo Świętego Jana Pawła II módlmy się o Bożę opiekę dla całej naszej ojczyzny. To kolejny Dzień Papieski. Modlitwą i ofiarami do puszek wspieramy Fundację „Dzieło Nowego Tysiąclecia”. Głównym jej zadaniem jest promocja nauczania Jana Pawła II oraz wspieranie edukacji dzieci i młodzieży z ubogich rodzin. Dziękujemy za każdy gest życzliwości i wsparcie tej inicjatywy. 
 
-2. Trwa październik – miesiąc modlitwy różańcowej. Zapraszamy wszystkich: dzieci, młodzież / wt śr i czw – 16.30 / i dorosłych do udziału w nabożeństwie różańcowym codziennie. Osoby modlące się na różańcu mogą zyskać łaskę odpustu zupełnego, czyli darowanie kar czyśćcowych za grzechy. Taki odpust pod zwykłymi warunkami można zyskać, odmawiając jedną część różańca. 
+2. We wtorek, święto Świętego Łukasza Ewangelisty będziemy wspierać modlitwą wszystkich pracowników służby zdrowia. 
 
-3. We wtorek wspomnienie Świętego Franciszka z Asyżu. To także dzień imienin papieża Franciszka. Niech nasza modlitwa będzie wsparciem dla Ojca Świętego. 
+3. W sobotę, będziemy wspominać Świętego Jana Pawła II
 
-4. W środę, wspominamy w liturgii Świętą Siostrę Faustynę Kowalską, którą nazywamy Apostołką Bożego Miłosierdzia. 
+4. Trwa miesiąc modlitwy różańcowej. Zapraszamy codziennie do świątyni na nabożeństwo różańcowe. dzieci we wtorek środa i w czwartek
 
-5. W piątek, 7 października, przypada liturgiczne wspomnienie Najświętszej Maryi Panny Różańcowej. To jednocześnie pierwszy piątek miesiąca. Nabożeństwo do Najświętszego Serca Pana Jezusa i sakrament pokuty i pojednania różaniec od 16.30 -17.00 zapraszam dzieci na poświęcenie różańców. 
+5. Najbliższa niedziela, 23 października, w Kościele będzie Niedzielą Misyjną. Naszą modlitwą i ofiarami będziemy wspierać wszystkich pracujących na misjach. 
 
-6. Za tydzień spotkanie kandydatów do bierzmowania.
+6. Wszystkim  jubilatom i solenizantom tego tygodnia życzymy wytrwałości w modlitwie oraz ufnego kierowania się Bożym słowem na wszystkich drogach codzienności
 
-7. Proszę o zgłaszanie się chętnych na pielgrzymkę do `Częstochowy.
+#Intencje mszalne  17 – 18 października  2022
 
-8. Wszystkim jubilatom i solenizantom tego tygodnia życzymy Bożej mądrości w codziennych wyborach, wzrastania w miłości oraz podejmowania pokornej służby względem Boga i bliźniego. 
-
-
-##Intencje mszalne  03 – 09 października  2022
-
-#PONIEDZIAŁEK - 03.10
+#PONIEDZIAŁEK - 17.10
 
 13.00 [-] Różaniec
 
-13.30 [+] Barbara Pawłowska int. sąsiadów Majewskich 
+13.30 [+]Stanisław Kwaśny int. siostry Marianny 
 
-#WTOREK – 04.10
+#WTOREK – 18.10
 
-16.00 [-] Kubusia Jasińskiego o zdrowie
-
-16.30 [-] Różaniec/dzieci/
-
-17.00 [+] Stanisława Gęgotek int. Grażyny Ciechalskiej Edyty                                              i Marka Konopińskich
-
-#ŚRODA – 05.10
-
-16.00 [+] Barbara Bolesław Mrozińscy int. dzieci
+16.00 [+]Władysław Wojtkowski
 
 16.30 [-] Różaniec/dzieci/
 
-17.30 [+] Jadwiga Rybacka int. Jadwigi Marek i r. Wawrzyniak
+17.00 [-] Parafian
 
-#CZWARTEK -  06.10  
+#ŚRODA – 19.10
 
-16.00 [+] Jadwiga Wawrzyniak int. r. Waśkiewicz i Balcerak 
+16.00 [+]Stanisław Kwaśny – Danielaków z Włocławka
 
-16.30 [-] Różaniec/dzieci/
+[+] Józef Kociński – Frątczaków z Redcza Krukowego 
 
-17.00 [+] Stanisław Sobczak int. Opłatkowskich Kurantów 
-                              Skruchów Skowrońskich Wójcików
+[+] Wacław Chojnacki – szwagra Piotra z r. 
 
-#PIĄTEK – 07.10 I Pierwszy Piątek Miesiąca - Matki Bożej Różańcowej
+[+] Józef Wawrzonkowski – Misterskich z Dąbia
 
-16.30 [+] Różaniec – spowiedź 
+[+] Leszek Szałkiewicz – sąsiada Danielaka
 
-17.00 [+] Janina Buczkowska int. Zielińskich i Siemiątkowskich
+[+] Alina Sochacka – r. Gózków 
 
-#SOBOTA – 08.10
+[+] Krystyna Sobieraj – Rady Sołeckiej Annowa
+
+16.30 [-] Różaniec /dzieci/ 
+
+#CZWARTEK -  20.10  
+
+16.00 [+]Barbara Sobczyńska int. syna Sławka z r.
+      
+16.30 [-] Różaniec Fatimski /dzieci/
+
+17.00 [+]Jan Sadownik int. córki Anny z mężem
+
+#PIĄTEK – 21.10 
+
+13.00 [+] Różaniec – spowiedź 
+
+13.30 [+]Andrzej Rossa int. Pantuchowiczów z Agnieszkowa
+
+#SOBOTA – 22.10
 
 08.30 [-] Różaniec
 
-09.00 [+]  Jan Łucja Urbańscy int. dzieci z r. 
+09.00 [+]  Romuald Kwiatkowski int. syna Adama z narzeczoną 
 
-16.00 [-] ślub Anna i Sławomir
+09.30 [+] Stanisław Betliński z racji ur. int. żony
 
-#NIEDZIELA - 09.10
+#NIEDZIELA - 23.10
 
-09.00 [-] Bartek 18 r. urodzin dziękczynna
+09.00 [+] Dziadkowie Rakowscy i Weneccy
 
-11.00 [+] Jan Zalewski teściowie Zalewscy rodzic Czarniak br Henryk siostra Janina
-
-
-
-
-
+11.00 [+] Janina Stanisław Andrzej Balcerowcy int rodziny
