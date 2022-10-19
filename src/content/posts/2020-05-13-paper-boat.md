@@ -24,39 +24,7 @@ featuredImage: /assets/papiez.jpg
 
 6. Wszystkim  jubilatom i solenizantom tego tygodnia życzymy wytrwałości w modlitwie oraz ufnego kierowania się Bożym słowem na wszystkich drogach codzienności
 
-#Intencje mszalne  17 – 18 października  2022
-
-#PONIEDZIAŁEK - 17.10
-
-13.00 [-] Różaniec
-
-13.30 [+]Stanisław Kwaśny int. siostry Marianny 
-
-#WTOREK – 18.10
-
-16.00 [+]Władysław Wojtkowski
-
-16.30 [-] Różaniec/dzieci/
-
-17.00 [-] Parafian
-
-#ŚRODA – 19.10
-
-16.00 [+]Stanisław Kwaśny – Danielaków z Włocławka
-
-[+] Józef Kociński – Frątczaków z Redcza Krukowego 
-
-[+] Wacław Chojnacki – szwagra Piotra z r. 
-
-[+] Józef Wawrzonkowski – Misterskich z Dąbia
-
-[+] Leszek Szałkiewicz – sąsiada Danielaka
-
-[+] Alina Sochacka – r. Gózków 
-
-[+] Krystyna Sobieraj – Rady Sołeckiej Annowa
-
-16.30 [-] Różaniec /dzieci/ 
+#Intencje mszalne  
 
 #CZWARTEK -  20.10  
 
