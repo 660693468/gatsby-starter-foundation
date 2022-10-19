@@ -72,13 +72,7 @@ featuredImage: /assets/papiez.jpg
 
 13.30 [+]Andrzej Rossa int. Pantuchowiczów z Agnieszkowa
 
-#SOBOTA – 22.10
-
-08.30 [-] Różaniec
-
-09.00 [+]  Romuald Kwiatkowski int. syna Adama z narzeczoną 
-
-09.30 [+] Stanisław Betliński z racji ur. int. żony
+#SOBOTA – 22.10 PIELGRZYMKA CZĘSTOCHOWA
 
 #NIEDZIELA - 23.10
 
