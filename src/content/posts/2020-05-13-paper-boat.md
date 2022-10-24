@@ -2,48 +2,72 @@
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
-date: 2022-10-16
+date: 2022-10-24
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
 
 
-##DZIEWIĄTA NIEDZIELA W CIĄGU ROKU   -   16 października 2022
+#TRZYDZIESTA NIEDZIELA W CIĄGU ROKU - 23 października 2022
 
-#OGŁOSZENIA DUSZPASTERSKIE
+##OGŁOSZENIA DUSZPASTERSKIE
 
-1. Dziś przypada kolejna rocznica wyboru Kardynała Karola Wojtyły na Stolicę Piotrową. Przez wstawiennictwo Świętego Jana Pawła II módlmy się o Bożę opiekę dla całej naszej ojczyzny. To kolejny Dzień Papieski. Modlitwą i ofiarami do puszek wspieramy Fundację „Dzieło Nowego Tysiąclecia”. Głównym jej zadaniem jest promocja nauczania Jana Pawła II oraz wspieranie edukacji dzieci i młodzieży z ubogich rodzin. Dziękujemy za każdy gest życzliwości i wsparcie tej inicjatywy. 
+1. Dziś trzydziesta niedziela zwykła w roku liturgicznym. We wspólnocie Kościoła obchodzona jest jako Niedziela Misyjna, która rozpoczyna tydzień misyjny. Naszą modlitwą wspieramy dziś wszystkich misjonarzy duchownych i świeckich, wypraszamy im Bożą pomoc w trudzie głoszenia Ewangelii. Dziś wspieramy Papieskie Dzieła Misyjne naszymi ofiarami. Za każdy gest dobroci wobec misjonarzy składamy serdeczne Bóg zapłać!
 
-2. We wtorek, święto Świętego Łukasza Ewangelisty będziemy wspierać modlitwą wszystkich pracowników służby zdrowia. 
+2. W piątek, 28 października, w kalendarzu liturgicznym przypada święto Świętych Apostołów Szymona i Judy Tadeusza.
 
-3. W sobotę, będziemy wspominać Świętego Jana Pawła II
+3. Kończy się październik – miesiąc różańca. Zapraszamy codziennie na różaniec. Dzieci wtorek środa czwartek Warto zadać sobie pytania: Czy choć raz w tym miesiącu modliłem się na różańcem w intencjach swoich bliskich? Czy udało mi się zebrać rodzinę i zaprosić ją do wspólnej modlitwy?
 
-4. Trwa miesiąc modlitwy różańcowej. Zapraszamy codziennie do świątyni na nabożeństwo różańcowe. dzieci we wtorek środa i w czwartek
+4. Za tydzień gościmy w Parafii Ks Zbigniew Łukasik dyr. Muzeum Diecezjalnego Włocławek 
 
-5. Najbliższa niedziela, 23 października, w Kościele będzie Niedzielą Misyjną. Naszą modlitwą i ofiarami będziemy wspierać wszystkich pracujących na misjach. 
+5. Wszystkim jubilatom i solenizantom najbliższego tygodnia życzymy obfitości Bożych darów oraz szczególnej opieki Matki Zbawiciela.   
 
-6. Wszystkim  jubilatom i solenizantom tego tygodnia życzymy wytrwałości w modlitwie oraz ufnego kierowania się Bożym słowem na wszystkich drogach codzienności
+#Intencje mszalne     25 - 30 października   2022
 
-#Intencje mszalne  
+#WTOREK – 25.10
 
-#CZWARTEK -  20.10  
+16.00 [+]Tadeusz Bartkowiak int żony i dzieci
 
-16.00 [+]Barbara Sobczyńska int. syna Sławka z r.
-      
+16.30 [-] Różaniec/dzieci/
+
+#ŚRODA – 26.10
+
+16.00 [+]Andrzej Piotr Stefania Jan Słowińscy Czesława Franciszek Adamowscy Zenon Żelazek
+
+[+] Stanisław Kwaśny – Zofii Michalak z Borucina
+
+[+] Józef Kociński – Moniki i Błażeja Wieczorków
+
+[+] Wacław Chojnacki – Teresy Chaberskiej Aleksandry Szałkiewicz
+
+[+] Józef Wawrzonkowski – Romana Pietrzaka 
+
+[+] Leszek Szałkiewicz – kolegów Leśnictwa Lubraniec
+
+[+] Krystyna Sobieraj – Katarzyny Augustyniak 
+
+16.30 [-] Różaniec /dzieci/ 
+
+#CZWARTEK -  27.10  
+
+16.00 [-]dziękczynna z prośbą o Błogosławieństwo
+
 16.30 [-] Różaniec Fatimski /dzieci/
 
-17.00 [+]Jan Sadownik int. córki Anny z mężem
+#PIĄTEK – 28.10 
 
-#PIĄTEK – 21.10 
+13.00 [+] Różaniec 
 
-13.00 [+] Różaniec – spowiedź 
+13.30 [+]Jerzy Sadowski int. Marii Jasińskiej
+  
+  
+#NIEDZIELA - 30.10
 
-13.30 [+]Andrzej Rossa int. Pantuchowiczów z Agnieszkowa
+09.00 [+]Jan w rś Krystyna Przychodzcy Kazimierz Ochociński zm z ich rodz.  
 
-#SOBOTA – 22.10 PIELGRZYMKA CZĘSTOCHOWA
+[+] Stanisława Jan Waśkiewicz Janina Władysław Matusiak
 
-#NIEDZIELA - 23.10
+11.00 [-] Parafian
 
-09.00 [+] Dziadkowie Rakowscy i Weneccy
+[-] Mirosława Mirosław Szmajda 30 r. ślubu
 
-11.00 [+] Janina Stanisław Andrzej Balcerowcy int rodziny
