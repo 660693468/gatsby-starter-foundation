@@ -18,7 +18,7 @@ featuredImage: /assets/papiez.jpg
 
 3. Kończy się październik – miesiąc różańca. Zapraszamy codziennie na różaniec. Dzieci wtorek środa czwartek Warto zadać sobie pytania: Czy choć raz w tym miesiącu modliłem się na różańcem w intencjach swoich bliskich? Czy udało mi się zebrać rodzinę i zaprosić ją do wspólnej modlitwy?
 
-4. Za tydzień gościmy w Parafii Ks Zbigniew Łukasik dyr. Muzeum Diecezjalnego Włocławek 
+4. Za tydzień gościmy w Parafii Ks Zbigniewa Łukasika dyr. Muzeum Diecezjalnego Włocławek 
 
 5. Wszystkim jubilatom i solenizantom najbliższego tygodnia życzymy obfitości Bożych darów oraz szczególnej opieki Matki Zbawiciela.   
 
@@ -52,7 +52,7 @@ featuredImage: /assets/papiez.jpg
 
 16.00 [-]dziękczynna z prośbą o Błogosławieństwo
 
-16.30 [-] Różaniec Fatimski /dzieci/
+16.30 [-] Różaniec /dzieci/
 
 #PIĄTEK – 28.10 
 
