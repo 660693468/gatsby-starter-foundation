@@ -54,7 +54,7 @@ featuredImage: /assets/papiez.jpg
 
 16.40 [-] Koronka do Bożego Miłosierdzia
 
- #ZMARLI 01.11.2020-31.11.2021
+17.00 #ZMARLI 01.11.2020-31.11.2021
 [+] Stanisław Sobczak  [+] Jadwiga Wawrzyniak [+] Andrzej Rossa  [+] Jerzy Sadowski 
 [+] Jerzy Ciesielski [+] Grażyna Kołodziejska [+] Barbara Sobczyńska
 [ ]+ Romuald Kwiatkowski [+] Alina Sochacka [+] Marianna Wesołowska 
