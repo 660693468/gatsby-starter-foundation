@@ -2,89 +2,77 @@
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
-date: 2022-10-30
+date: 2022-11-06
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
 
 
 
-##TRZYDZIESTA PIERWSZA NIEDZIELA W CIĄGU ROKU        
+##TRZYDZIESTA DRUGA NIEDZIELA W CIĄGU ROKU - 6 listopada 2022
 
-#30 października 2022 OGŁOSZENIA DUSZPASTERSKIE
+#OGŁOSZENIA DUSZPASTERSKIE
 
-1. Dziś trzydziesta pierwsza niedziela zwykła w ciągu roku kościelnego. Każda Eucharystia, w której uczestniczymy, jest pamiątką zmartwychwstania Chrystusa i przedsmakiem wiecznej chwały. 
+1. Dziś trzydziesta druga niedziela zwykła w roku kościelnym. Błagamy Boga, aby oddalił od nas łaskawie wszelkie przeciwności, abyśmy wolni od niebezpieczeństw duszy i ciała, mogli swobodnie Mu służyć. 
 
-2. Dziękuję wszystkim, którzy przez cały miesiąc gromadzili się na wspólnej modlitwie różańcowej. 
+2. Jutro w Brzeziu spotkanie dekanalne i Msza za zmarłych kapłanów.
 
-3. We wtorek , 1 listopada, przypada uroczystość Wszystkich Świętych.  Msze Święte w kościele o 9.00.  Na  cmentarzu o godz. 11.00. Po Mszy Świętej wyruszy procesja, w czasie której będziemy modlić się za zmarłych spoczywających na naszym cmentarzu. Zbiórka na tace na WSD Włocławek.
+3. W piątek, 11 listopada, przypada Święto Niepodległości. Msze Święte w naszej świątyni o godz. 09.00 i 11.00. Modlitewną pamięcią będziemy ogarniać wszystkich, którzy zginęli w walce o jej wolność. Niech zewnętrznym znakiem naszego świętowania będzie wywieszona flaga narodowa. Dyspensa od pokarmów mięsnych.
 
-4. We wtorek 2 listopada – Dzień Zaduszny. W liturgii Kościół wspomina wszystkich wiernych zmarłych, którzy poprzedzili nas na drodze wiary. O 16.40 koronka do Bożego Miłosierdzia o 17.00 Msza za zmarłych z 2021/22.
+4. W najbliższą niedzielę, 13 listopada, Dzień Solidarności z Kościołem Prześladowanym. Także tego dnia będziemy obchodzić już po raz piąty ustanowiony przez papieża Franciszka Światowy Dzień Ubogich. Ofiary do puszek
 
-5. Od 1 do 8 listopada włącznie można codziennie zyskać odpust zupełny za pobożne nawiedzenie cmentarza i odmówienie modlitwy za zmarłych. Trzeba także spełnić zwykłe warunkami otrzymania odpustu, czyli być w stanie łaski uświęcającej, przyjąć Komunię Świętą, pomodlić się w intencjach wyznaczonych przez papieża, wykluczyć przywiązanie do jakiegokolwiek grzechu. Odpust można ofiarować wyłącznie za zmarłych. Przed mszą Koronka Do Bożego Miłosierdzia.
+5. Wszystkim jubilatom i solenizantom życzymy otwartości na Boże słowo oraz odwagi w podejmowaniu codziennych obowiązków względem Boga i bliźniego.
 
-6. W tym tygodniu pierwszy piątek miesiąca. Nabożeństwo do Najświętszego Serca Pana Jezusa i spowiedź od godz. 16.00.
+##Intencje mszalne 07 – 16 listopada 2022
 
-7. Pierwsza sobota miesiąca. 8.30 różaniec przygotowujący do nawiedzenia NMP w kopi jasnogórskiego obrazu. 9.30 odwiedziny chorych.
+#PONIEDZIAŁEK  - 07.11
 
-8. W niedzielę za tydzień przypada pierwsza niedziela miesiąca kolejny dzień nowenny do MB Częstochowskiej. 
+13.00 [+]Stanisław Kwaśny int siostry Janiny z r.
 
-9. Podziękowanie za kamień przy cmentarzu p. Wawrzonkowskiemu Markowi Pietrzakowi i Betlinskiemu   Podziękowanie dla  Pietrzaka i Betlinskiego za naprawienie listwy na dachu Podziękowanie za kwiaty p. Jasińskim z Stoku 
+#WTOREK – 08.11 
 
-10 Gościmy w Parafii Ks Zbigniewa Łukasika dyr. Muzeum Diecezjalnego Włocławek
+16.00 [+]Genowefa Józef Szałańscy Piotr Andrzej Słowińscy
 
-11. Wszystkim jubilatom i solenizantom tego tygodnia składamy najlepsze życzenia wzrastania w wierze, nadziei i miłości oraz doświadczenia bliskości Pana i Jego mocy w codziennych potrzebach. 
+#ŚRODA – 09.11  
 
-     	#Intencje mszalne      31 października – 06 listopada   2022
+16.00 [+] Stanisław Kwaśny – Genowefy Roszak i Simińskich
+[+ Józef Kociński  - Zakładu Pogrzebowego Arka
+[+] Wacław Chojnacki – Pracowników UP Radziejów
+[+] Józef Wawrzonkowski – r. Cabanów z Kąkowej Woli
+]+] Leszek Szałkiewicz – Zakładu Pogrzebowego Arka
+[+] Zenon Wawrzyniak - Zakładu Pogrzebowego Arka
+[+] Ryszard Szelągowski – Jadwigi Szynalskiej z Czarnocic
 
+#CZWARTEK -  10.11 
 
-#PONIEDZIAŁEK  - 31.10
+13.00 [-]Irena i Marian Caban 45 r. ślubu   
 
-08.30 [-] Różaniec 
+#PIĄTEK – 11.11 Narodowe Święto Niepodległości
 
-09.00 [+] Józef Kociński int. córki Magdaleny
+09.00 [+] Barbara Bolesław Mrozińscy int dzieci
 
-#WTOREK – 01.11 UROCZYSTOŚĆ WSZYTSKICH ŚWIETYCH
+[+] Wiktor Sawicki int. Marty i Tomasza Staszak 
 
-09.00 [+] Grażyna Kołodziejska int. siostry Elżbiety z r. oraz Haliny z r.
+11.00 [+] Józef Pluskota int Bożeny Marek z r.
 
-11.00  [-] Masza św. na cmentarzu [+] PARAFIAN  [-] PROCESJA 
+[+] Maria Nowak int Siostry Wandy z dziećmi
 
-#ŚRODA – 02.11  DZIEŃ ZADUSZNY
+#SOBOTA – 12.11
 
-16.40 [-] Koronka do Bożego Miłosierdzia
+09.00 [+]   Marian Roszak 5 rś int żony dzieci wnuków prawnuków [+] Czesław Katarzyna Zaparucha
 
-17.00 #ZMARLI 01.11.2020-31.10.2021
-[+] Stanisław Sobczak  [+] Jadwiga Wawrzyniak [+] Andrzej Rossa  [+] Jerzy Sadowski 
-[+] Jerzy Ciesielski [+] Grażyna Kołodziejska [+] Barbara Sobczyńska
-[ ]+ Romuald Kwiatkowski [+] Alina Sochacka [+] Marianna Wesołowska 
-[+] Irena Jesiołowska [+] Jan Sadownik [+] Zofia Głowacka [+] Krystyna Sobieraj
-[+] Irena Lewandowska [+] Leszek Szałkiewicz [+] Józef Wawrzonkowski                            
-[+] Wiktor Sawicki [+] Wacław Chojnacki [+] Józef Kociński [+] Stanisław Kwaśny
+[+] Wiktor Sawicki int. Seweryna Bączka z r. 
 
-#CZWARTEK -  03.11 
+09.30 [+] Sławomira Gęgotek
 
-15.40 [-] Koronka do Bożego Miłosierdzia
+16.00 [-] ślub Milena i Krzysztof 
 
-16.00 [+]Wacław Chojnacki int. żony z synem
+#NIEDZIELA - 13.11
 
-#PIĄTEK – 04.11
+09.00 [+]Czesława 41 rś Franciszek Mierzejewscy
 
-16.00 [-] Wystawienie Najświętszego Sakramentu [-] Koronka do Bożego Miłosierdzia                         [-] Sakrament pokuty i pojednania
+[+] Irena Lewandowska int. syna Tomasza z r. 
 
-16.30 [+]Krystyna Marian Zalewscy int najbliższych
+11.00 [+]Krystyna Włodzimierz Morawscy r. Lewandowskich
 
-#SOBOTA – 05.11
-
-08.30 [-] Różaniec
-
-09.00 [+]  Marianna Gardyza int sąsiadów Zielińskich 
-
-09.30 [-] odwiedziny chorych
-  
-#NIEDZIELA - 06.11
-
-09.00 [+]Eleonora i Stefan Ciesielscy
-/ - Halina i Stefan Mierzejewscy - 55 r. ślubu/
-
-11.00 + Lesław Nowak int żony z r. / Parafian/
+[+] Wiktor Sawicki int. Marioli i Michała Sobczynskich z r.  
