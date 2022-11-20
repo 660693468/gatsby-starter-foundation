@@ -7,7 +7,6 @@ description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
 
-
 ##JEZUSA CHRYSTUSA, KRÓLA WSZECHŚWIATA -  20 listopada 2022
 
 #OGŁOSZENIA DUSZPASTERSKIE
@@ -16,7 +15,7 @@ featuredImage: /assets/papiez.jpg
 
 2. Jutro, 21 listopada, wspomnienie Ofiarowania Najświętszej Maryi Panny. Tradycja przekazuje, że Maryja została jako dziecko przedstawiona w świątyni i przy niej wzrastała. 
 
-3. We wtorek, 22 listopada,  wspomnienie Świętej Cecylii, , patronki muzyki kościelnej.  Pani Klaudii za troskę o muzykę kościelną w naszej parafii, ,  składam serdeczne podziękowanie za całoroczną posługę i życzę obfitości Bożego błogosławieństwa w dalszej posłudze. 
+3. We wtorek, 22 listopada,  wspomnienie Świętej Cecylii, , patronki muzyki kościelnej.  Pani Klaudii - za troskę o muzykę kościelną w naszej parafii, ,  składam serdeczne podziękowanie za całoroczną posługę i życzę obfitości Bożego błogosławieństwa w dalszej posłudze. 
 
 4. Świece Caritas 20 i 10 zł.
 
