@@ -2,54 +2,62 @@
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
-date: 2022-11-13
+date: 2022-11-20
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
 
 
 
-#TRZYDZIESTA TRZECIA NIEDZIELA W CIĄGU ROKU  -  13 listopada 2022                                                                                                
+##JEZUSA CHRYSTUSA, KRÓLA WSZECHŚWIATA -  20 listopada 2022
 
 #OGŁOSZENIA DUSZPASTERSKIE
 
-1. W drugą niedzielę listopada od 2009 roku obchodzimy Dzień Solidarności z Kościołem Prześladowanym. Naszą modlitwą wspieramy dzisiaj chrześcijan na całym świecie, którzy nie mogą swobodnie wyznawać swojej wiary. Dziękuję za ofiary zbierane do puszek.
+1. Dziś ostatnia niedziela roku liturgicznego, w którą obchodzimy uroczystość Jezusa Chrystusa, Króla Wszechświata. Najbliższa niedziela to  pierwsza niedziela Adwentu. Rozpoczniemy czas radosnego oczekiwania i przygotowania na spotkanie z Panem. Najpierw na powtórne przyjście Chrystusa na kończy czasów, a także na świętowanie pierwszego przyjścia Pana na ziemię. 
 
-2. W najbliższą niedzielę, 20 listopada, przypada uroczystość Jezusa Chrystusa, Króla Wszechświata. Będzie to ostatnia niedziela roku liturgicznego. Korony dla dzieci.
+2. Jutro, 21 listopada, wspomnienie Ofiarowania Najświętszej Maryi Panny. Tradycja przekazuje, że Maryja została jako dziecko przedstawiona w świątyni i przy niej wzrastała. 
 
-3. Wszystkim jubilatom i solenizantom życzymy wrażliwości na Boże natchnienia, odwagi w dawaniu świadectwa wiary w codziennym życiu oraz opieki Matki Najświętszej na każdy dzień. 
+3. We wtorek, 22 listopada,  wspomnienie Świętej Cecylii, , patronki muzyki kościelnej.  Pani Klaudii - organistce za troskę o muzykę kościelną w naszej parafii, ,  składam serdeczne podziękowanie za całoroczną posługę i życzę obfitości Bożego błogosławieństwa w dalszej posłudze. 
 
+4. Świece Caritas 20 i 10 zł.
 
-##Intencje mszalne 14 – 20 listopada 2022
+5. Wszystkim jubilatom i solenizantom życzymy obfitości Bożych darów oraz szczególnej opieki Matki Najświętszej. 
 
-#PONIEDZIAŁEK  - 14.11
+##Intencje mszalne    21 -27  listopada  2022	
 
-13.00 [+]Barbara Pawłowska int. Anny i Pawła z r.
+#PONIEDZIAŁEK  - 21.11
 
-#WTOREK – 15.11 
+13.00 [+]Janina Wolańska 2 rś int syna z r.
 
-16.00 [+]Zofia Głowacka int. r. Jankowskich i Kasi z r.
+#WTOREK – 22.11 
 
-#CZWARTEK -  17.11 
+08.30 [+]Parafian
 
-15.00 [+]Stanisława 16 rś i Edward Pawłowscy
+#ŚRODA – 23.11
 
-#15.30 [-] Adoracja Najświętszego Sakramentu
+16.00 [+] Ryszard Szelągowski – r. Śrubasów ze Skibina
+[+] Zenon Wawrzyniak – Jolanty Balcerak z r. 
+[+] Stanisław Kwaśny – Zofii Mariana Kwaśnych
+[+] Wacław Chojnacki – Genowefy Roszak i Simińskich
+[+] Józef Wawrzonkowski – Anny Wojciecha Ratajczyk 
+[+] Leszek Szałkiewicz -  Kurantów z Borucina
+[+] Krystyna Sobieraj – Zakładu Pogrzebowego Arka
 
-17.00 [+] Jadwiga Zenon Helena Stanisław Henryk Przygodzińscy
+#CZWARTEK -  24.11 
 
-#PIĄTEK – 18.11 
+13.00 [+]Władysław Wojtkowski ur.
 
-13.00 [+]Barbara Sobczyńska int. Władysławy Ochmańskiej
+#PIĄTEK – 25.11 
 
-#SOBOTA – 19.11
+14.00 [+]Krystyna Józef Mikołajczak Aniela Stanisław Jaskólscy int. dzieci i wnuków
 
-16.00 [+]   Czesław Dziubich 20 rś rodzice Witulscy int żony i dzieci
+#SOBOTA – 26.11
 
-#NIEDZIELA - 20.11
+09.00 [+]   Marianna Józef Wawrzonkowscy int. syna Stanisława z r.
 
-09.00 [+]Józef Julianna Franciszek Wawrzonkowscy 
+#NIEDZIELA - 27.11
 
-11.00 [+] Marianna Henryk Słowińscy w rś
+09.00 [+]Franciszek Pawłowski int. żony
 
-
+11.00 [+]Stanisław Wójcik w 30 rś int. żony z r. 
+/Franciszek Marek Zatarscy int. siostry Janiny z r. /
