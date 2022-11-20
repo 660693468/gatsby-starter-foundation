@@ -8,7 +8,6 @@ featuredImage: /assets/papiez.jpg
 ---
 
 
-
 ##JEZUSA CHRYSTUSA, KRÓLA WSZECHŚWIATA -  20 listopada 2022
 
 #OGŁOSZENIA DUSZPASTERSKIE
