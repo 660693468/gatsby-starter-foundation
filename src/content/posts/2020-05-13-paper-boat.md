@@ -17,9 +17,8 @@ featuredImage: /assets/papiez.jpg
 
 3. We wtorek, 22 listopada,  wspomnienie Świętej Cecylii, , patronki muzyki kościelnej.  Pani Klaudii - za troskę o muzykę kościelną w naszej parafii, ,  składam serdeczne podziękowanie za całoroczną posługę i życzę obfitości Bożego błogosławieństwa w dalszej posłudze. 
 
-4. Świece Caritas 20 i 10 zł.
 
-5. Wszystkim jubilatom i solenizantom życzymy obfitości Bożych darów oraz szczególnej opieki Matki Najświętszej. 
+4. . Wszystkim jubilatom i solenizantom życzymy obfitości Bożych darów oraz szczególnej opieki Matki Najświętszej. 
 
 ##Intencje mszalne    21 -27  listopada  2022	
 
