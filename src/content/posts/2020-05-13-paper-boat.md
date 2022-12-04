@@ -2,59 +2,80 @@
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
-date: 2022-11-20
+date: 2022-12-04
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
 
-##JEZUSA CHRYSTUSA, KRÓLA WSZECHŚWIATA -  20 listopada 2022
+##DRUGA NIEDZIELA ADWENTU - 4 grudnia 2022 
 
 #OGŁOSZENIA DUSZPASTERSKIE
 
-1. Dziś ostatnia niedziela roku liturgicznego, w którą obchodzimy uroczystość Jezusa Chrystusa, Króla Wszechświata. Najbliższa niedziela to  pierwsza niedziela Adwentu. Rozpoczniemy czas radosnego oczekiwania i przygotowania na spotkanie z Panem. Najpierw na powtórne przyjście Chrystusa na kończy czasów, a także na świętowanie pierwszego przyjścia Pana na ziemię. 
+1. Dziś przeżywamy drugą niedzielę Adwentu. Niech ten święty czas mobilizuje każdego do duchowej odnowy, zacieśniania więzi z Panem Bogiem i braćmi. Przygotowujemy się bowiem na spotkanie z Panem, który z miłości do nas przyjmuje na siebie nasze człowieczeństwo, aby je przemienić, uświęcić. Nie pozwólmy, aby religijny charakter Adwentu zagłuszyły nachalne, głośne reklamy i przedświąteczna gorączka panująca w galeriach i marketach.
 
-2. Jutro, 21 listopada, wspomnienie Ofiarowania Najświętszej Maryi Panny. Tradycja przekazuje, że Maryja została jako dziecko przedstawiona w świątyni i przy niej wzrastała. 
+2. Dzisiejsza niedziela swoją rangą przykrywa liturgiczne wspomnienie Świętej Barbary, jest szczególną patronką górników i hutników, choć nie tylko. Wzywana jest też jako wspomożycielka.
 
-3. We wtorek, 22 listopada,  wspomnienie Świętej Cecylii, , patronki muzyki kościelnej.  Pani Klaudii - za troskę o muzykę kościelną w naszej parafii, ,  składam serdeczne podziękowanie za całoroczną posługę i życzę obfitości Bożego błogosławieństwa w dalszej posłudze. 
+3. W dzisiejszą niedzielę przypada też XXIII Dzień modlitw i pomocy materialnej Kościołowi na Wschodzie. Z polecenia władzy duchownej specjalną zbiórką do puszek przed kościołem wspieramy Fundusz Pomocy Kościołowi na Wschodzie.
+
+4. 8 XII uroczystość Niepokalanego Poczęcia Najświętszej Maryi Panny poświęcenie medalików dzieci I kom.
+
+5. 9.XII – g 16.00 – zbiórka śmieci elektrycznych i elektronicznych świece caritas Idziemy
+czas pomyśleć o dekoracji Bożonarodzeniowej i o choinkach. Casting na kolędy, wigilia BN i 2 dzień świąt.
+
+6. Wszystkich parafian: dzieci (z lampionami!), młodzież i dorosłych zachęcam do licznego udziału w roratach, sprawowanych w naszej parafii środy i czwartki o godz. 16.00
 
 
-4. . Wszystkim jubilatom i solenizantom życzymy obfitości Bożych darów oraz szczególnej opieki Matki Najświętszej. 
+##Intencje mszalne 05 – 11 grudnia 2022#PONIEDZIAŁEK 05.XII
 
-##Intencje mszalne    21 -27  listopada  2022	
+13.00. + Bogumiła Józef Elżbieta Zenon Zbigniew Pawłowscy
 
-#PONIEDZIAŁEK  - 21.11
+#WTOREK 06.XII
 
-13.00 [+]Janina Wolańska 2 rś int syna z r.
+14.00 + Kamil Pietrzak ur.
 
-#WTOREK – 22.11 
+#ŚRODA 07.XII NOWENNA DO MB NIEUSTAJĄCEJ POMOCY
 
-08.30 [+]Parafian
+16.00
 
-#ŚRODA – 23.11
+[+] Mirosław Augustyniak
 
-16.00 [+] Ryszard Szelągowski – r. Śrubasów ze Skibina
-[+] Zenon Wawrzyniak – Jolanty Balcerak z r. 
-[+] Stanisław Kwaśny – Zofii Mariana Kwaśnych
-[+] Wacław Chojnacki – Genowefy Roszak i Simińskich
-[+] Józef Wawrzonkowski – Anny Wojciecha Ratajczyk 
-[+] Leszek Szałkiewicz -  Kurantów z Borucina
-[+] Krystyna Sobieraj – Zakładu Pogrzebowego Arka
+[+] Ryszard Szelągowski – Janiaków ze Znaniewa 
 
-#CZWARTEK -  24.11 
+[+] Wacław Chojnacki – Zofii Mariana Kwaśnych
 
-13.00 [+]Władysław Wojtkowski ur.
+[+] Józef Wawrzonkowski – Kubiaków z Bogucinka 
 
-#PIĄTEK – 25.11 
+[+] Zofia Głowacka – wnuka Kamila z r.
 
-14.00 [+]Krystyna Józef Mikołajczak Aniela Stanisław Jaskólscy int. dzieci i wnuków
+#RORATY
 
-#SOBOTA – 26.11
+##CZWARTEK 08.XII NIEPOKALANE POCZĘCIE NMP
 
-09.00 [+]   Marianna Józef Wawrzonkowscy int. syna Stanisława z r.
+14.00 [+] Romuald Kwiatkowski int. r. Radaczewskich
 
-#NIEDZIELA - 27.11
+17.00 [+] z r. Sobczynskich int. Zdrzenieckich / poświecenie medalików/
 
-09.00 [+]Franciszek Pawłowski int. żony
+#RORATY
 
-11.00 [+]Stanisław Wójcik w 30 rś int. żony z r. 
-/Franciszek Marek Zatarscy int. siostry Janiny z r. /
+#PIĄTEK 09.XII
+
+13.00 [+] Anna Kazimierz Wojewoda Zofia Jan Józef Nowakowscy int. Syna Janka z r.
+
+#SOBOTA 10.XII
+
+13.00 [+] Wiktor Sawicki int. Wojtkowskiej 
+
+13.30 [+] Stanisław Betliński w 6 rś int. żony
+
+#NIEDZIELA 11.XII
+
+09.00 [+] Henryk Marianna Kujawa int. dzieci z r.
+
+11.00 [+] Zofia Stanisław Marczewscy Cecylia Mieczysław Waszak /Stanisław Betliński 6 rś int. Syna z r./
+
+
+| poniedzialek | 1 | 2 | 3 | 4 |
+|--------------|---|---|---|---|
+| wtorek       | 5 | 6 | 7 | 8 |
+| sroda        | 1 | 2 | 3 | 4 |
+| czwartek     | 5 | 6 | 7 | 8 |
