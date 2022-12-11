@@ -19,7 +19,7 @@ featuredImage: /assets/papiez.jpg
 
 4. Wszystkich parafian: dzieci (z lampionami!), młodzież i dorosłych zachęcam do udziału w roratach,  w naszej  środy i czwrtki o godz. 16.00
 
-5. W środę od godz. 13.00 odwiedzę chorych.
+5. W środę od godz. 14.00 odwiedzę chorych.
 
 6. Przygotowując się do świąt Bożego Narodzenia, pamiętajmy o naszych chrześcijańskich i narodowych tradycjach. Niech nie zabraknie w naszych domach pobłogosławionego wcześniej w kościele wigilijnego opłatka i płonącej świecy Caritasu. Adwentowy dzień skupienia w sobotę 17 grudnia poprowadzi ks Krzysztof Maciaszek wik par. Brześc Kuajwski 9.00 11.00 16.00
 
