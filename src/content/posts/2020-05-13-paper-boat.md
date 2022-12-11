@@ -2,80 +2,70 @@
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
-date: 2022-12-04
+date: 2022-12-11
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
 
-##DRUGA NIEDZIELA ADWENTU - 4 grudnia 2022 
+#TRZECIA NIEDZIELA ADWENTU - 11 grudnia 2022                                            
 
 #OGŁOSZENIA DUSZPASTERSKIE
 
-1. Dziś przeżywamy drugą niedzielę Adwentu. Niech ten święty czas mobilizuje każdego do duchowej odnowy, zacieśniania więzi z Panem Bogiem i braćmi. Przygotowujemy się bowiem na spotkanie z Panem, który z miłości do nas przyjmuje na siebie nasze człowieczeństwo, aby je przemienić, uświęcić. Nie pozwólmy, aby religijny charakter Adwentu zagłuszyły nachalne, głośne reklamy i przedświąteczna gorączka panująca w galeriach i marketach.
+1. To już połowa Adwentu. W tym tygodniu, a dokładnie od soboty, 17 grudnia, wkroczymy w okres bezpośredniego przygotowania do uroczystości Narodzenia Pańskiego. Przypatrzmy się, jak przeżywamy ten święty czas? 
 
-2. Dzisiejsza niedziela swoją rangą przykrywa liturgiczne wspomnienie Świętej Barbary, jest szczególną patronką górników i hutników, choć nie tylko. Wzywana jest też jako wspomożycielka.
+2. Trzecią niedzielę Adwentu nazywamy niedzielą Gaudete – „Radujcie się!”,. Dlatego też w dzisiejszej liturgii zamiast fioletowych pojawiły się szaty różowe. Ta zmiana koloru przyjęła się od zwyczaju błogosławienia przez papieży w Rzymie i rozdawania róż w tę właśnie radosną niedzielę. 
 
-3. W dzisiejszą niedzielę przypada też XXIII Dzień modlitw i pomocy materialnej Kościołowi na Wschodzie. Z polecenia władzy duchownej specjalną zbiórką do puszek przed kościołem wspieramy Fundusz Pomocy Kościołowi na Wschodzie.
+3. Dziś włączony zostaje do grona ministrantów  Wojciech.
 
-4. 8 XII uroczystość Niepokalanego Poczęcia Najświętszej Maryi Panny poświęcenie medalików dzieci I kom.
+4. Wszystkich parafian: dzieci (z lampionami!), młodzież i dorosłych zachęcam do udziału w roratach,  w naszej  środy i czwrtki o godz. 16.00
 
-5. 9.XII – g 16.00 – zbiórka śmieci elektrycznych i elektronicznych świece caritas Idziemy
-czas pomyśleć o dekoracji Bożonarodzeniowej i o choinkach. Casting na kolędy, wigilia BN i 2 dzień świąt.
+5. W środę od godz. 13.00 odwiedzę chorych.
 
-6. Wszystkich parafian: dzieci (z lampionami!), młodzież i dorosłych zachęcam do licznego udziału w roratach, sprawowanych w naszej parafii środy i czwartki o godz. 16.00
+6. Przygotowując się do świąt Bożego Narodzenia, pamiętajmy o naszych chrześcijańskich i narodowych tradycjach. Niech nie zabraknie w naszych domach pobłogosławionego wcześniej w kościele wigilijnego opłatka i płonącej świecy Caritasu. Adwentowy dzień skupienia w sobotę 17 grudnia poprowadzi ks Krzysztof Maciaszek wik par. Brześc Kuajwski 9.00 11.00 16.00
 
+7. Zachęta do nabywania świec caritas i czasopisma Idziemy. 
 
-##Intencje mszalne 05 – 11 grudnia 2022#PONIEDZIAŁEK 05.XII
+#Intencje mszalne 12 – 18 grudnia 2022
 
-13.00. + Bogumiła Józef Elżbieta Zenon Zbigniew Pawłowscy
+#PONIEDZIAŁEK  - 12.XII
 
-#WTOREK 06.XII
+13.00 [+] Edward Krulikowski int. Sąsiadów Rosińskich
 
-14.00 + Kamil Pietrzak ur.
+#WTOREK -13.XII
 
-#ŚRODA 07.XII NOWENNA DO MB NIEUSTAJĄCEJ POMOCY
+14.00 [+] Barbara Sobczyńska int. Wawrzonkowskich ze Stoku
 
-16.00
+#ŚRODA – 14.XII  RORATY
 
-[+] Mirosław Augustyniak
+14.00 [-] ODWIEDZINY CHORYCH
 
-[+] Ryszard Szelągowski – Janiaków ze Znaniewa 
+16.00 [+] Ryszard Szelągowski – Teresy Jana Krulikowskich
 
-[+] Wacław Chojnacki – Zofii Mariana Kwaśnych
+[+] Wacław Chojnacki – Zakładu Pogrzebowego Arka
 
-[+] Józef Wawrzonkowski – Kubiaków z Bogucinka 
+[+] Józef Wawrzonkowski – r. Ochocińskich
 
-[+] Zofia Głowacka – wnuka Kamila z r.
+[+] Zofia Głowacka – r. Kosińskich
 
-#RORATY
+#CZWARTEK – 15.XII  RORATY
 
-##CZWARTEK 08.XII NIEPOKALANE POCZĘCIE NMP
+16.00 [+] Alina Sochacka syna Marka z r.
 
-14.00 [+] Romuald Kwiatkowski int. r. Radaczewskich
+#PIATEK – 16.XII
 
-17.00 [+] z r. Sobczynskich int. Zdrzenieckich / poświecenie medalików/
+13.00 [+] Marianna Anna Stanisław Teodor Szymczak
 
-#RORATY
+#SOBOTA – 17.XII
 
-#PIĄTEK 09.XII
+09.00 [+] Renata Ziółkowska int. Stanisława Ziółkowskiego [+] Genowefa Wawrzyniak
 
-13.00 [+] Anna Kazimierz Wojewoda Zofia Jan Józef Nowakowscy int. Syna Janka z r.
+11.00 [+] Jerzy Ciesielski int. Olakowskich [+] Józef Wawrzonkowski int. Córki Jadwigi z mężem
 
-#SOBOTA 10.XII
+16.00 [+] Stanisława Gęgotek int. r. Borkowskich [+] Wiktor Sawicki int. Lucyny Szatkowskiej i pracowników Tawerny
 
-13.00 [+] Wiktor Sawicki int. Wojtkowskiej 
+#NIEDZIELA – 18.XII 
 
-13.30 [+] Stanisław Betliński w 6 rś int. żony
+09.00 [+]  Sylwester Małecki
 
-#NIEDZIELA 11.XII
-
-09.00 [+] Henryk Marianna Kujawa int. dzieci z r.
-
-11.00 [+] Zofia Stanisław Marczewscy Cecylia Mieczysław Waszak /Stanisław Betliński 6 rś int. Syna z r./
-
-
-| poniedzialek | 1 | 2 | 3 | 4 |
-|--------------|---|---|---|---|
-| wtorek       | 5 | 6 | 7 | 8 |
-| sroda        | 1 | 2 | 3 | 4 |
-| czwartek     | 5 | 6 | 7 | 8 |
+11.00 [+] Wiktor Sawicki int. Ani Maciejewskiej z r.
+/o szczęśliwą operację dla Gabrysi powrót do zdrowia/
