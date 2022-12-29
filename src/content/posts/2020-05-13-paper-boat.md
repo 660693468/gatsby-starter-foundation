@@ -16,48 +16,11 @@ featuredImage: /assets/papiez.jpg
 
 3. W sobotę zakończenie starego roku o godz. 15.00.
 
-4. Światło nocy betlejemskiej niech opromienia życie waszych rodzin, a błogosławieństwo Bożej Dzieciny niech towarzyszy wam i waszym bliskim w święta i przez całe życie. 
+4. Biskup włocławski Krzysztof Wętkowski wiernym przebywającym na terenie diecezji włocławskiej w dniu 30 grudnia br., w Święto Świętej Rodziny: Jezusa, Maryi i Józefa, udzielił dyspensy od wstrzemięźliwości od pokarmów mięsnych (kan. 1251 KPK) i zachowania pokutnego charakteru piątku (kan. 1250 KPK).
 
-##INTENCJE MSZALNE  25 GRUDNIA 2022 – 01 STYCZNIA 2023
+5. Światło nocy betlejemskiej niech opromienia życie waszych rodzin, a błogosławieństwo Bożej Dzieciny niech towarzyszy wam i waszym bliskim w święta i przez całe życie. 
 
-#SOBOTA – Wigilia Bożego Narodzenia
-
-21.30 [-] koncert kolęd
-
-22.00 [-] PASTERKA w int.  PARAFIAN
-
-#NIEDZIELA – 25.XII Boże Narodzenie
-
-09.00 [+]  Barbara w rś i Stanisław Sobczyńscy int dzieci z r.
-
-11.00 [+] Wiktor Sawicki int.  r. Waśkiewicz i Balcerak
-
-#PONIEDZIAŁEK – 26.XII – Św. SZCZEPANA
-
-09.00 [+]Jan Helena Szymczak int. Syna Włodzimierza z r.
-[+] Jerzy Sadowski w rś
-
-11.00 [+] Stanisław Szałański rodzic. Szałańskich i Zatarskich int. Janiny Szałańskiej
-[+] z r. Nawrockich i Marcinkowskich
-
-#WTOREK -27.XII
-
-09.00 [+]  Włodzimierz Gorzycki int. Justyny Kowalskiej z rodzicami
-
-
-#ŚRODA – 28.XII 
-
-16.00 [+] Henryk Stolarski – Krystyny Andrzeja Matuszewskich
-
-[+] Marianna Szymczak – Marii Jędrzejewskiej z córkami
-[+] Ryszard Szelągowski – Wszystkich Pracowników
-[+] Józef Wawrzonkowski –  Zakładu Pogrzebowego Arka
-[+] Zofia Głowacka – wnuczki Pauliny z r.
-
-
-#CZWARTEK – 29.XII 
-
-09.00 [+] Wiktor Sawicki int.  Sadowskiej
+##INTENCJE MSZALNE  
 
 #PIATEK – 30.XII ŚWIĘTEJ RODZINY JEZUSA MARYI I JÓZEFA
 
