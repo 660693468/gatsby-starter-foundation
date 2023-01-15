@@ -2,61 +2,51 @@
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
-date: 2023-01-08
+date: 2023-01-15
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
-#ŚWIĘTO CHRZTU PAŃSKIEGO - 08 stycznia 2023
+#DRUGA NIEDZIELA W CIĄGU ROKU - 15 stycznia 2023
 
 #OGŁOSZENIA DUSZPASTERSKIE
 
-1.  Dzisiejsze święto Chrztu Pańskiego zamyka liturgiczny obchód okresu Narodzenia Pańskiego. I choć w naszych kościołach kolędy będą rozbrzmiewać jeszcze do 2 lutego, czyli do święta Ofiarowania Pańskiego, to jednak liturgia będzie już kierować nasz wzrok na Jezusa, który rozpoczyna swoją publiczną działalność.
+1. Przeżywamy dziś drugą niedzielę w ciągu roku. Choć w naszych kościołach nie milkną kolędy, to jednak w liturgii wkraczamy w czas, w którym przypatrujemy się początkom życia publicznego Pana Jezusa. 
 
-2.  Dziś 12 ROCZNICA KONSEKRACJI KOŚCIOŁA.
+2. W sobotę, 21 stycznia,  Dzień Babci, a w niedzielę , 22 stycznia – Dzień Dziadka. Pamiętajmy i módlmy się w tych dniach za naszych kochanych Dziadków, tych żyjących i tych, którzy już odeszli do Pana. Bardzo często tyle im zawdzięczamy! Niech naszym podziękowaniem będzie modlitwa, ofiarowana Komunia św. i serdeczna pamięć. Środa godz. 17.00
 
-3.  Za tydzień o 11.00 spotkanie rodziców dzieci przygotowujących się do Pierwszej Komunii św.
+3. Pozdrawiam gości i parafian. Życzę błogosławionej niedzieli i całego tygodnia.
 
-4. Pozdrowienia dla Parafian i Gości – błogosławionego tygodnia.
+#Intencje mszalne 16 – 26 stycznia 2014
 
-#Intencje mszalne 09 – 15 stycznia 2023
+#PONIEDZIAŁEK -16.01
 
-#PONIEDZIAŁEK – 09.01
+14.00 [+] Stanisława Gęgotek int. Władysława Gajda
 
-13.00 [+] Parafian
+#WTOREK – 17.01
 
+14.00 [+]Janina Stanisław, Stanisław Marek Henryk Zofia Stolarscy
 
-#WTOREK – 10.01 
+#ŚRODA  - 18.01
 
-12.00 [+]  Jerzy Sadowski int. Marii Pikulskiej i Krzysztofa Matusiaka z r. 
+17.00 [+]  Władysław Wojtkowski 2 rś r. Wojtkowskich Szarwarkowskich 
+[+] r. Sobczyńskich
+[+] Władysław Zieliński – syna Sławka
+[+] Henryk Stolarski – sąsiadów Betlińskich
+[+]  Marianna Szymczak – Zakładu Pogrzebowego Arka
+[+] Ryszard Szelągowski – Zbigniewa Wojtasika z r. 
+[+] Józef Kociński – Pracowników „Chemirol”
+[+] Józef Wawrzonkowski – prac ZUS Włocławek
 
-$ŚRODA – 11.01
+#CZWRATEK – 19.01
 
-16.00 [+] Władysław Kamiński – Elżbiety Piotra Szczepańskich
-[+] Grażyna Kołodziejska – Borkowskich
-[+] Mirosław Ignaczak – Przewozikowskich i Zdziarskich
-[+] Henryk Stolarski – Henryka Jóźwiaka z r.
-[+] Marianna Szymczak – Szymczaków z Kazania
-[+] Ryszard Szelągowski – Jolanty Balcerak z r.
-[+] Zenon Wawrzyniak – Kowalewskich
-[+] Józef Kociński – Dyr Prac Nauczycieli Sz Rolniczej Brześć Kuj
-[+]  Zofia Głowacka  - Opasiak
+13.00 [+] Janina Buczkowska int. Tomka Agnieszki Adamskich
 
-#CZWARTEK – 12.01
+#SOBOTA  - 21.01
 
-13.00 [+] Marian Gorzeń int. r. Waśkiewiczów i Balceraków
+09.00 [+] Krystyna Sobieraj int. Córki Bronisławy z r.
 
-#PIĄTEK – 13.01  
+#NIEDZIELA – 22.01
 
-13.00 [+] Barbara Sobczyńska int. Kłosowskich z Włocławka
+09.00 [+] Tadeusz Pantuchowicz 18 rś int mamy i brata z żoną
 
-
-#SOBOTA – 14.01
-
-15.00 [+] Andrzej Jaroszewski 2 rś
-
-#NIEDZIELA – 15.01 
-
-09.00[+] Jadwiga Rybacka int.  r. Olszewskich
-
-11.00 + Janina Grzanka w rś /Jerzy Maciejewski w 11 rs/
-
+11.00 [+] Franciszek Kozicki 12 rś r. Jasnowskich i Kozickich
