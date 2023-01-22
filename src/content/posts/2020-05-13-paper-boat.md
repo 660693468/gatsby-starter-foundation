@@ -2,7 +2,7 @@
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
-date: 2023-01-15
+date: 2023-01-22
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
