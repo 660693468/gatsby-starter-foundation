@@ -6,47 +6,54 @@ date: 2023-01-15
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
-#DRUGA NIEDZIELA W CIĄGU ROKU - 15 stycznia 2023
+##TRZECIA NIEDZIELA W CIĄGU ROKU -  22 stycznia 2023
 
 #OGŁOSZENIA DUSZPASTERSKIE
 
-1. Przeżywamy dziś drugą niedzielę w ciągu roku. Choć w naszych kościołach nie milkną kolędy, to jednak w liturgii wkraczamy w czas, w którym przypatrujemy się początkom życia publicznego Pana Jezusa. 
+1. Dzisiejsza niedziela obchodzona jest jako Niedziela Słowa Bożego. Musimy wejść w bliską relację z Pismem Świętym, w przeciwnym razie nasze serce pozostanie zimne, a oczy zamknięte, dotknięte niezliczonymi formami ślepoty”. 
 
-2. W sobotę, 21 stycznia,  Dzień Babci, a w niedzielę , 22 stycznia – Dzień Dziadka. Pamiętajmy i módlmy się w tych dniach za naszych kochanych Dziadków, tych żyjących i tych, którzy już odeszli do Pana. Bardzo często tyle im zawdzięczamy! Niech naszym podziękowaniem będzie modlitwa, ofiarowana Komunia św. i serdeczna pamięć. Środa godz. 17.00
+2. W całym Kościele trwa Tydzień Powszechnej Modlitwy o Jedność Chrześcijan. Domaga się jej od nas sam Jezus, ucząc: „To jest moje przykazanie, abyście się wzajemnie miłowali, tak jak Ja was umiłowałem”. 
 
-3. Pozdrawiam gości i parafian. Życzę błogosławionej niedzieli i całego tygodnia.
+3. Błogosławionej niedzieli i całego tygodnia.
 
-#Intencje mszalne 16 – 26 stycznia 2014
+##Intencje mszalne 23 – 29 stycznia 2023
 
-#PONIEDZIAŁEK -16.01
+#PONIEDZIAŁEK – 23.01
 
-14.00 [+] Stanisława Gęgotek int. Władysława Gajda
+13.00 [+] Edward Krulikowski int. Haliny Jana Wojtasik
 
-#WTOREK – 17.01
+#WTOREK – 24.01
 
-14.00 [+]Janina Stanisław, Stanisław Marek Henryk Zofia Stolarscy
+14.00 [+] Grażyna Kołodziejska int. sąsiadów Grabowskich
 
-#ŚRODA  - 18.01
+#ŚRODA – 25.01
 
-17.00 [+]  Władysław Wojtkowski 2 rś r. Wojtkowskich Szarwarkowskich 
-[+] r. Sobczyńskich
-[+] Władysław Zieliński – syna Sławka
-[+] Henryk Stolarski – sąsiadów Betlińskich
-[+]  Marianna Szymczak – Zakładu Pogrzebowego Arka
-[+] Ryszard Szelągowski – Zbigniewa Wojtasika z r. 
-[+] Józef Kociński – Pracowników „Chemirol”
-[+] Józef Wawrzonkowski – prac ZUS Włocławek
+16.00 [+]- o zdrowie i błogosławieństwo dla Mateusza i Alicji 
++  Jan Bartkowiak + Czesław Żywica – Łodygowskich 
++ Bogusława Litka – siostrzenicy Ewy z r. 
++ Stanisław Kłosowski – r. Matusiaków z Osięcin
++ Władysław Zieliński – Kowalskich z Płowiec
++  Henryk Stolarski – pracowników Formy Paradex
++ Ryszard Szelągowski – sąsiadów Kurantów i Skruchów
++ Zofia Głowacka – Jadwigi z córkami r. Głowackich 
++ Józef Kociński – dział Utrzymania Ruchu
 
-#CZWRATEK – 19.01
+17.00 [+] Ewa Dombek 6 rś 
 
-13.00 [+] Janina Buczkowska int. Tomka Agnieszki Adamskich
+#CZWARTEK – 26.01
 
-#SOBOTA  - 21.01
+13.00 [+] Barbara Sobczyńska int. r. Caban
 
-09.00 [+] Krystyna Sobieraj int. Córki Bronisławy z r.
+#PIĄTEK – 27.01
 
-#NIEDZIELA – 22.01
+13.00 [+] Zofia Kwiatkowska int. Jasińskich z Dąbia
 
-09.00 [+] Tadeusz Pantuchowicz 18 rś int mamy i brata z żoną
+#SOBOTA – 28.01
+         
+09.00 [+] Ryszard Szelągowski int. Córki Emilii z r. 
 
-11.00 [+] Franciszek Kozicki 12 rś r. Jasnowskich i Kozickich
+#NIEDZIELA – 29.01
+
+09.00 [+] Irena Lewandowska int. wnuczki Moniki z  
+
+11.00 [+] Czesław 2 rs i Marianna Łodygowscy Marianna Anasz Wiktoria Janus
