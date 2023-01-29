@@ -2,58 +2,68 @@
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
-date: 2023-01-22
+date: 2023-01-29
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
-##TRZECIA NIEDZIELA W CIĄGU ROKU -  22 stycznia 2023
+#CZWARTA NIEDZIELA W CIĄGU ROKU - 29 stycznia 2023
 
 #OGŁOSZENIA DUSZPASTERSKIE
 
-1. Dzisiejsza niedziela obchodzona jest jako Niedziela Słowa Bożego. Musimy wejść w bliską relację z Pismem Świętym, w przeciwnym razie nasze serce pozostanie zimne, a oczy zamknięte, dotknięte niezliczonymi formami ślepoty”. 
+1. Dzisiejsza ostatnia niedziela stycznia,  obchodzona jest w Kościele jako Światowy Dzień Trędowatych, ustanowiony. Dziś  trędowatymi opiekują się chrześcijańscy misjonarze. 
 
-2. W całym Kościele trwa Tydzień Powszechnej Modlitwy o Jedność Chrześcijan. Domaga się jej od nas sam Jezus, ucząc: „To jest moje przykazanie, abyście się wzajemnie miłowali, tak jak Ja was umiłowałem”. 
+2. W czwartek, 2 lutego, święto Ofiarowania Pańskiego,  nazywane świętem Matki Bożej Gromnicznej. Tego dnia na uroczystą liturgię przyniesiemy świece zwane gromnicami.. Msze Św.  9.00 i 17.00 / Poświęcenie świec dzieci I Komunijnych/
 
-3. Błogosławionej niedzieli i całego tygodnia.
+3. Święto Ofiarowania Pańskiego jest także Światowym Dniem Życia Konsekrowanego. Wesprzemy też materialnie borykające się z trudnościami klasztory i domy zakonne. Do chorych udam się w czwartek od godz. 9;30
 
-##Intencje mszalne 23 – 29 stycznia 2023
+4. W  pierwszy piątek miesiąca  - adoracja Najświętszego Sakramentu oraz okazja do spowiedzi świętej od godz. 15.00-15.30 
 
-#PONIEDZIAŁEK – 23.01
+5. Na środę godz. 18.00 proszę  pomoc w demontażu dekoracji Bożonarodzeniowej.
 
-13.00 [+] Edward Krulikowski int. Haliny Jana Wojtasik
+6. W tym tygodniu odwiedził nas ks Tomasz Bartczak z Kazachstanu.
 
-#WTOREK – 24.01
+7. Błogosławionej niedzieli i całego tygodnia wypoczywającym dobrego i bezpiecznego wypoczynku.
 
-14.00 [+] Grażyna Kołodziejska int. sąsiadów Grabowskich
+##Intencje mszalne 30 stycznia  – 05 lutego 2023
 
-#ŚRODA – 25.01
+#PONIEDZIAŁEK 30.01
 
-16.00 [+]- o zdrowie i błogosławieństwo dla Mateusza i Alicji 
-+  Jan Bartkowiak + Czesław Żywica – Łodygowskich 
-+ Bogusława Litka – siostrzenicy Ewy z r. 
-+ Stanisław Kłosowski – r. Matusiaków z Osięcin
-+ Władysław Zieliński – Kowalskich z Płowiec
-+  Henryk Stolarski – pracowników Formy Paradex
-+ Ryszard Szelągowski – sąsiadów Kurantów i Skruchów
-+ Zofia Głowacka – Jadwigi z córkami r. Głowackich 
-+ Józef Kociński – dział Utrzymania Ruchu
+09.00 [+] Leszek Szałkiewicz int. siostry Anny z synem.
 
-17.00 [+] Ewa Dombek 6 rś 
+#WTOREK 31.01
 
-#CZWARTEK – 26.01
+09.00 [+] Stanisław Kwaśny int. r. Juszczyńskich
 
-13.00 [+] Barbara Sobczyńska int. r. Caban
+#ŚRODA 01.02
 
-#PIĄTEK – 27.01
+16.00 [-] o zdrowie  
+[+] Janina 25 rś Mieczysław Józef Wójciak int córek  
+[+] Stanisław Kłosowski – Jagody z r. z Gdańska 
+[+] Władysław Zieliński – Reginy Sadowskiej
+[+] Ryszard Szelągowski – Jankowskich z Torzewa
 
-13.00 [+] Zofia Kwiatkowska int. Jasińskich z Dąbia
+#CZWARTEK 02.02
 
-#SOBOTA – 28.01
-         
-09.00 [+] Ryszard Szelągowski int. Córki Emilii z r. 
+09.00 [+] Stanisława Edward 10 rś  Pawłowscy
 
-#NIEDZIELA – 29.01
+#09.30 [+] odwiedziny chorych
 
-09.00 [+] Irena Lewandowska int. wnuczki Moniki z  
+17.00 [+] Jadwiga w 12 rś i  Feliks Fronczak int dzieci/poświecenie świec/
 
-11.00 [+] Czesław 2 rs i Marianna Łodygowscy Marianna Anasz Wiktoria Janus
+#PIĄTEK 03.02
+    
+14.30 [+] Zenon Wawrzyniak int. siostry Jadwigi z r. 
+    
+#15.00 [-] Wystawienie Najświętszego Sakramentu – spowiedź
+
+15.30 [+] Zofia Kwiatkowska int. Katarzyny Tomasza Katka
+
+#SOBOTA 04.02
+
+16.00 [+] Wiktor Sawicki int. r. Sochackich i Żelazek
+
+#NIEDZIELA 05.02
+       
+09.00 [+]Franciszek i  Irena c.r. Pańka 
+
+11.00 [-] Barbara Józef Kujawa w 40 r. ślubu [+] rodzic. Marianna Henryk Kujawa, Franciszek Pawłowski [+] Waldemar Mantyk
