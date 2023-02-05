@@ -18,7 +18,7 @@ featuredImage: /assets/papiez.jpg
 
 4. Parafianom  i gościom błogosławionej niedzieli i dobrego tygodnia.
 
-##Intencje mszalne 06 – 12 luty 2023
+##Intencje mszalne 
 
 #PONIEDZIAŁEK   -  06.02
 
@@ -30,4 +30,4 @@ featuredImage: /assets/papiez.jpg
 
 09.00 [+] Zdzisław Pawłowski 7 rś
 
-11.00 [+] Romuald Kwiatkowski w rś im i ur int. Żony i dzieci z r, Halina Kwaśna 7 rś  rodzice Kowalscy
+11.00 [+] Romuald Kwiatkowski w rś im i ur int. Żony i dzieci z r
