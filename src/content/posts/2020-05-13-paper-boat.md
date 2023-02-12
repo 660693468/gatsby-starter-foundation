@@ -55,4 +55,4 @@ featuredImage: /assets/papiez.jpg
 [+]  Jurek Ciechalski 3 rś int żony dzieci wnuków
 
 11.00 [+] Sobiesław Żbikowski int. rodziców i brata
-[+] Stanisław Klonowski 25 rś int. córki Iwony z r. 
+[+] Daniel Kostecki ur int. Dziadków Nejmanów 
