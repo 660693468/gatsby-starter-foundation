@@ -22,11 +22,11 @@ featuredImage: /assets/papiez.jpg
 
 #PONIEDZIAŁEK - 13.02
 
-14.00 [+] Stanisław Kłosowski int. żony
+13.00 [+] Stanisław Kłosowski int. żony
 
 #WTOREK - 14.02                                                                                          
 
-13.00  [+] Grażyna Kołodziejska int. sąsiadki Teresy Przybysz
+14.00  [+] Grażyna Kołodziejska int. sąsiadki Teresy Przybysz
 
 #ŚRODA - 15.02
 
