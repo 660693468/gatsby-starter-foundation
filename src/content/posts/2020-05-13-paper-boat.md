@@ -36,6 +36,7 @@ featuredImage: /assets/papiez.jpg
 [+] Henryk Stolarski  - Krulikowskich
 [+] Ryszard Szelągowski – Błażeja Satei z r.
 [+] Wanda Pawłowska 6 rś
+[+] Stanisław Betliński 22 rs int. Barbary Betlińskiej 
 
 #CZWARTEK - 16.02
 
