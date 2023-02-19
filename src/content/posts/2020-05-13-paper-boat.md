@@ -2,58 +2,64 @@
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
-date: 2023-02-12
+date: 2023-02-19
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
-#SZÓSTA NIEDZIELA W CIĄGU ROKU    - 12 lutego 2023
+##SIÓDMA NIEDZIELA W CIĄGU ROKU	  - 19 lutego 2023                                         
 
 #OGŁOSZENIA DUSZPASTERSKIE
 
-1. Każda niedziela jest wyjątkową okazją do dojrzewania naszej wiary, do pogłębiania i zacieśniania naszej osobistej relacji z Bogiem. 
+1. W procesie budowania naszej wspólnoty z Panem Bogiem powinniśmy pamiętać, że każda niedziela jest dniem Pańskim. Biorąc żywy i świadomy udział we Mszy Świętej, wskazujemy na żywotność naszej wiary, umacniamy nasze powołanie do głoszenia Ewangelii Chrystusowej w świecie.
 
-2. We wtorek, 14 lutego, święto Świętych Cyryla i Metodego – Patronów Europy. 
+2. Dzisiaj rozpoczynamy 56. Tydzień Modlitw o Trzeźwość Narodu. Kościół wzywa nas do szczególnej indywidualnej i wspólnotowej modlitwy oraz do abstynencji, którą możemy ofiarować Panu Bogu jako wynagrodzenie za grzechy pijaństwa innych osób lub z prośbą o uwolnienie od tego nałogu bliskich czy znajomych. Zachęcam wszystkich parafian do podjęcia takiej dobrowolnej abstynencji od alkoholu i innych 
 
-3. Tego samego dnia wspominamy Świętego Walentego, od jakiegoś czasu przyjęło się go czcić jako patrona zakochanych. Niech to będzie okazja do radości i wspólnej zabawy, wszak trwa jeszcze Karnawał, ale także do modlitwy, podziękowania Panu Bogu za miłość, którą nas obdarzył, i za bliskich, którzy nas kochają. 
+3. Kończy się już tegoroczny karnawał. W tym tygodniu, 22 lutego, przypada Środa Popielcowa. Otwiera ona święty, szczególny czas Wielkiego Postu. Msze Święte tego dnia w naszym kościele o godz. 14.00 i 17.00. Zewnętrznym znakiem naszego wejścia na drogę pokuty i nawrócenia jest posypanie głowy popiołem. W kulturze Izraela gest ten był wyrazem wielkiego smutku, żałoby. Popiół przypomina też, że wszystko, co ziemskie, powstało z prochu ziemi i znów w proch się obróci. Ten rozpad jest skutkiem grzechu. Jednak kapłan, posypując głowy wiernych popiołem, czyni nad nimi znak krzyża, który oznacza oczyszczenie i zmartwychwstanie. Zatem Wielki Post – czas pokuty, postu, wyrzeczeń i modlitwy – ma służyć naszemu nawróceniu, ma przygotować nasze serca na owocne przeżycie radosnych świąt Zmartwychwstania Pańskiego.
 
-4. W przyszłą niedzielę, 19 lutego, rozpocznie się 56. Tydzień Modlitw o Trzeźwość Narodu. Szczególną modlitwą ogarniemy wszystkich dotkniętych tym nieszczęściem oraz ich rodziny, które z powodu pijaństwa swoich bliskich autentycznie cierpią.
+5. Pamiętajmy, że w Popielec obowiązuje post ścisły, polegający na wstrzemięźliwości od pokarmów mięsnych i spożyciu jednego posiłku do syta w ciągu dnia. Pozostałe posiłki muszą zostać ograniczone co do ilości. Przypominam też, że Wielki Post jest tak zwanym „czasem zakazanym” dla wszelkich hucznych wesel, zabaw i dyskotek.
 
-##Intencje mszalne 13 – 23 lutego 2023
+6. Nasze duchowe wielkopostne ćwiczenia wzmocni udział w nabożeństwach pasyjnych: w Drodze krzyżowej, w piątki o godz. 16.30 , oraz w Gorzkich żalach odprawianych w każdą niedzielę 
 
-#PONIEDZIAŁEK - 13.02
+7. Pozdrowienia dla gości i parafin.
 
-13.00 [+] Stanisław Kłosowski int. żony
 
-#WTOREK - 14.02                                                                                          
+##Intencje mszalne 20 - 26 lutego  2023
 
-14.00  [+] Grażyna Kołodziejska int. sąsiadki Teresy Przybysz
+#PONIEDZIAŁEK – 20.02
 
-#ŚRODA - 15.02
+13.00 [+] Edward Krulikowski int. r. Woźniaków z Samszyc
 
-16.00 [+] Katarzyna Bandyszewska – r. Szymczaków z Agnieszkowa
-[+] Stanisław Kłosowski – Jacka Łodygowskiego z r.
-[+] Władysław Zieliński – sąsiadów Sierakowskich
-[+] Henryk Stolarski  - Krulikowskich
-[+] Ryszard Szelągowski – Błażeja Satei z r.
-[+] Wanda Pawłowska 6 rś
-[+] Stanisław Betliński 22 rs int. Barbary Betlińskiej 
+#WTOREK – 21.02
 
-#CZWARTEK - 16.02
+16.00 [+] Stanisław Benedykciński 3 rś int. żony i syna z r.
 
-13.00 [+] Danuta Lewandowska imieninowa
+#ŚRODA – 22.02 – POPIELEC
 
-#PIĄTEK - 17.02
+14.00 [+] Jerzy Sadowski int. sąsiadów Mierzejewskich z Dąbia
 
-13.00 [+] Jan Sadownik int.  Sylwi Biesiadzińskiej z r. 
+17.00 [+] Władysław Gajda – Włodzimierza Szymczaka z r.
+[+] Władysław Pakulski – Teresy Franciszka Marczewskich
+[+] Stanisław Kłosowski – Zalewskich z Jarantowic
+[+] Henryk Stolarski – Moniki Krzysztofa Strzeleckich 
+[+] Ryszard Szelągowski – Zespół Szkolno-Wych. Osięciny
+[+] Zenon Wawrzyniak – Błażeja Sateja z r. 
+[+] Alina Sochacka – mieszkańców Końca
 
-#SOBOTA - 18.02
+#CZWARTEK -23.02
 
-09.00 [+] Barbara Sobczyńska int. Banasiaków z Włocławka
+13.00 [+] Mirosław Ignaczak int. żony
 
-#NIEDZIELA - 19.02 
+#PIĄTEK – 24.02
+          16.00 [+] Janina Buczkowska - Agnieszki Grzegorza Czarniak z r.
+16.30 [-] Nabożeństwo Drogi Krzyżowej
 
-09.00 [+] Alina w 1 rś i Stefan Sochaccy
-[+]  Jurek Ciechalski 3 rś int żony dzieci wnuków
+#SOBOTA – 25.02
 
-11.00 [+] Sobiesław Żbikowski int. rodziców i brata
-[+] Daniel Kostecki ur int. Dziadków Nejmanów 
+09.00 [+] Andrzej Jankowski w 3 rś int. żony i dzieci z r.
+
+#NIEDZIELA – 26.02
+
+09.00 [-] Parafian [+] Janina Stanisław Betlińscy int. syna Krzysztofa z r
+
+11.00 [+] Marianna 2 rś i Stanisław Szydłowscy r. Szydłowskich Wróblewskich
+[+] Stanisław Klonowski 25 rś int. córki Iwony z r
