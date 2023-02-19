@@ -50,8 +50,10 @@ featuredImage: /assets/papiez.jpg
 13.00 [+] Mirosław Ignaczak int. żony
 
 #PIĄTEK – 24.02
-          16.00 [+] Janina Buczkowska - Agnieszki Grzegorza Czarniak z r.
-16.30 [-] Nabożeństwo Drogi Krzyżowej
+          
+16.00 [+] Janina Buczkowska - Agnieszki Grzegorza Czarniak z r.
+
+#16.30 [-] Nabożeństwo Drogi Krzyżowej
 
 #SOBOTA – 25.02
 
