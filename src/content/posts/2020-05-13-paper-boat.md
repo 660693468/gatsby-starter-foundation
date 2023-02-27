@@ -2,66 +2,76 @@
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
-date: 2023-02-19
+date: 2023-02-27
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
-##SIÓDMA NIEDZIELA W CIĄGU ROKU	  - 19 lutego 2023                                         
+##PIERWSZA NIEDZIELA WIELKIEGO POSTU - 26 lutego 2023
 
 #OGŁOSZENIA DUSZPASTERSKIE
 
-1. W procesie budowania naszej wspólnoty z Panem Bogiem powinniśmy pamiętać, że każda niedziela jest dniem Pańskim. Biorąc żywy i świadomy udział we Mszy Świętej, wskazujemy na żywotność naszej wiary, umacniamy nasze powołanie do głoszenia Ewangelii Chrystusowej w świecie.
+1. Starajmy się, aby owoce duchowe, jakie w tym czasie otrzymamy, promieniowały wokół nas, a trud stawania się lepszymi ofiarujmy także za innych, zwłaszcza za tych, którzy obrażają Pana Boga i za to nie przepraszają, oraz za pokój na świecie, którego tak bardzo wszyscy potrzebujemy.
 
-2. Dzisiaj rozpoczynamy 56. Tydzień Modlitw o Trzeźwość Narodu. Kościół wzywa nas do szczególnej indywidualnej i wspólnotowej modlitwy oraz do abstynencji, którą możemy ofiarować Panu Bogu jako wynagrodzenie za grzechy pijaństwa innych osób lub z prośbą o uwolnienie od tego nałogu bliskich czy znajomych. Zachęcam wszystkich parafian do podjęcia takiej dobrowolnej abstynencji od alkoholu i innych 
+2. W rocznicę napaści Rosji na Ukrainę zbiórka dla ofiar wojny.
 
-3. Kończy się już tegoroczny karnawał. W tym tygodniu, 22 lutego, przypada Środa Popielcowa. Otwiera ona święty, szczególny czas Wielkiego Postu. Msze Święte tego dnia w naszym kościele o godz. 14.00 i 17.00. Zewnętrznym znakiem naszego wejścia na drogę pokuty i nawrócenia jest posypanie głowy popiołem. W kulturze Izraela gest ten był wyrazem wielkiego smutku, żałoby. Popiół przypomina też, że wszystko, co ziemskie, powstało z prochu ziemi i znów w proch się obróci. Ten rozpad jest skutkiem grzechu. Jednak kapłan, posypując głowy wiernych popiołem, czyni nad nimi znak krzyża, który oznacza oczyszczenie i zmartwychwstanie. Zatem Wielki Post – czas pokuty, postu, wyrzeczeń i modlitwy – ma służyć naszemu nawróceniu, ma przygotować nasze serca na owocne przeżycie radosnych świąt Zmartwychwstania Pańskiego.
+3.Pierwszy piątek miesiąca spowiedź i adoracja Najświętszego Sakramentu 16.00 – 16.30. Odwiedziny chorych – czwartek 13.30. 
 
-5. Pamiętajmy, że w Popielec obowiązuje post ścisły, polegający na wstrzemięźliwości od pokarmów mięsnych i spożyciu jednego posiłku do syta w ciągu dnia. Pozostałe posiłki muszą zostać ograniczone co do ilości. Przypominam też, że Wielki Post jest tak zwanym „czasem zakazanym” dla wszelkich hucznych wesel, zabaw i dyskotek.
+4. Zapraszam  w piątek  godz. 16.30 odprawiamy Drogę krzyżową, a w niedziele  Gorzkie żale. Do licznego udziału w tych nabożeństwach zachęcam wszystkich parafian: dzieci, młodzież i dorosłych. 
 
-6. Nasze duchowe wielkopostne ćwiczenia wzmocni udział w nabożeństwach pasyjnych: w Drodze krzyżowej, w piątki o godz. 16.30 , oraz w Gorzkich żalach odprawianych w każdą niedzielę 
+5. Pamiętajmy o osobistych umartwieniach, a także o specjalnych postanowieniach na Wielki Post.
 
-7. Pozdrowienia dla gości i parafin.
+6. W środę, 1 marca, święto państwowe: Narodowy Dzień Pamięci „Żołnierzy Wyklętych”. W ten sposób przywołujemy zasługi wielu oddanych Polaków, skupionych w organizacjach i grupach niepodległościowych, którzy po zakończeniu II wojny światowej zdecydowali się na podjęcie nierównej walki o suwerenność i niepodległość naszej ojczyzny.
 
 
-##Intencje mszalne 20 - 26 lutego  2023
+7. Przyszła – druga niedziela Wielkiego Postu  jest obchodzona jako Niedziela Ad Gentes – Dzień Modlitw, Postu i Solidarności z Misjonarzami. Ich wysiłki wesprzemy  ofiarami złożonymi do puszek.
 
-#PONIEDZIAŁEK – 20.02
+8. Dziś odwiedzili nasz Skauci Europy
 
-13.00 [+] Edward Krulikowski int. r. Woźniaków z Samszyc
+9. Zapowiedzi: Łukasz Pogodziński – kaw rzym.-kat Par Dąbie Kuj i Joanna Emilia Szymańska panna rzym.-kat Par. Witów Kolonia /1/
 
-#WTOREK – 21.02
+10. Pozdrowienia dla gości i parafian.
 
-16.00 [+] Stanisław Benedykciński 3 rś int. żony i syna z r.
+Intencje mszalne 27 lutego – 05 marca 2023
 
-#ŚRODA – 22.02 – POPIELEC
+PONIEDZIAŁEK – 27.02
 
-14.00 [+] Jerzy Sadowski int. sąsiadów Mierzejewskich z Dąbia
+16.30 [+] Marianna Józef Borkowscy
 
-17.00 [+] Władysław Gajda – Włodzimierza Szymczaka z r.
-[+] Władysław Pakulski – Teresy Franciszka Marczewskich
-[+] Stanisław Kłosowski – Zalewskich z Jarantowic
-[+] Henryk Stolarski – Moniki Krzysztofa Strzeleckich 
-[+] Ryszard Szelągowski – Zespół Szkolno-Wych. Osięciny
-[+] Zenon Wawrzyniak – Błażeja Sateja z r. 
-[+] Alina Sochacka – mieszkańców Końca
+WTOREK – 28.02
 
-#CZWARTEK -23.02
+14.00 [+] Stanisława Gęgotek int. sąsiadów Chybcińskich
 
-13.00 [+] Mirosław Ignaczak int. żony
+ŚRODA - 01.03
 
-#PIĄTEK – 24.02
-          
-16.00 [+] Janina Buczkowska - Agnieszki Grzegorza Czarniak z r.
+16.00 [-] Sobczyńskich
+[+] Bronisław Migdalski  w rś -  dzieci z r.
+[+] Mirosław Augustyniak
+[+] Janusz Leszczyński – Teresy Kralskiej z córkami
+[+] ks Kazimierz Marchlewski int. r. Sobczyńskich
+[+] Ryszard Szelągowski – Zakładu Pogrzebowego Arka
+[+] Alina Sochacka – Zarządu Pracowników „Frost”
+[+] Jurek Bujalski – Jadwigi Marek i r. Wawrzyniak
 
-#16.30 [-] Nabożeństwo Drogi Krzyżowej
+CZWARTEK – 02.03
 
-#SOBOTA – 25.02
+13.00 [-] Władysław Zieliński int. syna Dariusza 
 
-09.00 [+] Andrzej Jankowski w 3 rś int. żony i dzieci z r.
+13.30 [-] odwiedziny chorych
 
-#NIEDZIELA – 26.02
+PIĄTEK – 03.03 = Pierwszy miesiąca
 
-09.00 [-] Parafian [+] Janina Stanisław Betlińscy int. syna Krzysztofa z r
+16.00 [-] Adoracja Najświętszego Sakramentu – spowiedź
+              
+16.30 [+] Barbara Sobczyńska int. wnuczki Kamili z  mężem 
 
-11.00 [+] Marianna 2 rś i Stanisław Szydłowscy r. Szydłowskich Wróblewskich
-[+] Stanisław Klonowski 25 rś int. córki Iwony z r
+17.00 [-] Droga Krzyżowa
+
+SOBOTA - 04.03
+
+09.00 [+] Józef Kociński int. syna Marka z r.
+
+NIEDZIELA - 05.03
+
+09.00[+] Marianna 2 rś Stanisław Zakroccy int. dzieci z r
+
+11.00 [+] rodzice Genowefa Sylwester Małeccy 
