@@ -24,7 +24,7 @@ featuredImage: /assets/papiez.jpg
 
 7.Rozpoczęto po konserwacji montaż ołtarza św. Józefa. 
 
-##Intencje mszalne 13 – 30  marca  2014
+##Intencje mszalne 13 – 19 marca  2023
 
 #PONIEDZIAŁEK – 13.XII
 
