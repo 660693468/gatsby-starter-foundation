@@ -2,60 +2,66 @@
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
-date: 2023-03-05
+date: 2023-03-12
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
-##DRUGA NIEDZIELA WIELKIEGO POSTU - 5 marca 2023
+##TRZECIA NIEDZIELA WIELKIEGO POSTU  -  12 marca 2023
 
 #OGŁOSZENIA DUSZPASTERSKIE
 
-1. Dziś  przeżywamy Niedzielę Ad Gentes – Dzień Modlitw, Postu i Solidarności z Misjonarzami. Naszymi modlitwami obejmujemy głoszenie Ewangelii Chrystusowej na misjach i tych, którzy tę Dobrą Nowinę o zbawieniu niosą na krańce ziemi.  Dziękuję za  ofiary do puszek na dzieło pomocy „Ad Gentes”.
+1. Pamiętajmy, że najważniejszym zadaniem w tym świętym czasie Wielkiego Postu jest nasze nawrócenie. Chodzi o nawrócenie we wszystkich wymiarach naszego życia osobistego i społecznego, rodzinnego. Potrzeba wiele pokory i silnej wiary w miłosierdzie Boże. 
 
-2. W środę, 8 marca, Dzień Kobiet! Choć to raczej świecka uroczystość, pamiętajmy w modlitwach o wszystkich niewiastach, o tych najbardziej utrudzonych matkach wielodzietnych rodzin, o samotnych pannach i wdowach, o kobietach poniżanych i prześladowanych w wielu częściach świata. Polecajmy ich trud oraz życie Panu Bogu i Maryi, która jest najpiękniejszym wzorem żony i matki. 
+2. Piątkowa Droga krzyżowej o godz. 16.30  niedzielne Gorzkie żale o godz. 9.00
 
-3. W czwartek proszę o pomoc kilku mężczyzn w rozładunku elementów ołtarza.
+3. Wielki Post jest czasem dobrych postanowień, odwrócenia się od zła i czynienia dobra. Warto, żeby te postanowienia miały bardzo konkretny wymiar. Niech to będą konkretne wyrzeczenia, niech to będzie codzienna dodatkowa chwila przeznaczona na lekturę Pisma Świętego, na rozmyślanie męki i śmierci Pana Jezusa, na modlitwę i zastanowienie się nad własnym życiem, postępowaniem. 
 
-4. Trwa okres Wielkiego Postu.  Nie zapominajmy również o nabożeństwa wielkopostnych, takich jak Droga Krzyżowa czy Gorzkie Żale. W naszym kościele Drogi Krzyżowa  o godz. 16.30  W niedzielę o godz. 11.00 Gorzkie Żale.
+4. Przez cały Wielki Post podejmujmy wielkopostną akcję trzeźwości. W tym roku trud związany z abstynencją ofiarujemy w intencji dzieci przygotowujących się do przyjęcia pierwszej Komunii Świętej oraz ich rodzin.
 
-5. Baranki wielkanocne 10 zł jałmużna wielkopostna
+5. W poniedziałek, 10. rocznica wyboru papieża Franciszka na Stolicę Piotrową. Powierzajmy go Opatrzności Bożej oraz opiece Matki Najświętszej w naszych osobistych modlitwach, aby bezpiecznie zdołał przeprowadzić Kościół przez burzliwe współczesne czasy.
 
-6. Opłaty cmentarne 16.000 zł zakup nowych lekcjonarzy 900 zł.
+6. W duchu wielkopostnej solidarności wspierajmy w tym czasie działalność charytatywnych instytucji Kościoła, zwłaszcza „Caritas”, która tak skutecznie, choć bez wielkiego rozgłosu, pomaga najuboższym i będącym w potrzebie kupując baranki wielkanocne 10 zł.
 
-7. Pozdrowienia gości i parafian.
+7.Rozpoczęto po konserwacji montaż ołtarza św. Józefa. 
 
+##Intencje mszalne 13 – 30  marca  2014
 
-##Intencje mszalne 06 – 12  marca 2023
+#PONIEDZIAŁEK – 13.XII
 
-#PONIEDZIAŁEK - 06.03
+13.00 [+] Stanisława 2 rś Stanisław Kurdupski
 
-13.00 [+] Stanisław 12 rś Maria Bolesława Wojciech Strzeleccy
+#WTOREK – 14.XII
 
-#WTOREK – 07.03
+14.00 [+] Józef Poturalski 4 rś int. żony i dzieci
 
-14.00 [+] Zofia Kwiatkowska int. sąsiadów z klatki bloku 11A
+#ŚRODA – 15.XII
 
-#ŚRODA – 08.03
+16.00 [+] Stanisława Gęgotek – r. Podlewskich
+[+] Czesław Trojankiewicz 36 rś – żony i dzieci
+[+] Jan Witkowski Jadwiga Stanisław Nejman
+[+] Edward Krulikowski – Jadwigi Ochocińskiej z r.
+[+] Wiktor Sawicki – mieszkańców Dąbia Kuj.
+[+] rodzice rodzeństwo Najman Dariusz Jan Krusinowscy                                                            [+] Grażyna Kołodziejska – Ireny Malec
+[+] Janusz Żbikowski 30 rś z r. Żbikowskich 
+[+] Stanisław Kłosowski – Zakładu Pogrzebowego Arka
+[+] Henryk Stolarski – syna Marcina z r.
 
-14.00 [+] Beata Pietrzak imieninowa
+#CZWARTEK – 16.03
 
-#CZWARTEK – 09.03
+13.00 [+] Eugeniusz Nowak 9 rś int. żony
 
-13.00  [+] Zenon Wawrzyniak int. Danuty Wawrzyniak
+#PIĄTEK – 17.03
 
-#PIĄTEK – 10.03
+16.00 [+] Wacław Chojnacki int. szwagra Janka i Renaty Lipskich 
 
-16.00 [+] Józef Kucal int. Rady Parafialnej 
+17.00 [+] Droga Krzyżowa
 
-16.30 [-] Droga Krzyżowa
+#SOBOTA – 18.03
 
-#SOBOTA – 11.03
+13.00 [+] Wiktor Sawicki int. r. Czołpińskich
 
-09.00 [+] Zofia Stanisław Marczewscy Cecylia Mieczysław Waszak
+#NIEDZIELA – 19.03
 
-#NIEDZIELA – 12.03
+09.00 [+] Józef Wawrzonkowski int. żony z r.
 
-09.00 [+] Irena Franciszek Pańka r. Pańka i Cybulskich
-
-11.00 [+] Agnieszka Tatarkiewicz int. Przybylskich z Płowek, Anaszewskich z Dobrego, Staszaków z Dąbia /[+] Wielisława 3 rś i Tadeusz Dudczak/
-
+11.00 [+] Wiktor Sawicki int. Klaudii Kowalczyk
