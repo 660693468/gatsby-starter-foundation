@@ -2,133 +2,138 @@
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
-date: 2023-03-19
+date: 2023-03-26
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
-##CZWARTA NIEDZIELA WIELKIEGO POSTU  - 19 marca 2023                                             
+#PIĄTA NIEDZIELA WIELKIEGO POSTU   - 26 marca 2023                                                                        
 
 #OGŁOSZENIA DUSZPASTERSKIE
 
-1. Dzisiejsza – już czwarta niedziela Wielkiego Postu różni się nieco od pozostałych. W tradycji Kościoła nazywamy ją Niedzielą Laetare, czyli niedzielą radości. Widzimy to nawet w zmianie postnego fioletu na różowy kolor szat liturgicznych. 
+1. Od dzisiejszej – piątej niedzieli Wielkiego Postu zmienia się charakter tego okresu liturgicznego - w kościele zasłaniamy wszystkie krzyże. Skupimy się na rozważaniu męki Pańskiej, stąd jeszcze większa zachęta do udziału w nabożeństwach Drogi krzyżowej i Gorzkich żali. Apel ten kieruję zwłaszcza do tych, którzy jeszcze w tym roku nie uczestniczyli w tych pięknych pasyjnych nabożeństwach.
 
-2. Wielki Post, który obecnie przeżywamy, to wyjątkowa okazja do nawrócenia, do odnowienia naszej przyjaźni z Bogiem. To czas powracania do korzeni wiary i zadziwienia tajemnicą miłości Bożej, której wyrazem jest również stała obecność Pana Jezusa w Eucharystii. 
+2. W piątek udam się do chorych od godz. 13.00 o godz.  18.00 Droga Krzyżowa na cmentarz /znicze/
+Zachęcam, aby nie odkładać na ostatni moment spowiedzi wielkopostnej.  W naszej Parafii w sobotę  8.30, 10.30   15.30       
 
-3. Zapraszam w piątek na 16.30 na Drogę krzyżową, a w niedziele o godz. 9.00 na Gorzkie żale. 
+3. Przyszła niedziela, 2 kwietnia, będzie już Niedzielą Męki Pańskiej – Niedzielą Palmową. Poświęcenie palm na każdej mszy z procesją wejścia, proszę dzieci o przygotowanie największej i najpiękniejszej palmy ta będzie nagrodzona w konkursie. Procesja z palmami na godz. 11.00
 
-4. W tym roku wyjątkowo w poniedziałek, 20 marca, Kościół będzie obchodził uroczystość Świętego Józefa, Oblubieńca Najświętszej Maryi Panny i opiekuna Pana Jezusa. Święty Józef jest też patronem dobrej śmierci. Według tradycji odszedł z tego świata w ramionach samego Pana Jezusa. Jego wstawiennictwu będziemy zatem polecać wszystkich konających.
+##Intencje mszalne 27 marca  - 02 kwietnia 2023
 
-5. Natomiast w piątek, 24 marca, obchodzimy Narodowy Dzień Pamięci Polaków ratujących Żydów pod okupacją niemiecką. Wybór daty nawiązuje do dnia, w którym Niemcy w 1944 roku w Markowej zamordowali rodzinę Ulmów: Józefa i Wiktorię oraz ich dzieci, wraz z ukrywającymi się u nich Żydami. 
+#PONIEDZIAŁEK – 27.III
 
-6. Uroczystość Zwiastowania Pańskiego, w sobotę, 25 marca.  jest zarazem Dniem Świętości Życia i Duchowej Adopcji Dziecka Poczętego. 
+13.00 [+] Władysław Zieliński int. córki Jadwigi
 
-7. Za tydzień o 11.00 poświeceni książeczek dzieci I Komunijnych.
+#WTOREK – 28.III
 
-#Intencje mszalne 20 -26  marca  2023
+14.00 [+] Jadwiga Rybacka int. Pantuchowiczów z Agnieszkowa
 
-#PONIEDZIAŁEK – 20.03 – UROCZYSTOŚĆ ŚW. JÓZEFA
+#ŚRODA – 29.III
 
-16.00 [+] Józef Kociński – właścicieli i załogi Krukowiaka
-[+] Józefa Józef Bączkowscy [+] Józefa Stefan Czarniak
-[+] Józef Genowefa Szałańscy Józefa Adam Szałańscy Józefa Wojciech Wójciak [+] Józef Sabina Czołpińscy – Marii Zajączkowskiej
+16.00 [+] Włodzimierz Lewandowski 7 rś - żony dzieci wnuków
+[+] Marianna Wesołowska 1 rś – syna Franciszka z r.
+[+] Józef Sabina Czołpińscy – Danuty Ulbrycht 
+[+] Stanisław Kłosowski – pracowników Chemirolu 
+[+] Janina Saks – Zakładu Pogrzebowego Arka
 
-#WTOREK – 21.03
+#CZWARTEK – 30.III
 
-14.00 [+] Jerzy Sadowski int. Marii Jasińskiej
+13.00 [+] Stanisław Kwaśny int. r. Nawrockich
 
-#ŚRODA  - 22.04
+#PIĄTEK – 31.III
 
-[+] Jan Wójcik w rś -  wnuczka Kacpra
-[+] Grażyna Kołodziejska - Roberta Kędzierskiego z r. 
-[+] Jan Sadownik – Józefa Gęgotek
-[+] Wiktor Sawicki – pracowników Krukowiaka
-[+] Stanisława Gęgotek – Marii Włodzimierza Grabowskich
+13.00 [-] ODWIEDZINY CHORYCH 
 
-#CZWARTEK – 23.03
+17.30 [+] Wiktor Sawicki int. r. Kucal
 
-13.00 [+] Janina Buczkowska int. r. Sikorskich z Bytonia
+#18.00 [+] Droga Krzyżowa
 
-#PIĄTEK – 24.03
+#SOBOTA – 01.IV
 
-16.00 [+] Romuald Kwiatkowski int.  brata Edmunda
+#08.30 [-] Spowiedź 
 
-16.30 [-] DROGA KRZYŻOWA
+09.00 [+] Marianna Szymczak int. Mirosława i Bożeny Marek oraz Przemka z żoną
 
-#SOBOTA – 25.03
+#10.30 [-] Spowiedź 
 
-09.00 [+] Marta w 9 rś Tadeusz Matusiak int. dzieci z r.
+11.00 [+] Kazimierz Turowiecki int. Marty i Tomasza Staszak 
+[+] Mirosław Ignaczak int. rodzeństwa 
 
-#NIEDZIELA
+#15.30 [-] Spowiedź 
 
-09.00 [+] Stefan w 16 rś i Alina Sochaccy / Stefan Antczak w 2 rś – żony i dzieci z r/
+16.00 + Wiktor Sawicki int. r. Szymczaków i Franczyków oraz r. Nawrockich
 
-11.00 [+] Grażyna Kołodziejska int. Wioletty i Sławomira Przybysz
+#NIEDZIELA – 02.IV
+
+09.00 [+] Elżbieta Zenon Pawłowscy 4 rś int synów z r. 
+[+] Ryszard Szelągowski int. syna Radosława z r. 
+
+11.00 [+] Wiktor Sawicki int. Wiolety i Seweryna Borkowskich z dziećmi
+[+] Krzysztof Przybysz  2 rś – żony dzieci wnuków
 
 
-
-##Prognozowany plan wizyty duszpasterskiej
+Prognozowany plan wizyty duszpasterskiej
 
 11.04 – wtorek – 09.00
 
-#Borucin / Szymczak – Grabowscy/
+Borucin / Szymczak – Grabowscy/
 
 12.04 – środa – 14.00
 
-#Borucin / Bernaciak – Nowakowscy/
+Borucin / Bernaciak – Nowakowscy/
 
 13.04. – czwartek – 13.00
 
-#Borucin Olszak Błota / Simińscy – Opłatkowscy
+Borucin Olszak Błota / Simińscy – Opłatkowscy
 
 14.04 – piątek  - 13.00
 
-#Borucin centrum szkoła / Gajewscy – Szmajda/
+Borucin centrum szkoła / Gajewscy – Szmajda/
 
 15.04 – sobota – 09.00 
 
-#Kąkowa Wola Parcele / Karkowscy Głowaccy Pogodzińscy/
+Kąkowa Wola Parcele / Karkowscy Głowaccy Pogodzińscy/
 
 17.04 – poniedziałek – 13.00 
 
-#Kąkowa Wola /Krawczyk Klejbach/
+Kąkowa Wola /Krawczyk Klejbach/
 
 18.04 – wtorek – 14.00
 
-#Kąkowa Wola / Szatkowscy Lewandowscy/
+Kąkowa Wola / Szatkowscy Lewandowscy/
 
 19.04 – środa – 14.00
 
-#Redecz Krukowy / Wysoccy Czapscy Chaberska Dybowscy/
+Redecz Krukowy / Wysoccy Czapscy Chaberska Dybowscy/
 
 20.04 – czwartek – 13.00
 
-#Redecz Krukowy / Sadownik Kocińscy Michałowscy Pietrzak Jabłoński Roszak/
+Redecz Krukowy / Sadownik Kocińscy Michałowscy Pietrzak Jabłoński Roszak/
 
 21.04 – piątek – 13.00
 
-#Stok / Gardyza/
+Stok / Gardyza/
 
 22.04. – sobota – 09.00
 
-#Agnieszkowo /Pantuchowicz  Franczyk Kosmalski Koziccy/
+Agnieszkowo /Pantuchowicz  Franczyk Kosmalski Koziccy/
 
 24.04 – poniedziałek – 13.00
 
-#Bodzanowo / Nejman Kuśmirek Ładzińska Bączek/
+Bodzanowo / Nejman Kuśmirek Ładzińska Bączek/
 
 25.04 – wtorek – 14.00
 
-#Annowo / Sobczyński/
+Annowo / Sobczyński/
 
 26.04 – środa – 14.00
 
-#Dąbie Wieś / Sadowska Osińscy/
+Dąbie Wieś / Sadowska Osińscy/
 
 27.04 – czwartek – 13.00
 
-#Dąbie Poduchowne /Jatczak/
+Dąbie Poduchowne /Jatczak/
 
 28.04 – piątek – 13.00
 
-#Dąbie centrum / Ochmańska/
+Dąbie centrum / Ochmańska/
 
