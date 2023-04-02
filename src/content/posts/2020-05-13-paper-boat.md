@@ -2,76 +2,82 @@
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
-date: 2023-03-26
+date: 2023-04-02
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
-#PIĄTA NIEDZIELA WIELKIEGO POSTU   - 26 marca 2023                                                                        
+##NIEDZIELA PALMOWA, CZYLI MĘKI PAŃSKIEJ  - 2 kwietnia 2023                                   
 
 #OGŁOSZENIA DUSZPASTERSKIE
 
-1. Od dzisiejszej – piątej niedzieli Wielkiego Postu zmienia się charakter tego okresu liturgicznego - w kościele zasłaniamy wszystkie krzyże. Skupimy się na rozważaniu męki Pańskiej, stąd jeszcze większa zachęta do udziału w nabożeństwach Drogi krzyżowej i Gorzkich żali. Apel ten kieruję zwłaszcza do tych, którzy jeszcze w tym roku nie uczestniczyli w tych pięknych pasyjnych nabożeństwach.
+1. Niedziela Palmowa wprowadza nas w tajemnicę Wielkiego Tygodnia. Jak Jezus wszedł do Jerozolimy, tak przychodzi dziś do każdego z nas. Oby nie okazało się jednak, że stoimy w tym tłumie, który woła: „Hosanna”, a za chwilę będzie wołał: „Na krzyż w Nim”! 
 
-2. W piątek udam się do chorych od godz. 13.00 o godz.  18.00 Droga Krzyżowa na cmentarz /znicze/
-Zachęcam, aby nie odkładać na ostatni moment spowiedzi wielkopostnej.  W naszej Parafii w sobotę  8.30, 10.30   15.30       
+2. W dzisiejszą niedzielę,  przypada 18. rocznica śmierci Świętego Jana Pawła II. Przez jego wstawiennictwo możemy prosić Boga o potrzebne dla nas łaski. 
 
-3. Przyszła niedziela, 2 kwietnia, będzie już Niedzielą Męki Pańskiej – Niedzielą Palmową. Poświęcenie palm na każdej mszy z procesją wejścia, proszę dzieci o przygotowanie największej i najpiękniejszej palmy ta będzie nagrodzona w konkursie. Procesja z palmami na godz. 11.00
+3. Wielki Tydzień,  przeżyjmy jako ludzie wierzący: godnie i po chrześcijańsku. Niech Wielki Czwartek, Wielki Piątek i Wielka Sobota będą dniami szczególnego zagłębiania się w Misterium Paschalne przez czynny udział w bogatej liturgii
 
-##Intencje mszalne 27 marca  - 02 kwietnia 2023
+4. W Wielki Czwartek o godz. 18.00   Msza Wieczerzy Pańskiej, na pamiątką ustanowienia Eucharystii i kapłaństwa. Po hymnie „Chwała na wysokości Bogu” milkną dzwony i organy, a po Komunii Świętej Najświętszy Sakrament zostanie przeniesiony do ciemnicy. Tradycyjnie proszę 12 mężczyzn do obmycia nóg. Adoracja 19.00-19.30 mieszkańcy  Agnieszkowo, Annowa 19.30 – 20.00 mieszkańcy Dąbia i Bodzanowa
 
-#PONIEDZIAŁEK – 27.III
+5. W Wielki Piątek post ścisły,  powstrzymanie się od potraw mięsnych oraz na ograniczeniu ilości posiłków. Tego dnia na znak smutku i żałoby nie sprawuje się Eucharystii. Na zakończenie liturgii Najświętszy Sakrament zostanie przeniesiony do grobu Pańskiego.  Początek  liturgii o godz. 18.00. adoracja 19.00 -19.30  mieszkańcy Borucin Stok, 19.30-20.00 Kąkowa Wola Redecz Krukowy
 
-13.00 [+] Władysław Zieliński int. córki Jadwigi
+6. Wielka Sobota adoracja Najświętszego Sakramentu w grobie Pańskim. Pamiętajmy o tym, kiedy przyjdziemy pobłogosławić pokarmy. Jest to czas upamiętniający zstąpienie Chrystusa do otchłani, nadal obowiązuje cisza i zaduma nad śmiercią Chrystusa. Pokarmy na stół wielkanocny będą błogosławione  godz: 9.00 10.00 i 18.40 W sobotni wieczór rozpoczynamy Wigilię Paschalną .  Aby całe 
+Święte Triduum otrzymało uroczystą oprawę, wszystkich parafian zachęcam do licznego udziału. Wigilia Paschalna rozpocznie się o godz. 19.00 Na tę uroczystą liturgię przynosimy ze sobą świece. 
 
-#WTOREK – 28.III
+7. Rezurekcja godz. 6.00. Proszę o mobilizację orkiestry asysty dzieci do sypania kwiatków młodzieży straży pożarnej                                                                                                                       
+8. W poniedziałek na godz.17.00 proszę o pomoc w dekoracji.  Bukszpan zielony. Dekoracja kwiatowa panie w środę popołudniu.
 
-14.00 [+] Jadwiga Rybacka int. Pantuchowiczów z Agnieszkowa
-
-#ŚRODA – 29.III
-
-16.00 [+] Włodzimierz Lewandowski 7 rś - żony dzieci wnuków
-[+] Marianna Wesołowska 1 rś – syna Franciszka z r.
-[+] Józef Sabina Czołpińscy – Danuty Ulbrycht 
-[+] Stanisław Kłosowski – pracowników Chemirolu 
-[+] Janina Saks – Zakładu Pogrzebowego Arka
-
-#CZWARTEK – 30.III
-
-13.00 [+] Stanisław Kwaśny int. r. Nawrockich
-
-#PIĄTEK – 31.III
-
-13.00 [-] ODWIEDZINY CHORYCH 
-
-17.30 [+] Wiktor Sawicki int. r. Kucal
-
-#18.00 [+] Droga Krzyżowa
-
-#SOBOTA – 01.IV
-
-#08.30 [-] Spowiedź 
-
-09.00 [+] Marianna Szymczak int. Mirosława i Bożeny Marek oraz Przemka z żoną
-
-#10.30 [-] Spowiedź 
-
-11.00 [+] Kazimierz Turowiecki int. Marty i Tomasza Staszak 
-[+] Mirosław Ignaczak int. rodzeństwa 
-
-#15.30 [-] Spowiedź 
-
-16.00 + Wiktor Sawicki int. r. Szymczaków i Franczyków oraz r. Nawrockich
-
-#NIEDZIELA – 02.IV
-
-09.00 [+] Elżbieta Zenon Pawłowscy 4 rś int synów z r. 
-[+] Ryszard Szelągowski int. syna Radosława z r. 
-
-11.00 [+] Wiktor Sawicki int. Wiolety i Seweryna Borkowskich z dziećmi
-[+] Krzysztof Przybysz  2 rś – żony dzieci wnuków
+#Intencje mszalne 03 – 10 kwietnia 2023
 
 
-Prognozowany plan wizyty duszpasterskiej
+#WIELKI PONIEDZIAŁEK – 03.04
+
+13.00 [+] Edward Krulikowski int. Szelągowskich
+
+#WIELKI WTOREK – 04.04
+
+14.00 [+] Jerzy Sadowski int. teściów z Radziejowa
+
+#WIELKA ŚRODA – 05.04
+
+14.00 [+] Grażyna Kołodziejska  int. Teresy Budziszewskiej
+
+#WIELKI CZWARTEK – 06.04
+
+18.00 Msza Wieczerzy Pańskiej 
+
+Adoracja Agnieszkowo[-]  Annowo 19.00-19.30
+Adoracja Dąbie [–] Bodzanowo 19.30-20.00
+
+#WIELKI PIĄTEK – 07.04
+
+18.00 Liturgia Wielkiego Piątku
+
+Adoracja Borucin [–] Stok 19.00-19.30
+Adoracja Kąkowa Wola [-] Redecz Krukowy 19.30-20.00
+
+#WIELKA SOBOTA – 08.04
+
+Święcenie pokarmów 9.00;10.00;18.50
+
+19.00 [-] Liturgia Wielkiej Soboty
+
+#WIELKANOC  – 09.04
+
+06.00 [-]Rezurekcja za Parafian
+
+09.00 [+] Wiesław Adrian w  7rś int żony i dzieci
+
+11.00 [+] Wiktor Sawicki  int. Rady Sołeckiej z Kąkowej Woli
+
+#PONIEDZIAŁEK WIELKANOCNY – 10.04 
+
+09.00 [+] Marian Franczyk int. wnuka Franciszka 
+[+] Henryk Stolarski int żony Zofii
+
+11.00 [+] Stanisław Sobczyński 6 rś int. dzieci z r. 
+[+] Wiktor Sawicki int. Jadwigi Marek i r. Wawrzyniak  
+
+#Prognozowany plan wizyty duszpasterskiej
 
 11.04 – wtorek – 09.00
 
