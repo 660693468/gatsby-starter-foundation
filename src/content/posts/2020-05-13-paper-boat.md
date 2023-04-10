@@ -2,80 +2,54 @@
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
-date: 2023-04-02
+date: 2023-04-10
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
-##NIEDZIELA PALMOWA, CZYLI MĘKI PAŃSKIEJ  - 2 kwietnia 2023                                   
+##NIEDZIELA ZMARTWYCHWSTANIA PAŃSKIEGO   -  9 kwietnia 2023
 
 #OGŁOSZENIA DUSZPASTERSKIE
 
-1. Niedziela Palmowa wprowadza nas w tajemnicę Wielkiego Tygodnia. Jak Jezus wszedł do Jerozolimy, tak przychodzi dziś do każdego z nas. Oby nie okazało się jednak, że stoimy w tym tłumie, który woła: „Hosanna”, a za chwilę będzie wołał: „Na krzyż w Nim”! 
+1. Miłość ostatecznie zwycięża śmierć! Niech to będzie najlepsze wielkanocne życzenie: aby każdy z nas doświadczył i przyjął tę zwycięską miłość Boga Ojca. A ogarnięci Bożą miłością, dzielmy się tym darem z naszymi braćmi. Potrzeba bowiem tej miłości w każdym wymiarze naszego życia, zwłaszcza społecznym, narodowym i międzynarodowym. Współczesność ciągle domaga się od nas świadectwa, że rzeczywiście tylko na Chrystusie i Jego zwycięstwie nad wszelkim złem, na głoszonej przez Niego prawdzie, sprawiedliwości i miłości można budować lepszą przyszłość.
 
-2. W dzisiejszą niedzielę,  przypada 18. rocznica śmierci Świętego Jana Pawła II. Przez jego wstawiennictwo możemy prosić Boga o potrzebne dla nas łaski. 
+2. Pragnę bardzo serdecznie podziękować wszystkim, dzięki którym tak pięknie przeżywamy Święte Triduum Paschalne.  Ministrantom lektorkom i lektorom.
+Dziękuję za dekorację  pp. Staszak , Przwozikowskim  Sobczyńskim   Wawrzyniakowi Burmistrzak Caban Juszczyńskiej Lewandowskiej Andrusiewicz  i Sobieraj Za udział w nabożeństwach i adoracji. 
 
-3. Wielki Tydzień,  przeżyjmy jako ludzie wierzący: godnie i po chrześcijańsku. Niech Wielki Czwartek, Wielki Piątek i Wielka Sobota będą dniami szczególnego zagłębiania się w Misterium Paschalne przez czynny udział w bogatej liturgii
+3. W piątek, 14 kwietnia, narodowe święto Chrztu Polski, tego dnia nie obowiązuje wstrzemięźliwość od pokarmów mięsnych.
 
-4. W Wielki Czwartek o godz. 18.00   Msza Wieczerzy Pańskiej, na pamiątką ustanowienia Eucharystii i kapłaństwa. Po hymnie „Chwała na wysokości Bogu” milkną dzwony i organy, a po Komunii Świętej Najświętszy Sakrament zostanie przeniesiony do ciemnicy. Tradycyjnie proszę 12 mężczyzn do obmycia nóg. Adoracja 19.00-19.30 mieszkańcy  Agnieszkowo, Annowa 19.30 – 20.00 mieszkańcy Dąbia i Bodzanowa
+4. Przyszłą niedzielę – Niedzielę Miłosierdzia Bożego /przed Mszą Koronka do Bożego Miłosierdzia/ Niedziela ta zainauguruje również Tydzień Miłosierdzia. Niedziela przewodnia -  o 9.00 procesja eucharystyczna
+ 
+#Intencje mszalne 11 – 16 kwietnia  2023
 
-5. W Wielki Piątek post ścisły,  powstrzymanie się od potraw mięsnych oraz na ograniczeniu ilości posiłków. Tego dnia na znak smutku i żałoby nie sprawuje się Eucharystii. Na zakończenie liturgii Najświętszy Sakrament zostanie przeniesiony do grobu Pańskiego.  Początek  liturgii o godz. 18.00. adoracja 19.00 -19.30  mieszkańcy Borucin Stok, 19.30-20.00 Kąkowa Wola Redecz Krukowy
+#WTOREK – 11.04
 
-6. Wielka Sobota adoracja Najświętszego Sakramentu w grobie Pańskim. Pamiętajmy o tym, kiedy przyjdziemy pobłogosławić pokarmy. Jest to czas upamiętniający zstąpienie Chrystusa do otchłani, nadal obowiązuje cisza i zaduma nad śmiercią Chrystusa. Pokarmy na stół wielkanocny będą błogosławione  godz: 9.00 10.00 i 18.40 W sobotni wieczór rozpoczynamy Wigilię Paschalną .  Aby całe 
-Święte Triduum otrzymało uroczystą oprawę, wszystkich parafian zachęcam do licznego udziału. Wigilia Paschalna rozpocznie się o godz. 19.00 Na tę uroczystą liturgię przynosimy ze sobą świece. 
+07.30 [+] Grażyna Kołodziejska int. chrześniaczki Aleksandry z r.
 
-7. Rezurekcja godz. 6.00. Proszę o mobilizację orkiestry asysty dzieci do sypania kwiatków młodzieży straży pożarnej                                                                                                                       
-8. W poniedziałek na godz.17.00 proszę o pomoc w dekoracji.  Bukszpan zielony. Dekoracja kwiatowa panie w środę popołudniu.
+#ŚRODA – 12.04
 
-#Intencje mszalne 03 – 10 kwietnia 2023
+08.00 [+] Barbara Sobczyńska int. Beaty Mrozowskiej
 
+#CZWARTEK – 13.04
 
-#WIELKI PONIEDZIAŁEK – 03.04
+08.00 [+] Romuald Kwiatkowski int. Błaszczyków ze Stoku
 
-13.00 [+] Edward Krulikowski int. Szelągowskich
+PIĄTEK – 14.04
 
-#WIELKI WTOREK – 04.04
+#08.00 [+] Alina Sochacka int. Iglewskich z Lubrańca
 
-14.00 [+] Jerzy Sadowski int. teściów z Radziejowa
+#SOBOTA – 15.04
 
-#WIELKA ŚRODA – 05.04
+08.30 [+] Kazimierz Turowiecki int. Heleny Staszak Anny Szczerbiak z r. Krzysztofa Staszak z r.
 
-14.00 [+] Grażyna Kołodziejska  int. Teresy Budziszewskiej
+13.00 [-] Jadwiga Bartkowiak 80 r. ur.
 
-#WIELKI CZWARTEK – 06.04
+#NIEDZIELA   – 16.04
+09.00 [+] ks Kan Tadeusz Pakulski 
+[+] Jan Sadownik int. wnuków Mariusza i Marcina z r. 
 
-18.00 Msza Wieczerzy Pańskiej 
+11.00 [+] br. Fidelisa 4 rś dziadkowie Ignaczak int. Betlińskich z Kąkowej Woli
+[+] Bolesław Aurelia Szelągowscy int dzieci z r. 
 
-Adoracja Agnieszkowo[-]  Annowo 19.00-19.30
-Adoracja Dąbie [–] Bodzanowo 19.30-20.00
-
-#WIELKI PIĄTEK – 07.04
-
-18.00 Liturgia Wielkiego Piątku
-
-Adoracja Borucin [–] Stok 19.00-19.30
-Adoracja Kąkowa Wola [-] Redecz Krukowy 19.30-20.00
-
-#WIELKA SOBOTA – 08.04
-
-Święcenie pokarmów 9.00;10.00;18.50
-
-19.00 [-] Liturgia Wielkiej Soboty
-
-#WIELKANOC  – 09.04
-
-06.00 [-]Rezurekcja za Parafian
-
-09.00 [+] Wiesław Adrian w  7rś int żony i dzieci
-
-11.00 [+] Wiktor Sawicki  int. Rady Sołeckiej z Kąkowej Woli
-
-#PONIEDZIAŁEK WIELKANOCNY – 10.04 
-
-09.00 [+] Marian Franczyk int. wnuka Franciszka 
-[+] Henryk Stolarski int żony Zofii
-
-11.00 [+] Stanisław Sobczyński 6 rś int. dzieci z r. 
-[+] Wiktor Sawicki int. Jadwigi Marek i r. Wawrzyniak  
 
 #Prognozowany plan wizyty duszpasterskiej
 
