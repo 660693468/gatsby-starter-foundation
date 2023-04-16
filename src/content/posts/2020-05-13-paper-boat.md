@@ -2,76 +2,63 @@
 template: blog-post
 title: Ogłoszenia Duszpasterskie
 slug: /character-design
-date: 2023-04-10
+date: 2023-04-16
 description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
-##NIEDZIELA ZMARTWYCHWSTANIA PAŃSKIEGO   -  9 kwietnia 2023
 
-#OGŁOSZENIA DUSZPASTERSKIE
+##DRUGA NIEDZIELA WIELKANOCY - 16 kwietnia 2023                                                                          
+#CZYLI MIŁOSIERDZIA BOŻEGO                                                                                                            #OGŁOSZENIA DUSZPASTERSKIE
 
-1. Miłość ostatecznie zwycięża śmierć! Niech to będzie najlepsze wielkanocne życzenie: aby każdy z nas doświadczył i przyjął tę zwycięską miłość Boga Ojca. A ogarnięci Bożą miłością, dzielmy się tym darem z naszymi braćmi. Potrzeba bowiem tej miłości w każdym wymiarze naszego życia, zwłaszcza społecznym, narodowym i międzynarodowym. Współczesność ciągle domaga się od nas świadectwa, że rzeczywiście tylko na Chrystusie i Jego zwycięstwie nad wszelkim złem, na głoszonej przez Niego prawdzie, sprawiedliwości i miłości można budować lepszą przyszłość.
+1. Dziś Niedziela Miłosierdzia Bożego. Śmierć i zmartwychwstanie Chrystusa najdobitniej przekonują nas o tym, że Bóg jest Miłością, że potrafi jedynie kochać i przebaczać. Jakże więc nie dziękować za wielki dar miłosierdzia, za łaskę sakramentu pokuty!
 
-2. Pragnę bardzo serdecznie podziękować wszystkim, dzięki którym tak pięknie przeżywamy Święte Triduum Paschalne.  Ministrantom lektorkom i lektorom.
-Dziękuję za dekorację  pp. Staszak , Przwozikowskim  Sobczyńskim   Wawrzyniakowi Burmistrzak Caban Juszczyńskiej Lewandowskiej Andrusiewicz  i Sobieraj Za udział w nabożeństwach i adoracji. 
+2. Dzisiaj rozpoczynamy Tydzień Miłosierdzia. Doświadczając  miłosierdzia Bożego, sami powinniśmy być miłosierni dla naszych sióstr i braci. 
 
-3. W piątek, 14 kwietnia, narodowe święto Chrztu Polski, tego dnia nie obowiązuje wstrzemięźliwość od pokarmów mięsnych.
+3. Poniedziałek spotkanie dzieci I Komunijnych godz. 17.00. za tydzień kandydatów do bierzmowania o 9.00.
 
-4. Przyszłą niedzielę – Niedzielę Miłosierdzia Bożego /przed Mszą Koronka do Bożego Miłosierdzia/ Niedziela ta zainauguruje również Tydzień Miłosierdzia. Niedziela przewodnia -  o 9.00 procesja eucharystyczna
- 
-#Intencje mszalne 11 – 16 kwietnia  2023
+4. Przyszła niedziela, to  Niedziela Biblijna, która rozpocznie następujący po niej Tydzień Biblijny.
+23 kwietnia uroczystość Świętego Wojciecha, biskupa i męczennika, patrona Polski. w tym roku przypada niedziela, i została przeniesiona na poniedziałek, 24 kwietnia.
 
-#WTOREK – 11.04
+5. Trwa wizyta duszpasterska.
 
-07.30 [+] Grażyna Kołodziejska int. chrześniaczki Aleksandry z r.
+6. Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
 
-#ŚRODA – 12.04
 
-08.00 [+] Barbara Sobczyńska int. Beaty Mrozowskiej
+#Intencje mszalne 17 - 23 kwietnia   2023
 
-#CZWARTEK – 13.04
+#PONIEDZIAŁEK - 17.04
 
-08.00 [+] Romuald Kwiatkowski int. Błaszczyków ze Stoku
+Godz. 07.30 [+] Jan Zieliński i Zbigniew Wieczorkowski
 
-PIĄTEK – 14.04
+#WTOREK - 18.04
 
-#08.00 [+] Alina Sochacka int. Iglewskich z Lubrańca
+Godz. 08.00[+] Jan Sadownik int.  wnuka Damiana z r.
 
-#SOBOTA – 15.04
+#ŚRODA - 19.04
 
-08.30 [+] Kazimierz Turowiecki int. Heleny Staszak Anny Szczerbiak z r. Krzysztofa Staszak z r.
+Godz. 08.00[+] Zofia Głowacka int. Czesławy Pańka z r.
 
-13.00 [-] Jadwiga Bartkowiak 80 r. ur.
+#CZWARTEK - 20.04
 
-#NIEDZIELA   – 16.04
-09.00 [+] ks Kan Tadeusz Pakulski 
-[+] Jan Sadownik int. wnuków Mariusza i Marcina z r. 
+Godz.08.00[+] Krystyna Sobieraj int.  córki Mirki z r. 
 
-11.00 [+] br. Fidelisa 4 rś dziadkowie Ignaczak int. Betlińskich z Kąkowej Woli
-[+] Bolesław Aurelia Szelągowscy int dzieci z r. 
+#PIĄTEK - 21.04
+
+Godz.08.00[+] Leszek Szałkiewicz int. Danuty Ziółkowskiej
+
+#SOBOTA - 22.04
+
+Godz. 09.00[+] Irena Lewandowska int. r. Pawlaków z Kąkowej Woli
+
+#NIEDZIELA - 23.04
+
+Godz.09.00 [+] Jerzy Bujalski /+ Jerzy Sadowski/
+
+Godz. 11.00 [+] Irena Jesiołowska int. córki z synami / +Jerzy Maciejewski/
 
 
 #Prognozowany plan wizyty duszpasterskiej
 
-11.04 – wtorek – 09.00
-
-Borucin / Szymczak – Grabowscy/
-
-12.04 – środa – 14.00
-
-Borucin / Bernaciak – Nowakowscy/
-
-13.04. – czwartek – 13.00
-
-Borucin Olszak Błota / Simińscy – Opłatkowscy
-
-14.04 – piątek  - 13.00
-
-Borucin centrum szkoła / Gajewscy – Szmajda/
-
-15.04 – sobota – 09.00 
-
-Kąkowa Wola Parcele / Karkowscy Głowaccy Pogodzińscy/
 
 17.04 – poniedziałek – 13.00 
 
