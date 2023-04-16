@@ -1,10 +1,12 @@
 ---
+template:
+---
 template: blog-post
-title: Św. Roch, patron starego kościoła
-slug: /minimalists-desk
-date: 2021-03-05
-description: sdasd
-featuredImage: /assets/roch.jpg
+title: Ogłoszenia Duszpasterskie
+slug: /character-design
+date: 2021-07-25
+description: How to draw a character
+featuredImage: /assets/papiez.jpg
 ---
 
 Święty Roch OFS (ur. w Montpellier we Francji, zm. przed rokiem 1420; w literaturze spotykana jest data urodzin przypadająca na rok 1295 oraz ok. 1345-1350, a data śmierci 1327 w Montpellier oraz 1377 lub 1378 w Voghera we Włoszech) − tercjarz franciszkański, święty Kościoła katolickiego.
