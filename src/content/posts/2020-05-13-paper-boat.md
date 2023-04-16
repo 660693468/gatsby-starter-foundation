@@ -19,9 +19,8 @@ featuredImage: /assets/papiez.jpg
 4. Przyszła niedziela, to  Niedziela Biblijna, która rozpocznie następujący po niej Tydzień Biblijny.
 23 kwietnia uroczystość Świętego Wojciecha, biskupa i męczennika, patrona Polski. w tym roku przypada niedziela, i została przeniesiona na poniedziałek, 24 kwietnia.
 
-5. Trwa wizyta duszpasterska.
 
-6. Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
+5. Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
 
 
 #Intencje mszalne 17 - 23 kwietnia   2023
