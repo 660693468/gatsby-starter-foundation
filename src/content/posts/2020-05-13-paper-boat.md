@@ -59,9 +59,6 @@ Godz. 11.00 [+] Irena Jesiołowska int. córki z synami / +Jerzy Maciejewski/
 #Prognozowany plan wizyty duszpasterskiej
 
 
-17.04 – poniedziałek – 13.00 
-
-Kąkowa Wola /Krawczyk Klejbach/
 
 18.04 – wtorek – 14.00
 
