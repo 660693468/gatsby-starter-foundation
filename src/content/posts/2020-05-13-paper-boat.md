@@ -60,37 +60,7 @@ Godz. 11.00 [+] Irena Jesiołowska int. córki z synami / +Jerzy Maciejewski/
 
 
 
-18.04 – wtorek – 14.00
 
-Kąkowa Wola / Szatkowscy Lewandowscy/
-
-19.04 – środa – 14.00
-
-Redecz Krukowy / Wysoccy Czapscy Chaberska Dybowscy/
-
-20.04 – czwartek – 13.00
-
-Redecz Krukowy / Sadownik Kocińscy Michałowscy Pietrzak Jabłoński Roszak/
-
-21.04 – piątek – 13.00
-
-Stok / Gardyza/
-
-22.04. – sobota – 09.00
-
-Agnieszkowo /Pantuchowicz  Franczyk Kosmalski Koziccy/
-
-24.04 – poniedziałek – 13.00
-
-Bodzanowo / Nejman Kuśmirek Ładzińska Bączek/
-
-25.04 – wtorek – 14.00
-
-Annowo / Sobczyński/
-
-26.04 – środa – 14.00
-
-Dąbie Wieś / Sadowska Osińscy/
 
 27.04 – czwartek – 13.00
 
