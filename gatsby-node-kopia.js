@@ -7,56 +7,53 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
   //const blogPost = path.resolve(`./src/templates/blog-post.js`)
   const blogList = path.resolve(`./src/templates/blog-list.js`)
 
-const result = await graphql(`
-  {
-    allMarkdownRemark(
-      sort: { order: DESC, fields: [frontmatter___date] }
-    ) {
-      edges {
-        node {
-          id
-          frontmatter {
-            slug
-            template
-            title
+  const result = await graphql(`
+    {
+      allMarkdownRemark(
+        sort: { order: DESC, fields: [frontmatter___date] }
+      ) {
+        edges {
+          node {
+            id
+            frontmatter {
+              slug
+              template
+              title
+            }
           }
         }
       }
     }
+  `)
+
+  // Handle errors
+  if (result.errors) {
+    reporter.panicOnBuild(`Error while running GraphQL query.`)
+    return
   }
-`)
 
-// Handle errors
-if (result.errors) {
-  reporter.panicOnBuild(`Error while running GraphQL query.`)
-  return
-}
+  // Create markdown pages
+  const posts = result.data.allMarkdownRemark.edges
+  let blogPostsCount = 0
 
-// Create markdown pages
-const posts = result.data.allMarkdownRemark.edges
+  posts.forEach((post, index) => {
+    const id = post.node.id
+    const previous = index === posts.length - 1 ? null : posts[index + 1].node
+    const next = index === 0 ? null : posts[index - 1].node
 
-posts.forEach((post, index) => {
-  const id = post.node.id
-  const previous = index === posts.length - 1 ? null : posts[index + 1].node
-  const next = index === 0 ? null : posts[index - 1].node
+    createPage({
+      path: post.node.frontmatter.slug,
+      component: path.resolve(
+        `src/templates/${String(post.node.frontmatter.template)}.js`
+      ),
+      // additional data can be passed via context
+      context: {
+        id,
+        previous,
+        next,
+      },
+    })
 
-  // Set a default slug value if not set in frontmatter
-  const slug = post.node.frontmatter.slug || 
-               `${post.node.frontmatter.title.toLowerCase().replace(/\s/g, '-')}`
-
-  createPage({
-    path: slug,
-    component: path.resolve(
-      `src/templates/${String(post.node.frontmatter.template)}.js`
-    ),
-    // additional data can be passed via context
-    context: {
-      id,
-      previous,
-      next,
-    },
-  })
-})
     // Count blog posts.
     if (post.node.frontmatter.template === 'blog-post') {
       blogPostsCount++

@@ -9,15 +9,7 @@ featuredImage: /assets/papiez.jpg
 
 
 
-#Intencje mszalne 17 - 23 kwietnia   2023
 
-#PONIEDZIAŁEK - 17.04
-
-Godz. 07.30 [+] Jan Zieliński i Zbigniew Wieczorkowski
-
-#WTOREK - 18.04
-
-Godz. 08.00[+] Jan Sadownik int.  wnuka Damiana z r.
 
 #ŚRODA - 19.04
 
