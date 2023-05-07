@@ -13,7 +13,7 @@ featuredImage: /assets/papiez.jpg
 
 #ŚRODA - 19.04
 
-Godz. 08.00[+] Zofia Głowacka int. Czesławy Pańka z r.
+Godz. 08.00[+] Zofia Głowaaacka int. Czesławy Pańka z r.
 
 #CZWARTEK - 20.04
 
