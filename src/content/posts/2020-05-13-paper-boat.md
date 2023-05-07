@@ -7,13 +7,6 @@ description: How to draw a character
 featuredImage: /assets/papiez.jpg
 ---
 
-##DRUGA NIEDZIELA WIELKANOCY - 16 kwietnia 2023                                                                          
-#CZYLI MIŁOSIERDZIA BOŻEGO                                                                                                            #OGŁOSZENIA DUSZPASTERSKIE
-
-1. D
-
-
-5. Wszystkim solenizantom i jubilatom tego tygodnia życzymy obfitości łask Bożych i opieki Matki Najświętszej na każdy dzień. Miłej i błogosławionej niedzieli.
 
 
 #Intencje mszalne 17 - 23 kwietnia   2023
