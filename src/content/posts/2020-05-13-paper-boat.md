@@ -11,40 +11,4 @@ featuredImage: /assets/papiez.jpg
 
 
 
-#ŚRODA - 19.04
-
-Godz. 08.00[+] Zofia Głowaaaacka int. Czesławy Pańka z r.
-
-#CZWARTEK - 20.04
-
-Godz.08.00[+] Krystyna Sobieraj int.  córki Mirki z r. 
-
-#PIĄTEK - 21.04
-
-Godz.08.00[+] Leszek Szałkiewicz int. Danuty Ziółkowskiej
-
-#SOBOTA - 22.04
-
-Godz. 09.00[+] Irena Lewandowska int. r. Pawlaków z Kąkowej Woli
-
-#NIEDZIELA - 23.04
-
-Godz.09.00 [+] Jerzy Bujalski /+ Jerzy Sadowski/
-
-Godz. 11.00 [+] Irena Jesiołowska int. córki z synami / +Jerzy Maciejewski/
-
-
-#Prognozowany plan wizyty duszpasterskiej
-
-
-
-
-
-27.04 – czwartek – 13.00
-
-Dąbie Poduchowne /Jatczak/
-
-28.04 – piątek – 13.00
-
-Dąbie centrum / Ochmańska/
 

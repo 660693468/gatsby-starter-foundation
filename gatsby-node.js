@@ -55,7 +55,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
     })
 
     // Count blog posts.
-    if (post.node.frontmatter.template === 'blog-post.js') {
+    if (post.node.frontmatter.template === 'blog-post') {
       blogPostsCount++
     }
   })
